@@ -1,0 +1,89 @@
+
+The University of Mississippi 
+
+Page 1 of 2 
+
+Ethidium Bromide Disposal 
+ 
+
+Summary/Purpose:  The Ethidium Bromide Disposal Policy details the minimum requirements 
+and procedures to properly dispose of Ethidium Bromide Solutions and Gels. 
+
+ 
+
+Ethidium Bromide (EtBr) is a strong mutagen and a possible carcinogen or teratogen. 
+
+ When you work with EtBr, you must wear a lab coat, chemical splash goggles, and nitrile 
+gloves.  
+
+ Always use caution when using an ultraviolet light while working with EtBr.  
+ Always use a chemical fume hood during processes that can generate EtBr dusts or mists.  
+
+ 
+
+Ethidium Bromide, unused 
+
+Collect for disposal by Laboratory Services 
+
+ Aqueous solutions containing < 5 mg/L EtBr 
+o Dispose directly to the sanitary sewer. 
+
+ Aqueous solutions containing > 5 mg/L EtBr - If the solutions contain no other 
+Hazardous Materials (organics, salts, metals, etc.) 
+
+o For every 100 ml of EtBr solution add 
+o 20 ml 5% hypo phosphorous acid solution and 
+o 12 ml 0.5 M sodium nitrite solution. 
+o Stir mixture and let sit for 20 hours 
+o Neutralize with sodium bicarbonate 
+o Dispose in the sanitary sewer (sink). 
+
+ Solvents containing EtBr 
+o Collect for disposal by Laboratory Services. 
+
+ Radioactive EtBr solutions 
+o Collect for disposal by Radiation Safety / Laboratory Services  
+
+ Gels containing EtBr 
+o Break up Gels 
+o Chemically degrade as noted above 
+o Dispose to the sanitary sewer, or, 
+o Dry Gels and Collect for disposal by Laboratory Services 
+
+ Materials (gloves, pipettes, tips, etc.) used with EtBr 
+o Place in secure container (taped box with plastic bag liner) and place the container 
+
+directly into a dumpster. 
+ Commercially available products, like the "Destaining Bags" produced by AMRESCO 
+
+provide an alternative method of treatment for solutions. 
+
+o The Destaining bags are simple and inexpensive. 
+ Drop a Destaining bag into your solution, 
+
+
+
+The University of Mississippi 
+
+Page 2 of 2 
+
+ Periodically swirl it around a few times,  
+ Let it stand overnight. 
+ In the morning, remove the bag and collect for disposal by Laboratory 
+
+Services. 
+ Perform UV check of the solution. If it no longer fluoresces, pour the 
+
+solution down the drain - provided no other hazardous chemicals are 
+present. 
+
+ Whenever possible, use a less hazardous chemical for the identification of DNA. 
+o Sigma-Aldrich produces a product called REDTAQ DNA Polymerase. It is an 
+
+inert red tracer conjugated to a polymerase. 
+ Other EtBr disposal procedures should be avoided. 
+
+o The practice of oxidizing ethidium bromide with household bleach is inefficient 
+and may produce additional hazardous compounds.  
+
+

@@ -1,0 +1,27 @@
+
+Long Distance Authorization Codes 
+
+Summary/Purpose: Defines the acquisition and use of a long distance authorization code for 
+making business related long distance calls.  
+
+A long distance authorization code is needed to make long distance calls that are not toll free (800, 
+877, and so on). Please submit a request for a long distance code through the Request Services link 
+on the Telecommunications website or by e-mailing telcom@olemiss.edu. This code MUST NOT be 
+used for personal calls. Should a person mistakenly use a University authorization code for a personal 
+call, that person should reimburse the department for the cost of the call plus 7% sales tax. 
+Employees have 30 days to review and compensate the University for personal calls placed on their 
+departmental long distance code. The department should deposit the funds in the departmental fund 
+or cost center. Telecommunications should be notified of this mistake and credited for the taxes, 
+which will be reported to the State Tax Commission.  
+Departments can access the web site at http://www.olemiss.edu/depts/telecommunications/ and print 
+out a copy of the monthly call detail for long distance calls. It is important that each individual check 
+their phone calls for accuracy. If suspicion arises that an authorization code is being used by someone 
+else, please notify the Telecommunications Center immediately and it will be removed from service. 
+You will be assigned a new authorization code immediately.  
+
+University authorization codes should be safeguarded. If you think that a code has been 
+compromised, please contact the Telecommunications Center immediately.  
+
+
+
+

@@ -1,0 +1,162 @@
+
+The University of Mississippi 
+
+Page 1 of 3 
+
+IRB Deception Research 
+ 
+Summary/Purpose: Criteria for classifying deception research and decision-making processes 
+for IRB review of deception research. 
+ 
+Definition for Deception 
+ 
+“Deception is defined as the deliberate attempt, whether successful or not, to fabricate, and/or 
+manipulate in any other way, factual and/or emotional information, by verbal and/or nonverbal 
+means, in order to create or maintain in another or others a belief that the communicator himself 
+or herself considers false.” 
+ 
+Source: Masip, J., Garrido, E., and Herrero, C. (2004). Defining deception. Anales dePsicologia, 
+20, 147-171.  [Modified definition] 
+ 
+Deception Elements that Trigger Full Board Review [because of increased risk] 
+ 
+ Surreptitious videotaping 
+ 
+Deception Elements that Likely Require Full Board Review [because of increased risk] 
+ 
+ Giving Subjects deceptive feedback, whether positive or negative [e.g., based on IQ or 
+
+personality tests or interviews] 
+ 
+Deception Elements that May Receive Expedited Review [because of lower risk] 
+ 
+ Use of a ‘confederate’ 
+ Misleading or deceptive: 
+
+1. study descriptions 
+2. procedure explanations 
+3. survey instructions / rationales 
+ 
+
+Expedited or Full Board Review Determination Procedure 
+ 
+ A subcommittee consisting of the IRB Chair, the Director of Research Integrity and 
+
+Compliance, the Research Compliance Specialist, and one other Board member will 
+determine which protocols involving deception may be reviewed as expedited. Additional 
+Board members will substitute when there is a conflict of interest. 
+ 
+
+ Three out of four of these individuals must agree; otherwise, the protocol will be reviewed by 
+the Full Board. 
+ 
+
+ Protocols using deception but meeting criteria for exempt review will remain exempt and not 
+be reviewed by the subcommittee. 
+ 
+
+
+
+The University of Mississippi 
+
+Page 2 of 3 
+
+Debriefing 
+ 
+ Full Board Reviewed Protocols: Apply the APA Ethical Code:  
+
+o Re-consent subjects to use their data once subject is told of deception (permit withdrawal 
+of data)  
+
+o Ensure 100% debriefing, unless justified on scientific or humane grounds: 
+ Immediate post-participation debriefing, unless justified 
+ Debriefing no later than the end of all data collection for all participants 
+
+ 
+ Expedited Reviewed Protocols: 
+
+o Re-consenting subjects to use their data may be waived with justification 
+o Debriefing may be waived with justification 
+
+ 
+ Exempt Protocols: No Debriefing Required 
+ 
+Federal Regulations: 45CFR46.116 [Waiver of some or all elements of consent] 
+ 
+(d) An IRB may approve a consent procedure which does not include, or which alters, some or 
+
+all of the elements of informed consent set forth in this section, or waive the requirements to 
+obtain informed consent provided the IRB finds and documents that: 
+
+ 
+(1) The research involves no more than minimal risk to the subjects; 
+(2) The waiver or alteration will not adversely affect the rights and welfare of the subjects; 
+(3) The research could not practicably be carried out without the waiver or alteration; and 
+(4) Whenever appropriate, the subjects will be provided with additional pertinent information 
+
+after participation. 
+ 
+
+American Psychological Association 
+Ethical Principles of Psychologists and Code of Conduct, 2002 
+
+ 
+8.07 Deception in Research 
+ 
+(a) Psychologists do not conduct a study involving deception unless they have determined that 
+the use of deceptive techniques is justified by the study’s significant prospective scientific, 
+educational, or applied value and that effective nondeceptive alternative procedures are not 
+feasible. 
+(b) Psychologists do not deceive prospective participants about research that is reasonably 
+expected to cause physical pain or severe emotional distress. 
+(c) Psychologists explain any deception that is an integral feature of the design and conduct of 
+an experiment to participants as early as is feasible, preferably at the conclusion of their 
+participation, but no later than at the conclusion of the data collection, and permit participants to 
+withdraw their data. 
+ 
+8.08 Debriefing 
+ 
+
+
+
+The University of Mississippi 
+
+Page 3 of 3 
+
+(a) Psychologists provide a prompt opportunity for participants to obtain appropriate 
+information about the nature, results, and conclusions of the research, and they take reasonable 
+steps to correct any misconceptions that participants may have of which the psychologists are 
+aware. 
+(b) If scientific or humane values justify delaying or withholding this information, psychologists 
+take reasonable measures to reduce the risk of harm. 
+(c) When psychologists become aware that research procedures have harmed a participant, they 
+take reasonable steps to minimize the harm. 
+ 
+ 
+
+
+	IRB Deception Research
+	Definition for Deception
+	Deception Elements that Trigger Full Board Review [because of increased risk]
+	Deception Elements that May Receive Expedited Review [because of lower risk]
+	Expedited or Full Board Review Determination Procedure
+	 Immediate post-participation debriefing, unless justified
+	 Debriefing no later than the end of all data collection for all participants
+
+	Federal Regulations: 45CFR46.116 [Waiver of some or all elements of consent]
+	American Psychological Association
+	Ethical Principles of Psychologists and Code of Conduct, 2002
+	8.07 Deception in Research
+	(a) Psychologists do not conduct a study involving deception unless they have determined that the use of deceptive techniques is justified by the study’s significant prospective scientific, educational, or applied value and that effective nondeceptive...
+	(b) Psychologists do not deceive prospective participants about research that is reasonably expected to cause physical pain or severe emotional distress.
+	(c) Psychologists explain any deception that is an integral feature of the design and conduct of an experiment to participants as early as is feasible, preferably at the conclusion of their participation, but no later than at the conclusion of the dat...
+
+	8.08 Debriefing
+	(a) Psychologists provide a prompt opportunity for participants to obtain appropriate information about the nature, results, and conclusions of the research, and they take reasonable steps to correct any misconceptions that participants may have of wh...
+	(b) If scientific or humane values justify delaying or withholding this information, psychologists take reasonable measures to reduce the risk of harm.
+	(c) When psychologists become aware that research procedures have harmed a participant, they take reasonable steps to minimize the harm.
+
+
+
+
+

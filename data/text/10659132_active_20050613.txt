@@ -1,0 +1,24 @@
+
+The University of Mississippi 
+
+Page 1 of 1 
+
+Computation of Terminal Pay for Salaried Employees 
+ 
+
+Summary/Purpose:  The calculation method or formula is given to demonstrate how both 
+service credits and terminal leave pay are determined for salaried employees. 
+ 
+ 
+Service-credit pay is calculated by multiplying the semi-monthly rate by the number of days 
+worked in a pay period and divided by the total number of days in a pay period.  
+ 
+Terminal leave pay is calculated by the hourly rate (yearly salary divided by 2,080 and nine-
+month by 1,560) multiplied by the number of hours available.  For example, if an employee had 
+120 hours of unused Personal Leave on the date of termination, the employee's hourly rate would 
+be multiplied by 120 in order to calculate the terminal leave pay portion of his or her terminal 
+pay.  
+ 
+ 
+
+

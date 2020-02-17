@@ -1,0 +1,409 @@
+
+ 
+
+The University of Mississippi 
+Office of Financial Aid 
+
+University, MS  38677 
+Phone: (800) 891- 4596 Fax: (662) 915-1164 
+
+       
+ 
+
+ 
+
+Policy Name:  FAFSA Processing 
+
+ 
+
+ 
+
+Purpose:  This document contains the Office of Financial Aid’s current 
+
+policies and procedures for loading Free Application for Federal 
+
+Student Aid (FAFSA) data submitted by students. 
+
+ 
+
+ 
+
+Disclaimer:  This policy is subject to change, without notice, in order to comply 
+
+with administrative and regulatory requirements.  All policies and 
+
+procedures below are in accordance with the Federal Student Aid 
+
+Handbook. 
+
+ 
+
+Policy Contents: 
+
+    
+
+12.0   FAFSA Load Overview 
+
+12.1  FAFSA Load Requirements and Procedures  
+
+12.2  Detecting and Resolving Issues Preventing FAFSA Loads 
+
+12.3  Subsequent FAFSA Loads 
+
+   
+
+ 
+
+ 
+
+Definitions and Terms: 
+
+ 
+
+ CPS – Central Processing System 
+
+ DOB – Date of Birth 
+
+ EFC – Expected Family Contribution  
+
+ FAFSA – Free Application for Federal Student Aid 
+
+FSEOG – Federal Supplemental Educational Opportunity Grant 
+
+ISIR – Institutional Student Information Record (processed FAFSA) 
+
+ NSLDS – National Student Loan Data System  
+
+ OFA – Office of Financial Aid 
+
+ ProSAM – OFA database system 
+
+ SSN – Social Security Number 
+
+ TEACH – Teacher Education Assistance for College and Higher Education 
+
+https://ifap.ed.gov/fsahandbook/1617FSAHbkActiveIndexMaster.html
+https://ifap.ed.gov/fsahandbook/1617FSAHbkActiveIndexMaster.html
+
+
+ 
+
+Part 12.0 FAFSA Load Overview 
+
+ 
+
+Each year, students apply for Federal Title IV aid (Federal Pell Grant, Iraq & Afghanistan 
+
+Service Grant, FSEOG, TEACH, Federal Work-Study, Direct Loans, and PLUS loans), 
+
+as well as need-based state and institutional aid, using the FAFSA.  This application is 
+
+available to both undergraduate and graduate/professional students at www.fafsa.gov.  It 
+
+must be submitted annually to the U.S. Department of Education’s CPS (the application 
+
+opens October 1 each year). 
+
+ 
+
+Students choose which institutions of higher learning can access their processed FAFSA 
+
+data by providing the appropriate school codes when they apply.  UM receives 
+
+applications electronically and stores the information in its financial aid database, 
+
+ProSAM (a Sigma Systems product).  Each record contains the student’s responses to all 
+
+FAFSA items, as well as key processing results and the student’s financial aid history (as 
+
+maintained by NSLDS).  
+
+ 
+
+The OFA works to detect and resolve issues that prevent FAFSAs from loading by 
+
+instructing students to correct erroneous FAFSA information, or by making revisions 
+
+administratively to a student’s FAFSA when appropriate. 
+
+ 
+
+ 
+
+Part 12.1 FAFSA Load Requirements and Procedures  
+
+ 
+
+The financial aid database contains admitted students only.  Therefore, the OFA can only 
+
+load FAFSAs for fully admitted students with an established ProSAM record. If a student 
+
+is not fully admitted, but submitted a FAFSA with the UM school code, then that 
+
+student’s FAFSA record will be held electronically in a suspense (pending) file until the 
+
+student is admitted – at which point the FAFSA can be manually and/or automatically 
+
+loaded to ProSAM. 
+
+ 
+
+In the financial aid database, the award “year” is set up so that it can identify each student 
+
+as undergraduate (e.g., 2020, representing 2019-20) or graduate/professional (2020GR) 
+
+based on his/her UM admission status.  Since FAFSAs are year-specific, ProSAM will 
+
+attempt to match the FAFSA information with the student’s admissions status before 
+
+loading to ensure that the data is not inconsistent. 
+
+ 
+
+For processing purposes, the OFA database system assigns students on an annual basis to 
+
+a single, mutually-exclusive “track” (or category).  The default track is “No FAFSA 
+
+Submitted”.  Following FAFSA loads, the track will change to one of the types below:  
+
+ 
+
+• Valid ISIR – Not Selected for Verification 
+
+• Correction Returning from CPS 
+
+• Dependent Selected for Verification 
+
+• Error – Student Not Assigned a Track in Batch 
+
+• Independent Selected for Verification 
+
+• Institutionally Selected for Verification (dependent or independent) 
+
+http://www.fafsa.gov/
+
+
+• Invalid – ISIR and Admission Program Type Mismatch 
+
+• Rejected –No EFC Calculated 
+
+• Student has ISIR/Waived Verification 
+
+• Track for Correction Records 
+ 
+
+In general, these distinctions are based on whether the FAFSA has been selected for 
+
+verification or not, or is rejected.  In addition, there are several error tracks that must be 
+
+monitored.  One track, “Student has ISIR/Waived Verification”, can only be set manually 
+
+by an OFA staff member upon the request of a student who does not plan to complete the 
+
+process and wants to opt out of any automatic reminders.  (These students will not qualify 
+
+for federal or need-based aid.)  For more information about verification, refer to policy 
+
+“3.5 Verification”. 
+
+ 
+
+Data from a student’s FAFSA is accessible throughout the ProSAM system, and a 
+
+printable version of the compiled FAFSA is available for use by the OFA or student as 
+
+needed.  
+
+ 
+
+ 
+
+Part 12.2 Detecting and Resolving Issues Preventing FAFSA Loads 
+
+ 
+
+The OFA works to detect and resolve issues that prevent FAFSA loads, particularly for, 
+
+but not limited to, the following conditions:  
+
+ 
+
+• No FAFSA Submitted – The student neglected to include the UM school 
+code, or incorrectly answered questions on the FAFSA regarding the student’s 
+
+grade level. The OFA would request that the student make changes to the 
+
+FAFSA (to include the school code), or staff could make corrections 
+
+administratively (for items like erroneous grade level) if the correct 
+
+information can be verified through UM’s own records. 
+
+ 
+
+• Rejected –No EFC Calculated – Parent information is missing on the 
+FAFSA (for dependent students), or FAFSA was not signed. The OFA would 
+
+instruct the student to correct FAFSA to include parent information and/or 
+
+signatures. Or, when parent information is missing, the OFA may determine, 
+
+through communication with the student, if the student is eligible for 
+
+consideration for a dependency status change through professional judgment 
+
+(i.e., Dependency Override).  
+
+ 
+
+• Track for Correction Records – A mismatch exists between the DOB that 
+was entered on the student’s FAFSA as compared to the DOB that appears in 
+
+the student’s financial aid record. The OFA would instruct the student to 
+
+correct the FAFSA if the DOB is correct in ProSAM but incorrect on the 
+
+FAFSA, OR to provide a copy of the student’s driver’s license (or other 
+
+documentation verifying the student’s DOB) to UM’s Registrar’s Office if the 
+
+DOB is correct on the FAFSA but incorrect in the student’s financial aid 
+
+database record. 
+
+ 
+
+https://secure4.olemiss.edu/umpolicyopen/ShowDetails.jsp?istatPara=1&policyObjidPara=11863276
+
+
+Aside from the above conditions that prevent FAFSA loads, if there are other 
+
+discrepancies between certain information on the student’s FAFSA and that in the 
+
+student’s financial aid database record (i.e., name, year, SSN), the student’s FAFSA is 
+
+relegated to a holding file for partial matches (the “Preprocessor”) in ProSAM. The OFA 
+
+reviews these on a case-by-case basis to determine the reason for the mismatch, and with 
+
+proper information/documentation, the OFA may manually load the FAFSA from the 
+
+Preprocessor. The list below provides a general overview of procedures the OFA follows 
+
+to resolve suspended ISIRs in the Preprocessor:  
+
+ 
+
+• Name Mismatch – If the student’s DOB and SSN match, the OFA must verify 
+the student’s correct last name. If the student’s last name is correct on the FAFSA 
+
+but incorrect in student records, the OFA would instruct the student to correct 
+
+their last name in UM’s records (which may require additional documentation 
+
+submitted to Admissions or the Registrar). If the student’s last name is incorrect 
+
+on the FAFSA, the OFA would instruct the student to correct the FAFSA.  Certain 
+
+conditions regarding name mismatches (like the inclusion or exclusion of special 
+
+characters like apostrophes or hyphens) may be resolved by simply loading the 
+
+FAFSA manually from the Preprocessor, provided the OFA can verify the 
+
+student’s identity.  
+
+ 
+
+• Year Mismatch – If the student’s name, DOB, and SSN match, the OFA must 
+determine the accuracy of the student’s grade level. If the OFA can verify the 
+
+accuracy of the student’s grade level in university records, the OFA may make the 
+
+FAFSA corrections (i.e., if correcting information from undergraduate to 
+
+graduate), or instruct the student to correct the FAFSA (if correcting information 
+
+from graduate to undergraduate which may then necessitate the student answer 
+
+other dependency status questions, and include parent information on the 
+
+FAFSA). The OFA never manually loads ISIRs with a year mismatch.  
+
+ 
+
+• SSN Mismatch – If the student’s last name and DOB match, the OFA would 
+instruct the student to provide a copy of the Social Security Card with SSN to the 
+
+Admissions Office to correct information in university records. Or, the OFA 
+
+would instruct the student to re-submit a FAFSA with a correct SSN if the SSN is 
+
+incorrect on the FAFSA. The OFA never manually loads ISIRs with SSN 
+
+mismatch.  
+
+ 
+
+ 
+
+ 
+
+Part 12.3 Subsequent ISIR Loads 
+
+ 
+
+When changes are made to a processed FAFSA (by the student, the school, or CPS), CPS 
+
+creates another “transaction” (or version) of the application.  The original transaction for 
+
+that award year is numbered “01”, and subsequent versions are “02” and beyond.  
+
+Although the ProSAM system stores all FAFSA data, only one transaction is active for 
+
+display and processing at a time (unless the student has both an undergraduate and a 
+
+graduate/professional record open in a given year). 
+
+ 
+
+
+
+The OFA loads all subsequent ISIRs (provided the ISIR includes the UM school code) 
+
+when FAFSA corrections have been made by the applicant (student/parent), the OFA, 
+
+another institution, or the federal processor (CPS). The database system generates a status 
+
+of “previously awarded” or “already verified” if these processes occurred prior to the new 
+
+FAFSA being received. The system also generates a report for each of these statuses that 
+
+are regularly reviewed by OFA staff to verify accuracy of financial aid awarding when 
+
+the “previously awarded” or “already verified” status appears in a student’s financial aid 
+
+record. The review of these reports also assists in resolving conflicting information when 
+
+comparing FAFSAs (see policy “13.0 Conflicting Information”).  
+
+ 
+
+If a subsequent FAFSA is selected for verification by the federal processor, AND a 
+
+student has been awarded federal or need-based aid on a previous ISIR that was NOT 
+
+selected for verification, the OFA requires the student to complete verification in order to 
+
+retain any federal or need-based aid. If changes in an applicant’s FAFSA causes 
+
+verification selection (and/or a change in the student’s eligibility for federal or need-
+
+based aid), and the student does not complete verification, paybacks on aid already 
+
+awarded would result. 
+
+ 
+
+https://secure4.olemiss.edu/umpolicyopen/ShowDetails.jsp?istatPara=1&policyObjidPara=11872080
+

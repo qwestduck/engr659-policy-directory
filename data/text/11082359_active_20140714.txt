@@ -1,0 +1,92 @@
+
+The University of Mississippi 
+ 
+
+Conflict of Interest and IRB Protocol Review 
+ 
+
+Summary/Purpose:  Defining conflicts of interest involving IRB members, alternates, staff, and 
+consultants. 
+ 
+Policy:  Federal regulations prohibit a member of the Institutional Review Board (IRB) from 
+participating in the initial or continuing review of any protocol in which the member has a 
+conflict of interest (COI), except to provide information at the IRB’s request (45 CFR 46107(e)). 
+This policy: (1) extends exclusion of individuals with COIs to review of revisions, unanticipated 
+problems involving risk to subjects or others, non-compliance investigations, or 
+suspension/termination decisions, (2) extends exclusion coverage to consultants (ad hoc 
+reviewers who are not IRB members but sometimes are asked to review a project because of 
+their expertise), and (3) defines and gives examples of COIs.   
+ 
+Because the Director is paid from funded project indirect costs in the Office of Research and 
+Sponsored Programs budget, the Director cannot review funded projects, even if exempt.  
+Reviews for funded research must be conducted by the Research Compliance Specialist (RCS), 
+chair, an alternate chair, or another member. 
+ 
+IRB Committee Members, alternate members, consultants, and IRB staff are considered to have 
+a COI if they have any: (a) significant financial interest as defined below; (b) significant role in 
+the conduct of the research; or (c) other COI including having an immediate family member as 
+an investigator on an IRB protocol.   
+ 
+ 
+Definitions: 
+ 
+Conflict of Interest is any situation which involves a financial interest, other opportunity for 
+tangible personal benefit, or a personal relationship that could affect the reviewer’s impartiality.   
+ 
+Significant Financial Interest:  Anything of monetary value, including but not limited to, salary 
+or other payment for services (e.g., consulting fees or honoraria); equity interests (e.g., stocks, 
+stock options, board member, executive relationship, or other ownership interests); and 
+intellectual property rights (e.g., patents, trademark, licensing agreements, copyrights and 
+royalties from such rights). 
+ 
+Immediate Family Member: Immediate family includes spouse or domestic partner, all 
+dependent children (stepchildren, biological children, wards), siblings, parents, and guardians. 
+ 
+Significant Role in the Conduct of Research:  Service as a Principal or Co-Investigator, a 
+supervisory role over the Principal Investigator, chair of a thesis or dissertation committee, and 
+member of a thesis or dissertation committee where a significant benefit is likely (e.g., 
+publication authorship). 
+ 
+
+http://www.hhs.gov/ohrp/humansubjects/guidance/45cfr46.htm
+
+
+ 
+Examples of COIs: 
+ 
+• An application includes an investigator or research staff who is a spouse or relative of the 
+reviewer 
+• A thesis or dissertation application for which the reviewer is a member of the thesis or 
+dissertation committee if publication or presentation authorship is likely 
+• An IRB member is an investigator on a project 
+• An IRB member (or immediate family) has or will receive from the sponsor of the research 
+financial or other forms of compensation 
+• An IRB member (or immediate family) has a significant financial interest in the 
+company/agency/firm that is sponsoring the research 
+• An IRB member (or immediate family) discloses a conflict of interest to the FDA or other 
+agency. 
+ 
+Full Board Review Procedures:   
+
+1. Chair asks if anyone has a COI to declare. 
+2. Any member with a COI must leave the room during the discussion of the protocol 
+
+and the related vote.  However, they may provide information at the IRB’s request. 
+3. While recused, the member will not count towards the quorum, and the meeting 
+
+minutes will document the temporary recusal. 
+4. Consultants who declare a COI will be excused from the review of the protocol and 
+
+the IRB will identify another consultant with the relevant expertise.    
+ 
+Expedited or Exempt Review Procedures: 
+
+1. The RCS, Director, or Chair declares a COI. 
+2. The protocol is assigned to another board member for review. 
+3. Consultants who declare a COI will be excused from the review of the protocol and 
+
+the IRB will identify another consultant with the relevant expertise.    
+ 
+ 
+
+

@@ -1,0 +1,720 @@
+
+The University of Mississippi 
+
+Page 1 of 14 
+
+Laser Safety Manual 
+ 
+
+Summary/Purpose:  The Laser Safety Manual details the minimum requirements and 
+procedures for operations involving Lasers. 
+ 
+The University of Mississippi - Laser Safety Manual 
+
+Acronyms 
+Laser Classifications 
+University Health and Safety Policy 
+Objectives 
+Responsibilities  
+Laser Safety Standards 
+Fundamental Concepts 
+Classification 
+Evaluation of Hazards 
+Eye Protection 
+Medical Surveillance Program 
+
+Laser Safety Forms 
+
+Laser Operator Record  - Online 
+Laser Inventory Form - Online 
+
+Laser Safety Tables 
+
+ Table I Engineering Control Measures for Lasers - Online 
+ Table II Administrative and Procedural Laser Control Measures- Online  
+ Table III Selected Laser Device Bioeffects - Online 
+ Table IV Examples of Bioeffects for Selected Wavelengths of Light - Online 
+
+Acronyms 
+ 
+ACRONYM DEFINITION 
+λ  Wavelength 
+D λ  Optical Density 
+AEL Accessible Emission Limits 
+ANSI  American National Standards Institute 
+CFR  Code of Federal Regulations 
+FDA  Food and Drug Administration 
+LASER  Light Amplification by Stimulated Emission of Radiation 
+LGAC  Laser Generated Air Contaminants 
+LSO  Laser Safety Officer 
+
+
+
+The University of Mississippi 
+
+Page 2 of 14 
+
+MPE  Maximum Permissible Exposure 
+mW  Milliwatts 
+NFPA70  National Electric Code 
+NHZ  Nominal Hazard Zone 
+PI  Principal Investigator 
+PPE  Personal Protective Equipment 
+SOP  Standard Operating Procedure 
+
+LASER CLASSIFICATIONS 
+ 
+Class 1  0 - 0.4 microwatts 
+Class 2  0.4 microwatts - 1.0 milliwatts 
+Class 3A  1.0 milliwatts - 5.0 milliwatts 
+Class 3b  5.0 milliwatts - 500 milliwatts 
+Class 4  power exceeds 500 milliwatts 
+ 
+
+University Health and Safety Policy 
+ 
+As a responsible institution of higher education, this University's laboratories, offices and other 
+facilities shall be maintained as clean and healthful places of employment. Every effort shall be 
+made to design and operate all University facilities in compliance with the spirit and letter of 
+federal, state and local health and safety regulations. The University shall endeavor to promptly 
+provide current and comprehensive information on potential adverse health and safety effects as 
+well as appropriate handling procedures for all hazardous materials handled by both our 
+employees and our students.  
+
+It is a basic responsibility of all University employees and students to make the health and safety 
+of fellow human beings a part of their daily concern. This responsibility must be accepted by 
+each one who conducts the affairs of the University, no matter in what capacity he/she may 
+function.  
+
+In order to implement this policy, the rules and regulations given in the University Safety 
+Manuals shall be complied with by all University personnel. Assistance with specific health and 
+safety problems may be obtained from the Department of Health and Safety.  
+
+ 
+
+Dr. Robert C. Khayat 
+Chancellor 
+
+ 
+
+
+
+The University of Mississippi 
+
+Page 3 of 14 
+
+Introduction 
+ 
+This manual has been prepared by the Department of Health & Safety (DHS) at University of 
+Mississippi (UM) to address the safety policies, responsibilities, and procedures for the safe use 
+of lasers on the UM campus. It is intended as a guide to faculty, staff, and students to promote 
+compliance with all State and Federal laws and guidelines relating to safe laser use. These 
+standards may change from time to time and where a provision in this manual is in conflict with 
+a standard or could be interpreted to conflict with an applicable standard, the manual should be 
+interpreted so as to comply with all applicable laws and regulations. These regulations include 
+the Code of Federal Regulations (CFR) Title 21 Part 1040.10, and the American National 
+Standard for the Safe Use of Lasers (ANSI Z136.1).  
+
+Although Principal Investigators bear the ultimate responsibility for the safe conditions 
+and procedures for laser use in their research areas, each member of a group of laser 
+operators is responsible for complying with the standards set forth in this manual. Since 
+laser activities are diverse, this manual should not be considered a comprehensive review of all 
+potential hazards. Individuals with additional questions should contact the Laser Safety Officer 
+(LSO) at 915-5433.  
+
+Objectives 
+ 
+The objectives of the laser safety program include the following:  
+
+• To assure that all laser activities adhere to the applicable regulations and employ the 
+proper safety precautions.  
+
+• To provide basic laser safety training to all University employees involved in laser 
+activities. Basic laser safety training will cover fundamentals, general theory, and user 
+safety applications. This course will be offered through DHS on a periodic basis.  
+
+• To assure that all employees working with laser systems, receive the appropriate training 
+from the manufacturer where applicable. Manufacturer training will deal with specific 
+applications related to the unique operation of a laser from a particular company. These 
+courses will be given by the instrument manufacturer or distributor and the records will 
+be maintained by the respective departments. Copies of these records must also be 
+provided to the LSO.  
+
+• To verify that the complete registration of required lasers is done properly and within the 
+necessary time frame. 
+
+Responsibilities 
+ 
+The effectiveness of the University's Laser Safety Program depends on the complete cooperation 
+and commitment of all parties involved. These parties include DHS, the Principal Investigator 
+(PI), Procurement Services, and the laser operators themselves. Although the PI is ultimately 
+responsible for laser safety in the research area, each party in the laser safety program must 
+assume individual responsibility for conducting procedures in the proper manner and according 
+to established protocols.  
+
+
+
+The University of Mississippi 
+
+Page 4 of 14 
+
+Laser Safety Officer (LSO) The LSO has the responsibility for the administration of the laser 
+safety program. These responsibilities will focus primarily on monitoring facilities and 
+conducting training. The LSO will also be responsible for the following:  
+
+• Review of purchases and acquisitions of lasers, and the maintenance of updated laser 
+inventories throughout the University.  
+
+• All records of registration, training, and other documentation will also be maintained by 
+the LSO.  
+
+• Regulatory compliance with state and federal regulations, ANSI standards, and 
+University policies.  
+
+• Safety inspections of lasers and laser systems both before operations begin and 
+periodically afterwards to assure compliance with the requirements outlined in this 
+manual.  
+
+• Approval of the standard operating procedure (SOP) for laser use, which must be 
+completed by the PI before research begins (Class 3 and 4 lasers only). 
+
+Principal Investigators (PI's) PI's have the primary responsibility for safety in the research 
+area. They must ensure that all operators under their direction complete the necessary safety 
+requirements (training, use of personal protective equipment, etc.) before allowing laser 
+operation. The PI's responsibilities also include:  
+
+• Notifying the LSO of the purchase or acquisition of lasers.  
+• Preparing the research area to meet applicable safety requirements before the arrival of a 
+
+laser.  
+• Maintaining the records of medical surveillance for laser operators as necessary.  
+• Ensuring that all operators complete the required safety training and, when necessary, 
+
+hands-on training provided by the laser manufacturer.  
+• Preparing a detailed standard operating procedure (SOP) outlining the methods and 
+
+requirements for the use of a laser before operations begin. This SOP must be approved 
+by the LSO. 
+
+Procurement Services Department The Procurement Services Department will ensure that 
+during acquisition of a laser, the LSO has been notified before an order is placed with the 
+vendor. The LSO will also receive a copy of the purchase order, which will detail the laser 
+specifications, safety equipment, and other relevant information included with the laser. The 
+LSO will review this information and maintain a record of laser acquisition.  
+
+Laser Operators All laser users must be familiar with the characteristics of the laser(s) in their 
+research areas. Their responsibilities also include:  
+
+• Completion of the required Basic Laser Safety Training course and, when necessary, 
+completion of the hands-on training provided by the laser manufacturer.  
+
+• Adherence to the SOP designed by the PI and approved by the LSO for the safe operation 
+of the laser, including the use of goggles and other personal protective equipment 
+appropriate to individual lasers.  
+
+
+
+The University of Mississippi 
+
+Page 5 of 14 
+
+• Knowledge of emergency response procedures (what to do in case of an accident) and 
+medical surveillance requirements.  
+
+• Operation of only those lasers for which they have been trained. 
+
+Laser Safety Standards 
+ 
+The purpose of the Laser Safety Program is to comply with the regulations and standards for the 
+safe use of lasers. These regulations and standards vary in their scope and design, list exposure 
+limits, define potentially hazardous conditions, and detail control measures to limit occupational 
+exposures.  
+
+ANSI Standards The principal laser safety guidelines in the United States are the consensus 
+standards drafted by the American National Standards Institute (ANSI) Committee Z-136. These 
+include the primary standard entitled "ANSI Z-136.1, Safe Use of Lasers," and the medical 
+application entitled, "ANSI Z-136.3, Safe Use of Lasers in Health Care Facilities". These 
+standards outline the maximum exposure limits for laser users, define laser hazard categories, 
+and provide detailed information for determining the appropriate safety precautions for each 
+laser hazard category. The standards also provide the basis for international regulation.  
+
+Federal Laser Performance Standard The basic hazard classification concept was 
+incorporated into federal government regulation issued by the Food and Drug Administration 
+(FDA). This standard is found in the Code of Federal Regulations (CFR) Title 21 Part 1040.10. 
+This regulation applies to manufacturers of laser products and requires them to minimize 
+hazardous exposure by incorporating certain safety features (protective housing, safety 
+interlocks, emission indicators, etc.) into all laser products.  
+
+Fundamental Concepts 
+ 
+Lasers can be described as sources of electromagnetic radiation, which emit beams of energy that 
+include wavelengths from the ultraviolet portion of the optical spectrum to the far-red. The term 
+laser light classically refers to visible wavelengths of light produced through laser activity. With 
+the development of devices generating wavelengths outside the visible region, the term laser 
+radiation is now used to more accurately describe laser energy in both the visible and non-visible 
+regions of the optical spectrum. The terms can be used interchangeably.  
+
+Although lasers produce electromagnetic radiation, they are considered non-ionizing radiation 
+sources because of the effects laser energy has on atoms and biological tissue. Ionizing radiation 
+can strip atoms of electrons and create radicals, which can change the nature of molecules and 
+damage tissue. Non-ionizing radiation does not remove electrons from atoms. Instead, it causes 
+an increase in electron energy, which typically results in heating or secondary light emission 
+called fluorescence.  
+
+Laser Components The word LASER is an acronym briefly describing the process, which 
+creates laser light: Light Amplification by Stimulated Emission of Radiation. This is a process in 
+which photons produced by atoms and molecules are amplified and emitted. All lasers have three 
+basic physical components: an active medium, an energy source, and a resonant cavity. Each of 
+
+
+
+The University of Mississippi 
+
+Page 6 of 14 
+
+these components is responsible for a different part of the laser process. The active medium 
+provides the source of light and radiation, the energy source provides the stimulation, and the 
+resonant cavity enables amplification and emission.  
+
+Active Medium Laser light is generated in an active medium, which can be a solid, liquid, or 
+gas. Only certain types of media have the necessary optical, mechanical, atomic, and/or 
+molecular characteristics to make laser activity possible. For laser action to occur, the majority of 
+the molecules in the active medium have to be brought to a higher energy (excited) state 
+simultaneously.  
+
+The excitation of the active medium can be done with a variety of energy sources. These power 
+sources elevate the molecules in the active medium to an energetic or excited state and create a 
+condition known as population inversion. This condition occurs when energy is poured into the 
+active medium so rapidly that most of its molecules absorb excess energy. Once this excited state 
+is reached, the molecules are primed to have this energy amplified and released.  
+
+Energy Source The energy source provides the excitation mechanism for priming and focusing 
+the molecules in an active medium. These energy sources can include electrical discharges, 
+chemical reactions, and high-powered light sources (flash lamps). The type of active medium 
+will determine the nature of the needed excitation device. In general, electrical discharges are 
+needed for gas media (helium-neon, argon, krypton, etc.), chemical energy mechanisms for 
+liquid media, and powerful light sources for crystalline and solid-state media.  
+
+Resonant Cavity The resonant cavity is the area in the laser where the primary laser activity 
+occurs. The main housing in a laser consists of a short cylinder with mirrors placed on either end. 
+The space between these two mirrors is filled with the excited molecules from the active 
+medium. This space is called the resonant cavity because photons produced by the energized 
+medium bounce back and forth between the mirrors becoming more amplified.  
+
+One of the mirrors is only partially silvered to allow some light to leave the cavity and escape as 
+a focused beam. The degree to which this mirror allows light to pass depends upon the type of 
+medium being used, the power input from the energy source, and the wavelength of the photons 
+in the cavity. The laser is designed so that enough light is reflected back into the cavity to allow 
+the lasing action to continue.  
+
+Characteristics of Laser Light Although lasers vary in size and intensity, all laser light has 
+fundamental characteristics, which distinguishes it from natural light. Laser produced light is 
+monochromatic, directional, and coherent. Each of these properties is important for the many 
+scientific, medical, and industrial applications of lasers.  
+
+Monochromaticity Natural light is composed of a combination of all visible and some non-
+visible wavelengths (colors). Laser light is described as a monochromatic light source because it 
+consists of only one uniform color found on an extremely narrow band in the optical spectrum.  
+
+Directionality This is one of the most unusual properties of laser light. A laser beam does not 
+expand or disperse as easily as natural light. The angle of divergence (the rate at which light 
+
+
+
+The University of Mississippi 
+
+Page 7 of 14 
+
+spreads as it moves away from a source) is small. This makes the laser beam more hazardous 
+than conventional light sources because it maintains its intensity over much longer distances.  
+
+Coherence The light waves in a laser beam leave the resonant cavity in phase with each other. 
+This uniform spatial relationship between the waves (coherence) amplifies the duration and 
+energy of the beam.  
+
+Classification 
+ 
+Laser hazard classification was developed to aid the user in assessing the potential hazards of a 
+laser system. ANSI Z-136.1 outlines a simplified method, which is being used throughout the 
+world. Title 21 CFR Part 1040 applies this same method to manufacturers and their labeling 
+requirements.  
+
+The basis of the hazard classification is a set of accessible emission limits (AELs) that are 
+dependent on the exposure limits for occupational occurrences, with certain assumptions made as 
+to reasonable exposure duration that might be anticipated when using the laser. AEL refers to the 
+maximum acceptable emission level or power output allowed for a laser class and is one of the 
+most important tools used in classification. It is derived from a combination of the maximum 
+permissible exposure (MPE) limit and the area of the limiting aperture through which the beam 
+travels from a laser. This limiting aperture is usually compared with 7mm, which corresponds to 
+the diameter of the pupil (pupillary aperture) in the human eye.  
+
+Hazard classification also includes the following parameters:  
+
+• The wavelength ( λ ) of the laser.  
+• The average power output of a laser and duration of exposure within an eight-hour 
+
+working day to beam emissions.  
+• The total energy per pulse (for pulsed lasers), pulse duration, pulse repetition frequency, 
+
+and pulse energy emissions. 
+
+ANSI-Z136.1 categorizes lasers into four safety classes. Each class details the specific 
+procedures, required training, and record keeping necessary for compliance with that particular 
+class.  
+
+Class 1 Lasers A Class 1 laser is a laser that is incapable of emitting laser radiation in excess of 
+0.4 microwatts. This applies to very low power devices such as those in some semi-conductor 
+diode lasers. Most Class 1 lasers are in this category because they are housed in an enclosure that 
+limits the laser radiation exposure to the Class 1 level. Some of these include laser videodisc 
+players, laser printers, and optical fiber communication systems.  
+
+Lasers that are more powerful than Class 1, but have limited emissions due to protective 
+enclosures are called embedded lasers. Any removable portion of the protective housing of such 
+lasers has to be secured or interlocked to limit user access to the beam.  
+
+
+
+The University of Mississippi 
+
+Page 8 of 14 
+
+Class 2- Low Power Lasers Class 2 lasers are not normally considered hazardous unless an 
+individual was to force himself to stare directly into the beam. These lasers have limited energy 
+emissions in the visible region (400 nm to 710 nm) of the optical spectrum. They are low risk 
+because the human aversion response (blinking reflex, 0.25 seconds) to bright light enables a 
+user to limit exposure before damage can be done.  
+
+In industrial settings, Class 2 lasers are typically used for alignment or to mark the path of more 
+powerful invisible lasers. This application is readily used in the medical setting as well. The AEL 
+for a Class 2 laser is 1.0 milliwatts (mW). If the retina of the eye were exposed to this level of 
+laser energy for a prolonged period of time, some damage could occur. Such exposures, 
+however, are not very likely (primarily because of the blinking reflex). Class 2 lasers are 
+therefore considered to pose a theoretical hazard but not a realistic hazard in most situations.  
+
+Class 2A Some Class 2 lasers may be used in processes specifically designed to limit exposure 
+to beam emissions. In these situations, the user is allowed an exposure duration less than or equal 
+to 1000 seconds as long as the AEL for Class 1 is not exceeded. These lasers are designated as 
+Class 2A.  
+
+Class 3- Medium Power Lasers Class 3 lasers are potentially hazardous upon direct and 
+instantaneous exposure of the eye. The beam, if viewed directly, could result in injury within less 
+than the blinking reflex. The Class 3 category is divided into two subcategories: 3A and 3B.  
+
+Class 3A These types of lasers are similar to the Class 2 devices. They emit energy within the 
+visible spectrum but have power outputs between 1.0 and 5.0 mW. They also include some 
+wavelengths in the ultraviolet and infrared regions as long as the power output is not more than 
+five times the AEL of Class 1 or when using an expanded beam, the AEL is not exceeded if 
+measured by the limiting aperture (determines the diameter of the beam) for that laser 
+wavelength.  
+
+Class 3B Class 3B lasers include any continuous-wave device with energy outputs above 5.0 
+mW and less than or equal to 500 mW. These lasers can cause damage with direct intra-beam 
+exposure and from specular or diffuse reflections. Additional performance requirements and 
+safety measures must be taken to provide protection from the energy emissions of these lasers. 
+Some of these precautions include appropriate eye protection for the wavelength being used, 
+beam controls (safety interlocks, enclosures, etc.), and clearly defined emergency procedures. 
+Contact the LSO for more information on the proper methods and requirements for using Class 
+3B lasers.  
+
+Class 4-High Power Lasers Class 4 lasers are those devices with power outputs exceeding 500 
+mW. These devices also include lasers that permit human access during operation to levels of 
+laser radiation in excess of the AEL for Class 3B. The primary hazards to the skin and eyes come 
+from direct beam exposure, and specular and diffuse energy reflections. Most research, medical, 
+and surgical lasers are categorized as Class 4.  
+
+As with Class 3B lasers, additional performance requirements and safety measures must be taken 
+to provide user protection. These requirements are specific to the type and wavelength of laser 
+
+
+
+The University of Mississippi 
+
+Page 9 of 14 
+
+device being used. Some of these precautions include the creation of laser-controlled area, 
+reduction of specular hazards, and a clearly defined standard operating procedure for the use of 
+the device. Contact the LSO for more information on the requirements for using Class 4 lasers.  
+
+Labeling Requirements Class 2 and higher lasers must have labels, which contain the 
+appropriate warning tag words (CAUTION or DANGER), scripted with relevant safety 
+instructions, and must have descriptive information about the device in question (class, type, 
+wavelength, etc.). Class 1 lasers do not need hazard labels.  
+
+Class 2 and 2A lasers should use the warning logotype tag word "CAUTION" on the label as 
+well as the phrase, "LASER RADIATION - DO NOT STARE INTO BEAM". "CLASS 2 (OR 
+2A) LASER PRODUCT" should also appear on the label.  
+
+Labels for Class 3A lasers must use the signal word "CAUTION" and one of the following 
+accompanying phrases:  
+
+CAUTION 
+LASER RADIATION-DO NOT STARE INTO BEAM 
+
+OR VIEW DIRECTLY WITH OPTICAL INSTRUMENTS 
+CLASS 3A LASER PRODUCT 
+
+CAUTION 
+LASER RADIATION-AVOID DIRECT
+
+EYE EXPOSURE 
+CLASS 3A LASER PRODUCT 
+
+Labels for Class 3B and 4 lasers must include the following warning logotype wording:  
+
+DANGER 
+LASER RADIATION-AVOID DIRECT EXPOSURE 
+
+TO BEAM 
+CLASS 3B LASER PRODUCT 
+
+DANGER 
+LASER RADIATION-AVOID EYE OR SKIN 
+EXPOSURE TO DIRECT OR SCATTERED 
+
+RADIATION 
+CLASS 4 LASER PRODUCT  
+
+The above labels should also include descriptive information about the laser (type, class, 
+wavelength, etc.). The area or room in which Class 3B and 4 lasers are located should have 
+similar labels conspicuously posted to personnel unfamiliar with laser equipment.  
+
+
+
+The University of Mississippi 
+
+Page 10 of 14 
+
+Evaluation of Hazards 
+ 
+The operation of lasers and laser systems can lead to potentially hazardous situations. These 
+situations can be minimized or eliminated through the proper identification of hazards, 
+engineering control measures, good research practices, and the use of personal protective 
+equipment. Safety hazards for laser users arise from the following areas: hazards inherent to the 
+laser itself, hazards from operator work procedures, and hazards associated with laser use.  
+
+Inherent Hazards These hazards are derived from direct or reflected beam exposure. Most of 
+these hazards are determined by power output, wavelength, and exposure duration. The 
+consequential health effects range from minor skin burns to irreversible eye injury including 
+blindness. Evaluation of these hazards is based upon the maximum permissible exposure limit 
+(MPE) and must address the following areas: personal protective equipment, the nominal hazard 
+zone, and the laser control area.  
+
+Personal Protective Equipment (PPE) Each laser operator must have the necessary PPE 
+(goggles, clothing, etc.) to safely use a laser. Eye and skin protection must be suitable for the 
+wavelength of the laser involved. Safety eyewear must have the wavelength and optical density 
+inscribed on it as required by ANSI Z-136.1. Additional information on the use of protective 
+eyewear can be found in the section of this manual on "Eye Protection".  
+
+Nominal Hazard Zone (NHZ) This is the area within which the level of direct, reflected, or 
+scattered laser radiation exposure exceeds allowable limits. Although several factors contribute 
+to the determination of the NHZ, MPE, power output, and wavelength are the most important. 
+Laser users must be trained to work outside the NHZ whenever possible.  
+
+Laser Controlled Area For Class 3B and 4 lasers, this is a room or section of a research area 
+designed specifically to house these devices. The controls, safety features, and additional safety 
+measures, as determined by the LSO, must be implemented before the laser occupies the area. 
+This area must include appropriate signage, have access restricted to only authorized personnel, 
+and have limited specular surfaces (these may produce reflections). Examples of engineering 
+control measures for various classes of lasers can be found in Table I . For additional information 
+on the creation of a laser-controlled area, contact the LSO.  
+
+Operator Work Procedures The primary hazards for laser users, and workers near laser areas 
+derive from improper training and the lack of familiarity with procedures. The Principal 
+Investigator (PI) is responsible for ensuring the level of training as well as providing clear 
+descriptions of procedures for all potentially exposed individuals. Access to the laser must also 
+be limited where necessary, and warnings must be visibly displayed when appropriate. Examples 
+of administrative and procedural control measures for various classes of lasers can be found in 
+Table II.  
+
+Training All laser users (including PIs) must complete Basic Laser Safety training with the LSO 
+before beginning operations. This training will cover laser characteristics, general theory, and 
+safety policies and procedures. Each participant will be certified upon completion of course work 
+
+
+
+The University of Mississippi 
+
+Page 11 of 14 
+
+and demonstration of satisfactory understanding of the training information. Verification of 
+training will be reviewed for each operator during annual facility inspections.  
+
+Laser manufacturers also offer training for laser systems. PIs using these systems must have 
+training material reviewed by the LSO. The records of training must be available to the LSO 
+upon request.  
+
+Standard Operating Procedure The PI must prepare a Standard Operating Procedure (SOP) 
+detailing the methods, responsible individuals, and materials being used with the laser and have 
+this approved by the LSO before beginning research. This SOP should also include, but not be 
+limited to, the following:  
+
+• The location of the laser by campus, building, and room.  
+• A description of the laser including the class and the beam characteristics listed on the 
+
+manufacturer's label.  
+• The intended use of the device and the type of research.  
+• An analysis of the potential hazards and the establishment of safety parameters.  
+• The use of the appropriate PPE (especially eye protective equipment) suitable to limit 
+
+laser beam exposure.  
+• A complete step-by-step listing of the operating procedures including target preparation 
+
+shut down procedures and emission delay techniques as necessary.  
+• A description of the emergency procedures and contingency plan necessary to deal with 
+
+accidents and injuries. 
+
+The SOP must also be relevant to all classes and wavelengths of lasers in a research area, if 
+multiple devices are in use. Contact the LSO for additional information on the development of 
+the SOP.  
+
+Hazards Associated with Laser Use The diversity of uses for lasers in industrial, research, and 
+medical applications has produced a host of potential hazards ancillary to direct laser operations. 
+In fact, most laser accidents result from these types of hazards. Some of these include hazards 
+associated with general industrial hygiene, problems dealing with laser generated air 
+contaminants, and exposure to non-laser energy sources. These associated hazards must be 
+properly identified so that they can be minimized or eliminated.  
+
+Industrial Hygiene Hazards Industrial hygiene laser hazards arise from problems associated 
+with the components of lasers and laser systems. Examples include toxic chemical active media 
+(some dyes used in laser active media can also be carcinogenic), compressed gas cylinders, 
+cryogenic substances, etc. Each laser operator must use the appropriate control measures to deal 
+with these potential hazards. MSDS information should also be available where necessary. The 
+PI must contact the LSO, before beginning research, for additional guidance on dealing with 
+these potential hazards.  
+
+Laser Generated Air Contaminants (LGACs) LGACs are byproducts of the interaction of 
+usually high-powered lasers (Class 3B or 4) with targeted matter. These contaminants are usually 
+found in the vapors generated by the interaction between the beam and the target (also called the 
+
+
+
+The University of Mississippi 
+
+Page 12 of 14 
+
+plume). The degree to which these substances can be hazardous will depend upon the type of 
+matter being used and the power of the laser beam. Adequate ventilation must be installed to 
+avoid the accumulation of potentially toxic or hazardous fumes and vapors. Although the 
+chemical composition of the LGAC depends upon the target, the exact type of contaminants that 
+will be released is difficult to predict. Some studies suggest that the general composition of the 
+LGACs vary from toxic chemical byproducts (polycyclic aromatic hydrocarbons, hydrogen 
+cyanide, benzene, etc.) to mutagenic agents. Lasers used for surgery or on biological systems 
+have been shown to even produce airborne infectious substances. PIs must coordinate activities 
+with the LSO so that the proper engineering controls and PPE can be used to limit exposure to 
+LGACs.  
+
+Non-Laser Energy Exposure Hazards Hazardous exposures to energy not directly associated 
+with laser radiation can occur in both low and high-powered lasers. Non-laser energy exposure 
+may result from two primary sources: 1) deficiencies in the laser electrical systems and 2) 
+incidental radiation generated from the laser operation.  
+
+Electrical system problems account for most accidents in laser related activities in research areas. 
+The problems include deficiencies in supplies and parts, non-insulated terminals, poorly 
+functioning switches, and defective outlet receptacles. In addition, power fluctuations and power 
+supply problems can create shock hazards dangerous to laser users. All laser equipment 
+applications require specific electrical installation and connection to the appropriate power 
+supplies and surge protections. This equipment must be installed in accordance with the National 
+Electric Code (NFPA 70) to limit unnecessary electrical energy exposure.  
+
+Incidental radiation, also known as collateral radiation, can result from the interaction of the 
+components of a laser system such as the active media, target matter, photofilament, etc. and 
+may include hazardous optical radiation. In fact, ultraviolet radiation that can be emitted from 
+some laser discharge tubes, pumping lamps, and welding plasmas, must be suitably shielded to 
+reduce exposure to safe levels. Contact the LSO for additional information on the limitations of 
+exposure to collateral radiation.  
+
+Eye Protection 
+ 
+The human eye is the organ of the body most sensitive to damage from laser light. This is 
+because it is living tissue exposed to the environment and as the organ of vision, light is collected 
+and concentrated on the retina. There are no protective membranes or cell layers to insulate this 
+sensitive area from excessive light exposure (or other hazardous exposures to the outside 
+environment). There are two main sources of natural eye protection: the tearing mechanism and 
+the eyelids. Most lasers are powerful enough to overcome these natural protections. This is the 
+reason for the importance of the proper selection and use of protective eyewear.  
+
+Natural Eye Protection Reflexes stimulate the optical protective mechanisms of the eye. The 
+tearing reflex helps to wash noxious materials and foreign bodies from the surface of the eye. 
+This helps to remove debris, which could potentially obstruct the visual input areas.  
+
+
+
+The University of Mississippi 
+
+Page 13 of 14 
+
+The blinking reflex (0.25 seconds) enables the eyelids to limit exposure to most intense 
+wavelengths of light. Blinking can also be triggered by temperature elevation. High-power 
+lasers, however, can cause irreversible damage before the blinking reflex protects the eye. For 
+this reason, additional external eye protection is required when using these types of lasers 
+(generally Class 3B and 4 lasers).  
+
+Biological Effects of Laser Light The biological effects of laser light on the eye depend 
+predominantly upon wavelength and power output. Laser energy cannot damage a tissue unless it 
+can both reach and be absorbed in that tissue. For this reason, light rays in the visible and near 
+infrared bands of the spectrum will be transmitted through the clear media of the eye and strike 
+the retina. This energy can be amplified as much as 100,000 times causing significant damage to 
+the areas of the retina responsible for acute vision. The high-resolution area of the retina, called 
+the macula, has a center, the fovea, which is the size of only fractions of a square millimeter. If 
+either of these small areas is damaged as a result of hazardous energy exposure, significant 
+vision loss will occur.  
+
+More powerful lasers (Classes 3B and 4) can cause damage to tissues in the anterior portion of 
+the eye without reaching the retina. These ocular structures (cornea and lens) may absorb this 
+energy and cause significant damage. Examples of bioeffects from different wavelengths of light 
+and selected lasers can found in Table III and Table IV.  
+
+Selection and Use of Protective Eyewear The intensity of the beam and the ability of structures 
+in the eye to either absorb laser energy or amplify beam power underscore the importance of 
+using the appropriate eye protection. All Class 3B and 4 laser users must use eye protection 
+designed for that specific wavelength ( λ ) and optical density (D λ ).. The manufacturer, in 
+compliance with ANSI Z-136.1, must also print this information ( λ and D λ ) on the eyewear.  
+
+Although many lasers are similar in power and design, their wavelengths may differ. For this 
+reason, laser operators must not use protective eyewear interchangeably among different lasers. 
+Other factors that are important in the selection of eye protection are proper fit, comfort, and 
+visual performance. Eyewear that is not comfortable or is difficult to see through is not likely to 
+be used and therefore increases the risk of exposure. Contact the LSO for additional information 
+about the proper selection and use of laser eyewear.  
+
+Medical Surveillance Program 
+ 
+A baseline medical examination must be performed on a laser operator prior to assignment to 
+any laser activity that involves Class 3B or 4 lasers. This examination should include, but not be 
+limited to, the following:  
+
+• A comprehensive review of occupational history with lasers and past exposure incidents.  
+• An analysis of the general eye history (and family eye history).  
+• An inventory of current and past medications, which might cause photosensitization.  
+• A review of general health, with special emphasis upon diseases, which can lead to ocular 
+
+or skin problems.  
+• An examination of visual acuity.  
+
+
+
+The University of Mississippi 
+
+Page 14 of 14 
+
+• An external ocular examination, including cornea and iris.  
+• An examination of the ocular fundus (including photograph, if necessary). 
+
+Upon termination of employment for permanent reassignment to non-laser related duties, the 
+laser operator should undergo an exit medical examination, which should include, but not be 
+limited to, the following:  
+
+• An external optical examination, including cornea and iris.  
+• An examination of ocular fundus (including photograph, if necessary). 
+
+An eye examination must also be performed immediately after any accident or suspicion of an 
+accident involving laser injury to the eye. Records of medical examinations and exposure 
+incidents must be filed with the LSO.  
+
+Please contact the Department of Health & Safety at 915-5433 to arrange all laser related eye 
+examinations.  
+
+ 
+
+

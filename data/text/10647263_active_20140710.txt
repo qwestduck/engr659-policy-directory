@@ -1,0 +1,35 @@
+
+The University of Mississippi 
+
+Page 1 of 1 
+
+Equipment Acquisition - General 
+ 
+
+Summary/Purpose:  Purchasing equipment items with Purchase Orders and Procurement Card. 
+
+ 
+
+Purchase Order 
+
+When departments submit requisitions to Procurement Services for the purchase of equipment 
+
+items, the requisitions should be coded with an object code in the 8000 series indicating an 
+
+equipment purchase. Any other related items listed on the requisition, such as cables, etc., that 
+
+are not classified as equipment must be coded as commodities under the 6000 series object code. 
+
+The cost of all items placed on inventory shall include charges associated with shipping.  An 
+
+expense report verifying the purchase order is sent via e-mail to signatory officers. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

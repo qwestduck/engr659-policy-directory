@@ -1,0 +1,110 @@
+
+ 
+
+ 
+
+The University of Mississippi 
+ 
+ 
+
+Wireless Networks 
+ 
+
+Summary/Purpose:  In an effort to provide highly reliable, secure, and reasonably performing 
+wireless network service to all campus constituents, the University of Mississippi (UM) has 
+established a wireless network approval process by which new implementations are proposed 
+and then reviewed for technical merit and general suitability.  This policy describes the process 
+for gaining approval to set up and operate departmental wireless networks. 
+
+ 
+OBJECTIVES 
+
+ 
+• To assist departments desiring to implement wireless technologies with the planning 
+
+process, e.g., to choose wireless networking equipment that is compatible with the 
+established campus network, to properly size the wireless subnet for consistent coverage, 
+and to plan for ongoing support. 
+
+• To deliver a uniform and high-level quality of service to all campus users, especially 
+those who participate in wireless networking from more than one location on campus. 
+
+• To coordinate the support to end users of wireless technologies, especially between the IT 
+Helpdesk, the IT Technical Services division and the organization implementing the 
+wireless subnet. 
+
+• To ensure that all components of the campus wireless infrastructure comply with 
+centrally-managed security protocols including user account management, i.e., to reduce 
+the possibility of having sensitive data compromised through inherently insecure wireless 
+networks. 
+
+• To ensure that additions to the campus wireless infrastructure employ hardware and 
+software that is approved by the Office of Information Technology for proper function of 
+the campus-wide network, to coordinate procurement, and to manage frequencies and 
+coverage in a way that promotes effective shared use and reduces unwanted interference. 
+
+• To prioritize potential uses of wireless technologies, giving favor to those that best 
+support overall institutional goals and objectives, e.g., to enhance learning. 
+
+ 
+PROCESS 
+
+ 
+The Office of Information Technology (IT) is charged with providing a stable and secure campus 
+network to support the mission of the University and therefore has the authority and 
+responsibility to specify technical requirements for devices connecting to it. This includes 
+providing leadership in the management of shared network resources, such as setting security 
+standards and disconnecting noncompliant wireless subnets when they have the potential for 
+interfering with the proper operation of the campus-wide network. 
+
+ 
+Before embarking on the implementation of wireless technologies, departments must submit a 
+completed proposal form (next) to the Chief Information Officer. A committee with 
+representation from the Provost’s Office and IT will review the proposal and approve or deny the 
+request.  Limited funding for wireless projects may be available for use in academic areas based 
+on the priority assigned by the Provost's Office. 
+
+
+
+ 
+
+ 
+
+The University of Mississippi 
+ 
+ 
+
+WIRELESS NETWORK PROPOSAL FORM 
+This proposal is being submitted by:  (individual) 
+Requesting Department:   
+Today’s Date:   
+
+Purpose and Anticipated Benefits: 
+What part of campus will be covered by this implementation, who will benefit and in what way, why is 
+wireless a good choice? 
+
+Timeframe for Implementation: 
+Please provide a high-level project plan that includes the procurement phase, installation, and target go live 
+date. 
+
+Technical Plan: 
+Please include number and placement of access points (with ratio of users to access points) and equipment standards. Where applicable, name the 
+IT analyst(s) that you worked with to develop this plan.  
+ 
+ 
+ 
+ 
+ 
+Security Plan:  
+Please confirm that this deployment complies with all published security policies and describe how this implementation satisfies those policy 
+requirements.  
+ 
+ 
+ 
+ 
+ 
+ 
+Local Support Contact: 
+How will end users receive local support if they encounter problems? 
+
+

@@ -1,0 +1,105 @@
+
+The University of Mississippi 
+
+Page 1 of 2 
+
+Domain Name Policy 
+ 
+
+Purpose 
+ 
+This policy outlines the procedures related to domain name registration and the UM campus 
+network. 
+
+The Office of Information Technology (IT) has authority for all hostnames within the 
+olemiss.edu domain. This includes managing the campus domain name service (DNS), 
+registering IP addresses and hostnames for new network connections, coordinating network 
+changes, assigning hostnames, creating subdomains, and coordinating with departmental 
+systems/network administrators who have been delegated authority for their departmental 
+subdomains. 
+
+Related: IT Appropriate Use (https://olemiss.edu/aup) 
+
+Domains for Servers Without a Public Website 
+ 
+
+Example: 
+
+A department is installing a new workstation under the name 
+abc.dept.olemiss.edu which will be used within the department. 
+
+ 
+Departmental system/network administrators may contact the IT Network Management Group 
+at network@ts.olemiss.edu to have new subdomain names (e.g., abc.dept.olemiss.edu) added 
+to the campus DNS. Requests for new, moved, removed, and converted connections, as well as 
+questions about hostnames, IP addresses and the campus name servers, should also be 
+directed here. Please note that this service is not available to student computers in residence 
+halls.  
+
+ 
+Domains for Public Websites 
+Case 1: Mapping olemiss.edu subdomain to one of the campus Web servers 
+ 
+Example: 
+
+A department wants to use the domain dept.olemiss.edu for their 
+website. 
+
+http://www.olemiss.edu/depts/it/
+https://olemiss.edu/aup
+mailto:network@ts.olemiss.edu
+
+
+The University of Mississippi 
+
+Page 2 of 2 
+
+This usually occurs when the department’s website is not on the same server as the university’s 
+main website (https://olemiss.edu). In order to map the “olemiss.edu” domain to a different 
+server, a subdomain is needed. The choice of subdomain is negotiated between the 
+department, Information Technology, and Communications so that it reflects the purpose of 
+the site but is also convenient and communicates the intent as clearly as possible. The 
+department should email its intentions to webmaster@olemiss.edu who will negotiate the 
+necessary approvals from IT and Communications and will coordinate with Networking on the 
+creation and destination of DNS entries. 
+
+Case 2: Mapping a non olemiss.edu hostname to one of the university web servers  
+ 
+Example:  
+
+An organization wants to host its website on a web server in the Data 
+Center using the domain www.abc.com or www.abc.org. 
+
+Sometimes a research center or national agency that has close ties with the University of 
+Mississippi needs some level of independence from the “olemiss.edu” brand for marketing 
+reasons. In this case, the organization making this request is solely responsible for registering 
+and maintaining the Internet domain name, and for all the associated fees. But first, the 
+organization should seek approval of the domain name by emailing webmaster@olemiss.edu 
+about their intentions. The webmaster will then negotiate approvals from Information 
+Technology and Communications about whether the site should be hosted on a university web 
+server and about the desired domain name. If the domain has already been in use but hosted 
+elsewhere, the necessary approvals are still necessary before the site can be moved to 
+university web servers. 
+
+Case 3: Mapping an olemiss.edu domain to an off-campus web server 
+
+Example:  
+
+A vendor/service web site that is hosted in the cloud needs to brand 
+itself as part of the university’s olemiss.edu domain. 
+
+Services which are hosted off campus (e.g., https://box.olemiss.edu and 
+https://connectu.olemiss.edu) may need to indicate that they are authorized services acting on 
+behalf of the University of Mississippi. Some departments, too, may simply wish to host their 
+sites off campus. Since the university owns the olemiss.edu domain, the approval of the Chief 
+Information Officer must be granted for any service wishing to use it. The person in charge of 
+the program should make the request via email to webmaster@olemiss.edu so the webmaster 
+can coordinate these efforts. 
+
+https://olemiss.edu/
+mailto:webmaster@olemiss.edu
+mailto:webmaster@olemiss.edu
+https://box.olemiss.edu/
+https://connectu.olemiss.edu/
+mailto:webmaster@olemiss.edu
+

@@ -1,0 +1,597 @@
+
+The University of Mississippi  
+
+Page 1 of 7  
+
+Full Board Review Criteria for IRB Applications  
+  
+
+Summary/Purpose:  Criteria and decision-making processes to determine whether IRB applications 
+
+need Full Board review.  
+  
+
+Introduction: Regulatory criteria for assigning ‘exempt’ level review are fairly precise.  However, in 
+
+many cases, decisions to assign expedited versus full board review require judgments of risk and 
+
+interpretation of regulations.  This policy is designed to minimize judgment and interpretation and to 
+
+distribute review level decision-making to a designated sub-group of IRB members under certain 
+
+conditions.  
+  
+
+The regulations allow expedited review when the following two conditions are met: 1) the research 
+
+involves Minimal Risk and 2) the research is listed as one of the “Categories of Research That May 
+
+Be Reviewed by the Institutional Review Board (IRB) through an Expedited Review Procedure” (63 
+
+FR 60364-60367, November 9, 1998).  
+  
+
+Minimal Risk means that the probability and magnitude of harm or discomfort anticipated in the research 
+
+are not greater in and of themselves than those ordinarily encountered in daily life or during the 
+
+performance of routine physical or psychological examinations or tests 45 CFR 46.102(i).  
+  
+
+Determinations of ‘minimal risk’ and ‘minor increase over minimal risk’ (for 46.406 research) for children 
+
+will be based on the attached list [Attachment A] of considerations, criteria, and exemplars that have 
+
+been conditionally approved by the Department Of Health And Human Services Secretary's Advisory 
+
+Committee On Human Research Protections (SACHRP).  
+  
+
+1.  Examples of Studies that May Receive Expedited Review   
+  
+
+• Deception studies using a ‘confederate’  
+
+• Deception studies using misleading or deceptive:  
+
+1. study descriptions  
+
+2. procedure explanations   
+
+3. survey instructions / rationales  
+
+• Subjects are children and research falls under 46.404 “Research not involving greater than 
+
+minimal risk”  
+
+• Subjects are cognitively impaired and research is approved by an external committee of experts 
+
+on the population (e.g., North Mississippi Regional Center)  
+  
+
+2.  Examples of Studies that Likely Require Full Board Review   
+  
+
+• Deception studies that give subjects deceptive feedback, whether positive or negative  
+
+[e.g., based on IQ or personality tests or interviews]  
+
+• Psychotherapy treatment studies with adults  
+
+• Studies involving a waiver of parental consent (permission)   
+
+• Subjects are in a subservient power relationship to investigators or to parties with an interest in 
+
+the research, such as employees of the investigator.  
+  
+  
+  
+  
+
+http://www.hhs.gov/ohrp/policy/63fr60364.html
+http://www.hhs.gov/ohrp/policy/63fr60364.html
+http://www.hhs.gov/ohrp/policy/63fr60364.html
+
+
+The University of Mississippi  
+
+Page 2 of 7  
+
+3.   Examples of Elements that Require Full Board Review   
+  
+
+• Administration of alcohol  
+
+• Administration of non-drug dietary supplements  
+
+• Use of X-rays   
+
+• Classified research  
+
+• Administration of FDA approved drugs and use of devices presenting more than minimal risk   
+
+• Administration of  non-FDA approved drugs and devices that come under FDA regulations  
+
+• Activity exceeding moderate exercise  [See Attachment B for Determination of Intensity of 
+
+Exercise]  
+
+• Surreptitious videotaping in non-public settings  
+
+• Surreptitious monitoring of electronic communications   
+
+• Subjects are prisoners  
+
+• Subjects are pregnant  
+
+• Subjects are children and research poses greater than Minimal Risk.  Below are the relevant 
+
+categories. o 45 CFR 46.405 “Research involving greater than minimal risk but presenting the 
+
+prospect of direct benefit to the individual subjects” OR  
+
+o 45 CFR 46.406 “Research involving greater than minimal risk and no prospect of direct 
+
+benefit to individual subjects, but likely to yield generalizable knowledge about the 
+
+subject's disorder or condition” OR  
+
+o 45 CFR 46.407 “Research not otherwise approvable which presents an opportunity to 
+
+understand, prevent, or alleviate a serious problem affecting the health or welfare of 
+
+children”  
+  
+
+  
+
+ 
+  
+
+Expedited or Full Board Review Determination Procedure  
+
+• A subcommittee consisting of at least these three IRB members: the IRB Chair, the  
+
+Director of Research Integrity and Compliance, and the Research Compliance  
+
+Specialist, will determine which protocols in categories 1 & 2 above may be reviewed as 
+
+expedited.  Additional Board members will substitute when there is a conflict of interest.  
+  
+
+• Vulnerable population studies will be reviewed by an expert consultant(s) if there is no expertise 
+
+with the population among the subcommittee members.  The consultant’s review will be 
+
+considered in the subcommittee’s decision-making.   
+  
+
+• A majority of the subcommittee reviewers must agree that expedited review is appropriate; 
+
+otherwise, the protocol will be reviewed by the Full Board.  
+  
+  
+  
+    
+
+  
+
+ 
+  
+
+ATTACHMENT A  
+  
+
+DETERMINATION OF MINIMAL RISK FOR CHILD RESEARCH  
+
+  
+
+
+
+The University of Mississippi  
+
+Page 3 of 7  
+
+  
+
+Derived from a presentation by: Celia B. Fisher, Ph.D., and Susan Z. Kornetsky, M.P.H. 5th Report for SACHRP 
+Consideration Clarifying 45 CFR 46 Subpart D Definitions - January 31, 2005  
+  
+
+  
+
+Reference Point for Uniform Definition  
+
+• The definition of “minimal risk” at 45 CFR 46.102(i) when applied to Subpart D should be interpreted  as those 
+
+risks encountered by normal, average, healthy children living in safe environments in daily life or during the 
+
+performance of routine physical or psychological examinations or tests.  
+
+  
+
+Minimal Risk Should be Age indexed  
+
+• Evaluation of minimal risk under Subpart D should be indexed to the risks in daily life and routine medical and 
+
+psychological examinations experienced by children the same age as the subject population.  
+
+  
+
+Upper Limits of Risk & Harm  
+
+• The uniform, age-indexed definition of minimal risk should represent the upper not lower limits of risk to which 
+
+children can be exposed under §46.404.  
+
+Rationale: Research procedures should not fall under §46.404 for children who because of health or other reasons 
+
+would be at greater risk of harm from procedures which are minimal risk for normal, average, healthy children living 
+
+in safe environments.  
+
+  
+
+  
+
+Equivalent Procedures  
+
+• Procedures that are equivalent in probability and magnitude of harm to risks of daily life or routine physical or 
+
+psychological examinations or tests experienced by average, healthy, normal children living in safe environments 
+
+should be considered as consistent with the definition of “minimal risk.”  
+
+  
+
+Equivalence Criteria  
+
+• Is the probability and magnitude of harm equivalent in:  
+
+  duration  
+
+  cumulative characteristics   reversibility of 
+
+harm  
+
+  to risks of daily life or routine examinations  
+
+  
+
+Examples of Well-Child Procedures [From April, 2005 SACHRP presentation; IOM, 2004; 4.9-4.10]  
+
+• Physical examinations  
+
+• Measurement of height, weight, head circumference  
+
+• Assessment of obesity with skin-fold calipers  
+
+• Collection of blood or voided urine  
+
+• Measurement of heart rate and blood pressure  
+
+• Hearing and vision tests  
+
+• Modest changes in diet or schedule  
+
+• Testing of fine and gross motor development  
+
+• Non-invasive physiological monitoring  
+
+• Medical and social history  
+
+• Psychological examinations or tests  
+
+• Guidance and education (for the child, the parents, or both)  
+
+  
+
+Routine Psychological Tests Indexed to Standardized Screening or Assessment Measures   
+
+• Child and adolescent intelligence tests  
+
+• Infant mental and motor scales  
+
+• Educational tests / Reading and math ability tests  
+
+• Neurological or motor disorders  
+
+• Social development  
+
+http://www.hhs.gov/ohrp/archive/sachrp/mtgings/mtg01-05/present/fisher_files/frame.htm
+http://www.hhs.gov/ohrp/archive/sachrp/mtgings/mtg01-05/present/fisher_files/frame.htm
+http://www.hhs.gov/ohrp/archive/sachrp/mtgings/mtg01-05/present/fisher_files/frame.htm
+http://www.hhs.gov/ohrp/archive/sachrp/mtgings/mtg01-05/present/fisher_files/frame.htm
+http://www.hhs.gov/ohrp/archive/sachrp/mtgings/mtg01-05/present/fisher_files/frame.htm
+
+
+The University of Mississippi  
+
+Page 4 of 7  
+
+• Family and peer relationships  
+
+• Emotional regulation  
+
+• Feelings of  sadness or hopelessness  
+
+  
+
+  
+
+DETERMINATION OF MINOR INCREASE OVER MINIMAL RISK FOR CHILD RESEARCH  
+
+  
+
+  
+
+Derived from a presentation by: Celia B. Fisher, Ph.D., and Susan Z. Kornetsky, M.P.H. 5th Report for SACHRP 
+Consideration Clarifying 45 CFR 46 Subpart D Definitions - January 31, 2005  
+  
+
+Determining Minor Increase Over Minimal Risk  
+
+• Applying a uniform procedure for assessing whether a research presents a minor increase over minimal 
+
+risk requires evaluating the risk along 10 different criteria.  
+
+• Rationale. Methods, compounds, instruments and other research procedures are so variable that a single 
+
+quantitative unit of increase cannot be uniformly applied. However, there is a uniform process of evaluation that can 
+
+be applied.  
+
+  
+
+List of Uniform Criteria for Determining a Minor Increase Over Minimal Risk  
+
+1. Minimal Risk Comparison  
+
+2. Scientific Evidence of Risk  
+
+3. Certainty of Evidence  
+
+4. Documented Harms  
+
+5. Equivalence of Procedures  
+
+6. Participant Perspectives  
+
+7. Mitigating Factors  
+
+8. Inclusion/Exclusion Criteria  
+
+9. Monitoring  
+
+10. Safety & Competence  
+
+  
+
+1.  Minimal Risk Comparison  
+
+• The procedure does not meet minimal risk criteria  
+
+• The probability and magnitude of harm or discomfort anticipated in the research is greater than those  
+
+ordinarily encountered by normal, average, healthy children living in safe environments in their daily 
+
+activities or during the performance of routine physical or psychological examinations or tests.  
+
+  
+
+2.  Scientific Evidence of Risk  
+
+• There is peer reviewed scientific evidence of the range of risks associated with the procedure for 
+
+the subject population, OR  
+
+• The procedure is sufficiently similar to other interventions with well characterized risks that prudent, 
+
+informed judgments about risks can be made.  
+
+  
+
+3. Certainty of Evidence  
+
+• The extent and quality of the evidence is such that there is little uncertainty about the range of risks 
+
+involved.  
+
+• Lack of sufficient data for a risk profile would create a higher level of uncertainty supporting a more 
+
+conservative approach to judgments that a procedure is only a minor increment over minimal risk  
+
+  
+
+4. Documented Harms  
+
+• The documented harms are not serious for the subject population  
+
+• The data indicates no or an extremely small probability of risk of major complications.  
+
+• Harms associated with the procedure do not require in-patient monitoring or follow-up evaluation (for the 
+
+procedure itself)  
+
+• The harms if they occur are transient and reversible  
+
+http://www.hhs.gov/ohrp/archive/sachrp/mtgings/mtg01-05/present/fisher_files/frame.htm
+http://www.hhs.gov/ohrp/archive/sachrp/mtgings/mtg01-05/present/fisher_files/frame.htm
+http://www.hhs.gov/ohrp/archive/sachrp/mtgings/mtg01-05/present/fisher_files/frame.htm
+http://www.hhs.gov/ohrp/archive/sachrp/mtgings/mtg01-05/present/fisher_files/frame.htm
+http://www.hhs.gov/ohrp/archive/sachrp/mtgings/mtg01-05/present/fisher_files/frame.htm
+
+
+The University of Mississippi  
+
+Page 5 of 7  
+
+  
+
+5. Transient & Reversible  
+
+• Transient:  Restricted to time of procedure or short post-experimental period  
+
+• Reversible: Procedure to reverse the effect requires no more than a short-term simple clinical intervention  
+
+  
+
+5. Equivalence of Procedures  
+
+• The procedures are equivalent in risk to documented risk profiles in terms of  
+
+a. Duration of harm or discomfort and  
+
+b. Cumulative effect of procedures on the probability and magnitude of harm.  
+
+  
+
+6. Participant Perspectives  
+
+• Whenever possible the data includes information about the subject population’s experience of the 
+
+procedures (e.g., painful, anxiety producing).  
+
+  
+
+7. Mitigating Factors  
+
+• The procedure reflects consideration of documented mitigating factors known to minimize or exacerbate 
+
+the risk.  
+
+  
+
+8. Inclusion/Exclusion Criteria  
+
+• Subject inclusion and exclusion criteria reflect consideration of documented subject characteristics that 
+
+may moderate the probability and magnitude of harm of the procedure.  
+
+  
+
+9. Monitoring  
+
+• There is an adequate monitoring procedure.  
+
+  
+
+10. Safety & Competence  
+
+• The procedure will be performed in a safe environment by qualified personnel with experience conducting 
+
+the procedure with the subject population.  
+
+
+
+The University of Mississippi  
+
+Page 6 of 7  
+
+ATTACHMENT B 
+  
+
+DETERMINATION OF INTENSITY OF EXERCISE Background  
+
+  
+
+OHRP’s “Categories of Research That May Be Reviewed by the Institutional Review Board (IRB) through an 
+
+Expedited Procedure” lists under (4)(e) “moderate exercise, muscular strength testing, body composition testing, 
+
+and flexibility testing where appropriate given the age, weight, and health of the individual.”  There is no further 
+
+detail on how to determine what constitutes moderate exercise (versus vigorous exercise).  This guidance aims to 
+
+meet that need.  
+
+  
+
+Procedure  
+
+The “Expedited or Full Board Review Determination Procedure” described above in this policy will be used to decide 
+
+whether procedures involving exercise meet the definition above.  However, for protocols falling into ‘gray areas,’ 
+
+three sources of information will be used at the discretion of the subcommittee:   
+
+  
+
+1. IRB members or others with expertise in medicine and/or exercise science will be consulted.  
+
+2. Subcommittee members will have investigators run them through exercise procedures.  
+
+3.  Subcommittee members will consult the guideline below from the Centers for Disease Control and     
+
+Prevention and the American College of Sports Medicine (ACSM).  
+
+4.  The ACSM table** (p.7) will be considered definitive, if specified parameters are measured in a study of 
+
+apparently healthy adults, as determined by, for example, the PAR-Q or PAR-
+
+Q+   
+
+  
+
+ACSM/CDC Guidelines:  
+
+• Moderate exercise consists of activities that result in a noticeable increase in breathing and heart rate, but 
+
+can be comfortably sustained for ~45 minutes. The activities are commonly described as “very light” to 
+
+“light” to “somewhat hard” when the level of perceived exertion is rated.  During moderate intensity 
+
+exercise, participants should be able to easily carry on a conversation.  
+
+Examples of common moderate intensity activities include:  
+
+o Walking at a moderate or brisk pace on a level surface o Hiking o Water 
+
+aerobics o Yoga  
+
+o Doubles tennis o Raking the lawn o Moderate household cleaning (e.g. 
+
+vacuuming, washing windows, sweeping).  
+
+   
+
+• More than moderate exercise (vigorous) results in substantial increases in breathing and heart rate. The 
+
+activities are commonly described as “hard” to “very hard” when the level of perceived exertion is rated. 
+
+Carrying on a conversation is difficult during/while performing vigorous intensity exercise. Examples of 
+
+common more than moderate intensity activities include:  
+
+o Jogging or running o  Step aerobics o  Circuit weight training  
+
+o Most competitive sports (basketball, soccer, football, etc.) o Singles tennis 
+
+o Heavy yard work (e.g. digging ditches, swinging an ax, pushing a mower).  
+
+  
+
+• Note: Moderate intensity activities may, in fact, be more than moderate if the participants are sedentary, not 
+
+physically fit, elderly, and/or have a known cardiac, pulmonary, or metabolic disease.  
+
+  
+
+Reference:  
+
+ACSM's Guidelines for Exercise Testing and Prescription (2010). Baltimore, MD: Lippincott, Williams, & Wilkins.  
+ 
+
+The IRB thanks Dr. Paul Loprinzi for his efforts in compiling this guidance. (Dr. Loprinzi is an Associate Professor of Health, Exercise Science 
+
+and Recreation Management, and Director of the Exercise & Memory Laboratory in the School of Applied Sciences.) 
+
+
+
+The University of Mississippi  
+
+Page 7 of 7  
+
+ 
+
+

@@ -1,0 +1,482 @@
+
+ 
+
+The University of Mississippi 
+
+Office of Financial Aid 
+
+University, MS  38677 
+
+Phone: (800) 891- 4596 Fax: (662) 915-1164 
+
+      
+
+ 
+
+Policy Name:  Disbursement of Financial Aid 
+
+ 
+
+ 
+
+Purpose:  This document contains the Office of Financial Aid’s current policies 
+
+and procedures for disbursing aid to students. 
+
+ 
+
+Disclaimer:  This policy is subject to change, without notice, in order to comply 
+
+with administrative and regulatory requirements.  
+
+ 
+
+ 
+
+Policy Contents: 
+
+    
+
+3.1  Disbursement Requirements 
+
+3.2   Timing of Disbursement 
+
+3.3  Confirming Enrollment & Attendance 
+
+3.4  Late Disbursement 
+
+3.5  Delivery of Funds 
+
+3.6  Appendix A 
+
+ 
+
+ 
+
+Definitions and Terms: 
+
+ 
+
+ COA – Cost of Attendance 
+
+MESG – Mississippi Eminent Scholars Grant 
+
+MTAG – Mississippi Tuition Assistance Grant 
+
+OFA – Office of Financial Aid 
+
+ SEOG – Supplemental Educational Opportunity Grant 
+
+ UM – University of Mississippi 
+
+ 
+
+ 
+  
+
+
+
+Part 3.1 Disbursement Requirements 
+
+ 
+
+The OFA defines the award year as comprised of:  Fall (Fall Semester, Fall 1 mini-session, 
+
+and Fall 2 mini-session) and Spring (Winter intersession, Spring Semester, Spring 1 mini-
+
+session, and Spring 2 mini-session).  Summer is considered a trailer to the award year.  It is a 
+
+combined term that includes May intersession, First Summer mini-session, Full Summer 
+
+mini-session, Second Summer mini-session, and August intersession.  
+
+ 
+
+Because a student may be enrolled for only part of a term due to registration for mini-sessions 
+
+only, the OFA will hold the disbursement of eligible funds (scholarships, loans, and grants) 
+
+based on each individual student’s earliest course start date.  This will ensure that funds are 
+
+not released more than 10 days before the student actually begins classes.  (Course start/stop 
+
+dates are provided by the academic departments and entered into UM’s student system).   
+
+ 
+
+All financial aid funds must pass disbursement requirements in order to be processed.  These 
+
+rules are programmed into the OFA database system.  Any disbursement issues create 
+
+“diagnostics” that will explain the reason for the hold.  OFA staff members can easily 
+
+reference the diagnostics to determine what the next steps should be.  Students can also view 
+
+the diagnostic messages for their own financial aid package through the Award Notification 
+
+module in the MyOleMiss portal.  Diagnostics are dynamically created and will be 
+
+automatically removed once an outstanding issue is resolved. 
+
+ 
+
+ 
+
+Part 3.2 Timing of Disbursement 
+
+ 
+
+For Fall and Spring, the disbursement process (to credit funds to student bursar accounts) 
+
+begins approximately 5 days before the beginning of the standard semester.  For Summer, 
+
+disbursement begins approximately 5 days before the beginning of Full Summer/First 
+
+Summer.  Once the process starts for a term, aid is disbursed on a daily basis (business days 
+
+only) as university requirements are met.  For some awards, the credit is made once funds are 
+
+received from an outside source (e.g. non-UM scholarships and loans).  For state grants like 
+
+MTAG and MESG, disbursement will occur once the state office notifies the UM of their 
+
+roster of approved awards. 
+
+ 
+
+Students awarded Federal Title IV aid (Pell Grant, Iraq and Afghanistan Service Grant, 
+
+SEOG, Federal Direct Loan, Federal Direct PLUS Loan or TEACH Grant) for summer cannot 
+
+receive these monies unless they enroll in all credit hours for all summer terms reported on 
+
+their Summer Application. Non-federal aid ready for release during the summer will credit to 
+
+a student’s bursar account prior to the first day of class if eligibility is met at an individual 
+
+mini-session level. 
+
+ 
+
+For students enrolled in iStudy (correspondence courses), no Title IV financial aid will be 
+
+released until the midterm exam is completed (or 50% of the lessons if there is not a midterm 
+
+exam). The midpoint is determined by the iStudy Department. Once confirmation is received, 
+
+the OFA will release funds manually to the student’s bursar account. 
+
+ 
+
+
+
+Part 3.3 Confirming Enrollment & Attendance 
+
+ 
+
+Certain circumstances will prevent automatic disbursement of financial aid. These include:  
+
+ Not Enough Credit Hours to Meet Awarding Requirements – This applies to 
+students who are not yet enrolled for any courses, (i.e., new undergraduates do not 
+
+typically sign up for classes until they attend an Orientation session), or who do not 
+
+have enough booked hours. Financial aid is usually provided for full-time students, 
+
+although some aid programs do allow part-time students to receive funding. Students 
+
+who are not registered for enough hours will have to add more classes to qualify for 
+
+some financial aid awards. Students can indicate on their “Financial Aid Award 
+
+Notification” in myOleMiss what their actual enrollment hours will be.  Since 
+
+financial aid packaging is based on anticipated enrollment levels, this could mean that 
+
+awards will be reduced or cancelled if the student does not meet the hours 
+
+requirements for that award.  Please note the enrollment level definitions below: 
+
+ 
+
+Program Type Full-time 3/4-time 1/2-time Less than 1/2-time 
+
+Undergraduate, Pharmacy 
+
+(EE 1-3, Pre-Pharm, PY 1-4) 
+
+12 or more 
+
+hours 
+
+9-11 
+
+hours 
+
+6-8 
+
+hours 
+
+1-5  
+
+hours 
+
+Graduate, MBA, PMBA,  
+
+Online Grad 
+
+9 or more 
+
+hours 
+
+7-8 
+
+hours 
+
+5-6 
+
+hours 
+
+1-4  
+
+hours 
+
+Law, LLM – Space Law 
+10 or more 
+
+hours 
+
+8-9  
+
+hours 
+
+5-7 
+
+hours 
+
+1-4  
+
+hours 
+
+ 
+
+ Waitlisted Courses – This is a tentative class status, for which students are not 
+considered to be officially registered. Once a term starts, students should consult with 
+
+their instructor(s) to determine whether they will be enrolled in the desired course(s). 
+
+Or, students may consider signing up for different course(s). Otherwise, if the inability 
+
+to secure a waitlisted course or courses changes a student’s enrollment status (e.g., 
+
+from full-time to part-time), then the student’s financial aid package may have to be 
+
+adjusted. 
+
+ Audit Courses – Courses taken for “no grade” (which means that there will be no 
+credits or hours earned for the course), do not count towards a student’s enrollment for 
+
+financial aid purposes. 
+
+ Courses Coded as “Free of Charge” – This course is set by UM administrators, and 
+is typically used when outside organizations have a contract with UM to pay for a 
+
+class for their employees. Students who are not responsible for paying any tuition for 
+
+their course(s) have a reduced COA which may impact their eligibility for other 
+
+financial aid.  Any possible awards must be determined and processed manually. 
+
+ Independent Study (iStudy) Courses – Correspondence courses, offered through the 
+Office of Independent Study, do not always follow the timeframe of a traditional 
+
+semester. Students enrolled in iStudy courses may or may not be eligible for financial 
+
+aid. Typically, the student must register for term-based (not full-year) iStudy courses 
+
+to qualify. Please visit http://finaid.olemiss.edu/istudy/  for more information. 
+
+  
+
+http://finaid.olemiss.edu/istudy/
+
+
+ Courses that are Mismatched to the Degree Program – If a student is taking a 
+graduate/professional class but pursuing an undergraduate degree, OFA will treat the 
+
+class as irrelevant to the academic program and therefore ineligible for aid. The same 
+
+is true for graduate/professional students taking undergraduate courses (i.e., 100 to 
+
+400 level) – unless those undergraduate classes are specifically listed as required 
+
+prerequisites for your academic program (published in the catalog for all students in 
+
+that major).  The OFA cannot consider case-by-case exceptions, so letters from 
+
+instructors will not be able to establish eligibility. 
+
+The additional reasons below are related ONLY to Federal Title IV aid (Pell Grant, Iraq 
+
+and Afghanistan Service Grant, SEOG, TEACH, Work-Study, Direct Loans, and PLUS 
+
+loans).  
+
+ Attendance Has Not Been Verified – Per federal regulations, students establish 
+eligibility for aid only if they actually SHOW UP for their classes. Their presence in a 
+
+class will be documented by the instructor by taking roll or by use of attendance ID 
+
+scanners. This will be done at one of the class meetings within the first two weeks of 
+
+class for a regular Fall/Spring semester (shorter time frames apply for mini-terms like 
+
+Winter Intersession and summer). Please visit https://olemiss.edu/info/gotoclass/. This 
+
+policy also applies to online classes, thesis/dissertation hours, labs, Study Abroad, and 
+
+internships – although the methods of “attendance collection” are modified. 
+
+ Enrollment Was Not Confirmed in All Classes by the Mandatory Drop Date 
+(MDD) – Financial Aid will “lock in” enrollment for each term based ONLY on those 
+
+classes in which the student is still actively registered AND attendance has been 
+
+verified.   This will occur on the MDD. Please visit 
+
+https://registrar.olemiss.edu/academic-calendar-menu/ to confirm the MDD for each 
+
+term. Disbursement of Title IV aid for that term will be based only on these “locked 
+
+in” credit hours, and any previously disbursed aid may have to be adjusted to them. 
+
+ Consortium Contract – If a student has a written agreement to take classes at another 
+college, and UM has approved these credit hours, then the financial aid must be 
+
+handled manually. Please visit https://finaid.olemiss.edu/study-abroad-and-
+
+consortium-study/ for additional information. 
+
+ Repeated Coursework – A student cannot receive federal student aid for repeating a 
+passed course (receiving a “D” grade or higher) more than ONE time, regardless if 
+
+credit is provided again by the institution – and regardless if the academic major 
+
+requires the student to retake the class to obtain a better grade. 
+
+ Remedial Coursework – Only up to 30 semester hours of remedial classes can be 
+counted in a student’s enrollment. Remedial courses are identified by the prefix “DS” 
+
+– Development Studies. 
+
+ Coursework Not Counting Towards Your Degree – Only classes that are necessary 
+for the student’s major, OR are allowable electives, can be used towards his/her 
+
+enrollment level for federal aid purposes. 
+
+  
+
+https://olemiss.edu/info/gotoclass/
+https://registrar.olemiss.edu/academic-calendar-menu/
+https://finaid.olemiss.edu/study-abroad-and-consortium-study/
+https://finaid.olemiss.edu/study-abroad-and-consortium-study/
+
+
+Part 3.4 Late Disbursement 
+
+ 
+
+In certain conditions, students may still be able to receive a disbursement of federal Title IV 
+
+aid after the payment period is over.  Students may be considered for a disbursement if they 
+
+are otherwise eligible for federal Title IV aid and the following conditions apply: they are no 
+
+longer enrolled for the term at least half-time, or no longer enrolled at UM for the award year.  
+
+Based on federal regulations, the OFA will determine based on the charts in Appendix A, if 
+
+the student is eligible for a late disbursement (see Part 3.6, Appendix A), and if a late 
+
+disbursement request form is required. 
+
+ 
+
+ 
+
+Part 3.5 Delivery of Funds 
+
+ 
+
+If the amount of aid exceeds the amount that the student owes the university, a credit balance 
+
+is created.  In this case, the bursar’s office will refund the difference to the student by direct 
+
+deposit to the student’s personal checking/saving account or via a check mailed to the 
+
+student’s billing address on file.  Students cannot pick up checks in person.  (See the Bursar’s 
+
+policy on “Refund Checks” at 
+
+https://secure4.olemiss.edu/umpolicyopen/ShowDetails.jsp?istatPara=1&policyObjidPara=10
+
+644382.)  
+
+ 
+
+All refunds are given to the student except for credit balances caused by a Federal Parent 
+
+PLUS loan.  In these cases, the excess proceeds are delivered to the borrower.  Checks will be 
+
+mailed to the parent address on the PLUS application unless the parent signs up for direct 
+
+deposit for PLUS loans. Direct Deposit applications are available at 
+
+http://www.olemiss.edu/depts/bursar/directdeposit.html. 
+
+ 
+
+Federal Work-Study checks, based upon actual hours worked, are issued bimonthly by mail or 
+
+direct deposit through the Payroll Department of Human Resources (see policy “5.0 Federal 
+
+Work-Study”). 
+
+ 
+
+Financial aid refund checks that are not consummated within 240 days of issue will be 
+
+cancelled by the Office of the Bursar. The funds will be returned to the financial aid programs 
+
+that caused the credit balance. 
+
+  
+
+https://secure4.olemiss.edu/umpolicyopen/ShowDetails.jsp?istatPara=1&policyObjidPara=10644382
+https://secure4.olemiss.edu/umpolicyopen/ShowDetails.jsp?istatPara=1&policyObjidPara=10644382
+http://www.olemiss.edu/depts/bursar/directdeposit.html
+
+
+Part 3.6 Appendix A 
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+
+
+  
+
+
+
+ 
+
+ 
+
+

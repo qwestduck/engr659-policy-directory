@@ -1,0 +1,135 @@
+
+The University of Mississippi 
+ 
+
+Classroom Technology 
+ 
+Summary/Purpose: This document describes the Classroom Technology Policy for 
+classrooms equipped through the Classroom Technology Fund (CTF).  While it is 
+desirable to place equipment within the individual departments, there are a variety of 
+subsequent concerns that must be addressed.  These concerns are maintenance, security, 
+access, scheduling, enhancements, and support.  
+
+ 
+MAINTENANCE  
+Maintenance is described as the ongoing upkeep of all equipment that has been 
+purchased and installed using CTF within a department.  
+
+The group within the university that will handle supported maintenance on equipment is 
+the Office of Information Technology (IT), specifically the Academic Computing (AC) 
+unit of IT.  AC will be responsible for maintenance on all equipment installed as part of 
+the classroom technology project.  Each department receiving equipment must provide 
+AC with a key (or electronic access where applicable) to the designated classroom so that 
+routine maintenance can be performed.  A representative of AC will also serve as the 
+primary liaison between the university and the equipment vendors for any warranty 
+replacement needs.  
+
+Each department receiving equipment must designate a departmental representative both 
+to facilitate any maintenance requests and to function as the liaison between the 
+department and AC.  
+
+CTF-sponsored maintenance of equipment does not include the replacement of any lost 
+or stolen items; this is the responsibility of the individual departments.  
+
+The Office of the Provost, as the wards of the CTF, will work towards setting 
+aside a portion of the fund to be used for maintenance of installed equipment.  
+
+SECURITY  
+Security refers to the ongoing safety and security of all installed equipment which has 
+been purchased through the CTF.  
+
+A base level of security will be included with all CTF equipment—this includes locks on 
+all portable carts and lecterns.  A key to the lecterns may be obtained from AC.   
+However, as a recipient of equipment via the CTF, the receiving department has primary 
+responsibility for the physical security of the equipment and the replacement of any lost 
+or stolen items.  Accordingly, any equipment funded by the CTF will be placed on the 
+inventory of the receiving department.  
+
+
+
+ACCESS  
+Access to equipment installed by IT should be based on direct need.  The goal of 
+installing technology in the classroom is more than just the actual placement of 
+equipment, but also making it available to professors and instructors who will make 
+ready use of the equipment in their instruction of students.  
+
+Any department receiving equipment via the CTF will have primary access to the 
+facilities during standard teaching hours.  The host department should make available the 
+facilities to meet other university teaching needs during times when it is not using these 
+facilities to meet its own teaching needs.  CTF allocations are made with the 
+understanding that the receiving department will seek to maximize intradepartmental and 
+interdepartmental use of the technology and will promote efficient and fair use.  Evidence 
+to the contrary, e.g., lack of use, will affect future replacements, upgrades, and potential 
+new allocations to the department.  
+
+SCHEDULING  
+Scheduling refers to how access to equipment funded by the CTF will be facilitated.  
+
+IT will maintain a Web site (see www.olemiss.edu/umct/) listing the locations of all CTF 
+classrooms, the available equipment, and number of seats to assist the central 
+administration scheduling agent.  Departments and the central administration scheduling 
+agent should make every effort to maximize use of CTF facilities when making 
+scheduling decisions.  
+
+TRAINING  
+Training refers to the ongoing training of faculty and instructors on installed equipment 
+within departments which have CTF classrooms.  
+
+In order to best prepare faculty to use the equipment installed in classrooms by the CTF, 
+a two-tier training structure will be implemented.  
+
+First tier: Local Departmental Experts  
+Each department receiving equipment should designate a “local expert” who 
+will be available to answer immediate questions about how the equipment is 
+used.  (This information will also be posted near the installed equipment and 
+made available online.)  
+
+Second tier: The Office of Information Technology  
+IT will be responsible for scheduling multiple training opportunities for each 
+type of equipment installation option funded by the CTF.  These training 
+seminars will be provided at the beginning of each semester and at several 
+other times throughout the semester.  
+
+ENHANCEMENTS 
+ “Enhancements” refers to the ongoing technology upgrades and enhancement requests 
+in CTF and non-CTF classrooms.  
+
+There are three primary alternatives for requesting classroom technology enhancements:  
+
+
+
+ 
+Annual CTF Request 
+Annually, the Office of the Provost will contact academic administrators about 
+CTF opportunities along with instructions for submitting requests 
+electronically.  Working with the Office of the Provost, the Instructional 
+Technology Standing Committee reviews each CTF request against the available 
+CTF budget and makes recommendations. 
+ 
+ Other CTF Request 
+When departments have immediate needs for classroom technology enhancements 
+and would like CTF support, the academic administrator will contact the Office of 
+the Provost.  IT may be engaged to assist with the budget and schedule timelines 
+amid other technology initiatives. 
+ 
+Non-CTF Request 
+When departments have needs for technology enhancements with funding 
+support, the department may contact IT, if assistance is required beyond the local 
+department experts. 
+ 
+
+For each alternative, Facilities Planning may be initially engaged when changes to the 
+facilities are required.  Some examples include renovating buildings, replacing furniture, 
+and remodeling classrooms. 
+ 
+IT will make every effort to accommodate approved requests for classroom technology 
+enhancements in a timely manner.  In the majority of requests, classroom technology 
+initiatives require the assistance of Facilities Management for electrical wiring; IT 
+Telecommunications for network and cable wiring; and external vendors for the 
+technology installation as well as procurement restrictions that extend a project.  While 
+IT will assist each department with setting the appropriate turnaround time expectations 
+amid other technology projects, departments are encouraged to provide IT with advance 
+notice, so discussions about realistic timelines can begin early in project. 
+ 
+
+

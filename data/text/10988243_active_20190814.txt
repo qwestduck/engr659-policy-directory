@@ -1,0 +1,143 @@
+
+Certificates of Confidentiality 
+
+ 
+
+Summary/Purpose: Criteria for requiring Certificates of Confidentiality (CoC) to add protection 
+
+for sensitive human research where subjects can be identified. CoC cover investigators funded by 
+
+Public Health Service agencies automatically under Section 2012 of the “21st Century Cures 
+
+Act.” https://www.congress.gov/114/bills/hr34/BILLS-114hr34eah.pdf 
+
+ 
+
+Background and Applicability 
+
+(See content from NIH at http://grants1.nih.gov/grants/policy/coc/faqs.htm and from CDC at  
+
+https://www.cdc.gov/od/science/integrity/confidentiality/applinst.htm) 
+
+A Certificate of Confidentiality helps researchers protect the privacy of human research 
+
+participants enrolled in biomedical, behavioral, clinical and other forms of sensitive research. 
+
+Certificates protect against compulsory legal demands, such as court orders and subpoenas, for 
+
+identifying information or identifying characteristics of a research participant. 
+
+ 
+
+Any research project that collects personally identifiable, sensitive information and that has been 
+
+approved by an IRB is eligible for a Certificate. Federal funding is not a prerequisite for a 
+
+Certificate. 
+
+ 
+
+Sensitive information includes (but is not limited to) information relating to sexual attitudes, 
+
+preferences, or practices; information relating to the use of alcohol, drugs, or other addictive 
+
+products; information pertaining to illegal conduct; information that, if released, might be 
+
+damaging to an individual's financial standing, employability, or reputation within the 
+
+community or might lead to social stigmatization or discrimination; information pertaining to an 
+
+individual's psychological well-being or mental health; and genetic information or tissue 
+
+samples. 
+
+ 
+
+Studies eligible for a Certificate (partial list): 
+
+• Research on HIV, AIDS, and other STDs; 
+
+• Studies that collect information on sexual attitudes, preferences, or practices; 
+
+• Studies on the use of alcohol, drugs, or other addictive products; 
+
+• Studies that collect information on illegal conduct; 
+
+• Studies that gather information that if released could be damaging to a participant's 
+
+financial standing, employability, or reputation within the community; 
+
+• Research involving information that might lead to social stigmatization or discrimination 
+
+   if it were disclosed; 
+
+• Research on participants' psychological well being or mental health; 
+
+• Genetic studies, including those that collect and store biological samples for future use; 
+
+• Research on behavioral interventions and epidemiologic studies. 
+
+ 
+
+Studies ineligible for a Certificate: 
+
+• not research based, 
+
+• not approved by an IRB in accordance with these guidelines, 
+
+• not collecting sensitive information or information that might harm the research 
+
+  participants, or 
+
+• not collecting personally identifiable information. 
+
+https://www.congress.gov/114/bills/hr34/BILLS-114hr34eah.pdf
+http://grants1.nih.gov/grants/policy/coc/faqs.htm
+https://www.cdc.gov/od/science/integrity/confidentiality/applinst.htm
+
+
+The University of Mississippi 
+
+Page 2 of 2 
+
+Identifying characteristics include things such as: name, address, social security or other 
+
+identifying number, fingerprints, voiceprints, photographs, genetic information or tissue samples, 
+
+or any other item or combination of data about a research participant which could reasonably 
+
+lead, directly or indirectly by reference to other information, to identification of that research 
+
+subject. 
+
+ 
+
+UM Policy 
+
+ 
+
+The IRB generally limits requiring researchers to get Certificates to studies where there is a real 
+
+risk of a subpoena or court order to produce data and where identifying information is retained 
+
+for a significant period of time. 
+
+• The IRB will require a Certificate in studies collecting admissions of criminal activity. 
+These include studies on rape and illicit drug use, for example. 
+
+• Certificates will generally not be required for data that could be socially stigmatizing, 
+because these are less likely to be solicited by the legal system. 
+
+ 
+
+Researchers may opt to get Certificates without IRB mandate. Because Certificates require 
+
+altered consent forms, the IRB must be made aware of Certificates obtained by researchers, and 
+
+consent forms must comply with NIH / CDC requirements before IRB will approve them. [See 
+https://www.cdc.gov/od/science/integrity/confidentiality/CoCProtections.htm] 
+
+ 
+
+https://www.cdc.gov/od/science/integrity/confidentiality/CoCProtections.htm
+

@@ -1,0 +1,58 @@
+
+The University of Mississippi   
+ 
+ 
+
+Installation of Communication Services  
+
+Summary/Purpose:  Defines policy for University departments or external vendors wanting to 
+install temporary or permanent internal or external communications services or facilities on 
+campus.  
+
+Installation of communications services, defined below, must have approval of the 
+Telecommunications Center.  
+
+Communications services are as follows:  
+
+• Internal twisted pair wiring 
+ Twisted pair wiring used for voice, television, or network services   
+
+• External telephone cable 
+ Outside cable for voice, television, or network services  
+
+• Fiber optics cable – internal or external 
+ Fiber optics used for voice, data, or television services  
+
+• Coaxial cable – internal or external 
+ Cable used for cable television  
+
+• Jacks, connectors, faceplates and other ancillary equipment for voice, data or 
+television services  
+
+• Cords 
+ Line, handset, fiber optics jumpers, patch cords  
+
+• Equipment, ancillary devices, and services 
+ Satellite receivers – not permitted on student housing, academic, or 
+
+administrative buildings 
+ Routers, hubs, and switches for network services 
+ Key systems and telephones (analog or digital) 
+ Cellular antennas, kiosks, Cellular on Wheels, displays, tables, etc. 
+ Telephone lines from Bell South or other providers 
+ Data circuits (DSL, ISDN, T-1, OC-3, etc.)  
+
+ 
+If approved, installation of communications services must meet or exceed published University 
+specifications found at http://www.olemiss.edu/depts/telecommunications/specification.html.  
+
+Installation of equipment or services associated with a wireless network requires approval of the 
+Office of Information Technology before installation.  
+
+Installation of special wiring for fire alarms, burglar alarms, energy management, door access 
+systems, intercom systems, and so on must be approved by the Physical Plant Department.  
+
+Policy Code ADM.TC.300.160.  The University of Mississippi Policy Directory 
+Page 1 of 1 Generated on 02/20/2009 at 13:48:01 CST  See http://www.olemiss.edu/policies for full details. 
+
+

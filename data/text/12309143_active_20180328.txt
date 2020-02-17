@@ -1,0 +1,265 @@
+
+Policy on HIPAA Compliant Research  
+HIPAA Policy:  Privacy 10 
+
+ 
+
+1 
+ 
+
+Summary: Outlines the rules for using protected health information from HIPAA 
+covered entities in research. 
+ 
+Affected Individuals:  Researchers intending to use protected health 
+information, members of the UM Institutional Review Board, staff at HIPAA 
+covered entities, patients at HIPAA covered entities 
+  
+
+1.0 PURPOSE 
+ 
+The purpose of this policy is to guide University of Mississippi (UM) employees and 
+students, who are involved with research, in obtaining an authorization for the use and 
+disclosure of protected health information and/or a waiver in whole or in part of such 
+authorization as required through the Health Insurance Portability and Accountability Act 
+(HIPAA). 
+
+ 
+2.0 SCOPE 
+ 
+The UM Policy on HIPAA Compliant Research applies to any UM employee or student 
+involved in obtaining an authorization or waiver for research purposes. 
+
+ 
+3.0 STANDARDS 
+ 
+Research conducted pursuant to an authorization from the participant – It is UM policy 
+that investigators of research studies involving human participants obtain a HIPAA 
+compliant authorization from the participant upon enrollment in the study.  The 
+authorization may be combined with other types of written permissions, including the 
+informed consent document for the study, but all core elements and statements, as 
+listed in section 3.1 below must be included. 
+ 
+Research conducted pursuant to a waiver in whole or in part of the authorization 
+requirement – It is UM policy to allow investigators to seek a waiver, from the UM 
+Institutional Review Board (IRB), in whole or in part of the authorization requirement.  
+The primary investigators seeking such a waiver should follow the waiver request 
+procedures as listed in section 3.2. 
+ 
+Research using a limited data set – It is UM policy that in some cases, researchers 
+seeking PHI from UM can perform the research without an authorization from the 
+participant or a HIPAA waiver from the IRB, if he/she plans to use a limited data set.  
+The researcher may simply request PHI from the covered entity with only limited 
+identifying information on it.  If the researcher wishes to do this, then he/she must enter 
+into a data use agreement with UM.  A data use agreement assures appropriate use of 
+the PHI by the researcher and that the researcher will not identify the information or 
+contact the individuals.  See section 3.3 below for more information on what identifiers 
+must be removed before the PHI will be considered a limited data set. 
+
+
+
+Policy on HIPAA Compliant Research  
+HIPAA Policy:  Privacy 10 
+
+ 
+
+2 
+ 
+
+ 
+3.1 Authorizations – Research authorizations should be signed by each participant 
+that enrolls in a study, unless the IRB grants in whole or in part a waiver to the 
+authorization requirement.  The authorization should provide the researcher the 
+permission needed to use and disclose PHI for the research project.  The authorization 
+must contain the following core elements and statements: 
+
+ A description of the information to be used and/or disclosed that identifies 
+the information in a specific and meaningful fashion. 
+
+NOTE: Psychotherapy (psychiatric) information can be disclosed 
+only if such information is specifically requested in the 
+authorization.  For more detailed instructions on how to handle the 
+release of psychotherapy notes, see section 3.6 of Access, Uses & 
+Disclosures of PHI Policy; 
+
+ The name or other specific identification of the person(s), or class of 
+persons, authorized to make requested disclosure; 
+
+ The name or other specific identification of the person(s), or class of 
+persons, to whom UM may make the requested disclosure – this should 
+include all person(s) or entities to whom UM may disclose the PHI created 
+through the research project.  For example: an authorization form for a 
+multi-center study should list all entities who are participating in the study 
+and may therefore have access to the PHI during the research study; 
+
+ A description of each purpose of the use or disclosure; 
+
+ An expiration date or a description of an event upon which the authorization 
+will expire must be on the authorization; if applicable.  It is allowable for the 
+authorization to simply state “the end of the study”.  If the primary 
+investigator decides that the research project will not have an expiration 
+date or event, then the authorization must state this fact.  This allows the 
+researcher to use the information after the research study has ended; 
+
+ Signature of the individual and date; and 
+
+ If the authorization is signed by a legal representative (personal 
+representative), or guardian of the individual, a description of such 
+representative’s or guardian’s authority to act for the individual must be 
+provided or noted. 
+
+ 
+Required Statements: 
+
+ A statement of the individual’s right to revoke the authorization in writing 
+and the exceptions to the right to revoke, together with a description of 
+how the individual may revoke the authorization.  Although a patient can 
+revoke his/her authorization, the researcher can still use and disclose 
+that information collected prior to receiving the revocation, to the extent 
+necessary to preserve the integrity of the research study. 
+
+ A statement that treatment, payment, and enrollment will be conditioned 
+upon obtaining the signature of the participant and that refusal to sign 
+the consent will prohibit the participant from participating in the study; 
+and 
+
+
+
+Policy on HIPAA Compliant Research  
+HIPAA Policy:  Privacy 10 
+
+ 
+
+3 
+ 
+
+ A statement that information used or disclosed pursuant to the 
+authorization may be subject to re-disclosure by the recipient and may 
+no longer be protected by this rule. 
+
+ 
+
+The authorization may be a separate document or it may be combined with any other 
+type of written permission for the same research study, such as the informed consent or 
+another authorization for the same research study. When combined it must be clear to 
+the participant the component of the research for which authorization is required 
+(conditioned) in order to participate, versus the components of the research that are 
+optional (unconditioned). It must be clear to the participant that participation in the 
+unconditioned component is optional.   
+ 
+An authorization for research involving psychotherapy notes can only be combined with 
+other authorizations to use or disclose psychotherapy notes.  
+ 
+Authorizations including a statement for future research must adequately describe such 
+purposes such that it would be reasonable for the participant to expect that his/her PHI 
+could be used or disclosed for future research.  
+ 
+As is currently done with the informed consent, the authorization must be included in the 
+material submitted to the IRB for approval before it can be used.  Where authorization is 
+required, no research should be conducted prior to obtaining authorization from the 
+participant. 
+ 
+3.2 Waivers – It is the policy of UM to allow researchers to seek a waiver in whole or in 
+part of the authorization requirement.  To qualify for such a waiver, the researcher must 
+obtain approval from the IRB.  The documentation must show the three defined waiver 
+criteria, as listed in bullets below, have been sufficiently met by the researcher.  The 
+researcher must describe in as specific detail as possible how he/she plans to meet 
+each of the waiver criteria below.  If the IRB agrees that the researcher has met the 
+criteria, the IRB must document as such. 
+Waiver criteria: 
+
+ The use or disclosure of PHI involves no more than a minimal risk to the privacy 
+of individuals based on at least the presence of the following elements: 
+
+o An adequate plan to protect the identifiers from improper use and 
+disclosure; 
+
+o An adequate plan to destroy the identifiers at the earliest opportunity 
+consistent with conduct of the research unless there is a health or research 
+justification for retaining the identifiers or such retention is otherwise 
+required by law; 
+
+o Adequate written assurances that the PHI will not be reused or disclosed to 
+any other person or entity, except as required by law, for authorized 
+oversight of the research study, or for other research for which the use or 
+disclosure of PHI would be permitted; 
+
+ The research could not practicably be conducted without the waiver or alteration; 
+and 
+
+
+
+Policy on HIPAA Compliant Research  
+HIPAA Policy:  Privacy 10 
+
+ 
+
+4 
+ 
+
+ The research could not practicably be conducted without access to and use of the 
+PHI. 
+
+ 
+3.3 Research using a limited data set – To be considered a limited data set, the 
+following information must be removed from the PHI, before it is disclosed to a 
+researcher: 
+ 
+
+Names Account numbers 
+
+Postal address information, other than 
+town or city, state and zip code 
+
+Certificate/license numbers 
+
+Telephone numbers Vehicle identifiers and serial numbers, 
+including license plate numbers 
+
+Fax numbers Device identifiers and serial numbers 
+
+Electronic mail address Web universal resource locators 
+
+Social security numbers Internet protocol address numbers 
+
+Medical record numbers Biometric identifiers, including finger 
+and voice prints 
+
+Health plan beneficiary members Full face photographic images and any 
+comparable images 
+
+ 
+3.4 Disclosures of PHI to a researcher for purposes of developing a research 
+protocol or to be used by the researcher for research that will be conducted on 
+only decedents’ information – Certain representations, as described in bullets below, 
+must be received from the researcher, before the disclosure can occur.   
+These representations should be made by completing a data use agreement and 
+submitting the information to the area from which the information is being sought.   
+
+ 
+3.5 Creation of Research Databases – Databases created specifically for research 
+purposes can be created with an authorization from each patient included in the database, 
+pursuant to a waiver in whole or in part to the authorization requirement. 
+
+o Databases compiled pursuant to patient authorization: 
+o Authorization is for use and disclosure of PHI to create a database 
+
+or to manipulate PHI to create a database or to bank tissue for future 
+research; 
+
+o Authorization is not for use or disclosure for a specific protocol. 
+o Databases created under a waiver of authorization from the IRB: 
+
+o Waiver can only be granted if the researcher represents to the IRB 
+that the database is solely for the manipulation or storage of the PHI, 
+not for use in a specific protocol. 
+
+ 
+4.0 CONTACT INFORMATION 
+ 
+For questions about the UM Policy on HIPAA Compliant Research or for more 
+information, call the Institutional Review Board at 662-915-7482 or the Office of General 
+Counsel at 662-915-7014.  
+
+
+
+

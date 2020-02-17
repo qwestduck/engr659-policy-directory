@@ -1,0 +1,790 @@
+
+ The University of Mississippi  
+
+Page 1 of 11  
+
+Policies on Distance Education and Off-Campus Programs 
+ 
+
+Preface 
+
+ 
+
+This is a set of policies and procedures for distance education and off-campus courses and 
+
+programs offered by the University of Mississippi (the University).  Distance education offerings 
+
+are administered by the Division of Outreach and Continuing Education.  Additionally, this 
+
+policy addresses the relationship between distance education activities offered by this university 
+
+and those programs involving other institutions. 
+
+ 
+
+Important issues covered in this policy include the role of faculty in the approval of distance 
+
+education courses and programs, the integration of such programs with our traditional 
+
+offerings, the student learning outcomes of distance education programs, faculty involvement 
+
+with distance education, and learning support services. 
+
+ 
+The following are guiding principles upon which the policies are based: 
+
+ 
+
+ The faculty has a collective responsibility to ensure the academic quality and integrity 
+
+of courses and degree programs. 
+
+ Distance education (DE) and off-campus (OC) courses and programs should be 
+
+consistent with the academic mission of the University. 
+
+ All courses shall include the opportunity for adequate interactions between faculty and 
+
+students, as well as communication among students when possible. 
+
+ Admissions criteria for degree programs should be equivalent for on- and off-
+
+campus sites. 
+
+ Student learning outcomes should be comparable for programs offered via various 
+
+modes. 
+
+ Students should have adequate access to learning resources and student support services. 
+
+ The University should provide appropriate training and support services for faculty 
+who teach distance education and off-campus courses. 
+
+ All distance education and off-campus offerings must adhere to the Southern 
+
+Association of Colleges and Schools Commission on Colleges (SACSCOC) distance 
+
+learning criteria, and, where applicable, to the appropriate accreditation association 
+
+guidelines for the individual disciplines. 
+
+
+
+ The University of Mississippi  
+
+Page 2 of 11  
+
+I. Definition of Terms 
+ 
+
+Distance Education (DE) consists of all arrangements for providing instruction through 
+
+technology-based delivery modes to persons engaged in planned learning in a place or at a time 
+
+different from that of the instructor or instructors.  Instruction may be synchronous or 
+
+asynchronous.  Synchronous indicates the instructors and students communicate in real time, 
+
+while asynchronous indicates the instructors and students participate and communicate at 
+
+different times.  
+
+ 
+
+A regional campus or delivery site is a location (collectively referred to as an off-campus (OC) 
+
+location) that is physically at a distance from the main campus.  Instruction at off-campus 
+
+locations may use the traditional instructor-class format or a DE technology, such as a class 
+
+taught at the main campus that is transmitted to an off-campus location using technology-based 
+
+instruction.  A course delivered off campus in a traditional instructor-class format is considered a 
+
+DE course only if the course also involves a significant degree of technology-based instruction.  A 
+
+“significant degree” is defined by the criterion that a student’s success in the class requires him or 
+
+her to have access to the DE technology (i.e., the student cannot have a reasonable chance to 
+
+achieve comparable learning and class success by employing non-technology based methods).  By 
+
+this definition, an off-campus course, in which an instructor supplements a traditional in-person 
+
+delivery with on-line delivery or materials, may or may not be considered a DE course, depending 
+
+on how significant the on-line component is to successfully learning the subject matter. 
+
+ 
+
+Instruction refers to any course that results in academic credit.  Non-credit-based courses are 
+
+not required to be governed by this policy statement. 
+
+ 
+
+Technology-based instruction includes, but is not limited to, instruction that uses the 
+
+internet; one-way and two-way transmissions through open broadcast, closed circuit, cable, 
+
+microwave, broadband lines, fiber optics, satellite, or wireless communications devices; audio 
+
+conferencing; or video cassettes, DVD’s, and CD-ROMs, television, other electronic media, 
+
+and a combination of telephone with any of the above video modes. 
+
+ 
+
+Learning management systems refer to such programs as Blackboard, which can provide an 
+
+internet-based interface for online communication between instructors and students.  This type 
+
+of system enables posting of course content, assignments, announcements, e-mail contact, and 
+
+chat room. 
+
+ 
+
+A hybrid course describes a course in which some traditional face-to-face instruction has been 
+
+replaced with online learning activities or other technology-based instruction.  A hybrid course is 
+
+designed to integrate face-to-face and online activities to reinforce or complement one 
+
+another.  The online component may be anywhere from 20-50% of the course. 
+
+ 
+
+An online course is one in which 51% or more of the instruction and learning activities occur 
+
+via the internet (online), either synchronous or asynchronous, and is often a combination of the 
+
+two.  
+
+ 
+
+
+
+ The University of Mississippi  
+
+Page 3 of 11  
+
+An iStudy course is an independent study course for college credit.  iStudy courses are flexible 
+
+and self-paced. They may be online and/or paper-based.  For degree-seeking students, the Dean’s 
+
+approval is needed to apply iStudy course credit to the degree. 
+
+ 
+
+An online educational program is any program where 51% or more of the program content is 
+
+delivered through online courses or other electronic means. 
+
+ 
+
+A hybrid educational program is an educational program where 25-50% of the program 
+
+content is delivered through online courses or other electronic means. 
+
+ 
+
+Note:  Study Abroad is not considered a DE/OC course.  
+
+ 
+
+II. Goals of Distance Education and Off-Campus Programs Offered at the University 
+of Mississippi 
+
+ 
+
+Distance education (DE) and off-campus (OC) programs are intended to provide increased 
+access to higher education for individuals who are not able to access traditional campus-based 
+
+study.  DE/OC programs minimize or alter the barriers of time, distance, physical disability, and 
+
+personal and professional responsibilities that may otherwise hinder students’ access to 
+
+traditional study.  
+
+ 
+
+It is the goal of the University that there be no difference in the academic quality and student 
+
+learning standards between courses and programs delivered through DE technologies and those 
+
+taught in a traditional manner.  To this end, academic standards for DE/OC courses and 
+
+programs shall be comparable to those in the same course delivered on campus.  The academic 
+
+department of origin shall be responsible for all accreditation and faculty standards. 
+
+ 
+III. Curriculum and Instruction  
+
+ 
+
+A variety of academic issues are raised by DE/OC courses and programs.  DE/OC programs and 
+
+courses adhere to the same academic standards, policies, and rigor as those offered on campus.  
+
+The courses and programs are approved through the usual university curriculum approval 
+
+process. Selection of courses/programs to be offered is the purview of the appropriate academic 
+
+unit, which provides faculty oversight of the program/course.  For all degree programs offered 
+
+through DE and/or at OC locations, the programs should embody a coherent course of study that 
+
+is compatible with the University’s mission and is based upon a field of study appropriate to 
+
+higher education.  
+
+ 
+
+Before any newly created course or program that involves DE delivery or delivery to an OC 
+
+location is offered by the University, a request for such a new DE/OC course or program must 
+
+originate in and be approved by an academic department and dean (and the Curriculum and 
+
+Policy Committee in certain schools or the College). The approval process  
+
+  
+
+
+
+ The University of Mississippi  
+
+Page 4 of 11  
+
+then follows the typical academic workflow process.  The Graduate and/or Undergraduate 
+
+Council reviews the academic content and faculty qualifications for the new DE/OC courses or 
+
+programs.  The Council or Councils will exercise their authority to approve or disapprove the 
+
+requests.  The Council of Academic Administrators reviews and approves/disapproves the 
+
+proposed new course or program.  If a proposed course or program is approved through these 
+
+channels, the Office of the Provost is responsible for seeking further approval from the IHL 
+
+Board and/or informing SACSCOC when appropriate. 
+
+ 
+
+When courses are scheduled to be offered through DE or at OC locations, the delivery method 
+
+and/or location is indicated during the event planning (i.e., course scheduling) process.  The 
+
+location and/or mode must be approved by the academic department chair and respective dean.  
+
+If a department chair and dean are changing (adding or deleting) DE/OC course offerings or 
+
+programs, they should consult with the relevant OC locations and the Division of Outreach and 
+
+Continuing Education.  
+
+ 
+IIIa.  Calendar issues:  As a general rule, courses taught at OC locations, online, or as hybrid 
+
+courses, follow the common academic calendars.  University of Mississippi (UM) students also 
+
+may complete online or term-based iStudy courses.  All term dates associated with University 
+
+policies, the academic calendar, and catalog are applied. 
+
+ 
+
+Full-year iStudy courses are available to both UM students and non-UM students.  These are 
+
+full-year courses and are not tied to the term academic calendar. A student has one year from 
+
+enrollment to complete a full-year iStudy course.  The minimum time for completion of an 
+
+asynchronous course is two months.   
+
+ 
+IIIb.  Academic integrity of DE/OC courses:  Maintaining the academic integrity of DE/OC 
+
+courses is a major concern. The University’s policies regarding academic integrity apply fully to 
+
+DE/OC courses and programs. 
+
+ 
+
+ For courses that involve graded tests as a major component in determining a student’s grade, the 
+
+Division of Outreach and Continuing Education will assist in the identification of test-taking 
+
+locations and exam proctors (e.g., testing center, regional campus sites, ProctorU).  The 
+
+University Proctored Assessment Policy and the Independent-Study Proctored Testing Policy 
+
+outline student responsibilities for taking proctored exams.   
+
+ 
+
+The University operates in compliance with the US Federal Higher Education Opportunity Act 
+
+concerning the verification of student identity and the student’s right to privacy in DE.  
+
+Additional details of our policy can be found in the University’s Policy for Student Information 
+
+and Privacy in Online Education.  The University will verify student identity using at least one of 
+
+these methods: individual secure login and password provided by the University of Mississippi, 
+
+proctored assessments, other emerging technologies and practices shown to be effective in 
+
+verifying student identification, and pedagogical and related practices that are effective in 
+
+verifying student identity.  Faculty are taught best practices for student authentication and must 
+
+implement at least one student identification technique.  Faculty are encouraged to use 
+
+Blackboard, which requires a secure login and password for each student to access course 
+
+
+
+ The University of Mississippi  
+
+Page 5 of 11  
+
+materials and submit assignments.  Students will be notified at the time of registration/enrollment 
+
+of any fees associated with verification of student identity.  Students are responsible for paying 
+
+proctor fees required by some testing services. 
+
+ 
+
+Online students are subject to the same attendance policies and procedures as traditional 
+
+students.  Student attendance in online courses is further defined and outlined in the University’s 
+
+Attendance Policy for Online Education. Attendance is defined as active participation in the 
+
+course as described in the individual course syllabus.  
+
+ 
+
+Accurate headcount enrollment reports for courses at OC locations, for online courses, and for 
+
+iStudy courses are maintained by the Office of Institutional Research, Effectiveness, and 
+
+Planning. 
+ 
+
+IIIc.  Amount and level of credit:  The University of Mississippi employs sound and acceptable 
+
+practices for determining the amount and level of credit awarded and justifies the use of a unit 
+
+other than a semester credit hour by explaining its equivalency. 
+
+ 
+
+IIId.  Residence credit versus transfer credit:  DE/OC courses offered by the University and taken 
+
+by students at OC locations are considered to be resident credit.  Online and iStudy courses are 
+
+also considered to be resident credit.  
+
+ 
+
+Courses taken by DE and offered by another regionally accredited institution (e.g., 
+
+correspondence or internet-based courses offered by another accredited institution) are 
+
+considered to be transfer credit, and the pertinent rules apply.  An exception to this is the case in 
+
+which a DE course has been approved to be offered by the Mississippi IHL in a collaborative, 
+
+cooperative, or dual manner by more than one state institution.   
+
+ 
+
+IIIe.  Transcripts and notation for DE/OC courses:  Transcripts for University students 
+
+indicate year-long iStudy courses. Online courses, term-based iStudy courses, and courses 
+
+taken at OC locations have no special notation on transcripts. 
+
+ 
+
+IIIf.  It is the policy of the University that academic support and learning support services must 
+be appropriate and specifically related to the DE/OC courses and programs offered.  These 
+
+services are coordinated through the Division of Outreach and Continuing Education. 
+
+ 
+
+IV. Institutional Effectiveness and Assessment   
+ 
+
+Academic programs that are delivered through DE/OC are subject to the same type of assessment 
+
+procedures as other programs, including the assessment of student learning outcomes, student 
+
+retention, and student evaluation.  The Division of Outreach and Continuing Education manages 
+
+a process for online course and program review.  Students enrolled in DE/OC courses are 
+
+provided the opportunity to participate in the course and instructor evaluation process, similar to 
+
+the main campus process.  The OC locations also assess the effectiveness and efficiency of 
+
+delivery, the availability of academic and student support services, and student access to 
+
+faculty. 
+
+
+
+ The University of Mississippi  
+
+Page 6 of 11  
+
+ 
+
+ 
+
+ 
+V. Fiscal Issues 
+
+ 
+
+Va. Tuition and fees:  The Division of Outreach and Continuing Education, in collaboration 
+
+with the Office of the Provost and the Vice Chancellor for Administration and Finance, 
+
+recommends tuition rates, which must be approved by the IHL Board.  Tuition rates may 
+
+vary based on the method of delivery and the program of study.  There are online course 
+
+fees associated with online courses.  Non-residents are charged a non-resident fee when 
+
+taking online courses and term-based iStudy courses. Non-residents are not charged non-
+
+resident fees when taking year-long iStudy courses.  Non-residents are not charged non-
+
+resident fees when participating in particular on-line academic programs.  It is also 
+
+important to note that financial aid policies regarding Cost of Attendance estimates, 
+
+awarding, and disbursement of aid can be impacted by the type of course.  Term-based 
+
+online courses are typically treated like traditional courses for purposes of financial aid, but 
+
+special rules apply for iStudy and online degree programs. Scholarships may or may not 
+
+cover all of the fees.  
+ 
+
+Vb. FTE credits:  According to IHL Policy, all FTE credits for DE/OC courses shall reside 
+
+with the institution where students are enrolled, and credit hours generated in DE/OC 
+
+courses/programs may be included in the institution’s instruction budget base.  Off-campus 
+
+locations may have a separate budget and allocation from the state. 
+
+ 
+
+VI. External Factors 
+
+ 
+
+VIa. Marketing and assessing course/program demand:  Determining the demand for courses 
+
+and programs is a duty of academic departments, schools, and the Division of Outreach and 
+
+Continuing Education.  Appropriately advertising courses and programs is the duty of the 
+
+Division of Outreach and Continuing Education in conjunction with departments. 
+
+Advertising, recruiting, and admissions information must adequately and accurately represent 
+
+the DE/OC programs, requirements, and services available. 
+ 
+
+VIb. Accreditation:  Reporting changes in DE/OC course/program offerings to SACSCOC and 
+
+the IHL Board is the duty of the Office of the Provost.  The academic department, dean of the 
+
+school, director of the Division of Outreach and Continuing Education, and the Provost are 
+
+jointly responsible for assuring that accreditation criteria for both regional and disciplinary 
+
+agencies are  met.  The Guidelines for Identifying Substantive Changes explain the steps and 
+
+responsibilities for reporting changes to SACSCOC. 
+
+ 
+
+VIc. State-wide DE activities:  The University’s DE activities must adhere to the IHL 
+
+Board’s Distance Learning Policy. 
+
+ 
+
+VId. Courses developed by faculty for electronic offering, through oversight by the Office of 
+
+
+
+ The University of Mississippi  
+
+Page 7 of 11  
+
+Online Design and eLearning within the Division of Outreach and Continuing Education, are 
+
+considered to be the intellectual property of the creator.  The University retains the right to the 
+
+Fair Use of the materials (see below). 
+
+  
+
+
+
+ The University of Mississippi  
+
+Page 8 of 11  
+
+VII. Faculty Issues 
+
+ 
+
+VIIa.  Faculty qualifications and training:  A faculty member offering a DE/OC course must be 
+
+qualified to do so. Assigned faculty for DE/OC courses will have comparable expertise, 
+
+experience, and rank as faculty assigned to face-to-face courses.  To offer an undergraduate 
+
+course, the faculty instructor must have a masters degree in the teaching discipline.  To offer a 
+
+graduate course, the faculty instructor must have a terminal degree in the teaching discipline. In 
+
+exceptional cases, other relevant experiences may be substituted for the advanced degree. 
+
+ 
+
+Before being compensated for teaching a DE/OC course, the instructor must submit an official 
+
+transcript of his or her terminal degree to the Department of Human Resources.  For faculty 
+
+teaching graduate courses via DE/OC, a resume demonstrating expertise in the subject matter 
+
+must be submitted to and evaluated by the chair of the department in which the course is 
+
+taught.  The Dean of the Graduate School must approve membership in the Graduate Faculty.  
+
+The department chair is responsible for ensuring that the instructor has submitted his or her 
+
+transcript and resume. 
+
+ 
+
+Before an instructor can be added as the instructor of record for a web-based DE course, she/he 
+must be endorsed by the Office of Online Design and eLearning within the Division of 
+
+Outreach and Continuing Education.  To be endorsed, instructors must obtain approval to teach 
+
+online from their department chair and complete the eLearning Teaching Course.  Additional 
+
+information about instructor training for online courses can be found in the Division of 
+
+Outreach and Continuing Education’s Online Policy and Procedure Manual. 
+
+ 
+
+The Division of Outreach and Continuing Education provides development opportunities for 
+faculty to increase their awareness of DE methodologies and improve their instructional skills.  
+
+The University provides adequate equipment, software, and communications access to support 
+
+faculty-student interactions.  Faculty are responsible for informing students about technical skill 
+
+prerequisites and required hardware, software, and supplemental materials necessary for course 
+
+participation in each syllabus.   
+
+ 
+
+VIIb.  Teaching assignments; “in-load” versus “off-load”:  Whether a course to be taught by a 
+
+faculty instructor is “in-load” or “off-load” determines whether extra compensation can be 
+
+earned.  This determination is made by the department chair, academic dean, and Division of 
+
+Outreach and Continuing Education.  Ordinarily, DE/OC courses offered through the Division 
+
+of Outreach and Continuing Education are considered to be “off-load” assignments for Oxford-
+
+based faculty.  However, if a faculty member is hired with the understanding that he or she will 
+
+teach courses, whether by DE or traditional mode to students at off-campus sites or online, 
+
+teaching assignments will ordinarily be considered “in-load,” even if the courses are 
+
+administered by the Division of Outreach and Continuing Education.  Online courses offered by a 
+
+faculty member as an alternate way to deliver a course to students on campus would most likely 
+
+be considered in-load.  
+ 
+
+  
+
+
+
+ The University of Mississippi  
+
+Page 9 of 11  
+
+VIIc.  Faculty compensation for teaching a DE course:  The Division of Outreach and 
+
+Continuing Education, with approval by the Provost, will establish compensation levels for 
+
+faculty, temporary faculty, and graduate instructors involved in the delivery of DE/OC courses.  
+
+This is outlined in the Division of Outreach and Continuing Education Online Policy and 
+
+Procedure Manual. 
+
+  
+
+VIId.  Faculty participating in DE courses offered by other institutions:  If a faculty member 
+
+offers a DE course in collaboration with another Mississippi institution, with the Division of 
+
+Outreach and Continuing Education being the facilitator, the faculty member will be eligible for 
+
+additional compensation according to standard policies of the Division of Outreach and 
+
+Continuing Education.  A full-time faculty member may not be employed by another 
+
+educational institution or agency for the purpose of offering a credit-bearing course during the 
+
+time when the faculty member is employed by the University, unless approved by the Provost.  
+
+ 
+
+VIIe.  Faculty training in the development of DE delivery technologies:  When DE is used, 
+
+staff in the Division of Outreach and Continuing Education are responsible for providing 
+
+technical assistance and any training in the use of the equipment.  For internet-based DE courses, 
+
+resources of Academic Computing, including the equipment in the Faculty Technology 
+
+Development Center, are available to faculty to enable them to develop the educational 
+
+materials. 
+
+ 
+
+VIII. Ownership of Educational Materials 
+ 
+
+When faculty create technology-based instructional materials, the University’s Copyright Policy 
+
+applies.  Except in cases of specific assignments to create electronic instructional materials and 
+
+cases of substantial use of University resources in the creation of such materials, a faculty 
+
+instructor will own the copyright to the intellectual property.  The University, however, reserves 
+
+the right to claim Fair Use of such electronic instructional materials for its intended instructional 
+
+purpose.  If funds or release time is provided to a faculty member to develop technology-based 
+
+course materials, it is important to prepare a written memorandum, signed by both the faculty 
+
+member and the appropriate administrative unit, to clearly explain issues related to ownership and 
+
+intended use of the course materials. 
+
+ 
+
+IX. Learning and Library Resources  
+ 
+
+The Division of Outreach and Continuing Education is primarily responsible for maintaining and 
+
+operating DE rooms on the Oxford campus and at the Booneville, DeSoto, Grenada, and Tupelo 
+
+locations.  The Division of Outreach and Continuing Education will be responsible for providing 
+
+adequate, accessible, internet-connected computer labs and facilities at the OC sites for students 
+
+enrolled in OC courses through the Division of Outreach and Continuing Education.  The Office 
+
+of Information Technology will assist in providing adequate internet access support at these 
+
+sites.  Academic Computing will support Blackboard or other course management programs and 
+
+will provide assistance to students in using these technologies.  
+
+ 
+
+
+
+ The University of Mississippi  
+
+Page 10 of 11  
+
+  
+
+
+
+ The University of Mississippi  
+
+Page 11 of 11  
+
+On-line library services are available to OC students.  The Division of Outreach and Continuing 
+
+Education and the J. D. Williams Library will work together to provide delivery of library 
+
+materials to OC students.  Working within its fiscal restraints, the J. D. Williams Library is 
+
+responsible for maintaining an adequate set of on-line reference materials for the classes 
+
+delivered off campus.  
+
+ 
+
+X. Student Services and Policies 
+
+ 
+
+Appropriate student services, including academic advising, financial aid services, registration 
+
+assistance, and proctoring of exams, will be coordinated by the Division of Outreach and 
+
+Continuing Education for students at OC locations or engaged in DE courses or programs 
+
+offered through the University.  Students have access to a range of student services, including 
+
+procedures to resolve complaints, disability services, and career services. 
+
+ 
+
+All University academic, privacy, and conduct policies apply to students enrolled in 
+
+DE/OC courses and programs.  The  Policy for Student Information and Privacy in 
+
+Online Education ensures that the University operates in compliance with federal 
+
+and state laws, including FERPA.  Information about Student Privacy Rights, 
+
+FERPA, and the University’s processes for complying with its provisions are 
+
+published in the student handbook.   
+
+ 
+
+ 
+
+ 
+
+

@@ -1,0 +1,142 @@
+
+ 
+The University of Mississippi 
+
+ 
+
+Exempt Human Research 
+
+Summary/Purpose: Criteria for classifying exempt research; IRB decision-making process  
+
+ 
+
+A. Classification Criteria:  
+
+ 
+
+All research activities involving human subjects under the jurisdiction of the UM IRB will be 
+
+reviewed, with the exception of certain QA/QI research (see IRB Policy to Exclude Certain Forms of 
+
+Quality Assurance and Quality Improvement Research from Review).  
+
+ 
+
+Many UM research activities involving human subjects are exempt from the requirement that they 
+
+receive IRB full or expedited review. The categories of these activities are described in 45 CFR 
+
+46.104(d)(1) through (6) and in the IRB’s Screening/Abbreviated Exempt Application. The 
+
+research activities described in categories (7) and (8) will be reviewed as expedited, using the full 
+
+protocol application form Application to Conduct Research with Human Subjects. The IRB alone 
+
+determines which activities qualify for exempt review. Investigators are not authorized to make this 
+
+determination. They must complete the Exempt application and submit it for IRB determination of 
+
+level of review.  
+
+ 
+
+The exemptions provided in 45 CFR 46.104(d)(1) through (6) do NOT apply to research involving 
+
+prisoners.  The exemptions provided in 45 CFR 46.104(d)(1) and (3) will NOT be applied to research 
+
+involving children.  
+
+ 
+
+Research determined to be exempt from IRB full board or expedited review is not exempt from 
+
+procedures to protect human subjects. The following criteria to protect human subjects must be met 
+
+for all exempt research involving human subjects:  
+
+ 
+
+1. All researchers must be trained in relevant ethical principles, Federal Regulations, and institutional 
+
+policies governing human subject research using the appropriate CITI course (or approved 
+
+alternative);  
+
+a. Exception: A subset of exempt research may require no training (e.g., de-identified data 
+
+analysis, brief and innocuous surveys or interviews of adults, or other studies as determined 
+
+by the IRB on a case by case basis).  
+
+ 
+
+2. In almost all cases, the investigator must obtain voluntary consent (verbal acknowledgement or 
+
+simply engaging in study procedures) from the research subjects to participate in the research and 
+
+inform subjects that the activity involves research and has been approved by the IRB. It may be 
+
+appropriate to include other information such as a description of procedures, risks and benefits, and 
+
+IRB and investigator contact information.  
+
+ 
+
+3. To the extent that the research involves risks and/or benefits to subjects, the investigator should 
+
+generally select subjects equitably, so that those risks and benefits are justly distributed. 
+
+ 
+
+4. The investigator must submit any changes to the approved protocol for review and approval before 
+
+initiating those changes.  
+
+http://www.research.olemiss.edu/sites/default/files/NEW%20IRB_Exemption_Application_2019_0_0.doc
+http://www.research.olemiss.edu/sites/default/files/IRB_Application_FORM__2017_0.doc
+
+
+5. The investigator must promptly inform the IRB of any unexpected or adverse events or any 
+
+complaints from subjects. 
+
+ 
+
+6. The investigator must protect confidentiality and privacy of the subjects and maintain identifiable 
+
+research data securely to ensure minimal risk to subjects.  
+
+ 
+
+B. Decision-Making Process  
+
+ 
+
+The following process is used for research that may be exempt from IRB full board or expedited 
+
+review:  
+
+• An IRB Research Compliance Specialist (RCS) receives and screens all applications 
+
+submitted to the IRB for level of review.  
+
+o If a protocol does not precisely fit exempt category criteria in 45 CFR 
+
+46.104(d)(1) through (6),  
+
+ The RCS consults with a second RCS, the IRB chair or the Director of 
+Research Integrity and Compliance (all maintain IRB membership) 
+
+ If there’s no consensus, the RCS brings the protocol to the entire IRB 
+Executive Committee (RCS, IRB chair, Director of Research Integrity and 
+
+Compliance) for discussion and majority vote on review classification. 
+
+o The IRB may move a protocol from exempt review to expedited or full board 
+
+review, even if it meets all relevant exempt review criteria, because of risks, benefits, 
+
+and other ethical issues.  
+ 
+
+

@@ -1,0 +1,129 @@
+
+Minimum Necessary Uses Disclosures of PHI 
+HIPAA Policy:  Privacy 09 
+
+ 
+
+1  
+
+ 
+
+ 
+
+Summary:  Staff making required disclosures of PHI should limit the disclosure to the 
+minimum amount of information necessary to achieve the intended purpose of the 
+disclosure. 
+ 
+Affected Individuals:  Staff at HIPAA covered entities 
+
+ 
+
+1.0 PURPOSE 
+ 
+
+To guide University of Mississippi (UM) employees at HIPAA covered entities in 
+making reasonable efforts to limit disclosure of protected health information (PHI) to 
+the minimum necessary  to accomplish the intended purpose of the use, disclosure or 
+request and to comply with the Health Insurance Portability and Accountability Act 
+(HIPAA) Privacy Regulations 45 CFR Part 164.502 and the Health Information 
+Technology for Economic and Clinical Health (HITECH) Act. 
+
+ 
+
+ 
+2.0 SCOPE 
+
+ 
+The UM Minimum Necessary Uses and Disclosures of Protected Health Information 
+Policy applies to any UM employee who releases PHI. 
+
+ 
+3.1 STANDARDS 
+
+ 
+When using or disclosing PHI or when requesting PHI from another healthcare provider, 
+insurance plan or clearinghouse, UM will make reasonable efforts to limit PHI released 
+or requested to the minimum necessary to accomplish the intended purpose, EXCEPT: 
+
+ Uses or disclosures made pursuant to an authorization are not subject to 
+minimum necessary. However, the following types of authorizations are 
+exceptions and are subject to minimum necessary: 
+
+o Authorizations for UM’s own uses 
+o Authorizations for UM’s request for use or disclosure by others 
+o Authorizations for research related treatment 
+
+ Disclosures made to the Secretary of Health and Human Services as 
+required by the HIPAA Privacy Regulation (are not subject to minimum 
+necessary). 
+
+ Uses or disclosures that are required by law (are not subject to minimum 
+necessary). 
+
+
+
+Minimum Necessary Uses Disclosures of PHI 
+HIPAA Policy:  Privacy 09 
+
+ 
+
+2  
+
+ 
+
+ 
+
+ Uses  or  disclosures  that  are  required  for  compliance  with  the  HIPAA 
+Privacy Regulation (are not subject to minimum necessary). 
+
+ 
+Disclosures, uses, and requests will be limited to a limited data set, as defined by 
+HIPAA, to the extent practicable, and comply with any other regulations or guidance 
+defining the “minimum necessary” issued by the secretary. 
+
+ 
+The following standards have been created with regards to disclosures, uses, and 
+requests made to Business Associates and other covered entities for the purposes of 
+treatment and payment: 
+
+ 
+Business Associates 
+
+ 
+ PHI  released  to  Business  Associates  will  be  held  to  the  minimum 
+
+necessary as stated in the Business Associate Contract. 
+ 
+
+Releases to Other Covered Entities for Treatment and Payment Purposes 
+ 
+
+ Treatment - Request from Provider 
+UM has deemed all patient records requested by the treating provider, 
+limited to one year prior to the request date, as the “minimum necessary” 
+for continued patient treatment by the requestor. A patient/patient 
+representative signed authorization must accompany any request for 
+patient records greater than one year from the request date. 
+
+ 
+ Payment - Request from Insurance Company 
+
+UM has deemed any requested medical record documentation for the date 
+of service for which payment is pending as the “minimum necessary” in 
+order to receive payment. 
+ 
+
+NOTE: *Restrictions – UM may not use or  disclose  PHI  in  violation  of  a restriction 
+agreed to by UM. For more information on Restrictions, refer to Right to Request 
+Restrictions Policy. 
+
+ 
+4.0 CONTACT INFORMATION 
+
+ 
+For questions about the UM Minimum Necessary Uses and Disclosures of PHI 
+Policy or for more information, call the Office of General Counsel at 662-915-7014. 
+
+
+
+

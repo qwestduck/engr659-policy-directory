@@ -1,0 +1,1553 @@
+
+ 
+
+The University of Mississippi 
+Office of Financial Aid 
+
+University, MS  38677 
+Phone: (800) 891- 4596 Fax: (662) 915-1164 
+
+       
+ 
+
+Policy Name:  Conflicting Information 
+
+ 
+
+Purpose:  This document contains the Office of Financial Aid’s current 
+
+policies and procedures for resolving conflicting information 
+
+related to a student’s application and/or eligibility for Federal Title 
+
+IV aid. 
+
+ 
+
+Disclaimer:  This policy is subject to change, without notice, in order to comply 
+
+with administrative and regulatory requirements.  
+
+ 
+
+Policy Contents: 
+
+    
+
+13.0   Resolving Conflicting Information Overview 
+
+13.1  Resolving Conflicting Information Procedures  
+
+13.1.1  C Flags 
+
+13.1.2  Subsequent FAFSA loads (Previously Awarded, Already Verified
+
+ reports) 
+
+13.1.3  Verification 
+
+13.1.4  Review of FAFSA Data and Professional Judgment 
+
+13.1.5  Documentation/information Received by Other UM Departments 
+
+13.1.6  Rejected SARs 
+
+13.2  Reporting Fraud and Abuse  
+
+13.3  Conflicting Information Examples with Solutions 
+
+   
+
+Definitions and Terms: 
+
+ COD – Common Origination Database 
+
+ CPS – Central Processing System (U.S. Department of Education) 
+
+ DHS/USCIS – Department of Homeland Security/U.S. Citizenship and   
+
+   Immigration Services 
+
+ DOE – Department of Education 
+
+ EFC – Expected Family Contribution  
+
+ FAFSA – Free Application for Federal Student Aid 
+
+ NSLDS – National Student Loan Data System 
+
+ OFA – Office of Financial Aid 
+
+ OIG – Office of Inspector General 
+
+ SAR – Student Aid Report 
+
+ SS – Selective Service 
+
+ SSA – Social Security Administration  
+
+ UM – University of Mississippi 
+
+ VA – Veteran’s Affairs 
+
+
+
+  
+
+Part 13.0 Resolving Conflicting Information Overview 
+
+ 
+
+Each year, students apply for Federal Title IV aid (as well as need-based state and 
+
+institutional aid) using the FAFSA.  Any conflicting information that is identified by the 
+
+OFA regarding student eligibility and/or FAFSA data (regardless of the source) must be 
+
+resolved before aid can be delivered. 
+
+ 
+
+ 
+
+Part 13.1 Resolving Conflicting Information Procedures  
+
+ 
+
+The OFA has implemented multiple systems checks to electronically recognize data 
+
+discrepancies that affect eligibility.  Automated rules called “diagnostics” will then 
+
+prompt the staff to review a student’s record.  In addition, the OFA may uncover 
+
+conflicting information through manual review of data and documentation.  
+
+ 
+
+The primary avenues for finding conflicting information include, but are not limited to, 
+
+the following review processes: 
+
+ 
+
+• C Flags on the “processed” FAFSA (also known as the SAR) 
+
+• Subsequent FAFSA loads (Already Verified, Previously Awarded reports) 
+
+• Verification 
+
+• Comment Codes 400/401 
+
+• IRS Request Errors 
+
+• Professional Judgment 
+
+• Documentation/information received by other UM departments 
+
+• Rejected FAFSAs 
+ 
+
+ 
+
+Part 13.1.1 C Flags 
+
+ 
+
+In some instances, a “C Flag” is assigned by DOE to a FAFSA as an indication that 
+
+something on the student’s FAFSA record must be corrected or confirmed before aid can 
+
+be awarded.  The OFA detects C Flags on student FAFSAs through the financial aid 
+
+database system (ProSAM). Resolution for C Flags is conducted through the review of 
+
+system-generated reports corresponding with each C Flag category and corresponding 
+
+comment code. 
+
+ 
+
+Issues that generate a “C Flag” include but are not limited to: 
+
+• Lack of Selective Service registration, if required 
+
+• Immigration or eligible non-citizen status not confirmed by DHS/USCIS 
+
+• Citizenship status not confirmed by the SSA 
+
+• Social Security number mismatch 
+
+• Veteran status not confirmed 
+
+• Unusual Enrollment History 
+
+
+
+• A prior drug conviction 
+
+• Erroneous tax/income information as detected by CPS 
+ 
+
+When reviewing conflicting data, the OFA uses information obtained from the student, 
+
+other UM departments (e.g., Veterans and Military Services to verify student 
+
+veteran/active duty status), or other agencies (i.e., DHS/USCIS, SSA, SS, NSLDS, COD, 
+
+etc.) to resolve any discrepancies. 
+
+ 
+
+A full listing of SAR Comment Codes that generate C Flags may be obtained through the 
+
+following DOE website (under “SAR Comment Codes and Text”): 
+
+https://fsadownload.ed.gov/docsStudentAidGateway.htm  
+
+ 
+
+ 
+
+Part 13.1.2 Subsequent FAFSA Loads (Previously Awarded, Already Verified) 
+
+ 
+
+The OFA loads all subsequent FAFSAs (provided the FAFSA includes the UM school 
+
+code) when corrections have been made by the student or parent, the OFA, another 
+
+institution, or the CPS. The financial aid system generates a status of “previously 
+
+awarded” or “already verified” in the student’s financial aid database record if financial 
+
+aid was awarded (for “previously awarded”) or if verification  was completed (for 
+
+“already verified”) prior to the new FAFSA being received.  
+
+ 
+
+The system also generates a report that is regularly reviewed by OFA staff to confirm the 
+
+accuracy of financial aid awarding when “previously awarded” or “already verified” flags 
+
+appear in a student’s record. The review of these reports assists in resolving conflicting 
+
+information when comparing different versions of the FAFSA.  (Also see policy “12.0 
+
+FAFSA Processing”).  
+
+ 
+
+For students selected for verification:  If a student had previously completed 
+
+verification, and a subsequent change occurs to the FAFSA, the OFA will review the new 
+
+information to determine its accuracy. If the changes do not affect either the student’s 
+
+eligibility OR prior verification data entry (which had already been approved by the 
+
+OFA), no action is taken. If changes do affect the student’s eligibility and/or previous 
+
+verification data entry, the OFA will re-verify the student’s FAFSA.  
+
+ 
+
+If a subsequent FAFSA is selected for verification by the federal processor despite 
+
+previous FAFSA records being exempt from verification, the student is then required to 
+
+complete verification in order to receive or retain any federal or need-based aid. If the 
+
+award package changes due to the verification results, OR the student fails to complete 
+
+verification, paybacks on previously awarded aid will be made. If the new FAFSA is 
+
+received by the OFA after the student has ceased enrollment at UM, it may be determined 
+
+in some cases that paybacks may not be necessary.   
+
+ 
+
+For students not selected for verification: The OFA may require clarification or 
+
+documentation justifying any changes that were made to a subsequent FAFSA if the OFA 
+
+determines that the changes affect a student’s eligibility or current award status.  
+
+https://fsadownload.ed.gov/docsStudentAidGateway.htm
+
+
+ 
+
+ 
+
+ 
+
+Part 13.1.3 Verification 
+
+ 
+
+The OFA completes verification of selected student FAFSAs by comparing information 
+
+from the student’s FAFSA with other required documentation and making any FAFSA 
+
+changes on the student’s behalf as necessary (c.f., policy “3.5 Verification”). During the 
+
+verification process, the OFA might determine conflicting information that includes but is 
+
+not limited to: 
+
+• Erroneous FAFSA tax/income information 
+
+• Missing tax/income information 
+
+• Student/parent tax-filing status 
+
+• Student/parent marital status 
+
+• Incorrect or missing cash, savings, asset information 
+ 
+
+ 
+
+Part 13.1.4 Review of FAFSA Data and Professional Judgment 
+
+ 
+
+The OFA also reserves the right to request reasonable documentation to verify any 
+
+FAFSA information related to student eligibility. The need to resolve conflicting 
+
+information may also occur through the professional judgment review process (c.f., 
+
+policy “3.6.B Expected Family Contribution and Dependency Professional Judgments 
+
+and Reviews”) which include but are not limited to:  
+ 
+
+• Dependency Override 
+
+• Emancipated Minor 
+
+• Homeless /Risk of Being Homeless 
+
+• Legal Guardianship 
+
+• Orphan / Ward of the Court / Foster Care 
+
+• Proof of Legal Dependents 
+
+• Adjustment to EFC 
+
+• Parent Attending College 
+ 
+
+During the professional judgment review process, the OFA might determine conflicting 
+
+information including but not limited to: 
+
+• Errors regarding household information 
+
+• Missing or erroneous untaxed income information (i.e., if a student/parent 
+receives child support but fails to include this in the untaxed income section of the 
+
+FAFSA) 
+
+• Incorrect claim about dependency status 
+
+• Missing or incorrect asset/investment information 
+
+
+
+ 
+
+Part 13.1.5 Documentation/information Received by Other UM Departments 
+
+ 
+
+The OFA often works in conjunction with other UM departments (e.g., Admissions, 
+
+Bursar, Graduate School, Registrar, etc.) and agencies (e.g., COD, NSLDS) to review 
+
+student information and resolve data conflicts.  Examples of these interactions include: 
+
+ 
+
+• Admissions (confirmation that a final high school diploma is received) 
+
+• Veteran’s and Military Services (review and approval of military documents to 
+determine student veteran/active duty status) 
+
+• Bursar (reporting of scholarship checks received directly) 
+
+• Registrar (reporting changes in student enrollment) 
+ 
+
+ 
+
+Part 13.1.6 Rejected FAFSA 
+
+ 
+
+A rejected FAFSA contains missing or erroneous information. As a result, the federal 
+
+processor is unable to calculate the Expected Family Contribution.  A rejected FAFSA 
+
+cannot be resolved at the school level only; corrections must be submitted to the federal 
+
+processor in order to resolve the rejected status.  
+
+ 
+
+Issues that generate a rejected FAFSA include but are not limited to: 
+
+• Missing parent information for a student considered to be dependent 
+
+• Missing signatures on the FAFSA 
+
+• Inconsistencies between certain tax and adjusted gross income amounts 
+ 
+
+ 
+
+Part 13.2 Reporting Fraud and Abuse 
+
+ 
+
+Fraud is the intent to deceive, as opposed to a mistake.  If the OFA suspects that a 
+
+student, employee, or other individual has misreported information or altered 
+
+documentation to fraudulently obtain financial aid, the OFA Director will investigate.  As 
+
+appropriate, the Director may consult with the school’s legal counsel or local law 
+
+enforcement. 
+
+ 
+
+Common misconduct includes but is not limited to false claims of independent student 
+
+status, false claims of citizenship, use of false identities, forgery of signatures of 
+
+certifications, and false statements of income. 
+
+ 
+
+Any credible information indicating that an applicant for federal student aid may have 
+
+engaged in fraud or other criminal misconduct in connection with his or her application 
+
+should be referred to the U.S. Department of Education’s Office of Inspector General.  In 
+
+addition, the OFA will refer any third-party service provider who may have engaged in 
+
+fraud, breach of fiduciary responsibility, or other illegal conduct involving Federal 
+
+
+
+Student Aid programs.  The OFA will cooperate with subsequent investigations by 
+
+providing all information relevant to the case(s). 
+
+ 
+
+ 
+
+Office of Inspector General Contact Information: 
+
+U.S. Department of Education 
+
+400 Maryland Avenue, SW 
+
+Washington, DC 20202-1500 
+
+1-800-MIS-USED 
+
+E-mail: oig.hotline@ed.gov 
+
+Web: http://www.ed.gov/about/offices/list/oig/hotline.html 
+
+ 
+
+ 
+
+Part 13.3 Conflicting Information Examples with Solutions 
+
+ 
+
+The chart below includes, but is not limited to, certain examples of conflicting 
+
+information and solutions: 
+
+ 
+
+Office Topic Conflicting Information Example Solution 
+
+Registrar 
+
+ 
+
+FAFSA  
+
+ 
+
+Social Security number reported on 
+
+FAFSA does not match with 
+
+information included on admissions 
+
+application or vice versa, or student 
+
+neglected to include Social Security 
+
+number on Admissions application 
+
+which prevents FAFSA from 
+
+loading to financial aid database. 
+
+Student should submit 
+
+copy of Social Security 
+
+card to the Registrar to 
+
+correct Social Security 
+
+number in student database 
+
+record, or student will 
+
+need to correct FAFSA 
+
+information. 
+
+ 
+
+Bursar Scholarship The Bursar's Office receives a 
+
+scholarship check for an enrolled 
+
+student. 
+
+ 
+
+Bursar's Office must notify 
+
+the OFA to ensure the 
+
+award is correctly reported 
+
+on student's financial aid 
+
+package. 
+
+Financial Aid FAFSA/ 
+
+Verification 
+
+Parent or student indicated on the 
+
+FAFSA, and by signing the 
+
+verification worksheet, that they 
+
+will not file an IRS tax return. The 
+
+OFA has reason to believe they are 
+
+required to file a return because the 
+
+amount of reported income equals 
+
+or exceeds the amount required to 
+
+file a tax return as indicated by 
+
+instructions provided by IRS.  
+
+Inform student/parent of 
+
+IRS requirement and 
+
+explain verification cannot 
+
+be completed until tax 
+
+return is filed.   
+
+ 
+
+
+
+ 
+
+Office Topic Conflicting Information Example Solution 
+
+Financial Aid 
+
+ 
+
+FAFSA/ 
+
+Verification 
+
+ 
+
+Mismatch between parent tax filing 
+
+status and parent marital status 
+
+when comparing FAFSA and 
+
+verification worksheet to IRS tax 
+
+information. 
+
+ 
+
+Request parent submit a 
+
+written statement with 
+
+explanation. After review 
+
+of written statement, may 
+
+require correction of 
+
+FAFSA data, revision of 
+
+verification worksheet 
+
+household information, or 
+
+correction of parent tax 
+
+return. 
+
+Financial Aid 
+
+ 
+
+FAFSA/ 
+
+Verification 
+
+ 
+
+Parental information on verification 
+
+worksheet differs from that reported 
+
+on the student's FAFSA (i.e., 
+
+parent/step-parent information is 
+
+included on the FAFSA but not the 
+
+same on verification worksheet, or 
+
+vice versa). 
+
+ 
+
+Request parent submit 
+
+written statement with 
+
+explanation. After review 
+
+of written statement, may 
+
+require correction of 
+
+FAFSA data, revision of 
+
+verification worksheet 
+
+household information, or 
+
+correction of parent tax 
+
+return (if statement implies 
+
+conflicting marital/tax 
+
+filing status). 
+
+Financial Aid 
+
+ 
+
+FAFSA/ 
+
+Verification 
+
+ 
+
+A student was not selected for 
+
+verification, but the OFA has 
+
+student (and/or parent) tax 
+
+information on file which indicates 
+
+conflicting information with 
+
+FAFSA. 
+
+Contact student (and/or 
+
+parent) requesting FAFSA 
+
+corrections, or the OFA 
+
+may institutionally select 
+
+student for verification. 
+
+Financial Aid 
+
+ 
+
+FAFSA/ 
+
+Verification 
+
+ 
+
+The OFA has reason to believe that 
+
+grandparent information (or other 
+
+family member) is included in the 
+
+parent information section of the 
+
+FAFSA and household information 
+
+section of verification worksheet. 
+
+ 
+
+The OFA would seek 
+
+clarification from student 
+
+if parent information is 
+
+incorrect and determine if 
+
+student should correct 
+
+FAFSA to include legal 
+
+parent (biological or 
+
+adoptive) information, or 
+
+request a professional 
+
+judgment review for 
+
+dependency status change 
+
+(i.e., Dependency 
+
+Override).  
+
+
+
+ 
+
+Office Topic Conflicting Information Example Solution 
+
+Financial Aid 
+
+ 
+
+FAFSA/ 
+
+Verification 
+
+ 
+
+The OFA has reason to believe that 
+
+incorrect parent information is on 
+
+FAFSA. Example: legal parents 
+
+divorced and student lists father on 
+
+FAFSA because father claimed 
+
+student on father's tax return and 
+
+offers financial support for 
+
+education, but student lives 
+
+majority of the year with mother.  
+
+The OFA would advise 
+
+student to correct FAFSA 
+
+to include mother's 
+
+information (and step-
+
+parent if mother is re-
+
+married).  
+
+ 
+
+Financial Aid FAFSA/ 
+
+Verification 
+
+(Comment 
+
+Codes 400 
+
+and 401) 
+
+After a student or parent used the 
+
+IRS Data Retrieval Tool to transfer 
+
+IRS data to the FAFSA, it was 
+
+determined there were errors in 
+
+some of the information related to 
+
+the student or parent adjusted gross 
+
+income, additional financial 
+
+information, or untaxed income 
+
+amounts.  
+
+The OFA must review 
+
+information and request 
+
+additional documentation 
+
+from student/parent to 
+
+correct any erroneous 
+
+information on the 
+
+FAFSA, and if necessary, 
+
+adjust student awarding if 
+
+eligibility changes.  
+
+Financial Aid FAFSA/ 
+
+Verification 
+
+After a student or parent used the 
+
+IRS Data Retrieval Tool to transfer 
+
+IRS data to the FAFSA, but after 
+
+submission of the FAFSA a 
+
+subsequent change made the student 
+
+or parent ineligible to use the IRS 
+
+Data Retrieval Tool.  
+
+The OFA must contact the 
+
+applicant or parent, as 
+
+applicable, to determine if 
+
+the income tax return 
+
+information that was 
+
+transferred into the 
+
+FAFSA form is correct 
+
+given the changes the 
+
+applicant or parent made 
+
+to IRS DRT eligibility 
+
+criteria, and make any 
+
+necessary changes to the 
+
+applicant’s FAFSA as 
+
+needed, and if necessary, 
+
+adjust student awarding if 
+
+eligibility changes. 
+
+ 
+
+Financial Aid FAFSA/ 
+
+Verification 
+
+After a student or parent used the 
+
+IRS Data Retrieval Tool to transfer 
+
+IRS data to the FAFSA, but after 
+
+doing so the IRS determined the 
+
+student or parent filed an amended 
+
+tax return (the income and tax 
+
+information transferred to the 
+
+FAFSA will be original tax data, 
+
+not the amended tax data). 
+
+The OFA must contact the 
+
+applicant or parent, as 
+
+applicable, and make any 
+
+necessary changes to the 
+
+FAFSA, regardless of 
+
+whether the FAFSA was 
+
+required to be verified, and 
+
+if necessary, adjust student 
+
+awarding if eligibility 
+
+changes. 
+
+ 
+
+
+
+ 
+
+Office Topic Conflicting Information Example Solution 
+
+Financial Aid 
+
+ 
+
+Federal Aid 
+
+Eligibility 
+
+ 
+
+Potential Overpayment (POP) 
+
+Report received from COD states 
+
+that a student was awarded over 
+
+100% of Pell award for academic 
+
+year. 
+
+ 
+
+ 
+
+Student may have attended 
+
+more than one school 
+
+during academic year. An 
+
+OFA administrator would 
+
+need to check COD and 
+
+determine what institution 
+
+over-awarded the student. 
+
+The student and/or that 
+
+school would be asked to 
+
+resolve the percentage of 
+
+Pell that exceeds the 100% 
+
+(maximum award) via a 
+
+payback. 
+
+Financial Aid 
+
+ 
+
+FAFSA 
+
+Reject Code 
+
+ 
+
+Student's EFC is not calculated 
+
+because of incorrect or lacking 
+
+information on FAFSA (i.e., 
+
+lacking parent information, lacking 
+
+student/parent signatures, taxes paid 
+
+equal to/greater than Adjusted 
+
+Gross Income amount). 
+
+ 
+
+Student/parent must 
+
+update FAFSA with 
+
+appropriate information. In 
+
+some cases, when parent 
+
+information is missing 
+
+from a dependent student's 
+
+FAFSA, student may 
+
+request a professional 
+
+judgment review to change 
+
+dependency status (i.e., 
+
+dependency override). 
+
+Financial Aid 
+
+ 
+
+C Flags 
+
+ 
+
+The OFA is unable to award student 
+
+federal aid (i.e., loan default, 
+
+citizenship mismatch, male student 
+
+not registered with Selective 
+
+Service).  
+
+The OFA requests and 
+
+reviews appropriate 
+
+documentation (based on 
+
+specific situation) before 
+
+awarding federal aid. 
+
+
+
+ 
+
+Office Topic Conflicting Information Example Solution 
+
+Financial Aid 
+
+ 
+
+Previously 
+
+Awarded  
+
+ 
+
+Student not selected for 
+
+verification, is awarded federal aid, 
+
+and aid disbursed. FAFSA 
+
+corrections (by student/parent or 
+
+other institution) made after aid 
+
+awarded/disbursed.  
+
+ 
+
+ 
+
+The OFA reviews student 
+
+Pell eligibility, prior 
+
+degree status, dependency 
+
+status, loan limit status and 
+
+compares this to student's 
+
+financial aid packaging. 
+
+The OFA may make 
+
+adjustments to financial 
+
+aid packaging if eligibility 
+
+changes. In some cases, 
+
+the OFA will review 
+
+subsequent FAFSA 
+
+information and request 
+
+additional documentation/ 
+
+clarification of any 
+
+erroneous information in 
+
+order to resolve any 
+
+discrepancies.  
+
+Financial Aid 
+
+ 
+
+Dependency 
+
+Status 
+
+ 
+
+Student is younger than age 24, is 
+
+not considered a veteran and either 
+
+knowingly or unknowingly selects 
+
+information on the FAFSA that 
+
+indicates independent status. 
+
+ 
+
+The OFA may require 
+
+submission of supporting 
+
+documentation (through a 
+
+professional judgment 
+
+review) to support/justify 
+
+student's independent 
+
+status. If documentation 
+
+supports/justifies student’s 
+
+independent status as 
+
+approved by the OFA, 
+
+student will be considered 
+
+independent and awarded 
+
+as such. If the OFA does 
+
+not approve claim of 
+
+independent status, student 
+
+will need to correct 
+
+FAFSA info to include 
+
+parent information. If 
+
+student knowingly 
+
+submitted falsified 
+
+information (on FAFSA or 
+
+in written form for 
+
+professional judgment 
+
+review), and this is 
+
+confirmed by the OFA, the 
+
+OFA has grounds to report 
+
+student to the OIG. 
+
+
+
+ 
+
+Office Topic Conflicting Information Example Solution 
+
+Financial Aid 
+
+ 
+
+Forged 
+
+Signatures 
+
+ 
+
+Student forges another person's 
+
+signature on any financial aid 
+
+document. 
+
+If suspected by the OFA, 
+
+the OFA has grounds to 
+
+report student to OIG. 
+
+Financial Aid 
+
+ 
+
+Forged 
+
+Signature 
+
+(PLUS 
+
+application) 
+
+ 
+
+Student signs as parent or endorser 
+
+on Federal Direct PLUS loan. 
+
+ 
+
+If suspected by the OFA, 
+
+the OFA has grounds to 
+
+report student to OIG. If 
+
+confirmed after aid 
+
+awarded and disbursed, 
+
+the OFA administers 
+
+payback on loan. 
+
+Financial Aid 
+
+ 
+
+ 
+
+ 
+
+Unusual 
+
+Enrollment  
+
+ 
+
+ 
+
+Review of student's previous 
+
+enrollment indicates missing 
+
+transcript information. 
+
+ 
+
+The OFA requests student 
+
+submit all official 
+
+transcripts to our school 
+
+before resolving unusual 
+
+enrollment status. In some 
+
+cases, Registrar's office 
+
+may administer holds (i.e., 
+
+preventing future 
+
+enrollment, transcript 
+
+release) until all 
+
+appropriate documentation 
+
+received.  
+
+Financial Aid 
+
+ 
+
+Unusual 
+
+Enrollment  
+
+ 
+
+Review of student's previous 
+
+enrollment indicates student did not 
+
+earn academic credit at a previous 
+
+institution where student was 
+
+awarded Pell grant. 
+
+ 
+
+The OFA requires student 
+
+to submit documentation 
+
+of why student failed to 
+
+earn academic credit in 
+
+order to determine: 1) if 
+
+documentation supports 
+
+reasons given by student 
+
+for student's failure to earn 
+
+credit; and 2) student did 
+
+not enroll only to receive 
+
+credit balance funds. The 
+
+OFA may authorize 
+
+continued Pell eligibility 
+
+based on review and 
+
+approval of 
+
+documentation, or deny 
+
+continued eligibility 
+
+(student has right to appeal 
+
+decision). 
+
+
+
+ 
+
+Office Topic Conflicting Information Example Solution 
+
+Graduate 
+
+School 
+
+ 
+
+Enrollment 
+
+Hours 
+
+ 
+
+A graduate student, who is 
+
+considered at full-time enrollment, 
+
+is taking both graduate and 
+
+undergraduate level courses. 
+
+However, the OFA will not disburse 
+
+aid based on full-time enrollment 
+
+because student's course load 
+
+includes undergraduate courses.  
+
+ 
+
+Before the OFA can award 
+
+and disburse aid based on 
+
+student's enrollment status, 
+
+the student must have 
+
+written documentation 
+
+from the academic 
+
+department stating that 
+
+undergraduate courses are 
+
+required for the graduate 
+
+degree.  Otherwise the 
+
+class is ignored in the 
+
+enrollment level. 
+
+Registrar 
+
+ 
+
+Registration 
+
+Status 
+
+ 
+
+Student re-enrolls with the school 
+
+and is registered as a non-degree 
+
+seeking student, but informs the 
+
+OFA he/she would be degree-
+
+seeking and able to receive federal 
+
+financial aid.  
+
+ 
+
+In many situations, the 
+
+student needs to speak to 
+
+the academic dean of 
+
+his/her academic 
+
+department. However, 
+
+sometimes the Registrar's 
+
+Office can resolve issue. 
+
+Once student is classified 
+
+as degree-seeking, student 
+
+is eligible to receive 
+
+federal financial aid.  
+
+Registrar 
+
+ 
+
+FAFSA  
+
+ 
+
+Date of Birth (DOB) reported on 
+
+FAFSA does not match with 
+
+information in university or 
+
+financial aid database systems, or 
+
+vice versa.  
+
+ 
+
+If DOB is accurate on 
+
+FAFSA, student should 
+
+take steps to correct DOB 
+
+in university/financial aid 
+
+databases (i.e., submit 
+
+copy of Driver's License 
+
+or documentation with 
+
+correct DOB) through 
+
+Registrar's office. Or, if 
+
+DOB is incorrect on 
+
+FAFSA, the OFA would 
+
+advise student to correct 
+
+FAFSA.  
+
+ 
+
+

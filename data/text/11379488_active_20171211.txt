@@ -1,0 +1,211 @@
+
+1  
+
+Accessibility of Technology Services 
+ 
+ 
+
+Purpose 
+
+The University of Mississippi (UM) recognizes the importance and value of providing Electronic 
+and Information Technology (EIT) services that are accessible to everyone and that can be used 
+on a broad spectrum of devices.  The primary reason for adhering to the principles of "universal 
+design" is to meet the needs of those who use assistive technology to overcome physical 
+disabilities; however, the reality is that well-executed universal design can help everyone. 
+Attention to accessibility can result in better, more usable displays when sites are viewed from 
+small format devices such as smartphones or mini-computers.   Federal laws require equitable 
+use of educational technology, including all programs, services, and communication systems, as 
+well as online and digital environments. This policy details the accessibility requirements and 
+standards for UM departments as they develop websites, computer labs, and all other EIT 
+services. This includes, but is not limited to, learning management systems, audio and video 
+files (podcasts and vodcasts), and course software. 
+
+ 
+
+ 
+General Guidelines 
+
+The two most current and widely accepted EIT accessibility standards are: 
+ 
+
+(1) Section 508: https://www.section508.gov and 
+
+(2) Web Content Accessibility Guidelines (WCAG) 2.0:  https://www.w3.org/TR/WCAG20 
+ 
+
+Section 508 is federal law requiring that a federal agency’s electronic and information 
+
+technology services be accessible to people with disabilities. Section 508 addresses all kinds of 
+
+technology including software applications, telecommunications products, and personal 
+
+computers, whereas WCAG focuses on the accessibility of websites.  UM and most other 
+
+institutions use Level AA compliance with WCAG 2.0 as an industry standard. 
+ 
+
+UM departments that deploy EIT services must become familiar with these standards and make 
+
+reasonable efforts to adhere to them. The department head is ultimately responsible for 
+
+ensuring that EIT services deployed by that department are accessible.  This policy applies to 
+
+information technology services hosted locally as well as those offered "in the cloud" and those 
+
+provided or supported by third parties.  Contracts involving EIT services must acknowledge and 
+
+confirm compliance with the accessibility requirements outlined in this policy. 
+ 
+
+ 
+
+When a technology-related service is requested by an individual with a disability, if that service is 
+
+not already accessible in the manner required by the individual making the request, the 
+
+department will promptly offer the service in an alternate, accessible format. The department 
+
+will simultaneously seek a long-term solution to address any future cases.  Extreme 
+
+https://www.section508.gov/
+https://www.w3.org/TR/WCAG20
+https://www.w3.org/WAI/WCAG20/quickref/
+
+
+2  
+
+circumstances related to technology compliance should be addressed to the Accessibility 
+
+Compliance Committee consisting of the Chief Information Officer, the Associate Provost 
+
+for Outreach and Continuing Studies, and the Executive Director of Equal Opportunity and 
+
+Regulatory Compliance.  An example of an extreme circumstance might be a non‐
+
+compliant, hosted, online service that is required for accreditation and is offered by single 
+
+vendor. Initial inquiries may be made by emailing  it@olemiss.edu. 
+ 
+
+Failure to comply may result in restriction of services for a department or other limitations 
+
+as determined by the Accessibility Compliance Committee. Department heads and 
+
+individuals providing electronic technology and information sources are ultimately 
+
+responsible for compliance. Intentional or extremely negligent noncompliance may subject 
+
+individuals to disciplinary action.  See the "Investigation and Disciplinary Action" section of 
+
+the  IT Appropriate Use Policy for the protocol in reporting cases. 
+ 
+
+The UM Accessibility Statement, https://olemiss.edu/info/access.html, offers points of 
+
+contact for reporting barriers and complaints. 
+ 
+
+Specific Requirements for Official Web Pages 
+
+Official UM Web Pages must pass all error checks in the Wave Web Accessibility Evaluation 
+
+Tool (  http://wave.webaim.org) in order to be minimally compliant.  Each department 
+
+should additionally ensure the general usability of their web content by adhering to WCAG 
+
+2.0 Level AA when creating new content.  The Official Web Page Policy defines an "Official 
+
+Web Page" to be "a Web page presented on behalf of UM, sanctioned by the appropriate 
+
+UM unit." That policy also requires an "Accessibility" link to 
+
+https://olemiss.edu/info/access.html on the primary home page for each UM unit. 
+ 
+
+ 
+
+Some websites are not conducive to evaluation by WAVE. Examples are websites that 
+
+require a username and password or are highly interactive. These may be evaluated using 
+
+other means but must meet the standards included in the WebAIM Section 508 checklist: 
+
+http://webaim.org/standards/508/checklist. In extreme circumstances, where compliance 
+
+is not technically possible or requires extraordinary measures due to the nature or the intent 
+
+of the website, exceptions may be approved on a case by case basis by The Accessibility 
+
+Compliance Committee. Failure to comply will result in having the page disabled from 
+
+public viewing. 
+ 
+
+ 
+ 
+
+Resources 
+
+The following articles and websites offer valuable advice and additional details for 
+
+deploying accessible technology services: 
+ 
+
+1.   "Universal Design for the Digital Environment: Transforming the Institution," by 
+
+mailto:it@olemiss.edu
+https://olemiss.edu/info/access.html,
+http://wave.webaim.org)/
+https://www.w3.org/WAI/WCAG20/quickref/
+https://www.w3.org/WAI/WCAG20/quickref/
+https://olemiss.edu/info/access.html
+http://webaim.org/standards/508/checklist
+
+
+3  
+
+Cyndi Rowland, Heather Mariger, Peter M. Siegel, and Jonathan Whiting in the 
+
+November/December issue of EDUCAUSE Review (vol. 45, no. 6). 
+
+https://www.educause.edu/EDUCAUSE+Review/EDUCAUSEReviewMagazineVolume45/U 
+
+niversalDesignfortheDigitalEn/218700 
+
+2.   Resources for Understanding and Implementing Section 508: 
+
+https://www.section508.gov 
+
+3.   Web Content Accessibility Guidelines (WCAG) 2.0:  https://www.w3.org/TR/WCAG20/ 
+
+4.   Web Accessibility Initiative: https://www.w3.org/WAI/ 
+
+5.   Wave Web Accessibility Evaluation Tool: http://wave.webaim.org 
+
+6.   WebAIM Section 508 Checklist: http://webaim.org/standards/508/checklist 
+
+7.   University of Mississippi Accessibility Statement: 
+
+https://olemiss.edu/info/access.html 
+
+8.   University of Mississippi Policy for Official UM Web Pages: 
+
+http://secure4.olemiss.edu/umpolicyopen/ShowDetails.jsp?istatPara=1&policyObjidPar 
+
+a=10644177 
+
+9. University of Mississippi’s Accessibility & Technology Solutions: 
+
+ http://ats.olemiss.edu/  
+
+https://www.educause.edu/EDUCAUSE+Review/EDUCAUSEReviewMagazineVolume45/U
+https://www.section508.gov/
+https://www.w3.org/TR/WCAG20/
+https://www.w3.org/WAI/
+http://wave.webaim.org/
+http://webaim.org/standards/508/checklist
+https://olemiss.edu/info/access.html
+http://secure4.olemiss.edu/umpolicyopen/ShowDetails.jsp?istatPara=1&amp;policyObjidPar
+http://secure4.olemiss.edu/umpolicyopen/ShowDetails.jsp?istatPara=1&amp;policyObjidPar
+http://ats.olemiss.edu/
+

@@ -1,0 +1,203 @@
+
+Technology Purchases 
+ 
+ 
+ 
+ 
+ 
+
+Summary/Purpose 
+ 
+
+The information technology landscape on a typical university campus is complex, and most 
+people are unaware of the integration points between information systems, the impact on the 
+campus network, information security issues, existing purchasing agreements, etc. This policy 
+defines the review and approval process for University of Mississippi technology procurements 
+to ensure compliance with Mississippi Department of Information Technology Services (ITS) 
+policies and state purchasing laws, as well as to promote the resourceful, informed utilization of 
+technology within the University. 
+
+ 
+Background 
+
+ 
+Mississippi Department of Information Technology Services (ITS) has established procedures for 
+the acquisition of information technology equipment, software, and services for Mississippi 
+Institutions of Higher Learning (IHLs) in Policy 015-020, Procurement Limit Policies: IHLsi. 
+Responsibility for certain types of purchases and lifecycle limits is delegated to the campus 
+Chief Information Officer (CIO).  Additionally, as part of the 2009-2010 IHL “Efficiencies and 
+Effectiveness” initiative, guidelines were established to help ensure informed decisions about 
+technology purchases, reduce redundant technical services, and to leverage technology to help 
+bring about campus-wide efficiencies and improved business processes. Specifically, the IHL 
+Board approved a recommendation that each institution adopt a reasonable process that 
+ensures the involvement of central  Information Technology (IT) in all aspects of information 
+technology planning, acquisition, and deployment to reduce the number of uninformed 
+decisions that result in waste, inefficiencies, and risk. The process for the University of 
+Mississippi is described next. 
+
+ 
+Process for Technology Purchases 
+
+ 
+Technology purchases that meet any of the following conditions require approval by the 
+campus CIO or delegate. 
+
+ 
+• Technology projects with total lifecycle costs greater than $5000 
+• Campus-wide software licenses 
+• Contracts for campus-wide cloud services, e.g., IT services hosted off campus 
+• Technology projects involving the storing or transferring of sensitive data 
+
+ 
+Examples include but are not limited to: purchases of technology equipment (e.g., servers, 
+laptops, projectors) exceeding $5,000; contracts for software hosted elsewhere that will be 
+
+http://it.olemiss.edu/
+
+
+used by a majority of students or employees; and software applications that track student 
+academic progress and thereby contain sensitive data. 
+
+ 
+Steps 
+
+ 
+1.   When project planning begins, the project manager should send an email message to 
+
+itpurchase@olemiss.edu describing the project. 
+2.   CIO or delegate will respond with purchasing information, cautions, and other 
+
+information that should be considered as part of project planning. 
+3.   For purchases of software or hosted solutions (e.g., cloud) that exceed $5000 for the 
+
+lifecycle of the project, complete the Software and Hosted Solution Review Form found 
+here: http://www.olemiss.edu/techpurchase 
+
+4.   When purchase requisition is entered, the user will be asked whether this is a 
+technology purchase that meets any of the conditions above and to provide a narrative 
+description of the project. 
+
+5.   If yes, then the purchase requisition will be routed to IT for approval. If no, then the 
+purchase requisition will be routed to Procurement Services. 
+
+6.   If the purchase requisition is routed to IT for approval, then the CIO or delegate will 
+approve or reject the purchase requisition. 
+
+7.   If approved, then the user will receive an email notification, and the purchase 
+requisition will be routed to Procurement Services. If rejected, then the reason for 
+rejection will be emailed to user as well as suggested revisions or alternatives to 
+improve compliance with procurement policies. No further action on the purchase 
+requisition will be permitted in the workflow. 
+
+ 
+Any acquisitions of computer equipment and services made with federal funds should be 
+indicated as such in Steps 1 and 4 given that these are subject to slightly different purchasing 
+rules.   The most important step of this process is Step 1, i.e., involving IT at the start of the 
+project. If this step is omitted then the chances for approval are reduced.  Any questions 
+should be directed to  itpurchase@olemiss.edu. 
+
+ 
+Sole Source Purchases 
+
+ 
+On July 1, 2015, new laws went into effect requiring that IT sole source purchases undergo a 
+more formalized certification process, including advertisement of the intent to award/purchase 
+as a sole source and on-campus verification after the purchase that the items purchased were 
+as approved for purchase. For IT sole source purchases in the range $5001 to $250,000, this 
+process is managed by the university, specifically by the Procurement Office and IT. IT sole 
+source purchases greater than $250,000 are managed by (MDITS). 
+
+ 
+Those who wish to purchase technology items as sole source must complete the form located 
+at  http://olemiss.edu/solesource. Completion of this form requires a vendor sole source letter 
+and additional details about the proposed purchase. 
+
+mailto:itpurchase@olemiss.edu
+http://www.olemiss.edu/techpurchase
+mailto:itpurchase@olemiss.edu
+http://procurement.olemiss.edu/
+http://olemiss.edu/solesource
+
+
+Accessibility 
+Departments are responsible for ensuring that any technology they purchase and/or deploy is 
+accessible to people with disabilities. When negotiating contracts involving EIT services, UM 
+departments must request a Voluntary Product Accessibility Template (VPAT) as a critical 
+component in the procurement process. This VPAT will help the department acknowledge and 
+confirm compliance with the accessibility requirements outlined in this policy. More information 
+is available in the Accessibility of Technology Services Policy. 
+
+ 
+Interfaces with Centralized Systems 
+
+ 
+Some departmental software applications, to work in a meaningful way, require data from UM’s 
+centralized systems.  Examples are niche software applications for the management of some 
+aspect of the student life cycle or applications that require single sign-on using UM’s centralized 
+directory service. A number of issues must be considered when adopting solutions that require 
+interfaces with centralized systems such as the security of the data being exported and the 
+effort to build interfaces vs. the length of time that the software will be used. Software 
+purchases that require dedicated interfaces are inherently more complicated and costly and 
+introduce more risk to the university. These projects require careful planning and active 
+engagement from the sponsoring UM department to ensure success. 
+
+ 
+UM departments considering technology purchases that will require interfaces with centralized 
+systems will need to serve as the liaison with the vendor and are reminded of the following: 
+
+ 
+• IT provides authentication support to cloud-based vendors via Shibboleth. LDAP, Active 
+
+Directory, and other authentication methods are not supported. 
+• UM department must work with the vendor to provide adequate proof of FERPA, HIPAA, 
+
+PCI, and other applicable privacy standard compliance. IT will not provide data 
+governed by such laws/standards to vendors that do not have an established or 
+independently verified history of compliance. See Section 11 of the Information 
+Confidentiality / Security Policy for additional requirements. 
+
+• Written requirements will be established and agreed upon by UM department, IT, and 
+vendor before work by IT begins. Written requirements will include a project schedule. 
+If UM department fails to meet its obligations, e.g., is unavailable to participate at the 
+designated time, then project will move to a dormant state and will be rescheduled at a 
+later date. 
+
+• All interface components provided by the vendor, including data feeds, file formats, and 
+web services, must be accurately documented to the current or desired vendor API 
+version and must provide matching sample data. 
+
+• UM department must work with the vendor to furnish scheduling details, frequency of 
+transfers, triggers, etc. to IT. 
+
+• UM department must work with the vendor to establish appropriate testing of the 
+interfaces both from functional and and technical perspectives. Testing should address 
+adherence to written requirements, accuracy of the data exchanged, presence of 
+required data elements, and overall correctness of the product / service. 
+
+
+
+• IT systems have predefined periods of downtime to accommodate regular, scheduled 
+maintenance. These times are published in advance on a public website. Vendors must 
+ensure their products can either function normally or fail gracefully. 
+
+• UM department must provide prompt, advance notification to IT in the event of service 
+/ contract cancellation in order to disable data feeds in a timely manner. 
+
+• Implementation efforts to support overlooked or newly provided vendor API 
+enhancements after the project has begun must be mutually agreed upon by IT, the UM 
+department, and the vendor. 
+
+• Non-critical vendor changes to API/file formats must be communicated to the UM 
+department and IT at least two months in advance of required due date. Critical vendor 
+changes should be communicated as early as possible. 
+
+ 
+
+ 
+ 
+
+i http://www.its.ms.gov/Procurement/Documents/ISS%20Procurement%20Manual.pdf 
+
+http://ts.olemiss.edu/
+http://www.its.ms.gov/Procurement/Documents/ISS%20Procurement%20Manual.pdf
+

@@ -1,0 +1,1537 @@
+
+The University of Mississippi 
+
+Page 1 of 26 
+
+Radiological Safety Manual 
+ 
+
+Summary/Purpose:  The Radiological Safety Manual details the minimum requirements for 
+operations involving Radioactive Materials or Radiation Generating Devices. 
+ 
+
+ Contents 
+ University Health and Safety Policy 
+ Introduction 
+ Radiation Safety Committee (RSC) 
+ Radiation Protection Specialist (RPS) 
+ Authorization of Personnel 
+ Procurement of Radioactive materials 
+ Radioactive Waste Disposal by the User 
+ Radioactive Waste Disposal by the Laboratory Services 
+ Personnel Monitoring 
+ Surveys and Monitoring 
+ Classification and Declassification 
+ Leak Tests of Sealed Sources 
+ Use of Caution Signs and Labels 
+ Radiation Generating Devices 
+ Calibration of Instruments 
+ General Safety Rules for Laboratories 
+ Radiation Emergency Procedures 
+ Personnel Decontamination 
+ Records 
+ Neutron Moisture Gauge 
+ List of Approved Radioisotopes 
+ Radioactive Materials Forms 
+
+University Health and Safety Policy 
+
+ 
+As a responsible institution of higher education, this University's laboratories, offices and other 
+facilities shall be maintained as clean and healthful places of employment. Every effort shall be 
+made to design and operate all University facilities in compliance with the spirit and letter of 
+federal, state and local health and safety regulations. The University shall endeavor to promptly 
+provide current and comprehensive information on potential adverse health and safety effects as 
+well as appropriate handling procedures for all hazardous materials handled by both our 
+employees and our students. 
+
+It is a basic responsibility of all University employees and students to make the health and safety 
+of fellow human beings a part of their daily concern. This responsibility must be accepted by 
+each one who conducts the affairs of the University, no matter in what capacity he/she may 
+function. 
+
+
+
+The University of Mississippi 
+
+Page 2 of 26 
+
+In order to implement this policy, the rules and regulations given in the University Safety 
+Manuals shall be complied with by all University personnel. Assistance with specific health and 
+safety problems may be obtained from the Laboratory Services. 
+
+ 
+
+Dr. Jeffrey S. Vitter 
+Chancellor 
+
+ 
+
+INTRODUCTION 
+
+Purpose of this Manual 
+
+ 
+The purpose of this manual is to set radiation safety policies for the University of Mississippi 
+Oxford campus. This manual contains only regulations and procedures specific to the use of 
+radioactive materials and radiation producing devices at the University. In general, specific 
+Nuclear Regulatory Commission (NRC) and Mississippi State Department of Health (MSDH) 
+regulations are not restated. However, all such regulations are applicable and binding on 
+personnel working with or using radioactive materials or ionizing radiation generating devices at 
+the University. The regulations given in the University's current policies, Biosafety Manual, 
+Chemical Safety Manual, and Laser Safety Manual must also be followed. 
+
+The State of Mississippi is an NRC Agreement State, operating a State program of radiation 
+safety which satisfies the requirements of Federal laws and regulations. The control of radiation 
+in Mississippi is under the regulatory direction of the Division of Radiological Health (DRH) of 
+the MSDH as mandated by State law. According to the Mississippi Radiation Protection Law of 
+1976, the regulations set forth by the DRH have the force of law. 
+
+This manual, part of the University's Broad Scope License, contains procedures for acquiring 
+authorization to use, purchase, possess, or have radioactive material or radiation generating 
+devices; procedures for ordering or otherwise acquiring radioactive materials; safety precautions 
+to follow when using radioactive materials, sealed sources, or other ionizing radiation producing 
+devices; emergency procedures for handling accidents involving radioactive materials, sealed 
+sources, or other radiation producing devices; and procedures for requesting the disposal of 
+radioactive materials or radiation generating devices. 
+
+AT NO TIME ARE RADIOACTIVE MATERIALS OR RADIATION GENERATING 
+DEVICES, e.g., X-RAY GENERATING UNITS, ELECTRON CAPTURE DETECTORS, 
+X-RAY FLUORESCENCE UNITS, ETC., TO BE ACQUIRED, USED, TRANSFERRED, 
+SOLD, PURCHASED, OR DISPOSED OF, WITHOUT PRIOR WRITTEN 
+AUTHORIZATION FROM THE RADIATION PROTECTION SPECIALIST (RPS) IN 
+LABORATORY SERVICES. 
+
+
+
+The University of Mississippi 
+
+Page 3 of 26 
+
+Failure to adhere to this regulation is in direct violation of the University's Broad Scope License 
+and published state and local regulations. 
+
+Scope of these Regulations 
+
+These regulations and procedures apply to all persons, who receive, possess, use, or seek to 
+dispose of radioactive materials or radiation producing devices or sealed sources on the 
+University of Mississippi's Oxford campus, with the exception of the persons working for the 
+University Student Health Services.  
+
+RADITION SAFETY COMMITTEE 
+
+The Radiation Safety Committee (RSC) is a committee of technical and administrative personnel 
+charged with the responsibility of establishing and maintaining a comprehensive radiation 
+protection and safety program at the University. The Radiation Safety Committee (RSC) reports 
+directly to the Research and Environmental Compliance Officer on all matters pertaining to the 
+use of radioactive materials and radiation generating devices on the Oxford campus. 
+
+The Radiation Safety Committee is comprised of individuals with demonstrable expertise in the 
+use of radioactive materials or radiation generating devices, and the Radiation Protection 
+Specialist. The Radiation Safety Committee will advise the Radiation Protection Specialist and 
+make specific recommendations to the Chancellor of the University through the Research and 
+Environmental Compliance Officer on all matters pertaining to radiological safety at the 
+University of Mississippi. 
+
+ The Chairman of this committee is elected by the members, with the concurrence of the 
+Chancellor, to serve for a two-year term. Election of the Chairman will take place in the 
+spring of even years for a term beginning July of that year. 
+
+ The Radiation Safety Committee meets in the Spring and in the Fall of every year. The 
+RSC can meet more often at the request of any member of the committee, at the direction 
+of the Chancellor, or at the request of the Research and Compliance Officer. 
+
+ All members of the RSC have the right to vote on any action brought before the 
+committee. A quorum must be present at any meeting requiring any action of the 
+committee. A quorum is defined as more than 50% of the assigned members. Actions are 
+passed by the committee when a simple majority greater than 50% of the members 
+present vote in favor of the action. 
+
+ An action can be introduced during regular or special committee meetings and may be 
+voted on during the meeting or deferred to a specific subsequent meeting. Additionally, 
+actions of the committee may be introduced and voted on by E-mail, providing that more 
+than 50% of the members return a ballot. Actions are passed by mail ballot when a simple 
+majority, greater than 50% of the returned ballots vote in favor of the action. All E-mail 
+ballots must be returned to the Chairman of the RSC within seven working days of the 
+mail date to be counted. 
+
+The Radiation Safety Committee performs the following: 
+
+
+
+The University of Mississippi 
+
+Page 4 of 26 
+
+ Advises the Radiation Protection Specialist, when necessary or requested, on all 
+matters pertaining to the radiological safety of all University programs involving 
+radioactivity, ionizing radiation exposure, or radiation producing devices, except 
+as noted above.  
+
+o Radioactivity refers to the spontaneous emission of ionizing radiation 
+from any material (solid, liquid, or gas).  
+
+o Ionizing radiation describes high energy photons (x- ray and gamma) and 
+other high energy particles (alpha, beta, and other nucleons) which are 
+capable of producing ionization in substances they pass through.  
+
+o Radiological Safety refers to the safe use and handling of radioactivity or 
+ionizing radiation on the University's Oxford campus; including, but not 
+limited to, teaching, research, development and use. 
+
+ Reviews user applications, extraordinary proposals, and research protocols for the 
+use of radiation or radioactivity within the institution from the standpoint of 
+radiological safety. 
+
+ Approves or disapproves the applications, protocols, and proposals based upon 
+user competence, training, and experience so as to assure regulatory compliance 
+and radiological safety. 
+
+ Reviews and prescribes special conditions, requirements, and restrictions as 
+necessary to protect University personnel and the general population from health 
+hazards associated with the use of radioactivity and radiation generating devices 
+at the University, including, but not restricted to, x-ray devices, sealed sources, 
+and Gas Chromatograph electron capture detectors. Conditions, restrictions, and 
+requirements in all cases will be made in accordance with any and all applicable 
+Federal and State regulations. RSC approval must be obtained in writing before 
+any project involving radioactivity or radiation producing devices are initiated. 
+
+ Prescribes such special conditions and requirements as necessary in connection 
+with the ordering, handling, usage, storage, and disposal of radioactive material, 
+radioactive waste, and contaminated equipment, radiation generating devices, 
+laboratories, and storage areas so as to promote radiological safety.  
+
+o These conditions and requirements may include, but are not limited to, 
+physical examinations, additional training, designation of a limited area of 
+use, disposal methods, survey requirements, and any other conditions or 
+requirements deemed reasonable and prudent by the committee. 
+
+The Chairman of the Radiation Safety Committee performs the following: 
+
+ Keeps a record of the actions taken by the Radiation Safety Committee in approving, 
+disapproving, or regulating the use of radioactivity and radiation producing devices 
+and of other transactions, communications, and reports involved in the work of the 
+RSC. Submits timely reports and minutes to the Research and Environmental 
+Compliance Officer, and the MSDH as required. 
+
+ Under policies established by the RSC, the Radiation Protection Specialist acts for the 
+committee between meetings and reports all actions taken to the committee for review 
+at appropriate intervals. 
+
+
+
+The University of Mississippi 
+
+Page 5 of 26 
+
+ In the event of the absence of both the Radiation Protection Specialist and the 
+Research and Environmental Compliance Officer from the campus, the Chairman of 
+the RSC will assume the duties of acting Radiation Protection Specialist until one or 
+more return. 
+
+Radiation Safety Officer (RSO): 
+
+At the University, the Radiation Protection Specialist assumes the duties of a Radiation Safety 
+Officer when necessary to comply with State or Federal regulations or policies. The functions, 
+duties, and responsibilities of the RSO are the same as those described below for the RPS. 
+
+Radiation Protection Specialist (RPS):  
+
+The Radiation Protection Specialist has the authority and responsibility to: 
+
+ Disseminate information on radiation health physics,  
+ Implement or execute policy decisions regarding radiological safety made by the MSDH, 
+
+the RSC, or the Chancellor of the University,  
+ Review and approve all proposals, protocols, and user applications involving the use of 
+
+radioactive materials or radiation generating devices,  
+ Submit all extraordinary protocols, procedures, and all user applications to the RSC 
+
+review and approval,  
+ Perform unannounced inspections and radiation contamination surveys of any University 
+
+facility,  
+ Perform or supervise declassification surveys of all areas and equipment, when requested,  
+ Review all construction plans of new radioisotope and radiation facilities subject to these 
+
+regulations from the standpoint of radiological safety, 
+ Recommend approval or disapproval of such plans based upon radiological 
+
+considerations to the Research and Environmental Compliance Officer, order, receive, 
+monitor and inventory all radioisotopes and sources of radiation purchased or otherwise 
+procured for use at the University, dispose of all radioactive waste in accordance with 
+applicable Federal, State, and local laws and regulations,  
+
+ Administer the personnel monitoring program for the University, including the Student 
+Health Service,  
+
+ Maintain appropriate records and to provide timely and necessary reports of exposure to 
+all persons assigned dosimetry,  
+
+ Obtain, and maintain all licenses and registrations necessary for the use of radiation and 
+radioactive material at the University,  
+
+ Exercise emergency powers in accordance with the University of Mississippi Hazardous 
+Material Contingency Plan, order the evacuation of areas, or the immediate cessation of 
+work in areas, where the use of radioactive material or radiation generating devices pose 
+an immediate threat to life and health, or where it is evident that the health hazards of 
+continued work would result in violation of existing Federal, State, or local regulations,  
+
+ Order remedial actions to alleviate violations of regulation, license, or law, and,  
+
+
+
+The University of Mississippi 
+
+Page 6 of 26 
+
+ To provide overall administrative direction for the radiation safety program of the 
+University. 
+
+ 
+Remedial actions taken by the RSC or the RPS may be appealed to the Research and 
+Environmental Compliance Officer (RECO), or to the Chancellor for a final decision. During the 
+appeal process, the all associated work will terminate until a resolution is provided by the RECO 
+or the Chancellor. The Chancellor of the University has final authority and responsibility for the 
+execution of all applicable rules, regulations, and laws in the area of radiological controls. 
+During this process, the RECO or the Chairman of the RSC, will act as liaison between the 
+MSDH. 
+
+ 
+Upon receipt of any request or application to use radiation or radioactive materials or to operate a 
+radiation generating device for a purpose which is inconsistent with existing University policy, 
+or involves unusual amounts or kinds of radiation or radioactive materials, or requires an 
+amendment to the Broad License, the RPS will convene a special meeting of the RSC to consider 
+the request. 
+
+ 
+In the event of a conflict or dispute between the RSC and the RPS over a policy or direction not 
+covered by this manual, the matter will be referred to the RECO for resolution. 
+
+AUTHORIZATION OF PERSONNEL 
+
+All personnel (faculty, staff, guests, visiting faculty, and students) working with or handling 
+radioactive materials or operating radiation producing devices are required to be authorized 
+users. Authorization may be granted to individuals by the RSC provided that the applicable 
+requirements of this section are met. 
+
+ 
+The qualifications of each applicant or user of radioactive material or radiation producing 
+devices will be evaluated by the RPS and the RSC. Authorization to use radioactive materials or 
+radiation producing devices may be granted to applicants who, in the opinion of the RSC, 
+demonstrate the necessary ability to work with radioactive material or radiation generating 
+devices in a safe manner. Personnel should apply for authorization using DHS Form 27, 
+Application for Authorization to Use Radioactive Materials or Radiation Generating Devices 
+which can be obtained from the University website. 
+
+ 
+Regular Authorization (RA) 
+
+ Regular Authorization (RA) is requested by the applicant through completion of DHS 
+Form 27. 
+
+ RA is only granted to persons who are considered permanent employees of the University 
+and is therefore restricted to full-time faculty and staff. 
+
+
+
+The University of Mississippi 
+
+Page 7 of 26 
+
+ Maintaining RA requires that the individual complete the annual Radiation Safety 
+Retraining as specified in Rule  and that the applicant pass either the "Radiation Safety 
+Exam - Materials," or the "Radiation Safety Exam - Devices," with a grade of 90% or 
+better. 
+
+ RA is of indefinite duration, and does not need to be renewed unless revoked under 
+extraordinary circumstances of documented poor or errant safety performance; unless 
+voluntarily surrendered by the user; or unless employment of the user is terminated for 
+any reason. 
+
+ RA approval requires that the applicant document adequate previous training and 
+experience with radioisotopes to indicate proficiencies in the areas of safe handling of 
+radioactive materials, in regulatory compliance, and in the area of the proposed research 
+or work involving the use, the handling of radioactive materials, or any radiation 
+generating devices. 
+
+ RA approval requires that the applicant submit a history of past occupational exposures. 
+In addition, the applicant must also submit a history of any exceptional medical 
+exposures, and meet any other special medical requirements that the RSC may stipulate. 
+
+Classroom Authorization (CA) 
+
+Classroom Authorization (CA) may be obtained from the RPS if the following provisions are 
+met: 
+
+ The classroom supervisor must obtain and maintain Regular Authorization. 
+ At no time is radioactive material to be left in a classroom or laboratory unattended by 
+
+the supervisor. All classroom radioactive materials are to be securely locked up after use 
+to prevent inadvertent or intentional use, misuse, or theft of the radioactive material by 
+unauthorized or unsupervised persons, including students. 
+
+ The radioactive material to be used by the students must meet one of the following 
+requirements: 
+
+o The materials are encapsulated sources of low activity. 
+o The radioactive material will not be directly manipulated by any student enrolled 
+
+in the class, but will be used by an instructor with the proper authorization, for the 
+purpose of demonstration only, observing all appropriate radiological controls 
+procedures and safety precautions. 
+
+o The radioactive materials generate radiation of low enough energy that personnel 
+monitoring devices are not required. 
+
+ The instructor of a class requesting the Classroom Authorization provision of these 
+regulations will send a list of the persons who participate in the class to the RPS. The 
+class roll is to contain the Social Security Numbers of the persons named on the roll. 
+
+ 
+
+ 
+
+Temporary Authorization (TA) 
+
+
+
+The University of Mississippi 
+
+Page 8 of 26 
+
+Temporary Authorization (TA) is obtained initially from the RPS. Renewal of TA is normally 
+obtained from the RPS, except as provided below. 
+
+ TA may be granted to an applicant who meets any of the following criteria:  
+o The applicant is not a permanent employee of the University, or,  
+o In the opinion of the RSC, the applicant has not had adequate training or 
+
+experience in the areas of radiation safety, handling radioactive material or 
+operation of radiation generating devices, or,  
+
+o The applicant is a student of the University. 
+ TA requires completion of DHS Form 27 which should include the signature of the 
+
+supervisor in charge of the research and training of the individual. 
+ TA requires that the applicant satisfy the requirements above. 
+ TA approval may be granted by the RSC only after the individual has completed the 
+
+radiological training mandated by the RSC, and if the applicant passes either the 
+"Radiological Safety Exam-Devices," or the "Radiological Safety Exam- Materials," with 
+a grade of 80% or better.  
+
+o For Temporary Authorization to be renewed, the applicant must complete the 
+annual Radiation Safety Training Program. 
+
+o Temporary Authorization will expire after one year.  
+ After initial Temporary Authorization of one year, the applicant can do one of the 
+
+following:  
+o The applicant can request a renewal of TA in writing. Requests for renewal will 
+
+be evaluated and approved by the RPS. If the RPS determines that there is a 
+reason renewal should be denied, the renewal request will be submitted to the 
+RSC for a final decision. 
+
+o The applicant can request an upgrade authorization from TA to RA if the above 
+requirements are met and sufficient documentation of proficiency is made 
+available to the RSC for evaluation. 
+
+o The Applicant can do nothing and the Temporary Authorization will 
+automatically expire. 
+
+Maintaining Authorization  
+ 
+All authorized users must complete the Annual Radiation Retraining. It is currently made available 
+by the RPS via Blackboard only once per year, typically during the Fall semester.  
+ 
+
+ The Authorized User must:  
+o Complete Annual Radiation Retraining for each approved authorization 
+
+(Radioactive Materials and/or Radiation Generating Devices),  
+o Successfully pass an exam, and, 
+o Follow all guidelines for working in Radiation Labs as specified in this Manual.  
+
+ 
+The RPS has the authority to terminate authorization of personnel that fail to complete retraining 
+and/or demonstrate a lack of compliance to the requirements of the Radiological Safety Manual.  
+ 
+All retraining records are maintained in Laboratory Services.  
+
+ 
+
+
+
+The University of Mississippi 
+
+Page 9 of 26 
+
+Radiation Protection Specialist Temporary Authorization 
+
+ 
+The Radiation Protection Specialist is empowered to grant Temporary Authorization to 
+individuals for the use of radioactive materials or radiation producing devices between meetings 
+of the RSC, if applicants can provide suitable documentation of adequate training or experience 
+in the handling and use of radioactive material or radiation generating devices. Applicants must 
+satisfy the above noted requirements. Radiation Protection Specialist Temporary Authorization 
+will expire after six months. 
+
+ 
+
+PROCUREMENT OF RADIOACTIVE MATERIALS 
+
+The State of Mississippi does not recognize NRC "LICENSE EXEMPT" quantities of 
+radioactive materials. ALL procurement of radioactive materials, whether by purchase, loan, 
+transfer, or gift, MUST receive authorization from Laboratory Services through the RPS. 
+
+Method of Procurement  
+* see also: How to Purchase Radioactive Materials  
+
+ To procure radioactive materials or radiation generating devices, the principal 
+investigator must be an authorized user with Regular Authorization. The principal 
+investigator must complete DHS Form 26, Radioactive Material Purchase Application.  
+
+ If the request is approved after evaluation by the Laboratory Services, the RPS will 
+obtain a Purchase Order and will place the order with the vendor specified on the 
+Purchase order. 
+
+ The approved user making the request will be notified of the status of the procurement 
+request. 
+
+ If the procurement request is turned down for any reason, the user making the request 
+will be notified in writing of the reasons for denial, and all application forms will be 
+returned to the user. 
+
+ All radioactive materials will be delivered to Laboratory Services for leak testing (as 
+applicable), inspection, inventory control, radiation surveys (as applicable), and storage 
+arrangements, if necessary.  
+
+ When radioactive material is ready to be released to the user, the RPS will notify the user 
+and will fill out and provide to the user DHS Form 29, "Approval for Use of Radioactive 
+Materials." 
+
+ Radioactive materials are delivered directly to the location of use by the RPS. 
+ Purchasers of Radiation Generating Devices must satisfy regulatory requirements noted 
+
+above. Such purchases generally involve considerable sums and require facilities with 
+suitable shielding which have to be validated prior to installation of the equipment. 
+Therefore, all purchases of Radiation Generating Devices (e.g., x-ray machines, electron 
+microscopes) require prior consultation with and approval from the RPS and/or the 
+MSDH. 
+
+
+
+The University of Mississippi 
+
+Page 10 of 26 
+
+ Radioactive materials and radiation generating devices will not be transferred from one 
+department or authorized laboratory to another or off campus without prior approval of 
+the RPS, since approval for use of such materials is given only for the original working 
+area. 
+
+ When ordering Liquid Scintillation Cocktail, to be used with Radioactive Materials, you 
+must select a Non-Flammable, High Flash Point Scintillation Cocktail (flash point > 60° 
+C or 140° F). Contact the RPS for details. 
+
+PROCEDURES FOR RADIOACTIVE WASTE DISPOSAL BY THE USER 
+
+*See also: Radioactive Waste Disposal Procedures Flow Chart  
+
+ All disposal of radioactive materials, radioactive wastes, sources of ionizing radiation, 
+and radiation generating devices will be handled through the RPS and Laboratory 
+Services.  
+
+ Radioactive materials may NOT be disposed of by an authorized user or an unauthorized 
+person directly into the sanitary sewage system, into the atmosphere, into laboratory 
+drainage systems, or into regular trash baskets. 
+
+ All Radioactive Wastes must have proper documentation, which includes chemical and 
+radiological identification of the components of the waste stream to within 1% of the 
+weight or volume, whichever is applicable. 
+
+ All radioactive wastes prepared for disposal by the user will be accompanied by DHS 
+Form 14, "Request for Disposal of Radioactive-Materials." 
+
+o Radioactive chemical waste is waste from radioactive materials to solely or 
+biochemical processes involving non-etiologic cell cultures which have been 
+destroyed in the course of research. 
+
+o Radioactive biological waste is waste generated from the introduction of 
+radioactive materials either to living multi celled organisms, or organisms which 
+have disease producing capabilities. 
+
+o For the purposes of these regulations, liquid scintillation fluids containing 
+solvents which destroy the disease-producing capability of living organisms will 
+be treated as radioactive chemical wastes. 
+
+o Radioactive liquid wastes offered for disposal will be homogeneous in nature and 
+will not contain visible tissue, animal, or plant parts. Such visible parts will have 
+to be strained or filtered out of the liquid by the User or Generator and offered 
+separately as dry solid radioactive waste. 
+
+ Any waste stream or package, of any weight or volume, which does not conform to the 
+description of the waste provided on the Request for Disposal of Radioactive Materials - 
+DHS Form 14, will be returned to the user or generator for correction, verification, or 
+repackaging.  
+
+ Any questions concerning the completion of DHS Form 14 will be referred to the RPS in 
+Laboratory Services. 
+
+ Stock solutions of radioactive material and high activity wastes will not be included in 
+low level waste for disposal. 
+
+ 
+ 
+
+
+
+The University of Mississippi 
+
+Page 11 of 26 
+
+Waste Packaging:  
+ 
+
+ The following instructions are subject to regulatory revision. Laboratory Services may 
+amend these local regulations governing the packaging and preparation of waste streams 
+as necessary to remain in compliance with Federal or State regulations governing wastes 
+and disposal. Such changes will be submitted to the RSC at its next regular meeting for 
+incorporation into the local University regulations. Due to the constantly changing status 
+of disposal regulations and conditions, only one radioisotope may be contained in any 
+one package offered for disposal, without prior approval by the RPS. 
+
+o Due to the difficulty with the disposal of radioisotopes which do not appear in the 
+List of Approved Radioisotopes at the end of this manual, all users planning to 
+utilize these radioisotopes are required to consult with the RPS prior to waste 
+production to ensure that adequate and cost-effective methods of disposal are 
+available. 
+ 
+
+Identification:  
+ All wastes are to be identified conspicuously on the outside of the outermost package 
+
+with the following information: 
+o The supervisor's name and department, 
+o The packer's name and department, if different from the supervisor's name, 
+o The radioisotope contained in the package,  
+o The quantity of radioactivity contained in the package offered for disposal, 
+o Volume of the waste material (cubic inches, cubic cm, gallons or liters). 
+
+Separation:  
+ All wastes are to be separated into solids, liquids, or gases by the user for pickup as 
+
+follows: 
+o Solid waste should not contain any free standing liquids. Additional information 
+
+on separation of radiological wastes is located on the Sharps and Biological Waste 
+Disposal Flow Chart  
+
+o Liquids are to be separated into aqueous (water-based materials containing no 
+other hydrocarbon solvent capable of flammability) and organic (hydrocarbon 
+solvents capable of being burned) and segregated according to the List of 
+Approved Radioisotopes at the end of this manual. 
+ Aqueous liquids are to be bulked up into suitable containers which have 
+
+secure, leak proof seals (caps) and are properly labeled. Each container 
+can contain only one radioisotope without prior approval by the RPS. 
+
+ Scintillation fluids are to be left in individual scintillation vials, tightly 
+capped, if the radioisotope appears in the List of Approved Radioisotopes 
+at the end of this manual. Other organic liquids containing radioisotopes 
+will have to be evaluated on a case by case basis by the RPS to determine 
+the best method of packaging. 
+
+ When ordering Liquid Scintillation Cocktails, you must select a Non-
+Flammable, High Flash Point Scintillation Cocktail (flash point > 60° C or 
+140° F). See the RPS for details. 
+
+ 
+ 
+
+
+
+The University of Mississippi 
+
+Page 12 of 26 
+
+Animal Carcasses: 
+ 
+
+ Additional information on separation of radiological wastes is located on the Sharps and 
+Biological Waste Disposal Flow Chart.  
+
+ Animal carcasses contaminated either internally or externally with radioactive material 
+will be sealed in plastic bags. Each animal carcass will be packaged as described in the 
+section on waste packaging, with an additional marking, describing the activity per gram 
+of the animal carcass. 
+
+ Individually identified and packaged carcasses containing the same radioisotope are to be 
+consolidated into larger plastic bags. The aggregate weight is not to exceed 25 lbs (< 11 
+kg). The larger bag is to be sealed as identified as in "Sharps and Biological Waste 
+Disposal Flow Chart", and frozen until arrangements are made for disposal. All animal 
+carcasses submitted for disposal must be triple bagged in yellow “Radioactive” waste 
+bags provided by Laboratory Services. At the time the animals are picked up for disposal, 
+DHS Form 14, "Request for Disposal of Radioactive-Materials" must be completed and 
+given to the RPS. 
+
+ RADIOACTIVE WASTES CONTAMINATED WITH A BIOHAZARD ARE TO 
+BE RENDERED HARMLESS PRIOR TO REQUESTS FOR DISPOSAL, AND 
+ARE NOT TO BE OFFERED FOR DISPOSAL TO THE RPS IN BIOHAZARD 
+LABELED BAGS OR CONTAINERS. Biohazardous waste containing radioactive 
+material is NOT currently being handled by disposal companies. Such waste generated on 
+the campus will remain the responsibility of the generator until approved disposal can be 
+accomplished. All generators of such wastes are cautioned to consult with the RPS prior 
+to waste production. 
+
+Additional Hazards:  
+ Wastes which contain Physical or Chemical Hazards must be identified in advance. 
+
+Chemical Wastes must be identified in advance of preparation so that proper 
+communication can be conducted with the Laboratory Safety Specialist, if necessary. 
+
+RADIOACTIVE WASTE DISPOSAL BY LABORATORY SERVICES 
+
+Waste disposal by Laboratory Services will be handled by the RPS in accordance with the 
+provisions and instructions contained in the "Radiation Safety--Standard Operating Procedures". 
+The final disposition of accumulated wastes will be in accordance with all applicable Federal, 
+State, and local laws, ordinances, and regulations.  
+
+PERSONNEL MONITORING 
+
+ The University and all people covered by this manual shall use, whenever practical, any 
+procedure or control that will allow the occupational and public doses to radiation to be 
+As Low as Reasonably Achievable (ALARA). 
+
+ Occupational Dose Limits for Adults 
+o The RSC and Laboratory Services, working through the RPS, shall ensure that the 
+
+occupational dose to adults at the University meets the following dose limits, as 
+given in the “Regulations for Control of Radiation in Mississippi,” 
+
+o An annual limit, which is the more limiting of: 
+
+
+
+The University of Mississippi 
+
+Page 13 of 26 
+
+ The total effective dose equivalent to being equal to 5 rems (0.05 Sv), or,  
+ The sum of the deep dose equivalent and the committed dose equivalent to 
+
+any individual organ or tissue other than the lens of the eye being equal to 
+50 rems (0.5 Sv). 
+
+o The annual limits to the lens of the eye, to the skin, and to the extremities which 
+are: 
+ An eye dose equivalent of 15 rems (0.15 Sv), and 
+ A shallow dose equivalent of 50 rems (0.5 Sv) to the skin or to any 
+
+extremity. 
+ Occupational Dose Limits for Minors 
+
+o PERSONS UNDER 18 YEARS OF AGE WILL NOT BE ALLOWED TO 
+ENTER, OR TO WORK IN, AN AREA WHERE RADIOACTIVE 
+MATERIALS OR RADIATION PRODUCING DEVICES ARE USED, 
+STORED OR OPERATED.            
+
+ Dose to an Embryo/Fetus, shall meet or exceed the requirements of the current version of 
+the Regulations for Control of Radiation in Mississippi. 
+
+o A Declared Pregnant Woman-means a woman who has voluntarily informed her 
+employer, in writing, of her pregnancy and the estimated date of conception. A 
+Declared Pregnant Woman is defined as a woman who has voluntarily informed 
+her employer, in writing, of her pregnancy and the estimated date of conception. 
+
+Dosimetry 
+
+ Required Dosimetry: In addition to the requirements specified above, personnel will wear 
+an appropriate monitoring device (Dosimeter) when any of the following apply: 
+
+o Any person entering an occupational radiation environment in which he or she is 
+likely to receive in excess of 10% of the Maximum Permissible Dose allowed by 
+regulation of penetrating ionizing radiation will be required to wear a Dosimeter 
+appropriate to the type and energy of the radiation to be encountered. 
+
+o Any person working with Beta emitters of energy greater than 0.25 MeV, which 
+does not Include Low Energy Radioisotopes such as H-3, C-14, S- 35, C1-36, Ca-
+45, and Ni-63. 
+
+o Any person working with Neutron sources of any type. 
+o Any person working with Gamma Emitters of any type. 
+o Any person working with X-ray producing devices or sources. 
+
+ Dosimeters: 
+o Persons are to wear only the dosimeters assigned to them by Laboratory Services. 
+o Dosimeters are to be stored away from sources of radiation, excessive heat, and 
+
+moisture when not being worn by personnel for monitoring purposes. 
+o Dosimeters assigned by Laboratory Services for occupational exposure 
+
+monitoring are to be worn only when the assignee is engaged in the occupation 
+which requires monitoring. Except for medical personnel engaged in the 
+performance of their duties involving radiation exposure, persons assigned 
+dosimetry are not to wear dosimeters assigned by Laboratory Services during 
+diagnostic or therapeutic radiation exposure. 
+
+
+
+The University of Mississippi 
+
+Page 14 of 26 
+
+o All dosimeters will be processed by an approved National Voluntary Laboratory 
+Accreditation Program (NVLAP) processor, as specified in Rule 1.4.17(3) of the 
+Regulations for Control of Radiation in Mississippi. 
+
+ 
+ Annual Exposure Reports: 
+
+o In accordance with the “Regulations for Control of Radiation in Mississippi,” an 
+annual report will be provided to monitored personnel for any portion of a fiscal 
+year if:  
+ The individual’s occupational dose exceeds 1mSv (100mrem) TEDE or 1 
+
+mSv (100 mrem) to any individual organ or tissue, or, 
+ The individual requests their annual dose report. 
+
+o The annual exposure report will be distributed on DHS Form 87, "Annual Report 
+of Radiation Exposure" within 30 days of the request, or within 30 days after the 
+dose has been determined, whichever is later.   
+
+o Terminated personnel, who were monitored under the University dosimetry 
+program during the calendar year of their termination, will be provided one final 
+notice of exposure upon request or on the same schedule given for current 
+personnel. 
+
+ 
+A copy of the exposure data is permanently maintained by the University. 
+
+SURVEYS AND MONITORING 
+
+ Area Monitoring: Laboratories in which there are sources capable of delivering whole 
+body exposures in excess of 5 mr/hr (0.05 mSv/hr) must have on hand in the laboratory 
+and in good operating condition, a calibrated monitoring instrument capable of measuring 
+the exposure or dose rate for the radiation type to be encountered. Consult with the RPS 
+on matters involving the selection or calibration of monitoring instruments. 
+
+ Routine surveys for contamination or radiation exposure will be conducted in laboratories 
+and areas approved for use with radioactive materials or radiation generating devices by 
+the RPS or his delegate. Records of survey results will be maintained by Laboratory 
+Services in accordance with current laws and regulations. In addition, the following 
+requirements will be met: 
+
+o Routine survey frequency will be determined by the RPS and will depend upon 
+the classification of the area. Classification of an area will be based upon the 
+criteria expressed in the section on Classification and Declassification, below. 
+
+o Contamination surveys will be carried out using the procedures specified in 
+"Radiation Safety--Standard Operating Procedures." Survey points which exceed 
+the prescribed Action Level assigned to the area containing the points will be 
+considered evidence of contamination. The area supervisor will be notified of the 
+presence of contamination, the levels, and the locations of the contamination in 
+writing by the RPS, except in cases where contamination exceeds the Action 
+Level by a factor of 10. 
+
+o In cases where areas of contamination exceed the Action Level for the given 
+location by a factor of 10, the area supervisor will be notified as soon as possible. 
+
+
+
+The University of Mississippi 
+
+Page 15 of 26 
+
+All work will cease in the area by order of the RPS, if deemed necessary, until all 
+contamination is removed and area surveys indicate removable activity below the 
+Action Level for the given location. 
+
+ In cases of known or suspected airborne contamination in excess of the limits in the 
+"Regulations for Control of Radiation in Mississippi," the location will immediately be 
+evacuated. Ventilation will be stopped, and personnel exposure will be assessed. Further 
+immediate actions are stated in the section on Radiation Emergency Procedures below. 
+
+ Areas closed because of a radiological hazard cannot be reopened without the written 
+approval of the RPS or the Research and Environmental Compliance Officer from 
+Laboratory Services. 
+
+ Surveys of equipment and areas by Authorized Lab Personnel: 
+o Equipment, tools and work areas will be monitored daily following their use with 
+
+radioactive materials. Appropriate surveys will be performed by authorized 
+personnel providing that work involving the use of radioactive tracers, radiation 
+generating devices, or other radioactive materials or equipment was performed 
+during that particular day in the location specified. 
+
+o Written records of daily surveys will be made available for inspection upon the 
+request of the RPS or his representative. 
+
+o All records of daily surveys will be reviewed quarterly by the RPS. 
+o All personnel authorized to handle radioactive materials in an approved location 
+
+or facility will be trained to perform the appropriate surveys necessary for 
+contamination and exposure control. All training of persons requesting 
+authorization will be the responsibility of Laboratory Services. 
+
+o Each building in which radioactive materials are used will have appropriate 
+calibrated survey instrumentation for the use of authorized users in performing 
+contamination and/or radiation surveys. All surveys will be performed in 
+accordance with applicable sections of "Radiological Safety--Standard Operating 
+Procedure". 
+
+CLASSIFICATION AND DECLASSIFICATION 
+
+Location classification will be made by the RPS in accordance with the following instructions: 
+
+ All laboratories and areas where radioactive material and/or radiation generating devices 
+are used or stored must be approved by the RPS prior to use. Classification of an area or 
+laboratory may be made by submitting the completed application section of DHS Form 
+30, "Application for Radioisotope Use Location," to the RPS. 
+
+ No room, location, or equipment used for radioactive work or storage may be returned to 
+general use until satisfactory declassification has been certified by the RPS. 
+Declassification of rooms, location, or equipment, will be conducted in accordance with 
+the "Radiological Safety--Standard Operating Procedures." Certification of 
+declassification will be deemed appropriate when all survey points indicate activity less 
+than the limit for uncontrolled access as established by the "Regulations for Control of 
+Radiation in Mississippi". 
+
+ 
+
+
+
+The University of Mississippi 
+
+Page 16 of 26 
+
+SEALED SOURCES 
+
+In accordance with the special conditions of the University's Broad Scope License, all 
+Sealed Sources except those exempted by the MSDH Regulations cited in the Broad 
+Scope License, will be tested for leakage and contamination at intervals not to exceed six 
+(6) Months. The RPS, or a representative, in accordance with SOP 7- Procedures for Leak 
+Testing Sealed Sources, will perform leak tests. 
+ 
+All sealed sources will be physically inventoried at intervals not to exceed six (6) months. 
+ 
+A report will be filed within 5 days with the Mississippi State Department of Health if the test for 
+leakage or contamination indicates a sealed source is leaking or contaminated. The report will 
+include the equipment involved, the test results and the corrective action taken.  
+ 
+Any incident of a lost or stolen licensed and/or registered source of radiation will be reported 
+immediately to the Mississippi State Department of Health. 
+
+USE OF CAUTION SIGNS AND LABELS 
+
+ Posting of laboratories, areas and containers containing radioactive materials, or of 
+laboratories or areas containing radiation producing devices must be in accordance with 
+the "Regulations for Control of Radiation in Mississippi". 
+
+ Mississippi State Department of Health Form RH-5, "Notice to Employees," will be 
+conspicuously displayed near every entrance and exit in each area where radiation 
+generating devices or radioactive materials are used. 
+
+ Each location where Radioactive Materials are used will have a copy of "Emergency 
+Procedures for Spills Involving Radioactive Material" posted near every entrance and 
+exit. 
+
+RADIATION GENERATING DEVICES 
+
+ All ionizing radiation producing devices must be registered with the MSDH. 
+ Individuals employed by, and/or departments of the University obtaining or planning to 
+
+obtain radiation producing devices will be required to make application for registration of 
+such devices through Laboratory Services. Laboratory Services will be notified in writing 
+within five calendar days of the receipt of ionizing radiation producing devices. Such 
+equipment cannot be used, altered, installed, or energized, without written permission of 
+the RPS. 
+
+ This category of ionizing radiation producing devices will include, but not be limited to: 
+o X-ray generating units  
+o X-ray diffraction apparatus  
+o Electron microscopes  
+o X-ray fluorescence units 
+
+ All persons seeking to use, operate, or possess ionizing radiation producing devices must 
+have prior approval from the RSC as prescribed in this manual. 
+
+
+
+The University of Mississippi 
+
+Page 17 of 26 
+
+ Personnel monitoring devices will be assigned to all authorized users of x-ray devices in 
+accordance with the Personnel Monitoring Section of these regulations. 
+
+ All x-ray generating devices will be inspected annually for radiation hazards by the RPS 
+in accordance with the "Radiological Safety--Standard Operating Procedures." 
+
+ The supervisor of an ionizing radiation producing device will remain solely responsible 
+for the safe use and operation of the device under his or her supervision. The RPS will 
+exercise emergency authority to cause the cessation of operation of any x-ray equipment 
+which is being operated in an unsafe manner. 
+
+CALIBRATION OF INSTRUMENTS 
+
+ All survey and monitoring instruments used for compliance purposes will be calibrated 
+annually in accordance with applicable sections of the "Radiological Safety--Standard 
+Operating Procedures." Laboratory Services will maintain information on calibration 
+vendors for survey meters and area monitors.  
+
+ 
+GENERAL SAFETY RULES FOR LABORATORIES 
+
+ Preventing Contamination: Extreme personal cleanliness and careful techniques are the 
+primary means of preventing contamination and protecting against ingestion of loose 
+radioactivity. To minimize contamination and prevent entrance of activity into the body, 
+the following rules must be observed in radioisotope laboratories where unsealed sources 
+of radioactive materials are present or in use. 
+
+ Eating, drinking, smoking, the use of cosmetics, food preparation, and the storage of 
+items for these purposes will not be permitted in laboratories where radioactive material 
+is used or stored. 
+
+ The storage of human food items, such as milk, eggs, cheese, bread, meat, and the like, to 
+be used as part of an experimental procedure and not intended for human consumption is 
+permitted in a restricted or prohibited area containing radioactive material provided that 
+the following provisions are met: 
+
+o The food item is not stored in its original container, but is stored in a different 
+suitable container not labeled as human food; and 
+
+o The item is clearly, legibly, and permanently marked to indicate what the item is, 
+what the item is used for, who is using the item, and the date of storage in the 
+restricted or prohibited area, and additionally marked with the following words: 
+
+EXPERIMENTAL FOOD ITEM - NOT FOR HUMAN CONSUMPTION 
+
+ If there is a specific radiological hazard associated with the food item, appropriate 
+radiological markings are to be added to the outside of the container in accordance with 
+this manual. 
+
+ Food items discovered in restricted or prohibited areas not satisfying these criteria will be 
+immediately confiscated and disposed of by the RPS according to the hazards involved. 
+
+ The use of milk bottles or other food containers for handling or storing radioactive 
+materials is strictly prohibited. 
+
+
+
+The University of Mississippi 
+
+Page 18 of 26 
+
+ The presence of empty cups, food wrappers, containers or any waste associated with food 
+will not be allowed inside of any Laboratory where Radioactive Materials are used or 
+stored. 
+
+ The pipetting of radioactive materials and/or solutions by mouth is strictly prohibited. 
+Auto-pipettes, pipette controls, and similar devices are commercially available and 
+mandatory for such applications. 
+
+ADDITIONAL SAFETY PRECAUTIONS 
+
+ Dry runs involving all facets of an experimental procedure except the actual use of 
+radioactive material are to be completed prior to commencement of experimental 
+protocols involving the use of radioactive material. Such practice runs should be 
+performed until the procedure is reproducible. Any modifications made along the way 
+which enhance radiological controls should be incorporated into the protocol. 
+
+ Any work which can expose radioactive material to atmospheric distribution will be done 
+in a suitable containment device approved by the RPS. Specifically, complete 
+containment is required when working with tritium in amounts in excess of 100 mCi (3.7 
+Gbq), and for all loose alpha emitters. 
+
+ Personnel are not permitted to work with radioactive material if there are open cuts, 
+wounds, or abrasions on the body. Extreme precautions must be taken to avoid the 
+introduction of radioactive materials into the body through puncture wounds or cuts, 
+especially when working with materials of high radiotoxicity or high specific activity. 
+
+ Care must be taken when using organic solvents to avoid skin contact with radioactive 
+materials. Solvents may make the skin more permeable. 
+
+ Appropriate protective clothing and/or devices will be used for all manipulations of 
+unsealed sources. Surgical glove techniques are to be used when putting gloves on and 
+removing gloves to avoid contaminating the inside surfaces of the gloves and/or the skin 
+of the user. 
+
+ All personnel will perform personal monitoring of hands and feet upon preparation to 
+leave a radioactive material work area. 
+
+ Laboratory protective clothing and equipment used in radioisotope work areas will be 
+monitored routinely during the course of work and when work with radioactive material 
+is temporarily or completely halted. Contaminated disposable clothing and equipment 
+will be disposed of as radioactive waste unless contamination surveys determine that 
+there is no contamination present. Contaminated non-disposable items will be 
+decontaminated, decayed to background, or disposed of as radioactive waste. 
+
+ Approved auxiliary storage and waste containers, blotters, and covers will always be used 
+where danger of spills or personnel and equipment contamination is possible. 
+
+ Contaminated equipment, or equipment that has been used and is suspected of 
+contamination, will be appropriately labeled and isolated in designated areas within the 
+laboratory or in suitable, approved storage areas. 
+
+ Tools, equipment, and apparatus, that may be contaminated should be placed in non- 
+porous metal trays or pans lined with absorbent disposable paper. Trays, paper, and/or 
+pans should be monitored frequently, and appropriate disposal or decontamination 
+performed when contamination exceeds 10 times the Action Level of the location. 
+
+
+
+The University of Mississippi 
+
+Page 19 of 26 
+
+ The declared and labeled radioactive material use area will remain free of unnecessary 
+tools, equipment, and/or clutter to prevent contamination and to minimize the generation 
+of waste. 
+
+ Removable contamination above the limits for uncontrolled access for the type of 
+radiation in question will not be allowed to remain on the floors. Where floors are known 
+or suspected to be contaminated above the limits for uncontrolled access, traffic in the 
+area involved will immediately be halted by the person in charge of the area. The location 
+will be declared a restricted access location until decontamination can be completed. The 
+RPS will be notified immediately. 
+
+RADIATION EMERGENCY PROCEDURES 
+
+Emergencies resulting from accidents in radioisotope use locations may range from minor spills 
+of radioactivity involving relatively little personal hazard, to major radiation incidents and spills 
+involving extreme hazards and possible bodily injury or life threatening situations. Because of 
+many complicating factors which may arise in any given accident involving radioactive material, 
+and because of the variety of additional hazards normally found in facilities located at the 
+University, regulations for handling emergencies involving radiation cannot be made for all 
+possible situations. 
+
+In any emergency involving radioisotopes, always remember to protect personnel from 
+radiation hazards and confine or contain the contamination to the area of the accident and 
+restrict the movement of potentially or actually contaminated individuals. 
+
+IN ANY ACCIDENT OR INCIDENT INVOLVING PERSONAL INJURY, THE FIRST 
+CONSIDERATION SHOULD BE FOR THE INJURED PARTY, AND NOT THE 
+SPREAD OF CONTAMINATION. Contamination can be cleaned up after the fact. 
+
+Minor Spills 
+
+ The term minor spill will be defined for the purposes of these regulations to mean a total 
+spill of less than 100 uCi (3.7MBq) of loose radioactive material, wet or dry, outside the 
+confines of a controlled area, and which does not constitute a direct radiation hazard or a 
+significant airborne hazard. A controlled area is an area within an approved use location 
+which is specifically identified by the supervisor as the radioactive work area and is 
+correctly labeled with appropriate signs, tapes, and/or insignia as described in the MSDH 
+Regulations. 
+
+ The immediate actions for handling a minor spill are as follows: 
+o Notify all persons in the area that a minor spill has occurred. 
+o Prevent the spread of contamination by using the minimum number of 
+
+personnel necessary to adequately confine the spill. 
+ Liquid Spills:  
+
+ Put on protective gloves  
+ Cover the spill area with absorbent material. 
+
+ Solid Spills: 
+ Put on protective gloves  
+
+
+
+The University of Mississippi 
+
+Page 20 of 26 
+
+ Dampen the area of the spilled material with an appropriate 
+dampening agent, taking care not to spread contamination or create 
+an airborne hazard. 
+
+ Cover the spill area with absorbent material. 
+o Clean up the spill. 
+
+ Using protective gloves, and remote handling tongs if necessary, to place 
+the absorbent material into a plastic bag. 
+
+ Remember to place other contaminated materials, such as gloves into the 
+plastic bag. 
+
+ Dispose of the bag in the radioactive waste container. 
+o Survey with a low range thin-window G-M Survey meter or a wipe test, to check 
+
+for contamination in the cleaned area, on hands and clothing. 
+o Report the spill to the RPS, phone 915 - 5433, and the area supervisor as soon as 
+
+possible. 
+
+Major Spills 
+
+ The term major spill will be defined to mean a spill of 100 uCi (3.7 MBq) or more of 
+loose radioactive material, a spill of loose radioactive material which constitutes a 
+significant direct radiation hazard, a spill of loose radioactive material which can result in 
+an airborne radioactivity hazard, or a spill of any amount of radioactive material outside 
+the physical boundaries of an approved use location. 
+
+ The immediate actions required in the event of a major spill are as follows: 
+o Clear the Area: Notify all persons not involved in the spill to evacuate the room 
+
+or area. 
+o Prevent the Spread: Cover the spill with absorbent material. Do not attempt to 
+
+clean up the spill. Confine the movement of all personnel potentially 
+contaminated. If the spill can create an airborne hazard, switch off any fans, to 
+minimize air dispersal.  
+
+o Shield the Source: If possible the spill should be shielded, but only if it can be 
+done without further spread of contamination or without significantly increasing 
+your radiation exposure.  
+
+o Close the Room and Secure the Area: Leave the room and lock the door to 
+prevent entry until emergency personnel arrive. If the spill occurs outside an 
+approved location, withdraw a safe distance from the spill and maintain watch 
+over the spill area, warning all passersby to stand clear of the spill.  
+
+o Call for Help: Notify the RPS as soon as possible (phone 915 - 5433), or call the 
+Univ. Police Department campus phone 4911, also notify the location supervisor, 
+if known. 
+
+o Personnel Decontamination: If the spill is on the skin, flush thoroughly with 
+water and then wash with mild soap and lukewarm water into a leak-proof catch 
+basin, and not down sewage drains. If clothing is contaminated, remove and store 
+affected clothing for further evaluation. 
+
+Airborne Radioactivity Accidents 
+
+
+
+The University of Mississippi 
+
+Page 21 of 26 
+
+ Accidents involving radioactive mists, dusts, fumes, organic vapors, and gases 
+require special equipment and training. In the event of a spill of radioactive material 
+which can reasonably be believed to have created an airborne hazard, the following 
+immediate actions are required. 
+
+o Clear the Area: Notify all persons not involved in the spill to evacuate the room 
+or area. 
+
+o Prevent the Spread: If appropriate respirators are immediately available for the 
+material encountered, put on the respirator, switch off any fans, or air circulating 
+equipment and close any windows or doors. Do not waste time in indecision. 
+Vacate the room as soon as possible. If respirators are not available, evacuate the 
+room immediately. 
+
+o Close the Room and Secure the Area: Leave the room and move all personnel 
+potentially exposed to the airborne contaminants to a safe single location. Lock 
+any doors to prevent entry until emergency personnel arrive. 
+
+o Call for Help: Notify the RPS as soon as possible (phone 915 - 5433), or call the 
+Univ. Police Department campus phone 4911, also notify the location supervisor, 
+if known. 
+
+o Additional Precautions: Secure all ventilation into and out of the airborne 
+contamination location from power panels outside the airborne hazard perimeter if 
+possible. Ensure all entrances and exits are closed, locked, and posted with signs 
+prohibiting access. If necessary, post guards at doors to prevent entrance by 
+unauthorized persons. 
+
+o Do Not Reenter: Do not enter the airborne hazard location until approval of the 
+RPS is secured. 
+
+Radiation Hazard Accidents with Injuries 
+
+ Wash minor wounds with little or no bleeding immediately under running water. If the 
+wound is a puncture, let it bleed freely for a few minutes to wash out any contaminates. 
+
+ If the wound is bleeding heavily, apply direct pressure using a gloved hand, if possible, 
+and a dry sterile dressing over the wound. 
+
+ Get competent medical attention immediately. Immediate help may be available from the 
+Student Health Service or Baptist Memorial Hospital-North Mississippi. 
+
+ Report all accidents with injuries involving radiation hazards to the RPS as soon as 
+possible, including, but not limited to, puncture wounds, cuts, abrasions, suspected 
+overexposure, ingestion, and/or inhalation accidents. 
+
+ Permit no person with a radiation injury to return to work without expressed written 
+approval from the RPS and the attending physician. 
+
+Overexposure or Ingestion Injuries 
+
+ Any person who suspects overexposure, which is defined as whole body exposure in 
+excess of 1.25 rem (0.0125 Sv) in 13 calendar weeks, is required to report this fact to the 
+RPS immediately. 
+
+ Any person who ingests, absorbs, inhales, or has skin or eye contact with radioactive 
+materials, in the workplace, must immediately report the incident to the RPS in person or 
+
+
+
+The University of Mississippi 
+
+Page 22 of 26 
+
+by messenger. Persons undergoing medical diagnosis or therapy involving ingestion of 
+radioactive materials will not be required to report such ingestion to the RPS. 
+
+Bioassays 
+ Persons working with I-125 and/or I-131 are required to have bioassays performed to 
+
+determine if an intake occurred in the thyroid during the handling of the radioactive 
+iodine. 
+
+ A baseline bioassay is required on all individuals before beginning work with radioactive 
+iodine.  
+
+o Per the Nuclear Regulatory Commission NUREG 8.20, for laboratories that only 
+work with I-125 in radioimmunoassay (RIA) kits, the quantities of I-125 are very 
+small and in less volatile forms; thus, the limit of 100 mCi during any 3 month 
+period will be used for bioassay requirements. 
+
+o When an individual routinely handles and works near unsealed quantities of less 
+than 10 percent of the limit of 100 mCi during any 3 month period, a routine 
+bioassay is not necessary. 
+
+ Bioassays will be performed at Laboratory Services at the following intervals: 
+o Quarterly intervals (routine) 
+o Emergency 
+o Post-Operational 
+o Diagnostic 
+
+ Results of bioassays performed will be documented on Form DHS-80 “Bio-Scan. Report 
+for I-125/I-131.” All records will be maintained in Laboratory Services.  
+
+ The annual limit on intake (ALI) for the thyroid is 40 µCi for oral ingestion and 60 µCi for 
+inhalation. 
+
+ In the case of internal exposure or contamination, persons on the campus of the University 
+of Mississippi may be required to submit to blood or urine tests for bioassay analysis. 
+
+Radiation Hazards in Fires 
+
+ Attend to injured persons and remove them from harm. 
+ Alert all personnel: Notify all people in the immediate area to evacuate and activate the 
+
+nearest fire alarm (or call 9-911). 
+ Close all doors and windows to confine the fire. 
+ Call Laboratory Services (phone 915 - 5433). 
+ Evacuate to a safe area or exit the building. Do not use the elevator. 
+ Have a person knowledgeable of the incident and laboratory report to the emergency 
+
+personnel. 
+
+PERSONNEL DECONTAMINATION 
+
+The standard procedures to be followed in personnel decontamination are outlined in the 
+"Radiological Safety--Standard Operating Procedures." All cases of personnel contamination 
+will be documented on DHS Form 90, "Personnel Contamination Report," which is available 
+from Laboratory Services. The following general rules and precautions will be observed in any 
+decontamination of personnel procedure. 
+
+
+
+The University of Mississippi 
+
+Page 23 of 26 
+
+ Decontamination of personnel will be done only under the supervision of the RPS or a 
+delegate. 
+
+ Instruments used must be checked for proper operation and must be within calibration 
+dates. 
+
+ Personnel assisting in decontamination will use necessary precautions and protective 
+clothing to prevent the spread of contamination to themselves or the surrounding area. 
+
+ Decontamination will be performed in a manner which will not spread contamination to 
+other parts of the body. 
+
+ When washing a contaminated area of the body, care must be taken to prevent abrasions, 
+cuts, or other invasions of the skin to prevent internal contamination. 
+
+ When drying an area of the skin which has been decontaminated by washing, do not rub 
+the skin. A gentle patting of the skin with drying material is recommended. 
+
+ Never use water that is warmer or colder than body temperature for washing.  
+o Warm water opens up pores. Cold water closes pores. Body temperature water is 
+
+recommended for decontamination. 
+ Several gentle washes using mild soaps and the techniques outlined above are much 
+
+better than one severe scrubbing. 
+ In the event that decontamination does not occur using the techniques above, further 
+
+decontamination efforts will be determined by competent medical authority. 
+
+ 
+
+RECORDS 
+
+Laboratory Services will maintain records as required by the MSDH. In addition, Laboratory 
+Services reserves the right to maintain other records to protect the interests of the University, the 
+local community, and the personnel associated with the University. A complete listing of 
+records, required by the Division of Radiological Health, is contained in the "Radiological 
+Safety--Standard Operating Procedures." 
+
+NEUTRON MOISTURE GAUGE 
+
+The following rules and regulations apply to the operation, use, and maintenance of the Troxler 
+Model 3216 Neutron Moisture Gauge, a product of Troxler Electronic Laboratories, Inc. The 
+gauge is currently in the custody of Laboratory Services of the University of Mississippi. The 
+University RPS will: 
+
+ Assure the safe use of the gauge at all times. 
+ Assure compliance with the regulations as published in all references. 
+ Assure by-product materials possessed under the Broad Scope License are in conformity 
+
+with the materials listed on the license. 
+ Assure that the gauge is only used by persons certified by competent authority in its safe 
+
+use. 
+ Assure that the gauge is properly secured against unauthorized removal at all times. 
+ Carry out, or cause to be carried out, the required leak tests according to schedule. 
+
+
+
+The University of Mississippi 
+
+Page 24 of 26 
+
+ Serve as point of contact and give assistance in case of an emergency. 
+
+Operating Procedures for the Neutron Moisture Gauge. 
+
+ The source will always be kept in the "safe" position when not being used in procedures 
+to test moisture content in accordance with manufacturer's instructions. 
+
+ The operator will keep all unauthorized persons away from the instrument in operation at 
+a minimum distance of 15 feet (5 meters). 
+
+ The gauge source lock will be in place and engaged in the locked position when the 
+instrument is not being used in procedures to test moisture content in accordance with 
+manufacturers' instructions. 
+
+ The gauge will be stored only in its approved storage case and location, and both the case 
+and storage location will remain locked at all times of storage. 
+
+ The operator will operate the gauge in a manner so as not to expose himself or others to 
+the unshielded source. 
+
+Security of the Neutron Moisture Gauge 
+
+The storage area and storage container will be physically secured to prevent unauthorized 
+personnel from tampering with or removing the instrument or source. Locks will be maintained 
+on the equipment to prevent accidental exposure of the sealed source when not under the direct 
+supervision of approved personnel engaged in operating the gauge for the purpose of measuring 
+moisture, or when not under the direct supervision of the RPS. When the gauge is being used on 
+a project site remote from the campus storage location, a storage room fixed with a lock will be 
+provided and located at least 15 feet (5 meters) from any work site. Only approved University 
+personnel and the RPS will have access to the storage room. 
+
+Transportation of the Neutron Moisture Gauge 
+
+The Neutron Moisture Gauge will be secured within the transporting vehicle, but not inside the 
+passenger's compartment, at all times during transportation. The Gauge will be transported at all 
+times while locked in its marked shipping container. The Gauge will not be transported off the 
+University campus without specific written authorization from the RPS. The Neutron Moisture 
+Gauge will always be transported in accordance with applicable Federal, State, and local 
+regulations. 
+
+Repairs and Maintenance 
+
+All repairs and maintenance of the gauge electronics and source will be performed by the 
+manufacturer, except that the RPS will perform, or cause to be performed, the semiannual leak 
+tests and inventory. 
+
+Accidents and Incidents 
+
+ If the neutron gauge is lost or stolen, the operator will immediately notify the University 
+RPS. The RPS will then notify the following agencies and/or personnel: 
+
+
+
+The University of Mississippi 
+
+Page 25 of 26 
+
+o Local area Police and Sheriff's office, 911. 
+o Mississippi State Department of Health, Division of Radiological Health         
+
+601-987-6893 (Weekdays from 8 am to 5 pm). 
+o National Response Center, 800-424-8802. 
+
+ In the event of physical damage to the gauge, an exclusion area with a radius of 15 feet (5 
+meters), minimum, will be set up around the gauge, and will be maintained until the 
+extent of source damage is determined by the RPS. If the damage occurs inside a vehicle, 
+the vehicle must be stopped, warning devices available should be energized, and the 
+vehicle vacated until the extent of the contamination is determined by competent 
+authority. If a visual inspection of the instrument, inside the case or out, indicates the 
+source was probably damaged, the exclusion area will be maintained, and the Radiation 
+Emergency Procedures for a "Major Spill," will be invoked. 
+
+ The Only Persons Authorized to Investigate Damage to the Troxler Neutron Gauge is the 
+RPS, or an Authorized Factory Representative. 
+
+ A written report of all accidents or incidents involving the Troxler gauge will be prepared 
+after investigation of each incident by the RPS, and will be maintained in the files of the 
+Laboratory Services. 
+
+ 
+
+ 
+
+ 
+
+LIST OF APPROVED RADIOISOTOPES 
+
+ELEMENT AND MASS NUMBER CHEMICAL SYMBOL AND MASS NUMBER  
+ 
+Carbon 14 - 14C  
+Calcium 45 - 45Ca  
+Cadmium 109 - 109Cd  
+Cerium 141 - 141Ce  
+Chlorine 36 - 36Cl  
+Cobalt 57 - 57Co  
+Chromium 51 - 51Cr  
+Copper 64 - 64Cu  
+Iron 59 - 59Fe  
+Gallium 67 - 67Ga  
+Gadolinium 153 - 153Gd  
+Germanium 68 - 68Ge  
+Gold 195 - 195Au  
+Hydrogen 3, (Tritium) - 3H  
+Mercury 203 - 203Hg  
+Iodine 125 - 125I  
+Iodine 131 - 131I  
+Indium 111 - 111In  
+
+
+
+The University of Mississippi 
+
+Page 26 of 26 
+
+Sodium 22 - 22Na  
+Phosphorus 32 - 32P  
+Phosphorus 33 - 33P  
+Rubidium 86 - 86Rb  
+Sulfur 35 - 35S  
+Scandium 46 - 46Sc  
+Selenium 75 - 75Se  
+Tin 113 - 113Sn  
+Tin 119 - 119Sn  
+Technetium 99 - 99Tc  
+Zinc 65 - 65Zn  
+
+The radioisotopes listed above are suitable for bulk liquid and liquid scintillation vial disposal 
+through the University of Mississippi's current waste broker. Contact the RPS prior to waste 
+generation if your radioisotope of interest does not appear on this list. 
+
+The Waste Liquid Scintillation Materials Generated must have an Average Specific Activity 
+Less than 0.05 Ci per gram of medium. 
+
+

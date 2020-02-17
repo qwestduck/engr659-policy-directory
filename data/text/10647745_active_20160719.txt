@@ -1,0 +1,217 @@
+
+The University of Mississippi 
+
+Page 1 of 3 
+
+Tritium Bioassay Protocol 
+ 
+Summary/Purpose:  The Tritium Bioassay Protocol Policy details procedures and requirements 
+to document and analyze potential exposures when operations involve specific amounts of 
+Tritiated Materials. 
+
+Tritium Bioassay Protocol  
+
+Approved Users requesting to work with hydrogen-3 (tritium) in milliCurie or greater quantities, 
+as well as other personnel in the immediate area, must take special care to prevent the release of 
+tritium to the environment and to prevent its accidental ingestion or inhalation. 
+
+All personnel working within the approved lab must first submit a preliminary background 
+bioassay and an individual's urine must be evaluated for tritium content, no earlier than 24 hours 
+and no later than 72 hours, after the use or potential exposure to any tritium levels meeting or 
+exceeding those given in Table 1.1.  
+ 
+
+This document outlines the steps to complete an accurate bioassay for tritium intake. 
+
+   
+When is a Bioassay Required? 
+Table 1.1 A tritium (H-3) bioassay is required, when any of the activity levels or concentrations 
+given in the table below are met or exceeded. 
+
+Processes 
+
+HTO (tritiated
+water and 
+forms other 
+than those in 
+the right-hand 
+column)  
+
+HT or T2 
+Gas(contained in  
+sealed process 
+vessels) 
+
+Nucleotide 
+Precursors 
+
+HTO (mixed 
+with more 
+than10 kg of 
+inert H2O or 
+other inert 
+substances) 
+
+In open room or bench, 
+(with possible escape of 
+tritium from process 
+vessels) 
+
+0.1 Curies 
+(3.7 GBq) 
+
+100 Curies 
+(3700 GBq) 
+
+0.01Curies 
+(370 MBq)  
+
+0.01Curies 
+(370 MBq) 
+
+Carried out within a fume 
+hood of adequate design, 
+face velocity, and 
+performance reliability 
+(With possible escape of 
+tritium) 
+
+1 Curie 
+(37 GBq) 
+
+1000 Curies 
+(37,000 GBq) 
+
+0.1Curies(3.7 
+GBq) 
+
+0.1Curies 
+(3.7 GBq) 
+
+Carried out within 
+gloveboxes, (ordinarily 
+closed, but with possible 
+
+10 Curies  
+(370 GBq) 
+
+10,000 Curies  
+(370 TBq) 
+
+1 Curie  
+(37 GBq) 
+
+1 Curie  
+(37 GBq) 
+
+
+
+The University of Mississippi 
+
+Page 2 of 3 
+
+release of tritium from 
+process and occasional 
+exposure to contaminated 
+box and box leakage) 
+
+   
+How much Tritium is allowed to be present in my body? 
+The Annual Limit on Intake (ALI) by ingestion or inhalation of tritium (H-3) is 3 x 10E9 Bq 
+(~80 mCi) of Tritiated water. (Reference: ICRP 30) 
+   
+Table 1.2 Uptake limit concentration of hydrogen-3 in urine. 
+
+Criteria Limit
+
+Weekly Limit for Whole Body Uptake 2 x 10-3 µCi / ml 
+
+Permit Holder Investigation Level 6 x 10-4 µCi / ml 
+
+Radiation Safety Notification Level 2 x 10-4 µCi / ml 
+
+General Precautions  
+
+ All procedures involving milliCurie quantities of tritium (where the tritium compound is 
+or could become volatile) must be conducted in a properly operating chemical fume 
+hood. 
+
+o This includes: 
+o Opening of packages; 
+o Dilution of stock solutions; and 
+o Chemical procedures. 
+
+* Individuals handling tritium compounds shall wear a lab coat and protective gloves.  
+
+How do I perform a Tritium Bioassay?  
+
+ Each individual requiring a bioassay shall collect, handle, and count their own samples. 
+ If an LSC is not available, you may submit a sample and a partially completed report to 
+
+Laboratory Services.  
+ This shall be done by collecting all of the urine in a single urination-void, withdrawing a 
+
+1-10 ml sample (5 ml preferred) and discarding the remainder. 
+
+Sample Preparation  
+
+ No specific sample preparation is required. 
+ Low potassium glass or plastic vials should be used to minimize background counts. 
+ An adequate amount of scintillation cocktail should be added and the sample should be 
+
+shaken well. 
+ The sample vials should be allowed to dark adapt in the scintillation counter for one hour 
+
+prior to counting to minimize fluorescence. 
+
+
+
+The University of Mississippi 
+
+Page 3 of 3 
+
+Why can’t I use a Geiger counter? 
+
+ Portable survey instruments are inappropriate for monitoring the weak (18.6 keV max.) 
+beta particle emitted by hydrogen-3. 
+
+ A liquid scintillation counter is adequate for counting contamination wipes and bioassay 
+samples. This counter should be calibrated on an annual basis using National Institute of 
+Standards and Technology (NIST) traceable standards. 
+
+How do I calculate the tritium concentration? 
+
+ 
+Formula for Determining Concentration  
+The concentration of tritium in the sample in units of µCi / ml can be calculated using the 
+following formula:  
+Concentration = [Cs - Cb ]/ [ ( 2.22 x106 ) E V ]  
+where: Cs = Gross sample counts per minute  
+Cb = Background counts per minute  
+E = Counting efficiency for tritium  
+V = Volume of sample  
+2.22x106 = DPM per µCi 
+Formula for Determining Minimum Detectable Activity (MDA)  
+The minimum detectable activity for the counter in units of µCi / ml can be calculated using the 
+following formula:  
+MDA = [2.71 + 4.65(Rb T)1/2 ] / [ ( 2.22 x106 ) E V T ]  
+where: Rb = Background count rate  
+T = Counting time  
+E = Counting efficiency for tritium  
+V = Volume of sample  
+2.22x106 = DPM per µCi  
+* The calculated MDA must be lower than the limits on uptake or the effluent limits or the 
+counting procedure is not valid. 
+Records Retention Use the Tritium Bioassay Worksheet (DHS-28) to comply with records 
+retention requirements.  
+The original copy of Form DHS-28 must be submitted to Laboratory Services.  
+
+Using Program Forms and Worksheets  
+The forms and worksheets used with his document provide the basis for an individual to 
+document the surveys and assessments performed.  
+All of the worksheets describe the policy that must be met for radiation safety surveys. 
+
+Form DHS-28 includes the minimum amount of information necessary to provide traceability 
+and repeatability of the measurements, if needed.  
+
+

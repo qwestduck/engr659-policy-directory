@@ -1,0 +1,756 @@
+
+The University of Mississippi 
+
+Page 1 of 14 
+
+Patents and Inventions 
+ 
+
+Summary/Purpose:  To designate the University of Mississippi policy for intellectual property 
+rights as they pertain to patentable materials, including inventions, but excluding copyrights. 
+ 
+
+I. FOREWORD  
+
+The development, dissemination and transfer of new knowledge historically has been the 
+
+responsibility of the University of Mississippi mostly through teaching and publications. More 
+
+recently, universities have also awakened to the importance of technology-based research and 
+
+development to the overall mission of the university. Implicit in this awareness is the under-
+
+standing that universities have the responsibility not only to bring new knowledge into use by the 
+
+public, but also that such knowledge or technology sometimes has commercial value and should 
+
+be treated as a financial asset to be used, conserved or applied in such a way as to generate 
+
+appropriate financial return to the inventor, the university and, when applicable, the licensee of 
+
+the technology. In the case of the University of Mississippi, priority will be put on placing such 
+
+technology in Mississippi with Mississippi firms.  
+
+The objectives of this policy, then, are:  
+
+• To develop a framework for encouraging research, scholarship and a spirit of 
+
+entrepreneurship within the University;  
+
+• To provide incentives and assistance to inventors to develop and commercialize 
+
+technology for the benefit of the inventor, the University and the public;  
+
+• To safeguard innovative technology from unauthorized use; and  
+
+• To provide a framework to determine the commercial value of new technologies, bring 
+
+them to public use, and provide for the equitable distribution of income, including 
+
+royalties, to the inventor, the University and other applicable parties.  
+
+II. DEFINITIONS AND EXPLANATION OF TERMS USED IN THIS POLICY  
+
+A. Intellectual Property 
+
+Intellectual Property is defined as any technical innovation, invention, discovery, or 
+
+know how, as well as writings and other information in various forms including 
+
+
+
+The University of Mississippi 
+
+Page 2 of 14 
+
+computer software. It may be the product of a single inventor or a group of inventors 
+
+who have collaborated on a project. The principal rights governing ownership and 
+
+disposition of technology are known as "intellectual property" rights, which are derived 
+
+primarily from legislation granting patent, copyright, trademark and integrated circuit 
+
+mask work protection. This policy covers only tangible innovations, inventions and 
+
+know-how; copyright and trademark protections may be covered in separate University 
+
+policies.  
+
+B. Invention 
+
+Invention, for the purposes of this policy, refers to any item that reasonably appears to 
+
+qualify for protection under United States patent law or other protective statutes, 
+
+whether or not actually patentable, or which appears to be commercially licensable. The 
+
+term does not refer to computer software, which is the subject of a separate University 
+
+policy.  
+
+C.  Patents 
+
+Patents are issued by the United States Patent and Trademark Office and are grants that 
+
+give an inventor the right to exclude from all other claimants the right to manufacture, 
+
+fabricate, use or sell an invention within the United States, its territories and posses-
+
+sions, usually for a period of 17 years from the date of the patent issue. This 17-year 
+
+period is exclusive of certain regulatory delays such as those sometimes imposed by the 
+
+Food and Drug Administration. To be considered patentable, an invention must be 
+
+useful, non-obvious, and new. A patent can be issued for a process, machine, article of 
+
+manufacture, composition of matter (most often a chemical), or new life form, including 
+
+any new, useful and non-obvious modification or improvement of prior technology. A 
+
+
+
+The University of Mississippi 
+
+Page 3 of 14 
+
+"utility" or "use" patent can be issued for a new use of an existing composition of 
+
+matter, and a "design" patent may be obtained for any new, original and non-obvious 
+
+ornamental design for an article of manufacture. "Design" patents are issued for 14 
+
+years. A grace period of up to 12 months from the first oral or written public disclosure 
+
+of an invention is allowed prior to filing a patent application in the United States.  
+
+D.  Foreign Patents 
+
+Foreign Patents. Patenting procedures in foreign countries vary considerably in 
+
+administrative content, the length of patent grants and in the definition of what is 
+
+eligible to be patented. Although grace periods for oral or written public disclosures are 
+
+allowed in the United States, this is not the case in foreign countries. In most foreign 
+
+countries, an invention is not patentable unless the patent application is filed prior 
+
+to any public disclosure (written or oral), in the U.S. or abroad. Inventors who 
+
+contemplate both foreign and domestic patents should contact the Director of Tech-
+
+nology Transfer for further information.  
+
+E.  Tangible Research Property 
+
+Tangible Research Property refers to products that can be distinguished from ideas or 
+
+processes that do not generate a physical artifact. Examples of such property would 
+
+include prototypes and drawings from engineering and design work, circuit chips, 
+
+biological organisms and other products which can be handled and transported. A 
+
+special form of tangible research property is computer software. A characteristic of 
+
+tangible research property is that it may be distributed without obtaining intellectual 
+
+property protection (patents or copyrights) by the use of formal contracts, user licenses, 
+
+or other contractual agreements.  
+
+
+
+The University of Mississippi 
+
+Page 4 of 14 
+
+F.  Non-patented Technology (Know-how) 
+
+Non-patented Technology (Know-how) refers to unique processes or techniques that 
+
+are utilized in the development of or in procedures followed in the course of research or 
+
+in the use of an invention. Examples of know-how include a specialized technique of 
+
+mounting difficult to handle specimens on a microscope slide for study, an innovative 
+
+technique in distilling a chemical compound for use in a research project, or the creative 
+
+use of film, lighting and developing processes that captures photographic images on 
+
+film. The key to determining whether a process falls under this definition is whether the 
+
+end result could not be obtained in a satisfactory manner without the knowledge and 
+
+correct application of this specialized process. In some cases the know-how that 
+
+accompanies a patented technology may be more valuable than the patent itself.  
+
+G.  Trade Secret 
+
+Trade Secret refers to almost any secret that is used in business or in research 
+
+surrounding the development of a tangible product that will give the owner of the secret 
+
+an edge over competitors. It is also used in software development. Trade secrets are 
+
+under the protection of state laws; there are no federal trade secret laws. Each individual 
+
+having access to the secret information must be bound by a contractual agreement 
+
+called a nondisclosure or confidentiality agreement. Failure on the part of one or more 
+
+individuals to adhere to the nondisclosure agreement results in violation of the state law, 
+
+and will nullify the protection of the trade secret.  
+
+H.  Royalties 
+
+Royalties are a form of income that is received by the inventor and the University as a 
+
+result of a license granted to a company or other entity to develop, manufacture or 
+
+
+
+The University of Mississippi 
+
+Page 5 of 14 
+
+otherwise use or produce the invention for sale or distribution. The royalty rate, usually 
+
+a percentage of sales of the invention, is negotiated as part of the license agreement 
+
+between the University and the licensee. This agreement is a binding contract.  
+
+I.  Other Income 
+
+Other Income refers to any other form of income that may be derived by the inventor 
+
+or the University as a result of the development and distribution of a patented product or 
+
+other invention.  
+
+J.  Substantial Use of University Resources 
+
+Substantial Use of University Resources, within the context of this policy occurs 
+
+when an invention results from use of University of Mississippi facilities, equipment 
+
+(except typewriters or word processors), supplies in excess of $100 total value, 
+
+personnel or other resources.  
+
+K.  University Personnel 
+
+University Personnel includes all faculty and staff, with full or part-time status, and 
+
+any other employee, agent or Fellow of the University, during the course of employ-
+
+ment. For the purposes of this policy, the term "employee" will be synonymous with 
+
+"University personnel."  
+
+L. General Scope of Assigned Duties 
+
+General Scope of Assigned Duties is defined in Section IV, A.  
+
+III.  WHO IS COVERED BY THIS POLICY  
+
+All University personnel are covered by this policy.  
+
+
+
+The University of Mississippi 
+
+Page 6 of 14 
+
+IV.  WHAT IS COVERED BY THIS POLICY  
+
+A. Inventions Resulting from University-Sponsored Research  
+
+The University shall have ownership of any invention developed in the course of the 
+
+assigned duties of all University personnel. Each employee is required to assign to the 
+
+University all domestic and foreign rights to any invention made within the scope of his 
+
+or her assigned duties, unless the Associate Vice Chancellor for Research notifies, in 
+
+writing, that the University abandons its interest in the invention. An invention will be 
+
+considered as having been made within the general scope of assigned duties:  
+
+1. Whenever the duties include research or investigation or the supervision of 
+
+research or investigation, and the invention arises in the course of such 
+
+research or investigation and relates to the general field of an inquiry to which 
+
+the person is assigned, or  
+
+2. Whenever the invention is in a substantial degree made or developed through 
+
+the use of University financing or on University time. 
+
+B. Inventions Resulting from Externally-Sponsored Research  
+
+Any discoveries or inventions made or produced during the course of externally 
+
+sponsored research will be owned by the University of Mississippi. However, if the 
+
+University determines that it is in its best interest, the Office of Research may enter into 
+
+agreements with sponsors which relinquish or share all or part of intellectual property 
+
+that results from externally sponsored research. This procedure will ensure that the 
+
+interests of the inventor, the University and the sponsor are considered whenever 
+
+external funds are granted to the University for research and development. 
+
+
+
+The University of Mississippi 
+
+Page 7 of 14 
+
+C.  Inventions Resulting from Activities Outside the Scope of Employment  
+
+Any inventions that are developed and achieved by University personnel on their own 
+
+time and at their own expense, including inventions derived from the private consulting 
+
+services of University personnel, provided that "substantial use of University resources" 
+
+has not been used to develop the invention, will be the exclusive property of the 
+
+inventor. If the inventor desires, a request may be made to the Associate Vice 
+
+Chancellor for Research to assign such an invention to the University. If assignment 
+
+occurs, the inventor and the University will share any royalties or other income derived 
+
+from the invention in the same manner as in all other inventions owned by the 
+
+University. 
+
+V.  OBLIGATIONS OF THE INVENTOR AND THE UNIVERSITY  
+
+A.  Obligations of the Inventor to the University  
+
+1.  Disclosure 
+
+Disclosure. University personnel who produce an invention that may have 
+
+commercial value are obligated to disclose such inventions to the University when 
+
+such an invention is made in the course of his or her assigned duties, or involves 
+
+"substantial use of University resources," or results from externally-sponsored 
+
+research or University-sponsored research. The disclosure must be in writing, and 
+
+it must be full and complete, as determined by the Associate Vice Chancellor for 
+
+Research. The mechanism for making this invention disclosure is the Record of 
+
+Invention form or a revision of the form that may be made from time to time. The 
+
+Office of Research will acknowledge receipt of a disclosure when it is full and 
+
+complete. Inventors are encouraged to contact the Office of Research for 
+
+assistance in reporting any potentially patentable or otherwise commercializable 
+
+invention or technology.  
+
+
+
+The University of Mississippi 
+
+Page 8 of 14 
+
+2.  Assignment of Rights 
+
+Assignment of Rights. The inventor is obligated to assign patent and all other 
+
+proprietary rights of the invention to the University, unless the invention was 
+
+made outside the general scope of the inventor's assigned duties.  
+
+ 
+
+If the inventor believes that the invention was made outside the general scope of 
+
+his or her assigned duties and is unwilling to assign the rights of the invention to 
+
+the University, the inventor can, in the Record of Invention form, request the 
+
+Associate Vice Chancellor for Research to make a determination of the respective 
+
+rights of the University and the inventor in the invention. If the inventor disagrees 
+
+with the decision, he or she can appeal the decision to the Provost/Vice 
+
+Chancellor for Academic Affairs. To assist in making decisions regarding rights 
+
+of the inventor and University, the inventor should include the following 
+
+information as an addendum to the Record of Invention form:  
+
+a. The circumstances under which the invention was made and 
+
+developed. 
+
+b. The inventors official duties, as given on his or her contract 
+
+with the University or as otherwise assigned at the time of the 
+
+development of the invention.  
+
+3.  Cooperation in Technology Development 
+
+Cooperation in Technology Development. The inventor is obligated to assist 
+
+University officers and the Associate Vice Chancellor for Research in carrying 
+
+out the work necessary to patent, market, license or otherwise commercialize the 
+
+invention.  
+
+4.  Timely Reporting to the University 
+
+Timely Reporting to the University. Since public disclosure of an invention 
+
+constitutes a statutory bar to the granting of a patent for an invention, the inventor 
+
+is obligated, whenever possible, to report his or her invention prior to describing 
+
+the invention in public.  
+
+
+
+The University of Mississippi 
+
+Page 9 of 14 
+
+5.  Delay in Publishing or Other Public Disclosure 
+
+Delay in Publishing or Other Public Disclosure. To protect the interests of the 
+
+inventor and the University, the Associate Vice Chancellor for Research may 
+
+require a delay in making public the nature of the invention until a patent 
+
+application is filed to protect the interests of the inventor and the University. 
+
+Specifically, this may require that the inventor withhold, for a reasonable time: 
+
+publicity concerning the invention; disclosure of the invention in a public 
+
+meeting, professional convention or meeting; or disclosure of the invention in a 
+
+scientific or other publication. Such a delay is in no way intended to abridge the 
+
+right, privilege and duty of faculty and other research personnel to publish the 
+
+results of research conducted at the University, and such a delay will be kept to 
+
+the minimum necessary to protect the patentability of the invention.  
+
+ 
+
+In a similar manner, the Associate Vice Chancellor for Research may withhold 
+
+from the library shelves, and decline to distribute for a limited time, any thesis or 
+
+dissertation that contains descriptions of any technology that is being considered 
+
+for patenting or for which a patent application is being prepared. The dissertation 
+
+or thesis will be held by the Dean of the Graduate School until the patent appli-
+
+cation is filed or the decision is made to abandon the pursuit of a patent. This 
+
+procedure will not affect the standing of the student and he or she will be awarded 
+
+the degree on schedule. 
+
+ 
+
+B.  Obligations of the University to the Inventor  
+
+1.  Timely Determination of Interest 
+
+Timely Determination of Interest. The University has the obligation to make a 
+
+timely determination of its interest in pursuing a patent or exerting other 
+
+proprietary rights concerning an invention. If the determination is made not to 
+
+exert its proprietary rights in the invention, the University is obligated to release 
+
+its rights, in writing, to the inventor. Normally, this determination will require no 
+
+
+
+The University of Mississippi 
+
+Page 10 of 14 
+
+longer than 90 days from the date at which a full and complete Record of 
+
+Invention form is submitted by the inventor.  
+
+2. Reasonable Efforts to Commercialize 
+
+Reasonable Efforts to Commercialize. The University has the obligation to 
+
+make reasonable efforts to commercialize any inventions to which it holds 
+
+proprietary interest or, alternatively, to release all or an equitable part of that 
+
+interest to the inventor.  
+
+3.  Income Sharing 
+
+Income Sharing. The University has the obligation to share with the inventor an 
+
+equitable portion of the income that is generated by the commercial development 
+
+of the invention. This includes the sharing of royalty or other income. 
+
+VI.  THE PROCESS OF OBTAINING PATENT COVERAGE  
+
+A.  The Office of Research 
+
+The Office of Research is the focal point for decisions made regarding technology 
+
+transfer activities on the campus. Record of Invention forms are submitted to and acted 
+
+upon by the Office of Research. Office of Research staff recommend decisions 
+
+regarding the patenting of a particular invention and, assisted by the inventor, make 
+
+marketing strategy and commercial development decisions concerning the invention. 
+
+Office of Research staff also provide education and advice about patents and licensing; 
+
+determine resolutions for unique situations, including the arbitration of disputes; and 
+
+make recommendations about assigning rights of the invention back to the inventor.  
+
+B.  Invention Disclosure 
+
+Invention Disclosure. A Record of Invention form is submitted by the inventor to the 
+
+Office of Research. Copies of these forms are available in the Office of Research. The 
+
+
+
+The University of Mississippi 
+
+Page 11 of 14 
+
+function of Record of Invention is to clarify and describe fully and completely the 
+
+proposed invention and the circumstances of its discovery. It is important to fill out the 
+
+form as completely as possible since it serves as a basis for evaluation of patentability 
+
+and commercial potential of the discovery or invention. Inventors are encouraged to 
+
+contact the Office of Research for assistance in reporting any potentially patentable or 
+
+otherwise commercializable invention or technology.  
+
+C.  Evaluation  
+
+1. If the inventor asserts in the Record of Invention form that the invention resulted 
+
+from activities outside the scope of University employment, the Associate Vice 
+
+Chancellor for Research will make a determination of the respective rights of the 
+
+University and inventor in the invention. (See Paragraph V.A.2. for further 
+
+discussion.)  
+
+2. Once it has been determined that the Record of Invention is full and complete, the 
+
+Office of Research staff will examine the invention from legal, patentability, 
+
+technological, and marketing standpoints and recommend to the Associate Vice 
+
+Chancellor for Research a determination of the University's interest in pursuing a 
+
+patent or exerting other proprietary rights concerning the invention. Staff may 
+
+also recommend additional R & D steps that must be completed prior to 
+
+submitting a patent application. If a determination is made not to pursue the 
+
+University's proprietary rights, the Associate Vice Chancellor for Research will 
+
+notify the inventor, in writing, that the University releases its rights to the 
+
+inventor provided that all further development of the invention will be at the 
+
+expense of the inventor, on his or her own time, and will not entail the substantial 
+
+use of University resources.  
+
+3. If a disclosed invention is determined to be more appropriately "know-how" or 
+
+tangible research property, the inventor will be notified, and steps will be taken to 
+
+investigate the possibilities of licensing the invention as non-patented technology. 
+
+
+
+The University of Mississippi 
+
+Page 12 of 14 
+
+4. Normally, these determinations will require no longer than 90 days from the date 
+
+at which a completed Record of Invention form is submitted by the inventor.  
+
+D.  Patenting and Licensing 
+
+Patenting and Licensing. If a decision is made to file a patent application, the 
+
+University will file the application within 270 days of making the determination that a 
+
+patent will be pursued, unless delays are caused because the application requires more 
+
+information that must be provided by the inventor or for other reasonable circumstances 
+
+that delay the filing. In many instances, the University will attempt to negotiate a 
+
+license agreement in which the licensee files the patent application on behalf of the 
+
+University or in which the licensee pays the costs of filing the patent application. If after 
+
+270 days an application is not filed, the Associate Vice Chancellor for Research will 
+
+inform the inventor about the cause of any delays or, alternatively, if the University 
+
+determines that it wishes to abandon its efforts to file a patent application, will inform 
+
+the inventor that the University releases its proprietary interest in the invention subject 
+
+to the same conditions that were outlined in Paragraph VI.C.2.  
+
+ 
+
+The inventor will almost always be asked to assist by providing necessary information 
+
+concerning any stage of the patent application process; patent examiners frequently 
+
+offer a detailed rejection of all or part of the patent claims, which may require extensive 
+
+written responses until the factual and legal issues are resolved. This process typically 
+
+requires two years or more. Licensing negotiations may commence at any time before, 
+
+during or after the patent application process occurs. 
+
+
+
+The University of Mississippi 
+
+Page 13 of 14 
+
+E.  Decision to Terminate Proprietary Interest 
+
+Decision to Terminate Proprietary Interest. If, at any stage of the patent application 
+
+process, a decision is made not to continue, the Associate Vice Chancellor for Research 
+
+will notify the inventor, in writing, that the University releases its proprietary rights to 
+
+the inventor provided that all further development of the invention will be at the 
+
+expense of the inventor, on his or her own time, and will not entail the "substantial use 
+
+of University resources." If sponsoring agencies are involved, commitments may also 
+
+need to be resolved between the University and the agency.  
+
+VII. ROYALTIES AND OTHER INCOME  
+
+A. Royalties 
+
+Royalties. If the University receives a patent, negotiates a license agreement, or 
+
+otherwise exploits an invention, the first royalty income will be applied to the 
+
+reimbursement of the out-of-pocket expenses entailed by the Office of Research for 
+
+patenting and licensing the invention. Thereafter, the next $5,000 of royalty income will 
+
+be given to the inventor(s). After the first $5,000 and through the first $100,000 of 
+
+royalty income, the inventor(s) and the University will receive the following proportion 
+
+of the royalties, as long as the payments continue: 45% to the inventor(s), 12.5% to the 
+
+inventor's department, 2.5% to the inventor's dean's office, and 40% to the Office of 
+
+Research. After the first $100,000 of royalty income, the inventor(s) and the University 
+
+will receive the following proportion of the royalties, as long as the payments continue: 
+
+25% to the inventor(s), 20% to the inventor's department, 5% to the inventor's dean's 
+
+office, and 50% to the Office of Research. In all instances, out-of-pocket licensing, 
+
+legal and other related expenses will be deducted before royalty income is distributed to 
+
+
+
+The University of Mississippi 
+
+Page 14 of 14 
+
+the inventor(s) and the University. If two or more inventors collaborated on the 
+
+invention and are listed as co-inventors on the patent application, the inventors' share of 
+
+royalties will be distributed in accordance with a letter of agreement which will be 
+
+signed prior to submitting the patent application. This letter of agreement will reflect 
+
+equitably the contribution of each inventor to the invention, and disagreements 
+
+concerning relative contribution to the invention, if any, will be arbitrated by the 
+
+Associate Vice Chancellor for Research. If the inventors are from different schools or 
+
+departments, the departments' share will be distributed in the same relative proportions 
+
+as that of the inventors.  
+
+B.  Other Income 
+
+Other Income. Other income refers to non-royalty income that results from licensing a 
+
+patent or exploiting other forms of technology for the benefit of the inventor and the 
+
+University. Examples include, but are not limited to, non-royalty income from spinoff 
+
+technologies and equity income. The equitable division of these sources of other income 
+
+will be negotiated by all parties concerned will be based on the unique characteristics of 
+
+the commercialization and of the specific technology under consideration.  
+
+  
+ 
+
+

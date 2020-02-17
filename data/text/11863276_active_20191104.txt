@@ -1,0 +1,1025 @@
+
+ 
+
+The University of Mississippi 
+Office of Financial Aid 
+
+University, MS  38677 
+Phone: (800) 891- 4596 Fax: (662) 915-1164 
+
+       
+ 
+
+Policy Name:  3.5 Verification 
+ 
+
+Purpose:  This document contains the Office of Financial Aid’s current 
+
+policies and procedures for Verification. 
+ 
+
+Disclaimer:  This policy is subject to change, without notice, in order to comply 
+
+with administrative and regulatory requirements. All policies and 
+
+procedures below are in accordance with the Federal Student Aid 
+
+Handbook. 
+ 
+
+Policy Contents:  
+
+3.5   Verification Overview 
+
+3.5.1  Institutional Verification Selection Criteria 
+
+3.5.2  Items to be Verified  
+
+3.5.3  Acceptable and Alternative Documentation 
+
+3.5.4  Comment Codes 400/401 
+
+3.5.5  IRS Request Errors 
+
+3.5.6  Verification Deadlines 
+
+3.5.7  Verification Exemptions 
+
+3.5.8  Process for Updating Information 
+
+3.5.9  Consequences for FAFSA Data Changes 
+
+3.5.10  Interim Disbursements 
+
+3.5.11  Conflicting Data 
+
+3.5.12  Process for Handling Overpayment Cases 
+
+3.5.13  Notification Method 
+
+3.5.14  Fraud and Criminal Misconduct 
+ 
+
+Definitions and Terms: 
+
+ AGI – Adjusted Gross Income  
+
+DOE – Department of Education  
+
+EFC – Expected Family Contribution  
+
+FAFSA – Free Application for Federal Student Aid  
+
+FERPA – Family Educational Rights and Privacy Act  
+
+IRA – Individual Retirement Account  
+
+IRS – Internal Revenue Service  
+
+IRS-DRT – IRS Data Retrieval Tool  
+
+ISIR – Institutional Student Information Report  
+
+OFA – Office of Financial Aid  
+
+ PJ – Professional Judgment  
+
+PPY – Prior-Prior Year (refers to tax information required on FAFSA) 
+
+ SAR – Student Aid Report (a processed FAFSA)  
+
+SEOG – Supplemental Educational Opportunity Grant 
+
+http://ifap.ed.gov/fsahandbook/attachments/1516FSAHbkActiveIndexMaster.pdf
+http://ifap.ed.gov/fsahandbook/attachments/1516FSAHbkActiveIndexMaster.pdf
+
+
+ 
+
+Part 3.5 Verification Overview 
+
+ 
+
+Verification is an important process created by the DOE that confirms the accuracy of 
+
+information submitted on the FAFSA, and requires correction of any inaccurate 
+
+information. Through collecting and reviewing additional documentation, verification 
+
+ensures fair and accurate distribution of federal funds during the financial aid awarding 
+
+process. Additionally, the OFA may institutionally select a student’s FAFSA for 
+
+verification where further clarification is needed, or to resolve conflicting data. 
+
+ 
+
+After completing the FAFSA, students will be notified by the DOE if they are selected 
+
+for verification. An asterisk (*) appearing next to the EFC number on the SAR indicates 
+
+that the student has been selected for verification. Additionally, a paragraph within the 
+
+SAR explains that the student has been selected.  
+
+ 
+
+Students selected for verification also receive regular email notifications from the OFA. 
+
+A customized verification worksheet (specific to each student showing student ID 
+
+number and based on verification selection) is available to students via the award 
+
+notification in MyOleMiss.  
+
+ 
+
+The OFA will compare information from the student’s FAFSA with other required 
+
+documentation (including but not limited to the verification worksheet and tax 
+
+documentation) and make any FAFSA changes on the student’s behalf as necessary. 
+
+Student/parents SHOULD NOT make any changes to the FAFSA during verification as it 
+
+will further delay processing. 
+
+ 
+
+Beginning with the 2017-18 FAFSA processing year, and for all processing years 
+
+thereafter, “prior-prior-year” (PPY) tax and income information is required on the 
+
+FAFSA application and to complete the verification process. The chart below indicates 
+
+what year’s tax information is needed for the respective academic year FASFA 
+
+application and to complete verification for that year: 
+
+ 
+
+FAFSA Application for Academic Year Required Tax/Income Information 
+
+2019-20 2017 
+
+2020-21 2018 
+
+ 
+
+ 
+
+Correspondence: 
+
+ 
+
+Please note that all correspondence from the OFA will be carried out through email. 
+
+Therefore, the student is responsible for checking his or her Ole Miss email account 
+
+regularly. If the student does not use their Ole Miss account, it is recommended that he or 
+
+she forward it to an active email account. 
+
+ 
+
+
+
+ 
+
+Part 3.5.1 Institutional Verification Selection Criteria 
+
+ 
+
+In addition to individual decisions about selecting students for institutional verification, 
+
+the automated load of new SARs into the OFA’s system is programmed to require 
+
+institutional verification if the following criteria apply: 
+
+ 
+
+ The student is listed as a Dependent, 
+
+ The student is eligible to receive a Federal Pell grant, 
+
+ Parent reported total income of $0.00,  
+
+ The student has not been selected by the federal processor verification. 
+ 
+
+ 
+
+Part 3.5.2 Items to be Verified  
+
+ 
+The OFA reserves the right to require a student to verify any FAFSA information and to 
+
+provide any reasonable documentation relevant to the student’s eligibility for Title IV aid. 
+
+The OFA verifies all items as mandated by the DOE. The verification tracking groups are 
+
+listed below. 
+ 
+
+Verification 
+
+Tracking 
+
+Flag 
+
+Verification Tracking 
+
+Group Name FAFSA Information Required to be Verified 
+
+V1 Standard Verification 
+
+Group 
+
+Tax Filers 
+
+ Adjusted Gross Income  
+
+ U.S. Income Tax Paid  
+
+ Untaxed Portions IRA Distributions  
+
+ Untaxed Portions of Pensions 
+
+ IRA Deductions and Payments  
+
+ Tax Exempt Interest Income  
+
+ Education Tax Credits  
+
+  
+
+Nontax Filers  
+
+ Income Earned from Work  
+
+  
+
+Tax Filers and Nontax Filers 
+
+ Number of Household Members  
+
+ Number in College  
+
+V4 Custom Verification 
+
+Group 
+High School Completion Status 
+
+Identity/Statement of Educational Purpose  
+
+
+
+V5 Aggregate Verification 
+
+Group 
+Tax Filers  
+
+ Adjusted Gross Income  
+
+ U.S. Income Tax Paid  
+
+ Untaxed Portions of IRA Distributions  
+
+ Untaxed Portions of Pensions  
+
+ IRA Deductions and Payments  
+
+ Tax Exempt Interest Income  
+
+ Education Tax Credits  
+
+  
+
+Nontax Filers  
+
+            Income earned from work  
+
+ 
+
+Tax Filers and Nontax Filers 
+
+ Number of Household Members  
+
+ Number in College  
+
+ High School Completion Status  
+
+ Identity/Statement of Educational Purpose  
+
+ 
+
+ 
+
+Part 3.5.3 Acceptable and Alternative Documentation  
+
+ 
+
+The DOE provides guidance and regulations regarding acceptable and/or alternative 
+
+documentation used to verify the information outlined in the previous table (c.f., Federal 
+
+Register, Vol. 84, No. 101, Electronic Announcement of May 24, 2019). 
+
+  
+
+When verifying tax and income information, the OFA will complete verification using 
+
+the alternative documentation for certain circumstances as listed below: 
+
+ 
+
+For students/parents who are separated, divorced, widowed, or re-married to 
+
+someone else since filing a joint tax return: 
+
+ 
+
+In this situation, it may not be possible to use the IRS Data Retrieval Tool. Therefore, to 
+
+complete verification, students/parents must submit ALL the following documentation: 
+
+ 
+
+ A Tax Return Transcript or Record of Account Transcript obtained from the IRS 
+for the applicable tax year listing the income and tax information required to be 
+
+verified, and if re-married, the step-parent’s (for dependent students), or spouse’s 
+
+(for independent married students) transcript; and 
+
+ For Dependent students:  W-2 forms/applicable tax schedules (C, F, K-1 form 
+1065) for each source of employment income for the applicable tax year for the 
+
+parent reported on the FAFSA, and if the parent is now re-married, W-2 
+
+forms/applicable tax schedules (C, F, K-1 form 1065) for the step-parent. For 
+
+Independent students who are re-married: W-2 forms/applicable tax schedules 
+
+(C, F, K-1 form 1065) for each source of employment income for the applicable 
+
+tax year for the student and their spouse. 
+
+https://ifap.ed.gov/fregisters/FR052419.html
+https://ifap.ed.gov/fregisters/FR052419.html
+
+
+For student/parent tax filers granted a filing extension by the IRS:  
+
+ 
+
+Tax-filers who have been granted the automatic six-month extension for filing their 
+
+return (i.e., until mid-October) must complete verification either by using the IRS Data 
+
+Retrieval Tool or submitting the IRS Tax Return Transcript(s) to the OFA. Only 
+
+student/parent tax-filers granted a tax-filing extension beyond the automatic six-month 
+
+extension by the IRS may complete verification by submitting ALL the following 
+
+documentation: 
+
+ A copy of IRS Form 4868*, “Application for Automatic Extension of Time to 
+File U.S. Individual Income Tax Return,” that the individual filed with the IRS for 
+
+the applicable tax year;  
+
+ If applicable, a copy of the IRS’s approval of an extension beyond the automatic 
+six-month extension if the individual requested an additional extension of the 
+
+filing time for the applicable tax year; 
+
+ The “Verification of Non-Filing Letter” obtained from the IRS or other relevant 
+taxing authority dated on or after October 1;  
+
+ A copy of IRS Form W-2 forms, and/or applicable tax schedules (C, F, K-1 form 
+1065) for each source of earned income received for the applicable tax year; and 
+
+ If self-employed, a signed statement certifying the amount of AGI and U.S. 
+income tax paid for the applicable tax year. 
+
+ 
+
+The OFA requests that individuals granted filing extensions submit tax information 
+
+using the IRS-DRT or by obtaining a tax return transcript from the IRS after the income 
+
+tax return for the applicable tax year is filed and fully processed by the IRS. In these 
+
+cases, the OFA re-verifies the FAFSA information. 
+
+ 
+
+*NOTE:  For tax-filers who requested an extension beyond the automatic six-month 
+
+extension, and were called up for active duty or for qualifying National Guard duty 
+
+during a war or other military operation or national emergency, in lieu of IRS Form 4868, 
+
+tax-filers must submit a written, signed statement certifying the tax-filer has not filed an 
+
+income tax return for the applicable tax year, or a request for a tax-filing extension 
+
+because of that military service.  
+
+ 
+
+For student/parent tax filers who file (or will file) an amended tax return: 
+
+ 
+
+ A signed copy of IRS form 1040X “Amended U.S. Individual Income Tax 
+Return” for the applicable tax year, AND  
+
+ The IRS tax return transcript (which does not have to be signed), or any other IRS 
+tax transcript that includes the applicable tax year information required to be 
+
+verified, AND  
+
+ All W-2 forms and applicable tax schedules (C, F, K-1 form 1065) for the 
+applicable tax year. 
+
+ 
+
+
+
+For student/parent tax filers who are victims of identity theft as related to tax-filing 
+
+purposes: 
+
+ 
+
+ A Tax Return Database View (TRDBV) transcript obtained from the IRS; AND 
+
+ A statement signed and dated by the tax filer indicating that the tax filer was a 
+victim of IRS tax-related identity theft and the IRS was made aware of the tax 
+
+related identity theft. 
+
+ 
+
+NOTE:  To inform the IRS of the tax-related identity theft and obtain a TRDBV 
+
+transcript, student/parent tax filers must contact the IRS Identity Protection Specialized 
+
+Unit (IPSU) at 1-800-908-4490. Upon authentication of the tax filer’s identity, the IPSU 
+
+will provide tax filer a TRDBV for the applicable tax year. Tax filers who cannot obtain a 
+
+TRDBV transcript may instead submit another official IRS transcript or equivalent 
+
+document provided by the IRS if it includes all income and tax information required to be 
+
+verified. OFA reserves the right to request further validation from the IRS (e.g., 
+
+signature, validation stamp, etc.) if deemed necessary. 
+
+ 
+
+For non-tax filers: 
+
+ 
+
+Student/parent non-tax filers must submit W-2 form(s), IRS 1099-MISC form(s), and/or 
+
+applicable tax schedules (C, F, K-1 form 1065) for each source of earned income (for 
+
+independent married students, also the spouse’s W-2 forms, 1099-MISC forms, and/or 
+
+applicable tax schedules). For any source of income not documented by W-2 forms or 
+
+other tax documents, the OFA requires inclusion of amount(s) and source(s) of earned 
+
+income on the verification worksheet, or a separate signed statement, which verifies 
+
+amounts the sources of income earned from work not on W-2s and certifies that the 
+
+person has not filed and is not required to file a tax return. In some cases, the OFA 
+
+requires a student or parent to submit a statement of financial support documenting 
+
+household expenses, the amounts and sources of income, and any other pertinent 
+
+information documenting financial support of the household (usually requested using a 
+
+Statement of Financial Support form as developed by OFA). 
+
+ 
+
+In addition to the forms or tax schedules listed above, the following is required:  
+
+ For non-tax filing parents of dependent students, the Verification of Non-Filing 
+Letter obtained from the IRS, dated on or after October 1, 2018 (for 2019-20 
+
+verification), or October 1, 2019 (for 2020-21 verification).  
+
+ For non-tax filing independent students, the Verification of Non-Filing Letter 
+obtained from the IRS, dated on or after October 1, 2018 (for 2019-20 
+
+verification), or October 1, 2019 (for 2020-21 verification), and if the student is 
+
+married, the same for the spouse, if the spouse did not or was not required to file a 
+
+tax return.  
+
+ 
+
+In some cases, if there is reason to believe that a person would have been required to file 
+
+a U.S. tax return, the OFA may request that the non-tax filer submit the IRS “Verification 
+
+of Non-Filing Letter” (NOTE: verification of non-filing is not an indication that the 
+
+person is not required to file a tax return, just that the tax filer did not file one. Also, the 
+
+
+
+OFA will not accept confirmation of non-filing status for an upcoming aid year if the 
+
+documentation is dated prior to October 1). 
+
+ 
+
+For persons who did not, but are required to file a tax return: 
+
+ 
+
+In some cases, when the OFA suspects the student/parent must file a tax return, the OFA 
+
+will not complete verification until a return is filed and fully processed by the IRS (so 
+
+that the student/parent could use the IRS-DRT, or request an IRS tax return transcript).  
+
+The OFA makes this determination by using the IRS calculator “Do I Need to File a Tax 
+
+Return?” 
+
+ 
+
+For residents of the Freely Associated States:  
+
+ 
+
+Residents of the Freely Associated States (the Republic of the Marshall Islands, the 
+
+Republic of Palau, or the Federated States of Micronesia, a U.S. territory or 
+
+commonwealth or a foreign government), who have not or are not required to file a tax 
+
+return, under IRS or other relevant tax authority rules, must provide the following:  
+
+ A signed statement certifying that the individual has not and was not required to 
+file an income tax return for the applicable tax year; and  
+
+ Documentation of sources of income earned from work for the applicable tax year 
+and the amount of income for each source; and  
+
+ W-2 forms for each source of employment or equivalent documentation for the 
+applicable tax year; and  
+
+ except for dependent students, confirmation of non-filing from the IRS (i.e., 
+“Verification of Non-Filing Letter”) or other relevant tax authority dated on or 
+
+after October 1, 2018 (for 2019-2020 verification), or October 1, 2019 (for 2020-
+
+21 verification). 
+
+ 
+
+For persons filing foreign tax returns: 
+
+ 
+
+Persons from a foreign country who are not required to file a U.S. tax return but filed a 
+
+foreign tax return are required to submit the foreign tax return with translated information 
+
+and income information converted to U.S. dollars of the information that corresponds 
+
+most closely with the income information reported on a U.S. tax return that are the items 
+
+required to be verified. 
+
+http://www.irs.gov/uac/Do-I-Need-to-File-a-Tax-Return%3F
+http://www.irs.gov/uac/Do-I-Need-to-File-a-Tax-Return%3F
+
+
+ 
+
+Part 3.5.4 Comment Code 400 & 401 
+
+ 
+
+Beginning with the 2018–19 FAFSA, transferred tax/income data as a result of using the 
+
+IRS Data Retrieval Tool will not display to the applicant or parent (nor can corrections be 
+
+made after the transfer on that FAFSA or any subsequent FAFSA). Certain indicators on 
+
+the FAFSA (Comment Codes 400 for parent information, and 401 for student 
+
+information) are assigned if there is potential erroneous information for the student or 
+
+parent.  
+
+The information below lists certain circumstances that indicate erroneous student or 
+
+parent information on the FAFSA:  
+
+ 
+
+For Dependent Students and Independent Students  
+
+ Student is a tax filer (FAFSA Question 32) and the AGI retrieved from the IRS is 
+zero, but the total income earned from work (FAFSA Questions 39 and 40) is 
+
+greater than zero.  
+
+ The total of the Additional Financial Information fields reported on the FAFSA 
+form (FAFSA Questions 44a-f) is greater than the AGI transferred from the IRS.  
+
+ Any item from the FAFSA list of Untaxed Income (FAFSA Questions 45a-j) is 
+equal to or exceeds the AGI transferred from the IRS.  
+
+ 
+
+For Parents of Dependent Students  
+
+ Parent is a tax filer (FAFSA Question 80) and the AGI retrieved from the IRS is 
+zero, but the total income earned from work (FAFSA Questions 88 and 89) is 
+
+greater than zero.  
+
+ The total of the Additional Financial Information fields reported on the FAFSA 
+form (FAFSA Questions 93a-f) is greater than the AGI transferred from the IRS.  
+
+ Any item from the FAFSA list of Untaxed Income (FAFSA Questions 94a-i) is 
+equal to or exceeds the AGI transferred from the IRS.  
+
+ 
+
+When there is erroneous student or parent information on the FAFSA (based on the 
+
+assigning of Comment Codes 400 or 401), the OFA must review the relevant data items 
+
+for all possible conditions noted above to ensure correct information is used to determine 
+
+the applicant’s Title IV eligibility. In many instances, this review may require contacting 
+
+the student or parent and obtaining documentation to support the accuracy of the 
+
+information. The OFA must submit appropriate FAFSA corrections to correct any 
+
+information, and if necessary, adjust student awarding if eligibility changes. 
+
+ 
+
+
+
+ 
+
+Part 3.5.5 IRS Request Errors 
+
+ 
+
+Changes made to the FAFSA that make student/parent ineligible to use the IRS-
+
+DRT:  
+ 
+
+If the student or parent was eligible to use the IRS DRT and transferred data from the 
+
+IRS, but after submission of the FAFSA, a subsequent change made the applicant or 
+
+parent ineligible to use the IRS DRT, the OFA must contact the applicant or parent, as 
+
+applicable, to determine if the income tax return information that was transferred into the 
+
+FAFSA form is correct given the changes the applicant or parent made to IRS DRT 
+
+eligibility criteria, and make any necessary changes to the applicant’s FAFSA as needed, 
+
+and if necessary, adjust student awarding if eligibility changes.  
+
+ 
+
+Successful use of the IRS-DRT but the tax-filer had an amended tax return:  
+ 
+
+In some cases, the student or parent links to the IRS and successfully uses the IRS Data 
+
+Retrieval Tool, but after doing so, the IRS determines that the tax filer has an amended 
+
+return on file for the relevant tax year (2018 for the 2020-21 FAFSA). The income and 
+
+tax information that is transferred to the FAFSA from the IRS will be from the originally 
+
+filed tax return and will not include changes that were made on the amended tax return 
+
+(IRS Form 1040X).  
+
+ 
+
+When this occurs, the OFA must contact the applicant or parent, as applicable, and make 
+
+any necessary changes to the FAFSA, regardless of whether the FAFSA was required to 
+
+be verified, and if necessary, adjust student awarding if eligibility changes.  
+
+ 
+
+ 
+
+Part 3.5.6 Verification Deadlines 
+
+ 
+
+The deadline for verification (as determined by the DOE) is usually September 29
+th
+
+ or 
+
+120 days after the student’s last date of enrollment, whichever date is earlier. 
+
+ 
+
+ 
+
+Part 3.5.7 Verification Exemptions 
+
+ 
+
+The OFA may choose not to verify an applicant’s FAFSA data in certain cases. However, 
+
+these exemptions do not excuse the OFA from its requirement to resolve conflicting 
+
+information.  
+
+ 
+
+The OFA will not verify an applicant’s FAFSA data if: 
+
+ 
+
+ The applicant dies; 
+
+ The applicant does not receive assistance under the Title IV, HEA programs for 
+eligibility reasons other than failure to verify FAFSA information; 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+The OFA will verify an applicant’s FAFSA data if: 
+
+ 
+
+ The applicant is eligible to receive only unsubsidized student financial 
+assistance; OR 
+
+ The applicant transfers to The University of Mississippi, even if verification 
+has been performed at the prior institution.   
+
+ 
+
+Unless the OFA has reason to believe that the information reported by a dependent 
+
+student is incorrect, it need not verify the applicant's parents' FAFSA information if: 
+ 
+
+ The parents are residing in a country other than the United States and cannot 
+be contacted by normal means of communication; 
+
+ The parents cannot be located because their contact information is unknown 
+and cannot be obtained by the applicant; or 
+
+ Both of the applicant's parents are mentally incapacitated. 
+ 
+
+Unless the Office of Financial Aid has reason to believe that the information reported by 
+
+an independent student is incorrect, it need not verify the applicant's spouse's information 
+
+if: 
+ 
+
+ The spouse is deceased; 
+
+ The spouse is mentally incapacitated; 
+
+ The spouse is residing in a country other than the United States and cannot be 
+contacted by normal means of communication; or 
+
+ The spouse cannot be located because his or her contact information is 
+unknown and cannot be obtained by the applicant. 
+
+ 
+
+ 
+
+Part 3.5.8 Process for Updating Information 
+
+ 
+
+The OFA completes the verification process in four steps: 
+
+ 
+
+1. Collection of acceptable documentation. 
+2. Review of collected documentation.  
+3. Request for additional documentation/information, corrections to FAFSA or 
+
+corrections to student/parent tax documents as needed. 
+
+4. Verification corrections made, as needed, to the student’s FAFSA once the review 
+process is completed. 
+
+
+
+ 
+
+ 
+
+Part 3.5.9 Consequences for FAFSA Data Changes 
+
+ 
+
+Changes in an applicant’s FAFSA may result in: 
+
+ 
+
+ A change in the student’s eligibility or ineligibility for federal, state, or 
+institutional need-based aid  
+
+ Paybacks on any federal financial aid already awarded 
+ 
+
+If an adjustment must be made to a student’s packaging due to a change in the student’s 
+
+FAFSA info (made by the OFA, the student, parent, or another institution) – the OFA 
+
+will notify the student if those changes are justified. 
+
+ 
+
+ 
+
+Part 3.5.10 Interim Disbursements 
+
+ 
+
+Federal regulations allow for financial aid offices to release one disbursement of Pell 
+
+and/or SEOG prior to the completion of verification (or after verification, but before 
+
+receiving the corrected FAFSA from the central processor.)  However, the OFA does not 
+
+currently allow for interim disbursements.  
+
+ 
+
+ 
+
+Part 3.5.11 Conflicting Data 
+
+ 
+
+If any verified FAFSA data is changed after verification by the student/parent or another 
+
+institution and conflicts with the FAFSA data that has already been verified by the OFA, 
+
+the OFA will: 
+
+ 
+
+ Return all verified data to the values confirmed after the OFA’s previous 
+
+verification process, and; 
+
+ Make needed adjustments to the student’s financial aid awards 
+
+ 
+
+The OFA may resolve conflicting FAFSA data by contacting the student and/or parents 
+
+directly, or through the PJ process. 
+
+ 
+
+ 
+
+Part 3.5.12 Process for Handling Overpayment Cases 
+
+ 
+
+In the case of overpayment of federal funds to a student’s bursar account, the OFA will: 
+
+ 
+
+ Reimburse the DOE for the overpayment amount. 
+
+ Charge the student’s bursar account for the equivalent overpayment amount. 
+
+ 
+
+ 
+
+ 
+
+
+
+Part 3.5.13 Notification Methods 
+
+ 
+
+Through July 1
+st
+, all incoming freshmen who are flagged for verification will be mailed 
+
+paper letters to their permanent mailing address which contain detailed information on 
+
+the process and how to complete it for the upcoming year. Thereafter, they will receive 
+
+email prompts to their Ole Miss email address.  Continuing undergraduate students and 
+
+all graduate/professional students will be notified via email. 
+
+ 
+
+During the Verification Process 
+
+ 
+
+During the verification process, students will be notified by the OFA by email and/or 
+
+phone when additional documentation or information is needed. 
+
+ 
+
+Students selected for the verification process will receive emails with information 
+
+explaining the student’s current status and required actions. 
+
+ 
+
+When the verification process is complete and financial aid has been awarded, the student 
+
+will be notified.  Incoming freshmen will receive an initial paper notification.  Continuing 
+
+undergraduate students and graduate/professional students will receive notification via 
+
+email. 
+
+ 
+
+Based on FERPA regulations, and when the student signs the FAFSA and verification 
+
+worksheet, the student gives permission to the OFA to disclose or discuss FAFSA 
+
+information with any reporting parent or spouse listed on the FAFSA when necessary.   
+
+ 
+
+ 
+
+Part 3.5.14 Fraud and Criminal Misconduct 
+
+ 
+
+After conducting the review of an applicant’s FAFSA information, any credible 
+
+information indicating that an applicant for Title IV assistance engaged in fraud or other 
+
+criminal misconduct in connection with his/her application will be reviewed for referral 
+
+to the DOE Office of Inspector General.  
+
+ 
+
+Examples of cases that the OFA may refer to the DOE include but are not limited to: 
+
+ 
+
+ False claims of independent student status 
+
+ False claims of citizenship 
+
+ Use of false identities 
+
+ Forgery of signatures or certifications 
+
+ False statements of income 
+
+

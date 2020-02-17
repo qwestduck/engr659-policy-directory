@@ -1,0 +1,1576 @@
+
+The University of Mississippi 
+
+Page 1 of 30 
+
+Biological Safety Manual 
+ 
+
+Summary/Purpose:  The Biological Safety Manual details the minimum requirements and 
+procedures for operations involving Biohazardous Materials.  
+ 
+
+Introduction  
+
+Institutional Biosafety Committee  
+
+Roles and Responsibilities  
+
+Biological Laboratory Safety  
+
+Disposal of Biological Material  
+
+Shipment of Biological Agents  
+
+Recombinant DNA  
+
+Regulations for Working with Biohazardous Organisms  
+
+Regulations for Working with Human Blood, Fluids or Tissue  
+
+Regulations for Working with Animals  
+
+Responsibilities of the Principal Investigator  
+
+Facility Design  
+
+Biosafety Level 1  
+
+Biosafety Level 2  
+
+Biosafety Level 3  
+
+Animal Biosafety Level 1  
+
+Animal Biosafety Level 2  
+
+Animal Biosafety Level 3  
+
+Animal Biosafety Level 4  
+
+
+
+The University of Mississippi 
+
+Page 2 of 30 
+
+Introduction 
+
+The purpose of this manual is to set biological safety policies for the University of Mississippi, 
+Oxford Campus. This manual contains information, regulations and procedures to provide for the 
+safety of personnel and the environment from biologically hazardous materials. It is not intended 
+that this manual be an exhaustive treatment of biological safety and certain work areas will have 
+problems not covered herein. In general, federal and state guidelines dealing with biological 
+safety are not restated herein, but all such guidelines are assumed to be applicable and binding on 
+all personnel working at the Oxford campus of the University. 
+
+Information on biological safety is available from the Laboratory Services (LS) for the 
+development of specific safety programs for operations not covered in this manual. Additional 
+information on topics in this manual as well as slide and videocassette seminars are also 
+available from the LS. 
+
+DEFINITION OF A BIOHAZARD 
+
+Biohazardous agent is one that is biological in nature, capable of self-replication and has the 
+capacity to produce deleterious effects upon other biological organisms, particularly humans. 
+
+DANGEROUS CHARACTERISTIC 
+
+It is important to distinguish a dangerous characteristic of hazardous biological agents. They all 
+have the ability to replicate. In contrast to chemical agents, infectious biological agents can 
+reproduce which gives rise to the potential of large populations in nature when small numbers 
+are released from a controlled situation. Although SAFE doses of chemical and physical agents 
+are often specified, there is NO SAFE level of a non- contained pathogenic organism. 
+
+TRAINING IN BIOHAZARDS 
+
+Containment and safe handling of known and potentially biohazardous materials require strict 
+adherence to prudent microbiological practices. Therefore, all personnel directly or indirectly 
+involved with any such materials must receive adequate instruction in these practices. This 
+should include training in appropriate aseptic technique and instruction in the biology of the 
+organism so that the potential biohazards can be understood and appreciated. 
+
+Safety in your work involving biohazards depends upon how you or a member of a team applies 
+available guidelines. In addition to specific safety knowledge, motivation and critical judgement 
+are absolutely essential for ensuring the protection of all personnel, the public and the 
+environment. 
+
+ROUTES OF EXPOSURE 
+
+Exposure and subsequent infection of an individual with a biohazardous agent can occur by 
+several routes. The most common routes are the following: 
+
+
+
+The University of Mississippi 
+
+Page 3 of 30 
+
+1. Oral 
+2. Respiratory 
+3. Skin puncture 
+4. Penetration through unbroken skin 
+5. Conjunctival 
+
+ 
+All the above routes account for a percentage of known infections, but respiratory exposure 
+probably accounts for 65 to 75% of all infections. 
+
+Most routine bacteriological and virological procedures are capable of producing aerosols. In 
+order to initiate a respiratory infection, aerosols must be deposited and retained in the respiratory 
+tract. Particles of less than 5 micrometers are most effective in establishing airborne infections in 
+laboratory animals. Airborne organisms can remain suspended in air for long periods of time and 
+can be carried around the room by convective air currents and also throughout the ventilation 
+systems of buildings. Since these organisms remain infectious for long periods of time, there is a 
+potential danger to anyone who comes in contact with the organisms. In most cases, however, the 
+doses to which an individual may be exposed are insufficient to cause disease. Infectious doses 
+for humans vary with the agent, the route of exposure and the resistance of the host. 
+
+Institutional Biosafety Committee (IBC) 
+
+The institution shall establish an IBC whose responsibilities need not be restricted to 
+recombinant DNA and shall meet the requirements as outlined in Section IV-B-2 of the NIH 
+Guidelines for Research Involving Recombinant DNA Molecules. 
+
+A.  The Institutional Biosafety Committee or IBC means a committee that meets the 
+requirements for membership specified by the NIH and reviews, approves, and oversees projects 
+in accordance with the responsibilities defined by the NIH. The IBC shall be established by the 
+institution and represent a collective expertise and experience in recombinant DNA research 
+experiments and potential risk to public health or the environment. 
+
+B. On behalf of the institution, the IBC is responsible for reviewing for compliance with the NIH 
+guidelines for research with pathogens and recombinant DNA research. This review shall include 
+an independent assessment of the containment levels required by these Guidelines for the 
+proposed research, an assessment of the facilities, procedures, and practices, and of the training 
+and expertise of personnel. The IBC will notify the PI and LS of the results of its review. The 
+IBC will also be responsible for setting containment levels as specified by NIH guidelines and 
+direct LS to periodically review laboratory conditions where recombinant DNA or other 
+biohazardous research is being conducted to ensure that the requirements of the Guidelines are 
+being fulfilled. 
+
+C.  The IBC will report to the LS institutional official and to the Office of Recombinant DNA 
+Activities at the NIH any significant problems with or violations of the Guidelines and any 
+significant research-related accidents or illness unless the IBC determines that the PI has already 
+done so. 
+
+
+
+The University of Mississippi 
+
+Page 4 of 30 
+
+D.  The IBC may not authorize initiation of experiments not explicitly covered by the Guidelines 
+until NIH (with the advice of the Recombinant DNA Advisory Committee (NIH) when required) 
+establishes the containment requirement. 
+
+E. Performing such other functions as may be delegated to the IBC under personnel descriptions. 
+
+Roles and Responsibilities 
+
+Safety in activities involving biohazardous agents depends on the individual conducting them. 
+The Guidelines cannot anticipate every possible situation. Motivation and good judgement are 
+the key essentials to protection of health and the environment. These guidelines are intended to 
+help the institution, Institutional Biosafety Committee (IBC), Laboratory Services (LS) and 
+Principal Investigator (PI) determine the safeguards that should be implemented. These 
+guidelines will never be complete or final in that all conceivable experiments involving 
+recombinant DNA and other biohazardous agents cannot be foreseen, therefore it is the 
+responsibility of the institution and those associated with it to adhere to the intent of the 
+guidelines as well as to their specifics. 
+
+Each institution (and the IBC acting on its behalf) is responsible for ensuring that recombinant 
+DNA activities comply with the guidelines. General recognition of institutional authority and 
+responsibility properly establishes accountability for safe conduct of the research at the local 
+level. 
+
+Biological Laboratory Safety 
+
+It has been shown that the most common exposure route for pathogenic or disease inducing 
+agents is through the production of aerosols. Any operation that mechanically disturbs a solution 
+has the potential to release a cloud of contaminated droplets into the air. Many of these droplets 
+will be too small to be seen and capable of being transported from the point of origin by air 
+currents. The aerosols may also settle on equipment or hands and be transmitted by subsequent 
+contact. Good technique, therefore, is to minimize production of aerosols. Work with pathogenic 
+or disease inducing agents must be done in containment hoods such as biological hoods at a 
+minimum of BL2 procedures (actual biological safety level is determined by the organism or 
+pathogen). 
+
+Basic safety rules for aerosols are as follows: 
+
+1. Do not expel the last drop from a pipette. The expulsion creates droplets. 
+2. Do not mix solutions by pipette. 
+3. Sterilization of loops or needles by flame causes spattering. The instruments should be cleaned 
+in a decontaminating solution before heating. A shield to catch flying particles should be used. 
+4. Allow needles and loops to cool before applying them to specimens or cultures. 
+5. Do not rely on the medium to cool the instruments. 
+6. Do not streak agar that has a rough or broken surface. 
+7. Agitate broth cultures only by swirling smoothly in a horizontal plane, not in a vertical 
+fashion. 
+8. Surround the needle with a disinfectant-soaked cloth while injecting biologically active 
+materials. 
+
+
+
+The University of Mississippi 
+
+Page 5 of 30 
+
+9. Wrap the syringe with a disinfectant-soaked cloth when breaking the needle off after use, prior 
+to disposal. 
+10. Blenders and centrifuges create large quantities of aerosols.  
+
+Allow the aerosols to settle for several minutes before opening these devices. 
+
+All of the techniques above can only reduce the generation of aerosols, not eliminate them. 
+Where the possibility of infection is significant, the work must be done in a biological safety 
+cabinet or, if the risk is very high or the disease is a serious one, the work must be performed in a 
+glove box. The specifications of these cabinets are given in the section "Biological Safety 
+Cabinets." 
+
+In addition to the aerosol control practices covered in the previous section, there are a number of 
+other procedures that must be followed in microbiological or biomedical laboratories. The items 
+listed below are minimum standards that must be followed in every active laboratory. Where the 
+risk is high the investigator will be asked to make a formal presentation of additional safety 
+precautions to the Institutional Biosafety Committee for approval. 
+
+1. Laboratory doors should be kept closed when experiments are in progress. 
+2. Work surfaces are to be decontaminated at least once a day and after each spill or viable 
+material. 
+3. All contaminated liquid or solid wastes are decontaminated before disposal. 
+4. Mechanical pipetting devices must be used; mouth pipetting is prohibited. 
+5. Eating drinking, smoking, storing food, and applying cosmetics are not to be permitted in the 
+work area. 
+6. Persons must wash their hands when they leave the laboratory. 
+7. All laboratory operations must conform to the requirements of the Biosafety Level assigned by 
+the Institutional Biosafety Committee, see Appendix C 
+8. All animal operations must conform to the requirements of the Animal Biosafety Level 
+assigned by the Institutional Animal Care and Use Committee, see Appendix D. 
+
+Disposal of Biological Material 
+
+In general, it is the responsibility of the principal investigator or supervisor of a laboratory 
+handling biologically hazardous material to insure its PROPER STERILIZATION prior to 
+disposal either as a chemical hazard, a radiological hazard or as ordinary trash. NO 
+BIOLOGICAL MATERIAL STORED IN A BIOHAZARDOUS BAG WILL BE 
+DISPOSED OF IN THE ORDINARY UNIVERSITY TRASH. The biohazardous material 
+must be rendered inactive by sterilization either by the principal. If sterilized by the principal 
+investigator, the material must be removed from the Biohazard Bag prior to disposal in ordinary 
+University trash by the principal investigator. 
+
+Autoclaving and dry heat sterilization will be the responsibility of the principal investigator or 
+laboratory supervisor. 
+
+DISPOSAL OF MEDICAL WASTE 
+
+
+
+The University of Mississippi 
+
+Page 6 of 30 
+
+Laboratory Services (LS) is responsible for compliance with and enforcement of the federal and 
+state laws and regulations that apply to the use and disposal of biologically hazardous materials. 
+Specific regulations and policies are located in the Biological Safety Manual 
+ 
+
+Federal regulations currently divide biological waste into two categories - Medical Waste and 
+Pathological Waste The simplified definition is that biological waste produced in research and 
+in the testing of materials is Medical and biological waste produced in classrooms or in 
+educational settings are Pathological. 
+
+Medical Waste = Research / Testing - - - - - - Pathological Waste = Classroom / Education  
+ 
+
+Medical Waste disposal requires the services of an outside contractor and the segregation of 
+waste materials at the departmental level.  
+
+Follow the packaging guidelines from the vendor – published on the LS Web site 
+
+DRY HEAT STERILIZATION 
+
+For the sterilization of sharps, syringes, broken glass, etc. which are contaminated with a 
+biohazard, it is recommended that dry heat be used, e.g., a laboratory drying oven that is capable 
+of temperatures up to 200 ° C. Laboratory Services does not have the facilities for this type of 
+sterilization. As a result, it is the responsibility of the individual investigator or his or her 
+department to provide this type of sterilization, if it is needed. 
+
+A. The following table gives the recommended temperature and time for various biohazards: 
+
+DRY HEAT TEMPERATURE/TIME CYCLE 
+
+- - - BIO-HAZARD - - - - - - - - - TEMPERATURE - - - - -TIME 
+
+- - - Non-sporing organisms - - - 100 ° C- - - - - - - 1 hr. 
+- - - Fungal spores  - - - - - - - - - 120 ° C- - - - - - - 1 hr. 
+- - - Bacterial spores - - - - - - - - 160 ° C- - - - - - - 1 hr. 
+- - - Resistant spores - - - - - - - - 180 ° C- - - - - - - 1 hr. 
+- - - Resistant viruses  - - - - - - - 200 ° C- - - - - - - 1 hr. 
+
+ 
+
+STEAM AUTOCLAVES 
+
+The recommended method for sterilization of non-burnable biohazardous material is steam 
+autoclaving. Since treatment conditions to achieve sterility will vary in relation to the volume of 
+materials treated, its contamination level, the moisture content, and other factors care should be 
+
+
+
+The University of Mississippi 
+
+Page 7 of 30 
+
+exercised in using this method of sterilization. In general, it is recommended that the autoclave 
+by operated at a temperature of 121° C and run for a minimum of one hour. 
+
+However, the recommendations of the manufacturer of the particular autoclave should be 
+followed in order to provide an adequate pressure/temperature/time cycle to ensure sterilization. 
+It is also recommended that plastic autoclaving bags with a color indicator be used to give a 
+visual indication that the material is indeed sterile. This is especially important when highly 
+potent biological agents are involved. 
+
+The use of sterilization tape is required on all contaminated materials undergoing all types of 
+sterilizations listed above. 
+
+LS will test all autoclaves on the Oxford campus twice a year, usually in January and July, for 
+proper operation. 
+
+LIQUID DISINFECTION 
+
+An alternative method to dry heat sterilization of sharps, glass, etc. is the disinfection of the 
+material using a chemical agent. The recommended method is to soak the sharps, glass, and other 
+materials in full strength Chlorox for a period of one hour. Alternative disinfecting agents are: 
+70-85% ethanol, 5% formaldehyde solution, and Wescodyne diluted to give 75 ppm of free 
+iodine.  
+
+Shipment of Biological Agents 
+
+Refer to the current LS Shipping Policies and regulations 
+
+Recombinant DNA 
+
+1. DNA molecules which are constructed outside living cells by joining foreign* natural or 
+foreign* synthetic DNA segments to DNA molecules that can replicate in a living cell; 
+
+2. DNA molecules that result from the replication of those described in (1). Synthetic DNA 
+segments likely to yield a potentially harmful polynucleotide or polypeptide (e.g., a toxin or a 
+pharmacologically active agent) will be considered as equivalent to their natural DNA 
+counterparts. If the synthetic DNA segment is not expressed "in vivo" as a biologically active 
+polynucleotide or polypeptide product, it is exempt from the Guidelines. 
+
+*(Rearrangements involving the introduction of DNA from different organisms or different 
+strains of an organism will be considered recombinant DNA. Deletions, single-base changes and 
+rearrangements within a single genome will not involve the introduction of foreign DNA and 
+therefore would not be considered recombinant DNA.) 
+
+GENERAL APPLICABILITY 
+
+The recombinant DNA guidelines are applicable to all recombinant DNA research within the 
+United States or its territories which is conducted at or sponsored by an institution that receives 
+
+
+
+The University of Mississippi 
+
+Page 8 of 30 
+
+any support for recombinant DNA research from the National Institutes of Health. Any 
+individual receiving support for research involving recombinant DNA must be associated with or 
+sponsored by an institution that can and does assume the responsibilities assigned in these 
+guidelines. 
+
+CONTAINMENT 
+
+Effective biological safety programs have been operative in a variety of laboratories for many 
+years. Considerable information exists in the design of physical containment facilities and the 
+selection of laboratory procedures applicable to organisms carrying recombinant DNAs. The 
+existing programs can be divided into two categories: (i) A set of standard practices that are 
+generally used in microbiological laboratories; and (ii) special procedures, equipment, and 
+laboratory installations that provide physical barriers which are applied in varying degrees 
+according to the estimated biohazard. Four biosafety levels consist of combinations of laboratory 
+practices and techniques, safety equipment, and laboratory facilities appropriate for the 
+operations performed and the hazards posed by agents and for the laboratory function and 
+activity. Biosafety level 4 (BL4) provides the most stringent containment conditions, BL1 the 
+least stringent. 
+
+Experiments on recombinant DNAs by their nature lend themselves to a third containment 
+mechanism (iii), namely, the application of highly specific biological barriers. In fact, natural 
+barriers do exist which limit either (1) the infectivity of a "vector" or "vehicle" (plasmid or virus) 
+for specific hosts, or (2) its dissemination and survival in the environment. The vectors that 
+provide the means for replication of the recombinant DNAs and/or the host cells in which they 
+replicate can be genetically designed to decrease by many orders of magnitude the probability of 
+dissemination for recombinant DNAs outside the laboratory. 
+
+ 
+GUIDELINES FOR COVERED EXPERIMENTS 
+
+Experiments involving recombinant DNA can be divided into four general classes as described 
+below. 
+
+A. Experiments which require specific RAC (Recombinant DNA Advisory Committee) review 
+and NIH and IBC approval before initiation of the experiment. 
+
+B. Experiments which require IBC approval before initiation of the experiment. 
+
+C. Experiments which require IBC notification at the time of initiation of the experiment. 
+
+D. Experiments which are exempt from the procedures of the GUIDELINES. 
+
+IF AN EXPERIMENT FALLS INTO BOTH CLASS "A" AND ONE OF THE OTHER 
+CLASSES, THE RULES PERTAINING TO CLASS "A" MUST BE FOLLOWED! 
+
+
+
+The University of Mississippi 
+
+Page 9 of 30 
+
+E. “Class A” Experiments - (require specific RAC (Recombinant DNA Advisory Committee) 
+review and NIH and IBC approval before initiation of the experiment). 
+
+Experiments in this category cannot be initiated without submission of relevant information on 
+the proposed experiment to NIH, the publication of the Federal Register for thirty days of 
+comment, review by the RAC, and specific approval by NIH. Included in this guideline (taken 
+from the Federal Register, Vol. 51, No. 88, Wed. May 7, 1986, 16960) are the following criteria. 
+
+1. Deliberate formation of recombinant DNAs containing genes for the biosynthesis of toxic 
+molecules lethal for vertebrates at an LD50 of less than 100 ng per kg body weight (e.g., 
+microbial toxins such as botulinum toxins, tetanus toxin, diphtheria toxin, Shigella dysenteriae 
+neurotoxin). 
+
+2. Deliberate release into the environment of any organism containing DNA. 
+
+3. Deliberate transfer of a drug resistant trait to microorganisms that are not known to acquire it 
+naturally if such acquisition could compromise the use of the drug to control disease agents in 
+human or veterinary medicine or agriculture. 
+
+4. Deliberate transfer of recombinant DNA or DNA or RNA derived from recombinant DNA 
+into human subjects. 
+
+ 
+F. Class B Experiments - Experiments which require IBC approval before initiation of the 
+experiment). 
+
+Investigators performing experiments in this category must submit to their IBC, prior to initiation 
+of the experiments, a registration document that contains a description of the source(s) of DNA, 
+the nature of the inserted DNA sequences, the hosts and vectors to be used, whether a deliberate 
+attempt will be made to obtain expression of a foreign gene, and if so what protein will be 
+produced, and the containment conditions specified in this Guideline. Registration document 
+must be dated and signed by the investigator and filed only with the local IBC. The IBC shall 
+review all such proposals prior to initiation of the experiments. Included in this guideline (taken 
+from the Federal Register, Vol. 51, No. 88, Wed. May 7, 1986, 16960) are the following criteria. 
+
+1. Experiments using human or animal pathogens (Class 2, 3, 4, or 5 agents) as host vectors. 
+
+2. Experiments in which DNA from human or animal pathogens (Class 2, 3, 4, or 5) agents is 
+cloned into nonpathogenic prokaryoteic or lower eukaryotic host-vector systems. 
+
+3. Experiments involving the use of infectious animal or plant DNA or RNA viruses or defective 
+animal or plant DNA or RNA viruses in the presence of helper virus in tissue culture systems. 
+
+4. Recombinant DNA experiments involving whole animals or plants. 
+
+
+
+The University of Mississippi 
+
+Page 10 of 30 
+
+5. Experiments involving more than 10 liters of culture. (Physical containment for large-scale 
+uses of organisms containing recombinant DNA molecules should be used, see appendix K for 
+guidelines). 
+
+ 
+G. Class C Experiments - Experiments which require IBC notification at the time of initiation of 
+the experiment. 
+
+Experiments not included in "A or B" categories are to be considered as Class C experiments. 
+All such experiments can be carried out at BL1 containment. For experiments in this category, a 
+registration document as described in for Class B experiments must be dated and signed by the 
+investigator and filed with the local IBC at the time of initiation of the experiment. The IBC shall 
+review all such proposals, but IBC review prior to initiation of the experiment is not required. 
+For example, experiments in which all components derive from non-pathogenic lower eukaryotes 
+fall under Class C experiments and can be carried out at BL1 containment. 
+
+ 
+H. Class D Experiments - Exempt from Guidelines. 
+
+The following recombinant DNA molecules are exempt from the guidelines for research 
+involving recombinant DNA molecules and no registration with the IBC is necessary. 
+
+1. Those that are not in organisms or viruses. 
+2. Those that consist entirely of DNA segments from a single nonchromosomal or viral DNA 
+source though one or more of the segments may be a synthetic equivalent. 
+3. Those that consist entirely of DNA from a prokaryotic host including its indigenous plasmids 
+or viruses when propagated only in that host (or a closely related strain of the same species) or 
+when transferred to another host by well established physiological means; also, those that consist 
+entirely of DNA from an eukaryotic host including its chloroplasts, mitochondria, or plasmids 
+(but excluding viruses) when propagated only in that host (or a closely related strain of the same 
+species). 4. Certain specified recombinant DNA molecules that consist entirely of DNA 
+segments from different species that exchange DNA by known physiological processes though 
+one or more of the segments may be a synthetic equivalent. A list of such exchangers will be 
+prepared and periodically revised by the Director, NIH, with the advice of the RAC 
+(Recombinant DNA Advisory Committee) after appropriate notice and opportunity for public 
+comment. 
+
+5. Other classes of recombinant DNA molecules - if the Director, NIH, with advice of the RAC, 
+after appropriate notice and opportunity for public comment, finds that they do not present a 
+significant risk to health or the environment. 
+
+Regulations for Working with Biohazardous Organisms 
+
+ 
+CONTAINMENT 
+
+
+
+The University of Mississippi 
+
+Page 11 of 30 
+
+The term "containment" is used in describing safe methods for managing infectious agents in the 
+laboratory environment where they are being handled or maintained. Primary containment, the 
+protection of personnel and the immediate laboratory environment from exposure to infectious 
+agents, is provided by good microbiological technique and the use of appropriate safety 
+equipment. The use of vaccines may provide an increased level of personal protection. 
+Secondary containment, the protection of the environment external to the laboratory from 
+exposure to infectious materials, is provided by a combination of facility design and operational 
+practices. The purpose of containment is to reduce exposure of laboratory workers and other 
+persons to, and to prevent escape into the outside environment of potentially hazardous agents. 
+The three elements of containment include laboratory practice and technique, safety equipment, 
+and facility design. 
+
+PHYSICAL CONTAINMENT 
+
+The objective of physical containment is to confine pathogenic and organisms containing 
+recombinant DNA molecules and thus to reduce the potential for exposure of the laboratory 
+worker, persons outside of the laboratory, and the environment to such organisms. Physical 
+containment is achieved through the use of laboratory practices, containment equipment, and 
+special laboratory design. 
+
+Emphasis is placed on primary means of physical containment which are provided by laboratory 
+practices and containment equipment. Special laboratory design provides a secondary means of 
+protection against the accidental release of organisms outside the laboratory or to the 
+environment. Special laboratory design is used primarily in facilities in which experiments of 
+moderate to high potential hazards are performed. 
+
+Combinations of laboratory practices, containment equipment, and special laboratory design can 
+be made to achieve different levels of physical containment. Four levels of physical containment, 
+which are designated as BL1, BL2, BL3, and BL4, are described. It should be emphasized that 
+the descriptions and assignments of physical containment detailed below are based on existing 
+approaches to containment of pathogenic organisms. The National Cancer Institute describes 
+three levels for research on oncogenic viruses which roughly correspond to the BL2, BL3, and 
+BL4 levels. 
+
+It is recognized that several different combinations of laboratory practices, containment 
+equipment, and special laboratory design may be appropriate for containment of specific 
+research activities. The NIH Guidelines for Research Involving Recombinant DNA Molecules, 
+therefore allow alternative selections of primary containment equipment within facilities that 
+have been designed to provide BL3 and BL4 levels of physical containment. The selection of 
+alternative methods of primary containment is dependent on the level of biological containment 
+provided by the host-vector system used in the experiment. 
+
+LABORATORY PRACTICE AND TECHNIQUE 
+
+The most important element of containment is strict adherence to standard microbiological 
+practices and techniques. Persons working with infectious agents or infected materials must be 
+
+
+
+The University of Mississippi 
+
+Page 12 of 30 
+
+aware of potential hazards and must be trained and proficient in the practices and techniques 
+required for safely handling such material. Included in this training are aseptic techniques and in 
+the biology of the organism used in the experiments so that the potential biohazards can be 
+understood and appreciated. The principal investigator is responsible for ensuring appropriate 
+training of personnel who will be involved with the project. 
+
+When standard laboratory practices are not sufficient to control the hazard associated with a 
+particular agent or laboratory procedure, additional measures may be needed. The laboratory 
+director is responsible for selecting additional safety practices, which must be in keeping with 
+the hazard associated with the particular agent(s) or procedure(s). 
+
+Each laboratory should develop or adopt a biosafety or operations manual which identifies the 
+hazards that will or may be encountered and which specifies practices and procedures designed 
+to minimize or eliminate risks. Personnel should be advised of special hazards and should be 
+required to read and to follow the required practices and procedures. A scientist trained and 
+knowledgeable in appropriate laboratory techniques, safety procedures, and hazards associated 
+with handling infectious agents must direct laboratory activities. 
+
+Laboratory personnel, safety practices, and techniques must be supplemented by appropriate 
+facility design and engineering features, safety equipment, and management practices. 
+
+Any research group working with agents with a known or potential biohazard shall have an 
+emergency plan which describes the procedures to be followed if an accident contaminates 
+personnel or the environment for each potential biohazard used in the project. The PI must insure 
+that everyone in the laboratory is familiar with both the potential hazards of the work and the 
+emergency plan. If a research group is working with a known pathogen for which there is an 
+effective vaccine, the vaccine should be made available to all workers. 
+
+SAFETY EQUIPMENT (PRIMARY BARRIERS) 
+
+Safety equipment includes biological safety cabinets and a variety of enclosed containers. The 
+biological safety cabinet is the principal device used to provide containment of infectious 
+aerosols generated by many microbiological procedures. Three types of biological safety 
+cabinets (Class I, II, III) used in microbiological laboratories are illustrated in Figures 1-3 and 
+described in Appendix A. Open fronted Class I and Class II biological safety cabinets are partial 
+containment cabinets which offer significant levels of protection to laboratory personnel and to 
+the environment when used with good microbiological techniques. The gas-tight Class III 
+biological safety cabinet provides the highest attainable level of protection to personnel and to 
+the environment. An example of an enclosed container is the safety centrifuge cup, which is 
+designed to prevent aerosols from being released during centrifugation.  
+
+Safety equipment also includes items for personal protection such as gloves, coats, gowns, shoe 
+covers, boots, respirators, face shields, and safety glasses. These personal protective devices are 
+often used in combination with biological safety cabinets and other devices which contain the 
+agents, animals or materials being worked with. In some situations in which it is impractical to 
+work in biological safety cabinets, personal protective devices may form the primary barrier 
+
+
+
+The University of Mississippi 
+
+Page 13 of 30 
+
+between personnel and the infectious materials. Examples of such activities include certain 
+animal studies, animal necropsy, production activities, and activities relating to maintenance 
+service, or support of the laboratory facility. 
+
+Regulations for Working with Human Blood, Fluids of Tissue 
+
+Before research involving human blood, blood products, or human pathogens can be undertaken, 
+the following requirements must be met prior to the start of the project: 
+
+1. The principal investigator must register the project with the LS. 
+
+2. A written and detailed protocol for the project work must be submitted to LS for review and 
+approval by the Institutional Biosafety Committee. The IBC will assign the Biosafety Level for 
+the laboratories involved in the project. 
+
+3. The personnel involved in the project must receive safety training proper to the specific 
+project as determined by the IBC. 
+
+4. The facilities in which the project is to be carried out must be inspected by LS to determine if 
+they meet the Biosafety level assigned to the project. 
+
+5. The safety equipment required by LS for the project must be provided by either the grant or 
+the department prior to the start of the project. 
+
+6. The method of biohazardous waste disposal for the specific project must be approved by LS. 
+
+7. Work on each specific project will not start until all safety requirements determined by LS 
+have been met and the project is formally approved by LS and the IBC. Written notice of 
+approval will be provided on form LS-98 for Blood and Blood Products or on form LS-99 for 
+Human Pathogens. 
+
+Guidelines for Handling Human Blood and Blood Products 
+
+ 
+Many programs in the University require the handling a variety of potentially infectious 
+materials. This is especially true of the health care clinics, clinical laboratories, and several of the 
+laboratory science programs. Microbiological cultures, urine samples, blood and blood products, 
+and the materials and equipment which come into contact with these substances are among the 
+sources of biologically hazardous agents in use in typical on-campus research laboratories and 
+many laboratory courses. These materials have the ability to transmit pathogenic bacteria and 
+blood borne viruses such as human immunodeficiency virus (HIV) and hepatitis B. 
+
+Those who are in contact with the biologically hazardous materials used in the classroom must 
+be protected. These include faculty, students, laboratory assistants, housekeeping staff members, 
+and refuse handlers. 
+
+
+
+The University of Mississippi 
+
+Page 14 of 30 
+
+The need to label, correctly store, and properly dispose of hazardous chemicals in the teaching 
+laboratory has become widely recognized. Work place safety regulations were once not readily 
+applied to college and university classrooms. However, these regulations are now understood to 
+apply in the classroom; and state and federal inspectors are beginning to make visits to education 
+work sites to ensure that chemicals are handled safely and disposed of properly. So, too, it must 
+be recognized that regulations regarding the handling and disposal of infectious materials apply 
+to education settings where these materials are used just as they apply to the health care 
+providers. Federal regulations of hazardous materials in the work place which apply to clinical 
+laboratory education programs are as follows: 
+
+1. Gloves: Disposable gloves are required when performing laboratory tests on blood and body 
+fluids or when handling bagged contaminated materials. The regulation does not require wearing 
+gloves if venipuncture is performed by students in the teaching setting unless hands are abraded 
+or have active dermatitis. However, CDC guidelines recommend that persons who are just 
+learning the techniques of venipuncture should wear gloves. 
+
+2. Masks: Masks for eyes and mouth are required when these parts of the body may be exposed 
+to infectious materials. The most common times when aerosols or spills of blood occur in the 
+clinical laboratory science course are when rubber stoppers are removed from tubes and during 
+centrifugation. Sprays and splashes of contaminated fluids may also occur if students are 
+required to perform maintenance on machines with hydraulic lines. 
+
+3. Laboratory coats: Laboratory coats or gowns, as well as gloves, must be worn when students 
+perform tests on laboratory specimens. 
+
+4. Labeling infectious wastes: Contaminated materials and infectious waste materials must be 
+stored in leak proof containers with the word "Biohazard" or the biological hazard symbol 
+displayed in a manner which is readable five feet away. Single or double plastic bags which are 
+at least 3 mils thick are commonly used. Orange bags are used for materials which remain 
+infectious when they leave the classroom laboratory. 
+
+5. Needle disposal: Needles must not be recapped, bent, or broken. They must be placed in a 
+dedicated container which is labeled, closable, puncture resistant, and splatter proof. 
+
+6. Training: Training in the proper techniques and types of infectious hazards must be provided 
+for instructors and other laboratory personnel who handle infectious material. Records must be 
+kept which show that this training has taken place. 
+
+7. Cleaning of spills: A 10% chlorine bleach solution is recommended to disinfect spilled 
+infectious material. In addition, the CDC recommends that this type of disinfecting solution 
+should be used to clean surfaces and instruments which are knowingly or possibly inadvertently 
+contaminated with infectious material. 
+
+8. Storage of infectious waste: Infectious waste can be stored at room temperature for no more 
+than 72 hrs. 
+
+
+
+The University of Mississippi 
+
+Page 15 of 30 
+
+The two acceptable methods for rendering contaminated solid materials noninfectious are steam 
+autoclaving and incineration. These two processes require that a steam sterilizer must be 
+operated at 250{F for 90 min at 15 psi pressure and that an incinerator must have a burn 
+temperature of not less than 1400{F and the gases generated must be subjected to a temperature 
+of not less that 1800{F. 
+
+Most clinical laboratory science programs have access to an autoclave and find this to be the 
+most economical method of dealing with infectious materials and contaminated solid wastes. 
+Autoclave tape should be placed on the bag prior to sterilization to indicate that it has been 
+decontaminated. Following steam sterilization, the waste may be placed in the general refuse. 
+Not all institutions have access to incinerators, but incineration services may be provided through 
+commercial waste handlers. The drawbacks to using a commercial service are the expense and 
+the storage time needed between pick-ups. Because education programs generate must less waste 
+than health care providers, they may take several weeks to generate enough waste to justify the 
+cost of a pick-up by a commercial service. 
+
+The 1987 CDC "Recommendations for the Prevention of HIV Transmission in Health Care 
+Settings" suggests that some infective wastes can be poured safely down the drain. The 
+recommendations indicate that there is some subjectivity in such a decision. If a substance in a 
+residential setting, such as urine, would normally be disposed of by way of the sewer, a similar 
+procedure may be used in the health care or clinical education setting. However, if there is a 
+question about the proper procedure for disposal, steam sterilization or incineration is 
+recommended. 
+
+In the case of known infectious agents, or experiments using human or animal pathogens, the 
+principal investigator is referred to procedures outlined previously in "Guidelines for Research 
+with Recombinant DNA and Other Biohazardous Organisms. 
+
+Regulations for Working with Animals 
+
+The use of animals for teaching and research is controlled by the Institutional Animal Care and 
+Use Committee (IACUC) which is administered through the Office of Research.  
+ 
+
+Facility Design 
+
+The design of the facility is important in providing a barrier to protect persons working in the 
+facility but outside the laboratory and those in the community from infectious agents which may 
+be accidentally released from the laboratory. Laboratory management is responsible for 
+providing facilities commensurate with the laboratory's function. Three facility designs are 
+described below, in ascending order by level of containment. 
+
+The Basic Laboratory. This laboratory provides general space in which work is done with 
+viable agents which are not associated with disease in healthy adults. Basic laboratories include 
+those facilities described in the following pages as Biosafety Levels 1 and 2 facilities. This 
+laboratory is also appropriate for work with infectious agents or potentially infectious materials 
+when the hazard levels are low and laboratory personnel can be adequately protected by standard 
+laboratory practice. While work is commonly conducted on the open bench, certain operations 
+
+
+
+The University of Mississippi 
+
+Page 16 of 30 
+
+are confined to biological safety cabinets. Conventional laboratory designs are adequate. Areas 
+known to be sources of general contamination, such as animal rooms and waste staging areas, 
+should not be adjacent to patient care activities. Public areas and general offices to which 
+nonlaboratory staff require frequent access should be separated from spaces which primarily 
+support laboratory functions. 
+
+The Containment Laboratory. This laboratory has special engineering features which make it 
+possible for laboratory workers to handle hazardous materials without endangering themselves, 
+the community, or the environment. The containment laboratory is described in the following 
+pages as a Biosafety Level 3 facility. The unique features which distinguish this laboratory from 
+the basic laboratory are the provisions for access control and a specialized ventilation system. 
+The containment laboratory may be an entire building or a single module or complex of modules 
+within a building. In all cases, the laboratory is separated by a controlled access zone from areas 
+open to the public. 
+
+The Maximum Containment Laboratory. This laboratory has special engineering and 
+containment features that allow activities involving infectious agents that are extremely 
+hazardous to the laboratory worker or that may cause serious epidemic disease to be conducted 
+safely. The maximum containment laboratory is described on the following pages as a biosafety 
+Level 4 facility. Although the maximum containment laboratory is generally a separate building, 
+it can be constructed as an isolated area within a building. The laboratory's distinguishing 
+characteristic is that it has secondary barriers to prevent hazardous materials from escaping into 
+the environment. Such barriers include sealed openings into the laboratory, airlocks or liquid 
+disinfectant barriers, a clothing-change and shower room contiguous to the laboratory, a double 
+door autoclave, a biowaste treatment system, a separate ventilation system, and a treatment 
+system to decontaminate exhaust air. 
+
+Biosafety Level 1 
+
+Practices, safety equipment, and facilities are appropriate for undergraduate and secondary 
+educational training and teaching laboratories and for other facilities in which work is done with 
+defined and characterized strains of viable microorganisms not known to cause disease in healthy 
+adult humans. Bacillus subtilis, Naegleria gruberi, and infectious canine hepatitis virus are 
+representative of those microorganisms meeting these criteria. Many agents not ordinarily 
+associated with disease processes in humans are, however, opportunistic pathogens and may 
+cause infection in the young, the aged, and in immunodeficient or immunosuppressed 
+individuals.  
+
+Biosafety Level 1 is suitable for work involving agents of no known or of minimal potential 
+hazard to laboratory personnel and the environment. The laboratory is not separated from the 
+general traffic patterns in the building. Work is generally conducted on open bench tops. Special 
+containment equipment is not required or generally used. Laboratory personnel have specific 
+training in the procedures conducted in the laboratory and are supervised by a scientist with 
+general training in microbiology or a related science. The following standard and special 
+practices, safety equipment, and facilities apply to agents assigned to  
+
+Biosafety Level 1: 
+
+
+
+The University of Mississippi 
+
+Page 17 of 30 
+
+A. Standard Microbiological Practices 
+
+1. Access to the laboratory is limited or restricted at the discretion of the laboratory director 
+when experiments are in progress. 
+
+2. Work surfaces are decontaminated once a day and after any spill of viable material. 
+
+3. All contaminated liquid or solid wastes are decontaminated before disposal.  
+
+4. Mechanical pipetting devices are used; mouth pipetting is prohibited. 
+
+5. Eating, drinking, smoking, and applying cosmetics are not permitted in the work area. Food 
+may be stored in cabinets or refrigerators designated and used for this purpose only. Food storage 
+cabinets or refrigerators should be located outside of the work area. 
+
+6. Persons wash their hands after they handle viable materials and animals and before leaving the 
+laboratory. 
+
+7. All procedures are performed carefully to minimize the creation of aerosols. 
+
+8. It is recommended that laboratory coats, gowns, or uniforms be worn to prevent contamination 
+or soiling of street clothes. 
+
+B. Special Practices 
+
+1. Contaminated materials that are to be decontaminated at a site away from the laboratory are 
+placed in a durable leakproof container which is closed before being removed from the 
+laboratory. 
+
+2. An insect and rodent control program is in effect. 
+
+C. Special containment equipment is generally not required for manipulations of agents assigned 
+to Biosafety Level 1. 
+
+D. Laboratory Facilities 
+
+1. The laboratory is designed so that it can be easily cleaned. 
+
+2. Bench tops are impervious to water and resistant to acids, alkalis, organic solvents, and 
+moderate heat. 
+
+3. Laboratory furniture is sturdy. Spaces between benches, cabinets, and equipment are 
+accessible for cleaning. 
+
+4. Each laboratory contains a sink for handwashing. 
+
+
+
+The University of Mississippi 
+
+Page 18 of 30 
+
+5. If the laboratory has windows that open, they are fitted with fly screens. 
+
+Biosafety Level 2 
+
+Practices, equipment, and facilities are applicable to clinical, diagnostic, teaching and other 
+facilities in which work is done with the broad spectrum of indigenous moderate-risk agents 
+present in the community and associated with human disease of varying severity. With good 
+microbiological techniques, these agents can be used safely in activities conducted on the open 
+bench, provided the potential for producing aerosols is low. Hepatitis B virus, the salmonellae, 
+and Toxoplasma spp. are representative of microorganisms assigned to this containment level. 
+Primary hazards to personnel working with these agents may include accidental autoinoculation, 
+ingestion, and skin or mucous membrane exposure to infectious materials. Procedures with high 
+aerosol potential that may increase the risk of exposure of personnel must be conducted in 
+primary containment equipment or devices. 
+
+Biosafety Level 2 is similar to Level 1 and is suitable for work involving agents of moderate 
+potential hazard to personnel and the environment. It differs in that: 
+
+a) laboratory personnel have specific training in handling pathogenic agents and are directed 
+by competent scientists,  
+
+b) access to the laboratory is limited when work is being conducted, and,  
+c) Certain procedures in which infectious aerosols are created are conducted in biological 
+
+safety cabinets or other physical containment equipment. 
+
+The following standard and special practices safety equipment, and facilities apply to agents 
+assigned to biosafety Level 2.  
+
+A. Standard Microbiological Practices 
+
+1. Access to the laboratory is limited or restricted by the laboratory director when work with 
+infectious agents or recombinant DNA molecules is in progress. 
+
+2. Work surfaces are decontaminated at least once a day and after any spill of viable material. 
+
+3. All infectious liquid or solid wastes are decontaminated before disposal. 
+
+4. Mechanical pipetting devices are used; mouth pipetting is prohibited.  
+
+5. Eating, drinking, smoking, and applying cosmetics are not permitted in the work area. Food 
+may be stored in cabinets or refrigerators designated and used for this purpose only. Food storage 
+cabinets or refrigerators should be located outside of the work area. 
+
+6. Persons wash their hands after handling infectious materials or organisms containing 
+recombinant DNA molecules, animals, and when they leave the laboratory.  
+
+7. All procedures are performed carefully to minimize the creation of aerosols. 
+
+
+
+The University of Mississippi 
+
+Page 19 of 30 
+
+8. Experiments of lesser biohazard potential can be carried out concurrently in carefully 
+demarcated areas of the same laboratory. 
+
+B. Special Practices 
+
+1. Contaminated materials that are to be decontaminated at a site away from the laboratory are 
+placed in a durable leakproof container which is closed before being removed from the 
+laboratory. 
+
+2. The laboratory director limits access to the laboratory. The director has the final responsibility 
+for assessing each circumstance and determining who may enter or work in the laboratory. 
+
+3. The laboratory director establishes policies and procedures whereby only persons who have 
+been advised of the potential hazard and meet any specific entry requirements (e.g., 
+immunization) enter the laboratory and animal rooms. 
+
+4. When the infectious agent(s) or organisms containing recombinant DNA molecules are in use 
+in the laboratory require special provisions for entry (e.g.,vaccination), a hazard warning sign, 
+incorporating the universal biohazard symbol, is posted on the access door to the laboratory work 
+area. The hazard warning sign identifies the infectious agent, lists the name and telephone 
+number of the laboratory director or other responsible person(s), and indicates the special 
+requirement(s) for entering the laboratory. 
+
+5. An insect and rodent control program is in effect. 
+
+6. Laboratory coats, gowns, smocks, or uniforms are worn while in the laboratory. Before 
+leaving the laboratory for non-laboratory areas (e.g., cafeteria, library administrative offices), 
+this protective clothing is removes and left in the laboratory or covered with a clean coat not 
+used in the laboratory. 
+
+7. Animals not involved in the work being performed are not permitted in the laboratory. 
+
+8. Special care is taken to avoid skin contamination with infectious materials or organisms 
+containing recombinant DNA molecules; gloves should be worn when handling experimental 
+animals and when skin contact with the agent is unavoidable. 
+
+9. All wastes from laboratories and animal rooms are appropriately decontaminated before 
+disposal. 
+
+10. Hypodermic needles and syringes are used only for parenteral injection and aspiration of 
+fluids from laboratory animals and diaphragm bottles. Only needle-locking syringes or 
+disposable syringe-needle units (i.e., needle is integral to the syringe) are used for the injection or 
+aspiration of fluids containing organism that contain recombinant DNA molecules or infectious 
+agents. Extreme caution should be used when handling needles and syringes to avoid 
+autoinoculation and the generation of aerosols during use and disposal. Needles should not be 
+bent, sheared, replaced in the sheath or guard or removed from the syringe following use. The 
+
+
+
+The University of Mississippi 
+
+Page 20 of 30 
+
+needle and syringe should be promptly placed in a puncture-resistant container and 
+decontaminated, preferably by autoclaving, before discard or reuse. 
+
+11. Spills and accidents which result in overt exposures to infectious materials or organisms that 
+contain recombinant DNA molecules are immediately reported to the laboratory director. 
+Medical evaluation, surveillance, and treatment are provided as appropriate and written records 
+are maintained. 
+
+12. When appropriate, considering the agent(s) handled, baseline serum samples for laboratory 
+and other at-risk personnel are collected and stored. Additional serum specimens may be 
+collected periodically, depending on the agents handled or the function of the facility. 
+
+13. A biosafety manual is prepared or adopted. Personnel are advised of special hazards are 
+required to read instructions on practices and procedures and to follow them. 
+
+C. Containment Equipment  
+
+Biological safety cabinets (Class I or II) (see Appendix A) or other appropriate personal 
+protective or physical containment devices are used whenever: 
+
+1. Procedures with a high potential for creating infectious aerosols are conducted. These may 
+include centrifuging, grinding, blending, vigorous shaking or mixing, sonic disruption, opening 
+containers of infectious materials whose internal pressures may be different from ambient 
+pressures, inoculating animals intranasally, and harvesting infected tissues from animals or eggs. 
+
+2. High concentrations or large volumes of infectious agents are used. Such materials may be 
+centrifuged in the open laboratory if sealed heads or centrifuge safety caps are used and if they 
+are opened only in a biological safety cabinet. 
+
+D. Laboratory Facilities 
+
+1. The laboratory is designed so that it can be easily cleaned. 
+
+2. Bench tops are impervious to water and resistant to acids, alkalis, organic solvents, and 
+moderate heat. 
+
+3. Laboratory furniture is sturdy, and spaces between benches, cabinets, and equipment are 
+accessible for cleaning. 
+
+4. Each laboratory contains a sink for handwashing. 
+
+5. If the laboratory has windows that open, they are fitted with fly screens. 
+
+6. An autoclave for decontaminating infectious laboratory wastes is available. 
+
+
+
+The University of Mississippi 
+
+Page 21 of 30 
+
+Biosafety Level 3 
+
+Practices, safety equipment, and facilities are applicable to clinical, diagnostic, teaching, 
+research, or production facilities in which work is done with indigenous or exotic agents where 
+the potential for infection by aerosols is real and the disease may have serious or lethal 
+consequences. Autoinoculation and ingestion also represent primary hazards to personnel 
+working with these agents. Examples of such agents for which Biosafety Level 3 safeguards are 
+generally recommended include Mycobacterium tuberculosis, St. Louis encephalitis virus, and 
+Coxiella burnetii. 
+
+Biosafety Level 3 is applicable to clinical, diagnostic, teaching, research, or production facilities 
+in which work is done with indigenous or exotic agents which may cause serious or potentially 
+lethal disease as a result of exposure by the inhalation route. Laboratory personnel have specific 
+training in handling pathogenic and potentially lethal agents and are supervised by competent 
+scientists who are experienced in working with these agents. All procedures involving the 
+manipulation of infectious material are conducted within biological safety cabinets or other 
+physical containment devices or by personnel wearing appropriate personal protective clothing 
+and devices. The laboratory has special engineering and design features. It is recognized, 
+however, that many existing facilities may not have all the facility safe-guards recommended for 
+Biosafety Level 3 (e.g., access zone, sealed penetrations, and directional airflow, etc.). In these 
+circumstances, acceptable safety may be achieved for routine or repetitive operations (e.g., 
+diagnostic procedures involving the propagation of an agent for identification, typing, and 
+susceptibility testing) in laboratories where facility features satisfy Biosafety Level 2 
+recommendations provided the recommended "Standard Microbiological Practices," "Special 
+Practices,"and "Containment Equipment"for Biosafety Level 3 are rigorously followed. The 
+decision to implement this modification of Biosafety Level 3 recommendations should be made 
+only by the laboratory director. 
+
+The following standard and special safety practices, equipment and facilities apply to agents 
+assigned to Biosafety Level 3. 
+
+A. Standard Microbiological Practices 
+
+1. Work surfaces are decontaminated at least once a day and after any spill of viable material. 
+
+2. All infectious liquid or solid wastes are decontaminated before disposal. 
+
+3. Mechanical pipetting devices are used; mouth pipetting is prohibited. 
+
+4. Eating, drinking, smoking, storing food and applying cosmetics are not permitted in the work 
+area.  
+
+5. Persons wash their hands after handling infectious materials, animals, organisms that contain 
+recombinant DNA molecules and when they leave the laboratory. 
+
+6. All procedures are performed carefully to minimize the creation of aerosols. 
+
+
+
+The University of Mississippi 
+
+Page 22 of 30 
+
+7. Persons under 16 years of age shall not enter the laboratory. 
+
+8. If experiments involving other organisms which require lower levels of containment are to be 
+conducted in the same laboratory concurrently with experiments requiring BL3 level physical 
+containment, they shall be conducted in accordance with all BL3 level laboratory practices. 
+
+B. Special Practices 
+
+1. Laboratory doors are kept closed when experiments are in progress. 
+
+2. Contaminated materials that are to be decontaminated at a site away from the laboratory are 
+placed in a durable leak proof container which is closed before being removed from the 
+laboratory. 
+
+3. The laboratory director controls access to the laboratory and restricts access to persons whose 
+presence is required for program or support purposes. The director has the final responsibility for 
+assessing each circumstance and determining who may enter or work in the laboratory. 
+
+4. The laboratory director establishes policies and procedures whereby only persons who have 
+been advised of the potential biohazard, who meet any specific entry requirements (e.g., 
+immunization), and who comply with all entry and exit procedures enter the laboratory or animal 
+rooms. 
+
+5. When infectious materials or organisms containing recombinant DNA molecules or 
+experimental animals are present in the laboratory or containment module, a hazard warning 
+sign, incorporating the universal biohazard symbol, is posted on all laboratory and animal room 
+access doors. The hazard warning sign identifies the agent, lists the name and telephone number 
+of the laboratory director or other responsible person(s), and indicates any special requirements 
+for entering the laboratory, such as the need for immunizations, respirators, or other personal 
+protective measures. 
+
+6. All activities involving infectious materials or organisms containing recombinant DNA 
+molecules are conducted in biological safety cabinets or other physical containment devices 
+within the containment module. No work in open vessels is conducted on the open bench. 
+
+7. The work surfaces of biological safety cabinets and other containment equipment are 
+decontaminated when work with infectious materials or organisms containing recombinant DNA 
+molecules is finished. Plastic-backed paper toweling used on non-perforated work surfaces 
+within biological safety cabinets facilitates clean-up. 
+
+8. An insect and rodent control program is in effect. 
+
+9. Laboratory clothing that protects street clothing (e.g., solid front or wrap-around gowns, scrub 
+suits, coveralls) is worn in the laboratory. Laboratory clothing is not worn outside the laboratory, 
+and it is decontaminated before being laundered. 
+
+
+
+The University of Mississippi 
+
+Page 23 of 30 
+
+10. Special care is taken to avoid skin contamination with infectious materials or organisms 
+containing recombinant DNA molecules; gloves should be worn when handling infected animals 
+and when skin contact with infectious materials is unavoidable. 
+
+11. Molded surgical masks or respirators are worn in rooms containing infected animals. 
+
+12. Animals and plants not related to the work being conducted are not permitted in the 
+laboratory. 
+
+13. Laboratory animals held in a BL# area shall be housed in partial-containment caging systems 
+such as Horsfall units, open cages placed in ventilated enclosures, solid-wall and bottom cages 
+covered by filter bonnets on holding racks equipped with ultraviolet in radiation lamps and 
+reflectors. Note: Conventional caging systems may be used provided that all personnel wear 
+appropriate personal protective devices. These shall include at a minimum wraparound gowns, 
+head covers, gloves, shoe covers, and respirators. All personnel shall shower on exit from areas 
+where these devices are required. 
+
+14. All wastes from laboratories and animal rooms are appropriately decontaminated before 
+disposal. 
+
+15. Vacuum lines are protected with high efficiency particulate air (HEPA) filters and liquid 
+disinfectant traps. 
+
+16. Hypodermic needles and syringes are used only for parenteral injection and aspiration of 
+fluids from laboratory animals and diaphragm bottles. Only needle-locking syringes or 
+disposable syringe-needle units (i.e., needle is integral to the syringe) are used for the infection 
+or aspiration of infectious fluids or organisms containing recombinant DNA molecules. Extreme 
+caution should be used when handling needles and syringes to avoid autoinoculation and the 
+generation of aerosols during use and disposal. Needles should not be bent, sheared, replaced in 
+the sheath or guard or removed from the syringe following use. The needle and syringe should be 
+promptly placed in a puncture-resistant container and decontaminated, preferably by autoclaving, 
+before discard or reuse. 
+
+17. Spills and accidents which result in overt or potential exposures to infectious materials or 
+organisms containing recombinant DNA molecules are immediately reported to the laboratory 
+director. Appropriate medical evaluation, surveillance, and treatment are provided and written 
+records are maintained. 
+
+18. Baseline serums samples for all laboratory and other at-risk personnel should be collected 
+and stores. Additional serum specimens may be collected periodically, depending on the agents 
+handled or the function of the laboratory. 
+
+19. A biosafety manual is prepared or adopted. Personnel are advised of special hazards and are 
+required to read instructions on practices and procedures and to follow them. 
+
+
+
+The University of Mississippi 
+
+Page 24 of 30 
+
+20. Alternate Selection of Containment Equipment- Experimental procedures involving a host-
+vector system that provides a one-step higher level of biological containment than that specified 
+can be conducted in a BL3 laboratory using containment equipment specified for the BL2 level 
+of physical containment. Experimental procedures involving a host-vector system that provides a 
+one-step lower level of biological containment than that specified can be conducted in a BL3 
+laboratory using containment equipment specified for the BL4 level of physical containment. 
+
+C. Containment Equipment 
+
+Biological safety cabinets (Class I, II, or III) or other appropriate combinations of personal 
+protective or physical containment devices (e.g., special protective clothing, masks, gloves, 
+respirators, centrifuge safety cups, sealed centrifuge rotors, and containment caging for animals) 
+are used for all activities with organisms containing recombinant DNA molecules which pose a 
+threat of aerosol exposure. These include manipulation of cultures and of those clinical or 
+environmental materials which may be a source of aerosols; the aerosol challenge of 
+experimental animals; and harvesting of infected tissues or fluids from experimental animals and 
+embryonate eggs; and necroscopy of experimental animals. 
+
+D. Laboratory Facilities 
+
+1. The laboratory is separated from areas which are open to unrestricted personnel traffic within 
+the building. Passage through two sets of doors is the basic requirement for entry into the animal 
+room from access corridors or other contiguous areas. Physical separation of the high 
+containment laboratory from access corridors or other activities may also be provided by a 
+double doored clothes change room (showers may be included), airlock, or other access facility 
+which requires passage through two sets of doors before entering the laboratory. 
+
+2. The interior surfaces of walls, floors, and ceilings are water resistant so that they may be easily 
+cleaned. Penetrations in these surfaces are sealed or capable of being sealed to facilitate 
+decontaminating the area. 
+
+3. Bench tops are impervious to water and resistant to acids, alkalis, organic solvents, and 
+moderate heat. 
+
+4. Laboratory furniture is sturdy and spaces between benches, cabinets, and equipment are 
+accessible for cleaning. 
+
+5. Each laboratory contains a sink for handwashing. The sink is foot, elbow, or automatically 
+operated and is located near the laboratory exit door. 
+
+6. Windows in the laboratory are closed and sealed. 
+
+7. Access doors to the laboratory or containment module are self-closing. 
+
+8. An autoclave for decontaminating laboratory wastes is available, preferably within the 
+laboratory.  
+
+
+
+The University of Mississippi 
+
+Page 25 of 30 
+
+9. A duct exhaust air ventilation system is provided. This system creates directional airflow that 
+draws air into the laboratory through the entry area. The building exhaust can be used for this 
+purpose if the exhaust air is not recirculated to any other area of the building, is discharged to the 
+outside, and is dispersed away from occupied areas and air intakes. Personnel must verify that 
+the direction of the airflow (into the laboratory) is proper. The exhaust air from the animal room 
+that does not pass through biological safety cabinets or other primary containment equipment can 
+be discharged to the outside without being filtered or otherwise treated.  
+
+8. The HEPA filtered exhaust air from Class I or Class II biological safety cabinets or other 
+primary containment devices is discharged directly to the outside or through the building exhaust 
+system. Exhaust air from these primary containment devices may be recirculated within the 
+laboratory if the cabinet is tested and certified at least every 12 months. If the HEPA filtered 
+exhaust air from Class I or Class II biological safety cabinets is discharged to the outside through 
+the building exhaust system, it is connected to this system in a manner (e.g., thimble unit 
+connection) that avoids any interference with the air balance of the cabinets or building exhaust 
+system. 
+
+Animal Biosafety Level 1 
+
+A. Standard Practices 
+
+1. Doors to animal rooms open inward, are self-closing, and are kept closed when experimental 
+animals are present. 
+
+2. Work surfaces are decontaminated once a day and after any spill of viable material. 
+
+3. Eating, drinking, smoking, and applying cosmetics are not permitted in the animal rooms.  
+
+4. Persons wash their hands after they handle viable materials and animals and before leaving the 
+laboratory. 
+
+5. All procedures are performed carefully to minimize the creation of aerosols. 
+
+6. An insect and rodent control program is in effect. 
+
+B. Special Practices 
+
+1. Bedding materials from animal cages are removed in such a manner as to minimize the 
+creation of aerosols and disposed of in compliance with applicable institutional or local 
+requirements. 
+
+2. Cages are washed manually or in a cage washer. Temperature of the final rinse water in a 
+mechanical washer should be 180oF. 
+
+3. The wearing of laboratory coats, gowns, or uniforms in the animal room is recommended. It is 
+further recommended that laboratory coats worn in the animal room not be worn in other areas. 
+
+
+
+The University of Mississippi 
+
+Page 26 of 30 
+
+C. Containment Equipment  
+
+Special containment equipment is not required for animals infected with agents assigned to 
+Biosafety Level 1. 
+
+D. Animal Facilities 
+
+1. The animal facility is designed and constructed to facilitate cleaning and housekeeping. 
+
+2. A handwashing sink is available in the animal facility. 
+
+3. If the animal facility has windows that open, they are fitted with fly screens. 
+
+4. It is recommended but not required that the direction of air flow in the animal facility is 
+inward and that exhaust air is discharged to the outside without being recirculated to other 
+rooms.  
+
+Animal Biosafety Level 2 
+
+A. Standard Practices 
+
+1. Doors to animal rooms open inward, are self-closing, and are kept closed when experimental 
+animals are present. 
+
+2. Work surfaces are decontaminated once a day and after any spill of viable material. 
+
+3. Eating, drinking, smoking, and applying cosmetics are not permitted in the animal rooms. 
+
+4. Persons wash their hands after they handle viable materials and animals and before leaving the 
+laboratory. 
+
+5. All procedures are performed carefully to minimize the creation of aerosols. 
+
+6. An insect and rodent control program is in effect. 
+
+B. Special Practices 
+
+1. Cages are decontaminated, preferably by autocalving, before they are cleaned and washed. 
+
+2. Surgical-type masks are worn by all personnel entering animal rooms housing nonhuman 
+primates. 
+
+3. Laboratory coats, gowns, or uniforms are worn while in the animal room. This protective 
+clothing is removed before leaving the animal facility. 
+
+4. The laboratory or animal facility director limits access to the animal room to personnel who 
+have been advised of the potential hazard and who need to enter the room for program or service 
+
+
+
+The University of Mississippi 
+
+Page 27 of 30 
+
+purposes when work is in progress. In general, persons who may be at increased risk of acquiring 
+infection or for whom infection might be unusually hazardous are not allowed in the animal 
+room. 
+
+5. The laboratory or animal facility director establishes policies and procedures where only 
+persons who have been advised of the potential hazard and meet any specific requirements (e.g. 
+for immunization) may enter the animal room. 
+
+6. When the infectious agent(s) in use in the animal room requires special entry provisions (e.g. 
+vaccination), a hazard warning sign, incorporating the universal biohazard symbol, is posted on 
+the access door to the animal room. The hazard warning sign identifies the infectious agent, lists 
+the name and telephone number of the animal facility supervisor or other responsible persons(s), 
+and indicates the special requirement(s) for entering the animal room. 
+
+7. Special care is taken to avoid skin contamination with infectious materials; gloves should be 
+worn when handling infected animals and when skin contact with infectious materials is 
+unavoidable. 
+
+8. All wastes from the animal room are appropriately decontaminated-preferably by autoclaving-
+before disposal. Infected animal carcasses are incinerated off site after being transported from the 
+animal room in leakproof, covered containers. 
+
+9. Hypodermic needles and syringes are used only for the parenteral injection or aspiration of 
+fluids from laboratory animals and diaphragm bottles. Only needle-locking syringes or 
+disposable needle syringe units (i.e. the needle is integral to the syringe) are used for the 
+injection or aspiration of infectious fluids. Needles should not be bent, sheared, replaced in the 
+sheath or guard, or removed from the syringe following use. The needle and syringe should be 
+promptly placed in a puncture-resistant container and decontaminated, preferably by autoclaving, 
+before discard or reuse. 
+
+10. If floor drains are provided, the drain traps are always filled with water or a suitable 
+disinfectant. 
+
+11. When appropriate, considering the agents handled, baseline serum samples from animal care 
+and other at-risk personnel are collected and stored. Additional serum samples may be collected 
+periodically, depending on the agents handled or the function of the facility. 
+
+C. Containment Equipment 
+
+Biological safety cabinets, other physical containment devices, and/or personal protective 
+devices (e.g., respirators, face shields) are used whenever procedures with a high potential for 
+creating aerosols are conducted. These include necroscopy of infected animals, harvesting of 
+infected tissues or fluids from animals or eggs, intranasal inoculation of animals, and 
+manipulation of high concentrations or large volumes of infectious materials. 
+
+D. Animal Facilities  
+
+
+
+The University of Mississippi 
+
+Page 28 of 30 
+
+1. The animal facility is designed and constructed to facilitate cleaning and housekeeping. 
+
+2. A handwashing sink is available in the animal facility where infected animals are housed. 
+
+3. If the animal facility has windows that open, they are fitted with fly screens. 
+
+4. It is recommended but not required that the direction of air flow in the animal facility is 
+inward and that exhaust air is discharged to the outside without being recirculated to other 
+rooms. 
+
+5. An autoclave which can be used for decontaminating infectious laboratory waste is available 
+in the building with the animal facility.  
+
+Animal Biosafety Level 3 
+
+A. Standard Practices 
+
+1. Doors to animal rooms open inward, are self-closing, and are kept closed when experimental 
+animals are present. 
+
+2. Work surfaces are decontaminated after use or spills of viable materials. 
+
+3. Eating, drinking, smoking, and applying cosmetics are not permitted in the animal rooms. 
+
+4. Persons wash their hands after they handling cultures and animals and before leaving the 
+laboratory. 
+
+5. All procedures are performed carefully to minimize the creation of aerosols. 
+
+6. An insect and rodent control program is in effect. 
+
+B. Special Practices 
+
+1. Cages are autoclaved before bedding is removed and before they are cleaned and washed. 
+
+2. Surgical-type masks or other respiratory protection devices (e.g. respirators) are worn by 
+personnel entering animal rooms housing animals infected with agents assigned to Biosafety 
+level 3. 
+
+3. Wrap-around or solid front gowns or uniforms are worn by personnel entering the animal 
+room. Front-button laboratory coats are unsuitable. Protective must remain in the animal room 
+and must be decontaminated before being laundered. 
+
+4. The laboratory or animal facility director restricts access to the animal room to personnel who 
+have been advised of the potential hazard and who need to enter the room for program or service 
+purposes when infected animals are present. In general, persons who may be at increased risk of 
+
+
+
+The University of Mississippi 
+
+Page 29 of 30 
+
+acquiring infection or for whom infection might be unusually hazardous are not allowed in the 
+animal room. 
+
+5. The laboratory director or other responsible person establishes policies and procedures 
+whereby only persons who have been advised of the potential hazard and meet any specific 
+requirements (e.g. for immunization) may enter the animal room. 
+
+6. Hazard warning signs, incorporating the universal biohazard symbol is posted on the access 
+door to the animal room containing animals infected with agents assigned to Biosafety level 3 
+are present. The hazard warning sign should identify the agent(s) in use, list the name and 
+telephone number of the animal facility supervisor or other responsible persons(s), and indicates 
+the special conditions of entry into the animal room (e.g., the need for immunizations or 
+respirators). 
+
+7. Personnel wear gloves when handling infected animals. Gloves are removed aseptically and 
+autoclaved with other animal room wastes before being disposed or reused. 
+
+8. All wastes from the animal room are autoclaved before disposal.  
+
+9. Hypodermic needles and syringes are used only for gavage or parenteral injection or aspiration 
+of fluids from laboratory animals and diaphragm bottles. Only needle-locking syringes or 
+disposable needle syringe units (i.e. the needle is integral to the syringe) are used for the 
+injection or aspiration of infectious fluids. Needles should not be bent, sheared, replaced in the 
+sheath or guard, or removed from the syringe following use. The needle and syringe should be 
+promptly placed in a puncture-resistant container and decontaminated, preferably by autoclaving, 
+before discard or reuse. 
+
+10. If floor drains are provided, the drain traps are always filled with water or a suitable 
+disinfectant. 
+
+11. If vacuum lines are provided, they are protected with HEPA filters and liquid disinfectant 
+traps. 
+
+12. Boots, shoe covers, or other protective footwear and disinfectant footbaths are available and 
+used when indicated. 
+
+C. Containment Equipment 
+
+1. Personal protective clothing and equipment and/or other physical containment devices are 
+used for all procedures and manipulations of infectious materials or infected animals. 
+
+2. The risk of infectious aerosols from infected animals or their bedding can be reduced if the 
+animals are housed in partial containment caging systems, such as open cages placed in 
+ventilated enclosures (e.g., laminar flow cabinets) solid wall and bottom cages covered by filter 
+bonnets, or other equivalent primary containment systems. 
+
+
+
+The University of Mississippi 
+
+Page 30 of 30 
+
+D. Animal Facilities 
+
+1. The animal facility is designed and constructed to facilitate cleaning and housekeeping and is 
+separated for areas which are open to unrestricted personnel traffic within the building. Passage 
+through two sets of doors is the basic requirement for entry into the animal room from access 
+corridors or other contiguous areas. Physical separation of the animal room from access corridors 
+or other activities may also be provided by a double doored clothes change room (showers may 
+be included), airlock, or other access facility which requires passage through two sets of doors 
+before entering the animal room. 
+
+2. The interior surfaces of walls, floors, and ceilings are water resistant so that they may be easily 
+cleaned. Penetrations in these surfaces are sealed or capable of being sealed to facilitate 
+fumigation or space decontamination. 
+
+3. A foot, elbow, or automatically operated handwashing sink is provided near each animal room 
+exit door. 
+
+4. Windows in the animal room are closed and sealed. 
+
+5. Animal room doors are self-closing and are kept closed when infected animals are present. 
+
+6. An autoclave which for decontaminating wastes is available, preferably within the animal 
+room. Materials to be autoclaved outside the animal room are transported in a covered leakproof 
+container. 
+
+7. An exhaust air ventilation system is provided. This system creates directional airflow that 
+draws air into the animal room through the entry area. The building exhaust can be used for this 
+purpose if the exhaust air is not recirculated to any other area of the building, is discharged to the 
+outside, and is dispersed away from occupied areas and air intakes. Personnel must verify that 
+the direction of the airflow (into the animal room) is proper. The exhaust air from the animal 
+room that does not pass through biological safety cabinets or other primary containment 
+equipment can be discharged to the outside without being filtered or otherwise treated. 
+
+8. The HEPA filtered exhaust air from Class I or Class II biological safety cabinets or other 
+primary containment devices is discharged directly to the outside or through the building exhaust 
+system. Exhaust air from these primary containment devices may be recirculated within the 
+animal room if the cabinet is tested and certified at least every 12 months. If the HEPA filtered 
+exhaust air from Class I or Class II biological safety cabinets is discharged to the outside through 
+the building exhaust system, it is connected to this system in a manner (e.g., thimble unit 
+connection) that avoids any interference with the air balance of the cabinets or building exhaust 
+system. 
+
+

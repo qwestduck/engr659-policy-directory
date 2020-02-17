@@ -1,0 +1,877 @@
+
+Credentialing for InCommon 
+ 
+Summary/Purpose: This policy describes the means by which user accounts and credentials are 
+managed by the University of Mississippi, as related to participation in the InCommon 
+Federation, for the purpose of demonstrating participant trustworthiness.   This policy is intended 
+to satisfy the InCommon Federation requirements related to publication of Participant 
+Operational Practices. 
+
+ 
+InCommon Federation: Background and Expectations 
+
+ 
+Participation in the InCommon Federation (“Federation”) enables a federation 
+
+participating organization ("Participant") to use Shibboleth identity attribute sharing 
+technologies to manage access to on-line resources that can be made available to the InCommon 
+community.  One goal of the Federation is to develop, over time, community standards for such 
+cooperating organizations to ensure that shared attribute assertions are sufficiently robust and 
+trustworthy to manage access to important protected resources.  As the community of trust 
+evolves, the Federation expects that participants eventually should be able to trust each other's 
+identity management systems and resource access management systems as they trust their own. 
+
+A fundamental expectation of Participants is that they provide authoritative and accurate 
+attribute assertions to other Participants, and that Participants receiving an attribute assertion 
+protect it and respect privacy constraints placed on it by the Federation or the source of that 
+information.  In furtherance of this goal, InCommon requires that each Participant make 
+available to other Participants certain basic information about any identity management system, 
+including the identity attributes that are supported, or resource access management system 
+registered for use within the Federation. 
+
+Two criteria for trustworthy attribute assertions by Identity Providers are: (1) that the 
+identity management system fall under the purview of the organization’s executive or business 
+management, and (2) the system for issuing end-user credentials (e.g., PKI certificates, 
+userids/passwords, Kerberos principals, etc.) specifically have in place appropriate risk 
+management measures (e.g., authentication and authorization standards, security practices, risk 
+assessment, change management controls, audit trails, etc.). 
+
+InCommon expects that Service Providers, who receive attribute assertions from another 
+Participant, respect the other Participant's policies, rules, and standards regarding the protection 
+and use of that data.  Furthermore, such information should be used only for the purposes for 
+which it was provided.  InCommon strongly discourages the sharing of that data with third 
+parties, or aggregation of it for marketing purposes without the explicit permission1 of the 
+identity information providing Participant. 
+
+InCommon requires Participants to make available to all other Participants answers to the 
+questions below.2   Additional information to help answer each question is available in the next 
+section of this document.  There is also a glossary at the end of this document that defines terms 
+shown in italics. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+1 Such permission already might be implied by existing contractual agreements. 
+2 Your responses to these questions should be posted in a readily accessible place on your web site, and 
+the URL submitted to InCommon. If not posted, you should post contact information for an office that 
+can discuss it privately with other InCommon Participants as needed. If any of the information 
+changes, you must update your on-line statement as soon as possible. 
+
+
+
+INCOMMON FEDERATION: PARTICIPANT OPERATIONAL PRACTICES 
+
+Page 2 of 12 
+
+ 
+
+ 
+
+ 
+
+InCommon Federation: Participant Operational Practices 
+ 
+1.   Federation Participant Information 
+
+ 
+
+1.1 The InCommon Participant Operational Practices information below is for: 
+
+InCommon Participant organization name:  University of Mississippi (UM)   
+
+The information below is accurate as of this date:  July 31, 2017   
+
+1.2 Identity Management and/or Privacy information 
+ 
+
+Additional information about the Participant’s identity management practices and/or 
+privacy policy regarding personal information can be found on-line at the following 
+location(s). 
+
+ 
+
+URL(s):  www.olemiss.edu/policies                                                                 
+ 
+
+1.3 Contact information 
+ 
+
+The following person or office can answer questions about the Participant’s identity 
+management system or resource access management policy or practice. 
+
+Name:   Office of Information Technology (IT) Helpdesk                                  
+Title or role:  IT Helpdesk Management                                                           
+Email address:   helpdesk@olemiss.edu                                                            
+Phone:   662-915-5222                             FAX:   662-915-7180                       
+
+ 
+ 
+2.   Identity Provider Information 
+
+ 
+
+The most critical responsibility that an IdentityProvider Participant has to the Federation is to 
+provide trustworthy and accurate identity assertions.3   It is important for a Service Provider 
+to know how your electronic identity credentials are issued and how reliable the information 
+associated with a given credential (or person) is. 
+
+ 
+
+Community 
+ 
+
+2.1 If you are an Identity Provider, how do you define the set of people who are eligible to 
+receive an electronic identity?  If exceptions to this definition are allowed, who must 
+approve such an exception? 
+
+ 
+
+All active employees, admitted students, retired faculty and staff with 25 years of service or 
+emeritus status, parents of admitted students, visiting faculty and authorized  
+consultants/contractors are eligible for a UM WebID.  
+
+2.2 “Member of Community”4 is an assertion that might be offered to enable access to 
+resources made available to individuals who participate in the primary mission of the 
+university or organization.  For example, this assertion might apply to anyone whose 
+
+ 
+ 
+
+3 A general note regarding attributes and recommendations within the Federation is available here: 
+http://www.incommonfederation.org/attributes.html 
+4 "Member" is one possible value for eduPersonAffiliation as defined in the eduPerson schema. It is 
+intended to include faculty, staff, student, and other persons with a basic set of privileges that go with 
+membership in the university community (e.g., library privileges). “Member of Community” could 
+be derived from other values in eduPersonAffiliation or assigned explicitly as “Member” in the 
+electronic identity database. See http://www.educause.edu/eduperson/ 
+
+
+
+INCOMMON FEDERATION: PARTICIPANT OPERATIONAL PRACTICES 
+
+Page 3 of 12 
+
+ 
+
+ 
+
+ 
+
+affiliation is “current student, faculty, or staff.” 
+ 
+
+What subset of persons registered in your identity management system would you identify 
+as a “Member of Community” in Shibboleth identity assertions to other InCommon 
+Participants? 
+
+ 
+
+Individuals with an active UM WebID are considered a Member of Community. 
+ 
+
+Electronic Identity Credentials 
+ 
+
+2.3 Please describe in general terms the administrative process used to establish an 
+electronic identity that results in a record for that person being created in your electronic 
+identity database?  Please identify the office(s) of record for this purpose.  For example, 
+“Registrar’s Office for students; HR for faculty and staff.” 
+
+ 
+ 
+
+i. Faculty and staff UM WebIDs are provisioned during employee onboarding through the 
+department of Human Resources. 
+
+ 
+ii. Student UM WebIDs are provisioned during the admissions process, specifically when 
+
+students are admitted.  The office of record is the Registrar’s Office. 
+ 
+iii. UM students can authorize their parents to receive WebIDs through the myOleMiss 
+
+portal.  Parent WebIDs give access to the campus Wi-Fi network and some of the 
+myOleMiss portal content and services available to their student.  The parent's level of 
+access is determined by what the student has assigned. 
+
+ 
+iv. Guest accounts (i.e., visiting faculty and authorized consultants/contractors) require 
+
+sponsorship from a faculty or staff member with an active UM WebID.  Requests are 
+managed through the myOleMiss portal.  Annually, the sponsor is notified of his/her 
+sponsorship(s) and may approve an extension to the sponsored guest account. 
+
+ 
+ 
+
+2.4 What technologies are used for your electronic identity credentials (e.g., Kerberos, 
+userID/password, PKI, ...) that are relevant to Federation activities?  If more than one type 
+of electronic credential is issued, how is it determined who receives which type?  If 
+multiple credentials are linked, how is this managed (e.g., anyone with a Kerberos 
+credential also can acquire a PKI credential) and recorded? 
+
+ 
+
+Users authenticate with UM WebID and corresponding password using LDAP or Active 
+Directory. 
+
+ 
+
+2.5 If your electronic identity credentials require the use of a secret password or PIN, and 
+there are circumstances in which that secret would be transmitted across a network without 
+being protected by encryption (i.e., “clear text passwords” are used when accessing campus 
+services), please identify who in your organization can discuss with any other Participant 
+concerns that this might raise for them: 
+
+ 
+
+UM prohibits the use of clear text passwords. However, it is possible for members of the 
+community to set up services that accept clear text passwords. When these are discovered, 
+the university works with the service owner to eliminate the use of clear text passwords.  Any 
+questions or concerns should be addressed to the UM Security Coordinator (662-915-7206). 
+
+ 
+
+2.6 If you support a “single sign-on” (SSO) or similar campus-wide system to allow a 
+single user authentication action to serve multiple applications, and you will make use of 
+
+
+
+INCOMMON FEDERATION: PARTICIPANT OPERATIONAL PRACTICES 
+
+Page 4 of 12 
+
+ 
+
+ 
+
+ 
+
+this to authenticate people for InCommon Service Providers, please describe the key 
+security aspects of your SSO system including whether session timeouts are enforced by the 
+system, whether user-initiated session termination is supported, and how use with “public 
+access sites” is protected. 
+
+ 
+
+UM has implemented SSO using Shibboleth with Box, Campus Labs, EDUCAUSE, 
+OrgSync, Maxient, T2 Systems, Terra Dotta and SANS.  Timeouts are enforced on 
+each system independently. 
+
+ 
+
+UM has also implemented single sign-on with on-premises and cloud hosting systems, 
+including the learning management system (Blackboard Learn), campus portal (myOleMiss), 
+campus Wi-Fi (UM Wi-Fi Network) and email (Google Apps for Education and Microsoft 
+Exchange). These systems support authentication using an active UM WebID. However, a 
+login to one system does not automatically enable login to other systems. 
+
+ 
+
+2.7 Are your primary electronic identifiers for people, such as “net ID,” 
+eduPersonPrincipalName, or eduPersonTargetedID considered to be unique for all time to 
+the individual to whom they are assigned?  If not, what is your policy for re-assignment and 
+is there a hiatus between such reuse? 
+
+ 
+
+UM WebIDs are not reassigned. 
+ 
+
+Electronic Identity Database 
+ 
+
+2.8 How is information in your electronic identity database acquired and updated?  Are 
+specific offices designated by your administration to perform this function?  Are individuals 
+allowed to update their own information on-line? 
+
+ 
+
+Electronic identity data is currently acquired from three different sources. Person identity 
+data can initially be provided by the user for the creation of his/her UM WebID. Electronic 
+identity data is also provided from our human resources system. Finally, electronic identity 
+data is also provided from our student information system.  Individuals may update their 
+information online through the myOleMiss portal. 
+
+ 
+
+2.9 What information in this database is considered “public information” and would be 
+provided to any interested party? 
+
+ 
+
+Federated identity attributes are released on a per case basis to service providers and will only 
+be provided to approved UM parties. Electronic identity data may be published through the 
+UM online directory in myOleMiss and the UM phone book. Individual users decide which 
+student and employee information is released to the general public.  All considerations are 
+made to follow FERPA laws. 
+
+ 
+
+Uses of Your Electronic Identity Credential System 
+ 
+
+2.10 Please identify typical classes of applications for which your electronic identity 
+credentials are used within your own organization. 
+
+ 
+
+Web applications including myOleMiss and UM Blackboard Learn 
+ 
+
+Cloud services such as UM Gmail and UM Box 
+
+Active Directory Services for UM Mail (Exchange) 
+
+Central printing services 
+
+UM Wi-Fi Network 
+
+
+
+INCOMMON FEDERATION: PARTICIPANT OPERATIONAL PRACTICES 
+
+Page 5 of 12 
+
+ 
+
+ 
+
+ 
+
+Attribute Assertions 
+ 
+
+Attributes are the information data elements in an attribute assertion you might make to 
+another Federation participant concerning the identity of a person in your identity 
+management system. 
+
+ 
+
+2.11 Would you consider your attribute assertions to be reliable enough to: 
+ 
+
+[ X ]  control access to on-line information databases licensed to your organization? 
+
+[ X ]  be used to purchase goods or services for your organization? 
+
+[ X ] enable access to personal information such as student loan status? 
+ 
+
+Privacy Policy 
+ 
+
+Federation Participants must respect the legal and organizational privacy constraints on 
+attribute information provided by other Participants and use it only for its intended purposes. 
+
+ 
+
+2.12 What restrictions do you place on the use of attribute information that you might 
+provide to other Federation participants? 
+
+ 
+
+Attribute information may only be used for the purposes for which it was  
+provided. Information provided by UM as part of our participation in InCommon federation 
+is not to be reused or redistributed by other parties or members of the federation without  
+written approval from UM.  
+
+ 
+
+2.13 What policies govern the use of attribute information that you might release to other 
+Federation participants?  For example, is some information subject to FERPA or HIPAA 
+restrictions? 
+
+ 
+
+Information may be subject to FERPA, HIPAA and other laws. 
+ 
+ 
+ 
+3.   Service Provider Information 
+
+ 
+
+Service Providers are trusted to ask for only the information necessary to make an 
+appropriate access control decision, and to not misuse information provided to them by 
+Identity Providers.  Service Providers must describe the basis on which access to resources is 
+managed and their practices with respect to attribute information they receive from other 
+Participants. 
+
+ 
+ 
+
+The University of Mississippi has no service providers. 
+ 
+ 
+
+3.1 What attribute information about an individual do you require in order to manage access 
+to resources you make available to other Participants?  Describe separately for each service 
+ProviderID that you have registered. 
+
+ 
+
+ 
+ 
+
+3.2 What use do you make of attribute information that you receive in addition to basic 
+access control decisions?  For example, do you aggregate session access records or records 
+of specific information accessed based on attribute information, or make attribute 
+information available to partner organizations, etc.? 
+
+
+
+INCOMMON FEDERATION: PARTICIPANT OPERATIONAL PRACTICES 
+
+Page 6 of 12 
+
+ 
+
+ 
+
+ 
+
+3.3 What human and technical controls are in place on access to and use of attribute 
+information that might refer to only one specific person (i.e., personally identifiable 
+information)?  For example, is this information encrypted? 
+
+ 
+
+ 
+ 
+
+3.4 Describe the human and technical controls that are in place on the management of 
+super-user and other privileged accounts that might have the authority to grant access to 
+personally identifiable information? 
+
+ 
+ 
+
+3.5 If personally identifiable information is compromised, what actions do you take to 
+notify potentially affected individuals? 
+
+ 
+
+ 
+ 
+ 
+ 
+4.   Other Information 
+
+ 
+
+4.1 Technical Standards, Versions and Interoperability 
+ 
+
+Identify the version of Internet2 Shibboleth code release that you are using or, if not using 
+the standard Shibboleth code, what version(s) of the SAML and SOAP and any other 
+relevant standards you have implemented for this purpose. 
+
+ 
+
+Shibboleth 3.2.1 (as of July 2017) 
+ 
+
+4.2 Other Considerations 
+ 
+
+Are there any other considerations or information that you wish to make known to other 
+Federation participants with whom you might interoperate? For example, are there concerns 
+about the use of clear text passwords or responsibilities in case of a security breach involving 
+identity information you may have provided? 
+
+ 
+
+Please contact it@olemiss.edu for any additional questions. 
+
+
+
+INCOMMON FEDERATION: PARTICIPANT OPERATIONAL PRACTICES 
+
+Page 7 of 12 
+
+ 
+
+ 
+
+ 
+ 
+
+Additional Notes and Details on the Operational Practices Questions 
+ 
+ 
+As a community of organizations willing to manage access to on-line resources cooperatively, 
+and often without formal contracts in the case of non-commercial resources, it is essential that 
+each Participant have a good understanding of the identity and resource management practices 
+implemented by other Participants.  The purpose of the questions above is to establish a base 
+level of common understanding by making this information available for other Participants to 
+evaluate. 
+
+ 
+In answering these questions, please consider what you would want to know about your own 
+operations if you were another Participant deciding what level of trust to place in interactions 
+with your on-line systems.  For example: 
+
+! What would you need to know about an Identity Provider in order to make an informed 
+decision whether to accept its assertions to manage access to your on-line resources or 
+applications? 
+
+! What would you need to know about a Service Provider in order to feel confident 
+providing it information that it might not otherwise be able to have? 
+
+It also might help to consider how identity management systems within a single institution could 
+be used. 
+
+! What might your central campus IT organization, as a Service Provider, ask of a peer 
+campus Identity Provider (e.g., Computer Science Department, central Library, or 
+Medical Center) in order to decide whether to accept its identity assertions for access to 
+resources that the IT organization controls? 
+
+! What might a campus department ask about the central campus identity management 
+system if the department wanted to leverage it for use with its own applications? 
+
+ 
+ 
+The numbered paragraphs below provide additional background to the numbered questions in the 
+main part of this document. 
+
+ 
+[1.2] InCommon Participants who manage Identity Providers are strongly encouraged to post on 
+
+their website the privacy and information security policies that govern their identity 
+management system.  Participants who manage Service Providers are strongly encouraged 
+to post their policies with respect to use of personally identifying information. 
+
+ 
+[1.3] Other InCommon Participants may wish to contact this person or office with further 
+
+questions about the information you have provided or if they wish to establish a more 
+formal relationship with your organization regarding resource sharing. 
+
+ 
+[2] Many organizations have very informal processes for issuing electronic credentials.  For 
+
+example, one campus does this through its student bookstore.  A Service Provider may be 
+more willing to accept your assertions to the extent that this process can be seen as 
+authoritative. 
+
+ 
+[2.1] It is important for a Service Provider to have some idea of the community whose identities 
+
+you may represent.  This is particularly true for assertions such as the eduPerson “Member 
+of Community.”.  A typical definition might be “Faculty, staff, and active students” but it 
+might also include alumni, prospective students, temporary employees, visiting scholars, 
+
+
+
+INCOMMON FEDERATION: PARTICIPANT OPERATIONAL PRACTICES 
+
+Page 8 of 12 
+
+ 
+
+ 
+
+ 
+
+etc.  In addition, there may be formal or informal mechanisms for making exceptions to this 
+definition, e.g., to accommodate a former student still finishing a thesis or an unpaid 
+volunteer. 
+
+ 
+This question asks to whom you, as an Identity Provider, will provide electronic 
+credentials.  This is typically broadly defined so that the organization can accommodate a 
+wide variety of applications locally.  The reason this question is important is to distinguish 
+between the set of people who might have a credential that you issue and the subset of 
+those people who fall within your definition of “Member of Community” for the purpose of 
+InCommon attribute assertions. 
+
+ 
+[2.2] The assertion of “Member of Community” is often good enough for deciding whether to 
+
+grant access to basic on-line resources such as library-like materials or websites. 
+InCommon encourages participants to use this assertion only for “Faculty, Staff, and active 
+Students” but some organizations may have the need to define this differently.  InCommon 
+Service Providers need to know if this has been defined differently. 
+
+ 
+[2.3] For example, if there is a campus recognized office of record that issues such electronic 
+
+credentials and that office makes use of strong, reliable technology and good database 
+management practices, those factors might indicate highly reliable credentials and hence 
+trustworthy identity assertions. 
+
+ 
+[2.4] Different technologies carry different inherent risks.  For example, a userID and password 
+
+can be shared or “stolen” rather easily.  A PKI credential or SecureID card is much harder 
+to share or steal.  For practical reasons, some campuses use one technology for student 
+credentials and another for faculty and staff.  In some cases, sensitive applications will 
+warrant stronger and/or secondary credentials. 
+
+ 
+[2.5] Sending passwords in “clear text” is a significant risk, and all InCommon Participants are 
+
+strongly encouraged to eliminate any such practice.  Unfortunately this may be difficult, 
+particularly with legacy applications.  For example, gaining access to a centralized calendar 
+application via a wireless data connection while you are attending a conference might 
+reveal your password to many others at that conference.  If this is also your campus 
+credential password, it could be used by another person to impersonate you to InCommon 
+Participants. 
+
+ 
+[2.6] “Single sign-on” (SSO) is a method that allows a user to unlock his or her electronic 
+
+identity credential once and then use it for access to a variety of resources and applications 
+for some period of time.  This avoids people having to remember many different identifiers 
+and passwords or to continually log into and out of systems.  However, it also may weaken 
+the link between an electronic identity and the actual person to whom it refers if someone 
+else might be able to use the same computer and assume the former user’s identity.  If there 
+is no limit on the duration of a SSO session, a Federation Service Provider may be 
+concerned about the validity of any identity assertions you might make.  Therefore it is 
+important to ask about your use of SSO technologies. 
+
+ 
+[2.7] In some identity management systems, primary identifiers for people might be reused, 
+
+particularly if they contain common names, e.g. Jim Smith@MYU.edu.  This can create 
+ambiguity if a Service Provider requires this primary identifier to manage access to 
+resources for that person. 
+
+
+
+INCOMMON FEDERATION: PARTICIPANT OPERATIONAL PRACTICES 
+
+Page 9 of 12 
+
+ 
+
+ 
+
+ 
+ 
+[2.8] Security of the database that holds information about a person is at least as critical as the 
+
+electronic identity credentials that provide the links to records in that database. 
+Appropriate security for the database, as well as management and audit trails of changes 
+made to that database, and management of access to that database information are 
+important. 
+
+ 
+[2.9] Many organizations will make available to anyone certain, limited “public information.” 
+
+Other information may be given only to internal organization users or applications, or may 
+require permission from the subject under FERPA or HIPAA rules.  A Service Provider 
+may need to know what information you are willing to make available as “public 
+information” and what rules might apply to other information that you might release. 
+
+ 
+[2.10]  In order to help a Service Provider assess how reliable your identity assertions may be, it 
+
+is helpful to know how your organization uses those same assertions. The assumption here 
+is that you are or will use the same identity management system for your own applications 
+as you are using for federated purposes. 
+
+ 
+[2.11]  Your answer to this question indicates the degree of confidence you have in the accuracy 
+
+of your identity assertions. 
+ 
+[2.12]  Even “public information” may be constrained in how it can be used.  For example, 
+
+creating a marketing email list by “harvesting” email addresses from a campus directory 
+web site may be considered illicit use of that information.  Please indicate what restrictions 
+you place on information you make available to others. 
+
+ 
+[2.13]  Please indicate what legal or other external constraints there may be on information you 
+
+make available to others. 
+ 
+[3.1] Please identify your access management requirements to help other Participants understand 
+
+and plan for use of your resource(s).  You might also or instead provide contact 
+information for an office or person who could answer inquiries. 
+
+ 
+[3.2] As a Service Provider, please declare what use(s) you would make of attribute information 
+
+you receive. 
+ 
+[3.3] Personally identifying information can be a wide variety of things, not merely a name or 
+
+credit card number.  All information other than large group identity, e.g., “member of 
+community,” should be protected while resident on your systems. 
+
+ 
+[3.4] Certain functional positions can have extraordinary privileges with respect to information 
+
+on your systems.  What oversight means are in place to ensure incumbents do not misuse 
+such privileges? 
+
+ 
+[3.5] Occasionally protections break down and information is compromised.  Some states have 
+
+laws requiring notification of affected individuals.  What legal and/or institutional policies 
+govern notification of individuals if information you hold is compromised? 
+
+
+
+INCOMMON FEDERATION: PARTICIPANT OPERATIONAL PRACTICES 
+
+Page 10 of 12 
+
+ 
+
+ 
+
+ 
+
+[4.1] Most InCommon Participants will use Internet2 Shibboleth technology, but this is not 
+required.  It may be important for other participants to understand whether you are using 
+other implementations of the technology standards. 
+
+ 
+[4.2] As an Identity Provider, you may wish to place constraints on the kinds of applications that 
+
+may make use of your assertions.  As a Service Provider, you may wish to make a 
+statement about how User credentials must be managed.  This question is completely open 
+ended and for your use. 
+
+
+
+Page 11 of 12 
+
+INCOMMON FEDERATION: PARTICIPANT OPERATIONAL PRACTICES  
+
+ 
+
+Glossary 
+ 
+
+ 
+access 
+management 
+system 
+
+The collection of systems and or services associated with specific on-line 
+resources and/or services that together derive the decision about whether to 
+allow a given individual to gain access to those resources or make use of 
+those services. 
+
+assertion The identity information provided by an Identity Provider to a Service 
+Provider. 
+
+attribute A single piece of information associated with an electronic identity 
+database record.  Some attributes are general; others are personal.  Some 
+subset of all attributes defines a unique individual. 
+
+authentication The process by which a person verifies or confirms their association with 
+an electronic identifier.  For example, entering a password that is associated 
+with an UserID or account name is assumed to verify that the user is the 
+person to whom the UserID was issued. 
+
+authorization The process of determining whether a specific person should be allowed to 
+gain access to an application or function, or to make use of a resource.  The 
+resource manager then makes the access control decision, which also may 
+take into account other factors such as time of day, location of the user, 
+and/or load on the resource system. 
+
+electronic 
+identifier 
+
+A string of characters or structured data that may be used to reference an 
+electronic identity.  Examples include an email address, a user account 
+name, a Kerberos principal name, a UC or campus NetID, an employee or 
+student ID, or a PKI certificate. 
+
+electronic identity A set of information that is maintained about an individual, typically in 
+campus electronic identity databases.  May include roles and privileges as 
+well as personal information.  The information must be authoritative to the 
+applications for which it will be used. 
+
+electronic identity 
+credential 
+
+An electronic identifier and corresponding personal secret associated with 
+an electronic identity.  An electronic identity credential typically is issued 
+to the person who is the subject of the information to enable that person to 
+gain access to applications or other resources that need to control such 
+access. 
+
+electronic identity 
+database 
+
+A structured collection of information pertaining to a given individual. 
+Sometimes referred to as an "enterprise directory."  Typically includes 
+name, address, email address, affiliation, and electronic identifier(s).  Many 
+technologies can be used to create an identity database, for example LDAP 
+or a set of linked relational databases. 
+
+
+
+Page 12 of 12 
+
+INCOMMON FEDERATION: PARTICIPANT OPERATIONAL PRACTICES 
+
+identity Identity is the set of information associated with a specific physical person 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+identity 
+management 
+system 
+
+or other entity.  Typically an Identity Provider will be authoritative for only 
+a subset of a person’s identity information.  What identity attributes might 
+be relevant in any situation depend on the context in which it is being 
+questioned. 
+ 
+
+A set of standards, procedures and technologies that provide electronic 
+credentials to individuals and maintain authoritative information about the 
+holders of those credentials. 
+
+ 
+
+Identity Provider A campus or other organization that manages and operates an identity 
+management system and offers information about members of its 
+community to other InCommon participants. 
+
+ 
+
+NetID An electronic identifier created specifically for use with on-line 
+applications. It is often an integer and typically has no other meaning. 
+
+ 
+
+personal secret 
+(also 
+verification token) 
+
+ 
+
+Used in the context of this document, is synonymous with password, pass 
+phrase or PIN.  It enables the holder of an electronic identifier to confirm 
+that s/he is the person to whom the identifier was issued. 
+
+ 
+
+Service Provider       A campus or other organization that makes on-line resources available to 
+users based in part on information about them that it receives from other 
+InCommon participants. 
+
+

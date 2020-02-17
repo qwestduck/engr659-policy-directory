@@ -1,0 +1,54 @@
+
+Blackboard Course Re moval Policy 
+ 
+ 
+Summary/Purpose: This policy defines the length of time that old course information is 
+
+stored in Blackboard. 
+
+ 
+GENERAL INFORMATION: 
+
+ 
+Blackboard courses with a Course ID that includes a semester designation (e.g. 2016-2017 
+
+FALL) will be deleted 4 years after the course has been completed. This is necessary in order 
+
+to free up system resources.  The deletion of old courses will occur annually during the month 
+
+of May. 
+
+ 
+EXAMPLES: 
+
+ 
+Spring 2015-2016 courses in Blackboard will be deleted in May 2020.  Fall 2016-2017 courses 
+
+in Blackboard will be deleted in May 2021. 
+ 
+Note: In order to save a copy of course content, instructors can Export their course using the 
+"Export/Archive Course" feature located under the Packages and Utilities option in the course 
+
+control panel. The resulting export (.zip) file can then be saved to a local computer. Course 
+
+exports do not contain student work such as journal entries, discussion forum postings, grades, or 
+
+assignment submissions. If an instructor needs to save this information, it must be done 
+
+manually. Instructors can use the "Work Offline–Download" feature located in the Grade Center 
+
+to retain a copy of student grades. 
+ 
+EXCEPTIONS: 
+
+ 
+If a course is not tied to a specific semester (e.g. Applied Sciences Research Series ORG, 
+
+ISHS, IS, etc.), it will not be included in the yearly course cleanup cycle. If an instructor would 
+
+like a course removed from Blackboard prior to the 4 year cleanup cycle, the instructor may 
+
+email the Course ID to  blackboard@olemiss.edu to request its deletion. 
+
+mailto:blackboard@olemiss.edu
+

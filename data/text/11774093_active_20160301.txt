@@ -1,0 +1,113 @@
+
+FERPA-Covered University of Mississippi Records Release for Research 
+ 
+Purpose:  
+Obtaining UM student records for research in compliance with FERPA 
+ 
+Background: 
+Data from UM student records are commonly requested in human subject research that is reviewed and 
+approved by the Institutional Review Board (IRB). The Family Educational Rights and Privacy Act (FERPA) 
+(20 U.S.C. § 1232g; 34 CFR Part 99) is a Federal law that protects the privacy of student education records. 
+This policy provides a standardized, legal procedure for obtaining student records and for retention of 
+documented releases for FERPA-protected data. 
+ 
+Authorization for Release of Records: 
+
+• A signed release on paper is required in order for investigators to obtain student records from the 
+Registrar. The release must specify exactly what student information is to be released and which 
+investigators will have access. Undergraduate investigators cannot have access to identified student 
+records. 
+
+• An electronic alternative to a signed release, (e.g., using student emails for identity verification), may be 
+allowed in some cases.  The email release must comply with the same requirements as a signed paper 
+release. 
+
+ 
+Records retention: 
+
+• The investigator must retain a copy of the release for 7 years (scanned / electronic copies are 
+acceptable). 
+
+ 
+Requesting Student Data from Registrar – Required Items:  
+
+1. Excel spreadsheet containing student ID numbers and student names – as they appear on their records. 
+Columns must be: ID #, Last Name, First Name, Middle Initial or Middle Name. 
+
+2. For each subject, an electronic copy of the release (see model below).  
+3. List of specific data requested. 
+
+ 
+Email all three items to: registrar@olemiss.edu with the Subject Heading “Request for Release of Student 
+Records for IRB-Approved Research.” 
+ 
+Electronic alternatives (e.g., a survey sent to a student email address where the student clicks to take the survey 
+and then clicks to give consent for listed records) to the below Model Release Authorization will be evaluated 
+on a case by case basis. The release, whether signed or electronic, must be included with your IRB application. 
+ 
+ 
+
+mailto:registrar@olemiss.edu
+
+
+ 
+
+Model Release Authorization  
+ 
+INSTRUCTIONS TO RESEARCHER:  
+
+1. Alter only the information specific to your study [italicized and in brackets]  
+2. If paper release, append it to the consent form as a separate page (so you can scan it electronically) 
+3. If requesting electronic release, include the procedure for gaining identity verification (e.g., from 
+
+valid email addresses) and the release authorization with your IRB application materials. 
+ 
+    -------------------------------- 
+Authorization to Release FERPA-Protected Student Records to Researchers 
+ 
+[Title of Project] 
+Investigators who will have access to identified student records: [List Names; No undergraduate 
+experimenters permitted] 
+ 
+I understand that, by signing this release, I am giving University researchers access to the 
+FERPA-protected academic records listed below. 
+ 
+I consent to have only the following UM [and high school] academic records released from the University 
+Registrar to the investigators listed above: 
+ 
+[EXAMPLES:] 
+
+• [Current overall UM GPA] 
+• [UM GPA for this semester only] 
+• [High school GPA ] 
+• [Standardized test scores (ACT/SAT)] 
+
+ 
+The Researchers: 
+
+• May use the information only for purposes of the approved research project. Any new use of the 
+information requires new approval from the participant.  
+
+• Must provide adequate protection for the information to ensure that it is not compromised or 
+subject to unauthorized access.  
+
+• Ensure that no one outside the research team has access to the information. 
+ 
+This authorization expires on:   __ [Enter a reasonable date] _______________________________ (Date) 
+ 
+__________________________________       _______________________________________ 
+Participant's Signature  Date   Full Name (as on ID Card) – Printed 
+ 
+__________________________________ 
+Student ID Number 
+ 
+I understand that (1) I have the right not to consent to the release of my education records, (2) I have the right to inspect 
+any written records released pursuant to this Consent, and (3) I have the right to revoke this Consent at any time by 
+delivering a written or emailed revocation to the investigator & copied to the IRB office (irb@olemiss.edu).  
+ 
+This information is released subject to the confidentiality provisions of appropriate state and federal laws and regulations 
+which prohibit any further disclosure of this information without the specific written consent of the person to whom it 
+pertains, or as otherwise permitted by such regulations.  
+
+mailto:irb@olemiss.edu
+

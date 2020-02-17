@@ -1,0 +1,369 @@
+
+P O L I CY O N O F F I CI A L W E B P A G E S 
+ 
+ 
+ 
+Summary/Purpose: This policy governs all aspects of communication through the university’s website at 
+"olemiss.edu." It is intended to ensure consistent, high-quality representation of the university in all 
+schools and departments, as well as ease of use by visitors to the website and ease of content 
+preparation by university staff. 
+
+ 
+ 
+ 
+
+1 . T E RM S 
+ 
+The following definitions are used: 
+
+• UM: the University of Mississippi. 
+• UM unit: a school, department, institute, administrative division, or official organization of UM. 
+• IT: Office of Information Technology. 
+• HTML: Hyper-text Markup Language. 
+• URL: uniform resource locator – e.g. (http://www.olemiss.edu) 
+• Render: the operation a Web browser performs as it translates HTML code into the layout and 
+
+content of a Web page. 
+• the Web: the World Wide Web. 
+• Web document: any file made available on the Web. 
+• Web page: a Web document written (or generated) in HTML which can be rendered by browsers 
+• website: a collection of inter-linked Web pages consisting of a home page and various secondary 
+
+pages, or a collection of Web sites grouped under a common home page. 
+• Web application: a Web page which interacts with the user, collects information via a Web page 
+
+from a user, or performs some function via a Web page for a user - e.g. Web-based email 
+systems, online registration, and interactive forms. 
+
+• official Web page: a Web page presented on behalf of UM, sanctioned by the appropriate UM 
+unit. 
+
+• UM Web Directory: an application which displays links to various departments, organizations and 
+other entities, in addition to giving information about committees and campus buildings. 
+
+• WordPress: an open source content management system created to host blogs, but capable of 
+hosting entire websites. 
+
+• Feed: a resources offering frequently updated content to be consumed, processed, and rendered 
+on a website. 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+2 . M A N A G E M E N T O F O F F I CI A L W E B P A G E S 
+ 
+
+(a) IT responsibilities 
+ 
+IT is responsible for the following: 
+
+1.   maintaining a central Web server (Cedar) for the UM home page and for pages of other UM 
+units; 
+
+2.   maintaining secondary central Web servers (Web1 and Web6) for UM units needing more 
+advanced programming than is allowed on Cedar; 
+
+http://www.olemiss.edu/
+
+
+3.   maintaining official pages not associated with any specific unit, including the UM home page 
+(www.olemiss.edu); 
+
+4.   creating and maintaining applications within the myOleMiss portal; 
+5.   providing access by designated managers of official UM Web pages to appropriate directories, so 
+
+that they may update and revise their pages; 
+6.   providing and maintaining the WebID online authentication system; 
+7.   maintaining secure Web servers; 
+8.   maintaining user access to the UM Web Directory so that they may submit change requests; 
+9.   maintaining the Blackboard online learning system; 
+10. access control for use of PHP, CGIs, and MySQL on IT systems; 
+11. maintaining URL aliases and redirects as required for relocated Web pages and shorter URLs; 
+12. maintaining virtual host settings to allow other domains to be hosted on campus Web servers (as 
+
+directed by the Domain Name Registration policy); 
+13. taking appropriate action to contain and resolve security violations in the event of website 
+
+hacking or misuse; 
+14. working with University Communications to create and maintain UM branded Web templates for 
+
+use by UM units; 
+15. providing code and graphics for common shared Web resources (www.olemiss.edu/share) 
+16. creating feeds of common data to be used by campus websites. 
+
+ 
+IT will allow non-IT projects on production IT servers with the approval of the Chief Information Officer 
+under certain conditions: (a) the application has campus-wide impact, (b) the department has a full-time 
+staff member who is willing to take responsibility and work under the guidelines in place for the IT Web 
+team, and (c) the application is reviewed for correctness and good security practices. 
+
+ 
+Note that IT is not responsible for preparing Web pages, images, or Web applications on behalf of any 
+other unit of UM. Nor is IT responsible for the maintenance of any non-IT servers or the websites on 
+those servers. 
+
+ 
+IT reserves the right to update any and all software on IT servers to maintain system integrity and 
+security. 
+
+ 
+ 
+(b) University Communications responsibilities 
+
+ 
+University Communications bears the following responsibilities: 
+
+1.   creating and ensuring compliance with graphic standards and communications practices; 
+2.   approving new Web pages or designating appropriate authors for new Web pages as required to 
+
+enhance the usefulness, appeal, and clarity of the UM website; 
+3.   approving the content of the first and second level pages that make up the UM website; 
+4.   overseeing the UM website and requesting UM Web authors to update or revise official Web 
+
+pages when necessary; 
+5.   revising this policy as necessary to best serve the members of the UM community. 
+
+ 
+University Communications is authorized to request IT to remove from the UM website any links to Web 
+pages or documents that are not consistent with this policy if the manager of such a document is not 
+available or not willing to maintain compliance. 
+
+ 
+(c) UM Web Planning Committee responsibilities 
+
+http://www.olemiss.edu/share)
+http://www.olemiss.edu/share)
+
+
+1.   The UM Web Planning Committee must consist of at least one representative from each of the 
+following: the undergraduate student body, the non-faculty staff (exclusive of IT), the faculty, 
+and IT. 
+
+2.   The committee advises IT and University Communications as requested for major website 
+improvements or requests inconsistent with the web policy. 
+
+ 
+ 
+(d) Manager responsibilities 
+
+ 
+Every UM unit is entitled to a website and an appropriate link via the UM home page. That unit must 
+designate a specific manager, who will be responsible for maintaining standards of clarity, accuracy, and 
+timeliness. When the management of an official Web page is passed to a new person, the change must 
+be coordinated with the UM Webmaster. If a new server account is needed, the new manager must 
+make arrangements for that through the IT Helpdesk. Changes for student organization site management 
+must be approved by the Office of the Dean of Students. 
+
+ 
+The manager is responsible for all content in his or her website, including maintaining the validity and 
+appropriateness of both internal and external links contained in the unit's site. The manager is also 
+responsible for updating the website’s information listed in the UM Web Directory. These 
+responsibilities also apply to managers and UM unit sites which are not housed on IT servers. 
+
+ 
+Managers of websites that are hosted on an IT installation of WordPress do not require a server 
+account. Since these installations are shared resources, IT staff maintains the server files. Manager 
+accounts are maintained through the WordPress sites with WebID authentication. 
+
+ 
+For transferring management of official Web pages served on the official UM Web server, Cedar, the 
+following process should be followed: 
+
+• managers must apply for a Cedar account (assuming they do not already have an account) which 
+is assigned to their name and for which they hold responsibility. 
+
+• for new accounts, the user is assigned a temporary password which needs to be changed via 
+logging into Cedar using a secure telnet connection. 
+
+• the new manager contacts the UM Webmaster to obtain access to the relevant Web space. The 
+manager’s supervisor may be required to approve the change of access. 
+
+• once access is provided, the new manager should update or create the Web Directory for their 
+UM unit. 
+
+ 
+Because creating and transferring management for sites housed on the Web1 and Web6 servers 
+requires cooperation with the IT Systems and Networking groups, new managers must contact the UM 
+Webmaster for assistance. 
+
+ 
+ 
+(e) Print documents 
+
+ 
+UM print documents made available as Web pages will generally be the responsibility of the office that 
+prepared the print document. Exceptions must be approved by the office that prepared the original 
+print document. PDF documents are viewable by the greatest number of visitors, and consideration 
+should be taken for the inclusion of accessibility features where needed. 
+
+
+
+3 . RE Q U I RE M E N T S F O R O F F I C I A L W E B P A G E S 
+ 
+
+(a) General policy 
+ 
+The UM Appropriate Use Policy for use of UM computational facilities applies to all UM Web pages. This 
+includes those policies regarding commercial use, copyright, and harassment. Third-party advertising 
+(not a university entity) is not permitted on official UM websites. All UM unit pages may be reviewed by 
+University Communications and the UM Webmaster based on required content, layout, accessibility, 
+university editorial and graphic guidelines,general usability concerns, and professional looking graphics 
+and images. 
+
+ 
+(b) Required content 
+
+ 
+The primary home page of each UM unit shall include: 
+
+1.   the official UM banner, or banner variant supplied by University Communications approved by 
+the UM Web Planning Committee; 
+
+2.   a link to the UM home page (using the UM banner, if present); 
+3.   the name and email address of the current document manager, or a "Contact" link to a page 
+
+which includes this information; 
+4.   the official UM footer containing the following: 
+
+a.   links to the top level information tabs (About UM, Academics, etc.); 
+b.   links to UM services (myOleMiss, Blackboard, Email, etc.); 
+c.   a link to the UM copyright statement (www.olemiss.edu/share/copyright.html); 
+d.   a link to the UM Creed (www.olemiss.edu/info/creed.html); 
+e.   a link to the university’s Accessibility Statement (www.olemiss.edu/info/access.html); 
+f. Google Analytics code so that we may tracks site statistics. 
+
+UM academic unit home pages have the additional requirements to include: 
+1.   links to faculty profiles maintained through the My Profile tab in myOleMiss; 
+2.   lists for degrees and minors that link into the course catalog; 
+3.   lists for courses and their descriptions also linked in the course catalog; 
+4.   (optional) achievements for faculty and students. 
+
+ 
+Web pages must adhere to the disability standards listed in the Section 508 guidelines 
+(www.section508.gov)and to additional standards set forth by the UM policy governing Accessibility of 
+Technology Services. 
+
+ 
+ 
+(c) Security 
+
+ 
+All UM webmasters must be vigilant in providing proper security for all personal data retained or 
+recorded and information flow between server and Web client when necessary. All Web applications 
+developed or implemented by UM units must maintain proper security and system integrity. Web 
+applications on IT servers which jeopardize either security or system integrity may be disabled without 
+prior notification. 
+
+ 
+Use of the WebID online authentication system may be provided to non-IT systems and managers on a 
+case-by-case basis. 
+
+ 
+See the Information Confidentiality/Security Policy (ADM.IT.400.030) in the UM Policy Directory at 
+(http://www.olemiss.edu/policies) for more information concerning information security. 
+
+http://www.olemiss.edu/share/copyright.html
+http://www.olemiss.edu/info/creed.html)
+http://www.olemiss.edu/info/a
+http://www.olemiss.edu/info/access.html))%3B
+http://www.section508.gov/
+http://www.olemiss.edu/policies
+
+
+4 . RE CO M M E N D A T I O N S F O R O F F I CI A L W E B D O CU M E N T S 
+ 
+
+(a) Coding and Content 
+ 
+An HTML document is a means of conveying information to a wide audience across a variety of 
+platforms. Simplicity, clarity, and performance should always be high priorities. Consistency with 
+university web graphics standards is essential in the design of each UM page. HTML should be used to 
+semantically organize content without specifying the exact appearance of the various elements. 
+
+1.   Web pages should adhere to the standards defined by World Wide Web Consortium (W3C) 
+(www.w3.org) for HTML, CSS, or other Web languages. 
+
+2.   Webmasters should begin adopting HTML5 compliancy in order to take advantage of future 
+browser enhancements. 
+
+3.   Webmasters should use one of the provided UM Web Templates that have been created using 
+responsive design techniques, or they should adapt their own templates using those techniques. 
+This design will ensure that mobile users and desktop users have access to the same content, in 
+addition to insuring a professional and unified UM presence across our website. 
+
+4.   Web pages should conform to the UM Web guidelines as established by University 
+Communications. Common UM branding elements must appear across the entire UM website. 
+Designers of UM Web pages should incorporate these elements into their designs. 
+
+5.   A department logo or a recognizable UM logo should appear in the header of each page. 
+6.   Large graphics, backgrounds, imagemaps, and other features that degrade speed without adding 
+
+content are discouraged. 
+7.   Never use copyrighted material - graphics, audio, video, text - without prior written permission 
+
+from the holder of the copyright. If in doubt, assume the content is copyrighted and obtain 
+permission from the content creator. This includes content created by another UM unit. 
+
+8.   Large files or files with unusual formats (images, sound, programs, or compressed files) should be 
+accessed only through links that specify their size and format (e.g. 650kB .zip). Links to formatted 
+word processor documents are discouraged; however accessible PDF versions of those 
+documents are acceptable. 
+
+9.   Videos should be uploaded to a service like YouTube or the campus Vimeo server and then 
+included on the pages where they are to be displayed. Closed captioning is required for all 
+videos. 
+
+10. Document managers should review the information presented in their pages to ensure it is 
+correct and current. 
+
+11. Links to related off-campus resources should be clearly distinguished from links to local sources 
+and should be checked periodically to ensure viability and appropriate content. 
+
+12. Links to individual Web pages of faculty, staff, and students may be included at the discretion of 
+the document manager, in consultation with the dean, chair, or director of the unit. If such links 
+are provided, they should be accessed from a menu that clearly designates the status of the 
+individuals ("geology faculty" or "home pages of history majors") and includes a disclaimer that 
+UM is not responsible for their content if necessary. 
+
+13. The <head> element (title, document type, and meta-elements) should be designed as carefully as 
+the <body>, in order to provide keywords for search engine optimization. For standardization 
+across the UM website, the <title> element should include the department’s name in this format: 
+<title>Department Name | University of Mississippi</title> 
+
+14. Avoid duplicating content by relying on feeds or linking to existing content. Feeds are available 
+for the Event Calendar, Course Catalog, employee profiles, news, announcements, and more. 
+
+http://www.w3.org/
+
+
+(b) File location 
+ 
+
+1.   Cedar is the server of choice for housing official Web pages that do not require advanced 
+programming (e.g. PHP, mySQL, etc.). Web6 is the server that offers advanced programming 
+options, but access to it is more restrictive. IT maintains installations of WordPress for sites that 
+only need a blog or that wish to make use of its content management interface. 
+
+2.   Departments with their own resources may elect to maintain their home pages on their own 
+servers. However, use of shared IT servers allows minimum duplication of resources, such as 
+graphics, audio files, and applications, which may be useful across several websites. Departments 
+choosing to run their own Web services are responsible for all administration associated with 
+that server, e.g., providing UPS services, applying operating system patches, performing backups, 
+managing security, etc. Graphic standards must be consistent with those issued or approved by 
+University Communications. 
+
+3.   Requests for URL aliases and redirects may be approved on a case by case basis to preserve URLs 
+for relocated Web pages and to provide short URLs for use in printed materials. 
+
+ 
+Please note that any URL of the form "home.olemiss.edu/~user" or the shortcut 
+"sites.olemiss.edu/sitename" is considered an individual Web page and should not be used for an official 
+website. Individual accounts may be used for subsidiary pages of an official home page as appropriate 
+(for example, course-related materials or individual faculty project descriptions). 
+
+

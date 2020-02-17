@@ -1,0 +1,395 @@
+
+The University of Mississippi 
+ 
+ 
+
+ 
+
+USE OF NOVEL COMPOUNDS AND EXTRACTS 
+
+ 
+
+Summary/Purpose: To establish measures that help ensure justification of animal numbers and PI 
+
+and IACUC oversight of pain and distress in drug discovery research. 
+
+ 
+
+I.  Rationale 
+
+ 
+
+Unlike traditional hypothesis testing, drug discovery research on novel compounds and extracts 1) 
+
+cannot always predict precisely how many compounds and extracts will be tested in a protocol 
+
+and, therefore, cannot always predict the numbers of animals required, and 2) cannot always 
+
+predict adverse effects that could produce pain or distress in animals. The purpose of this policy is 
+
+to establish measures that help ensure justification of animal numbers and PI and IACUC 
+
+oversight of pain and distress in drug discovery research. 
+
+ 
+
+II.  Definitions 
+
+ 
+
+A.  Novel Compounds and Extracts 
+
+A Novel Compound and extract is any chemical entity that 1) has never been tested in 
+
+animals; or 2) is in preliminary stages of animal testing. Novel Compound and extract 
+
+status affects the evaluation of a compound for potential adverse side effects and the 
+
+animal monitoring intensity level. Increased frequency animal monitoring will continue 
+
+until the PI has collected a reasonable amount of data from observing animals at the 
+
+maximum dose of a novel compound. If, at this stage, no adverse effects have been found, 
+
+increased frequency monitoring can be reduced. If adverse effects have been found, 
+
+monitoring will continue at a level necessary to prevent unnecessary pain or distress. 
+
+ 
+
+B.  Unanticipated Significant Adverse Effects 
+
+Pain and distress may be an unavoidable part of some research protocols (e.g. pain studies, 
+
+infectious disease models). Guidelines pertaining to these types of studies already exist in 
+
+the current protocol application. This policy seeks to address unanticipated pain and 
+
+distress that occurs as a result of administering substances with unknown effects on 
+
+animals. Examples of Unanticipated Significant Adverse Effects include but are not 
+
+limited to lethality, substantial weight loss, and collapse. 
+
+ 
+
+III.  Background to Justification of Number of Animals 
+
+ 
+
+Identification of novel compounds and extracts of interest occurs continuously but at varying rates 
+
+in drug discovery laboratories. PIs test large numbers of novel compounds and extracts annually 
+
+(e.g. 80-100) in search of drugs to cure disease, but the number of compounds and extracts that 
+
+will be used for testing can rarely, if ever, be specified in advance. This prevents PIs from stating 
+
+precisely the number of animals required in IACUC applications. However, based on the 
+
+estimated number of compounds, extracts, and using an appropriate justification formula (see 
+
+V.B.1. below), PIs can estimate the number of animals required per compound and extract, and the 
+
+IACUC will review that estimate. The IACUC will monitor the justification formula through the 
+
+annual update process: PIs will submit the number of compounds and extracts, and number of 
+
+animals used for the year on the standard Protocol Annual Update Form. 
+
+ 
+
+
+
+The University of Mississippi 
+ 
+ 
+
+ 
+
+IV.  Background to Recognition of and Minimizing Pain and Distress 
+
+Most novel compounds and extracts are pre-screened for the biological activity of interest and for 
+
+toxicity through in vitro tests. However, in some cases in vitro tests correlate very poorly with in 
+
+vivo results. Also, in many cases the animal model used to test the novel compound and extract 
+
+introduces known diseases and/or drugs that have significant pain or distress profiles. In contrast, 
+
+novel compounds and extracts are developed with the aim to have no adverse effects. 
+
+ 
+
+Drug discovery procedures often have pilot research strategies built in. Initially, only a small 
+
+number of animals receive each dose of a novel compound or extract. If Unanticipated Significant 
+
+Adverse Effects are seen at higher doses, testing of those doses is terminated (unless scientifically 
+
+justified). 
+
+ 
+
+Pain and distress concerns about novel compounds and extracts are dealt with in this policy in two 
+
+ways. First, PIs indicate how prior data (if available) will be used to estimate potential for adverse 
+
+side effects and to determine initial dose. Second, PIs submit a plan for monitoring adverse 
+
+effects. This plan includes a determination of humane endpoints (see V.C.3. below). 
+
+ 
+
+V.  Procedures 
+
+ 
+
+      A.  Compound and Extract Names and Structures 
+
+           
+
+The names and structures of compounds and extracts are not required in protocol 
+
+applications. 
+
+ 
+
+      B.  Justification of Numbers 
+
+ 
+
+1. PIs will provide numbers of animals/treatment/procedure. If the number of Novel 
+Compounds and Extracts to be tested cannot be determined at the time of submission, 
+
+PIs will provide the best estimate of compounds, extracts, and animals needed.  As 
+
+information is acquired, the number of animals may change and must be approved in 
+
+an amendment. 
+
+ 
+
+2. Animal numbers will be tracked and reviewed for justification through the Protocol 
+Annual Update Form. 
+
+ 
+
+C.  Evaluation and Observation of Pain and Distress 
+
+ 
+
+1.  Compound Effects 
+
+ 
+
+The PI should provide the following information in the protocol application: 
+
+ 
+
+a. Indicate which of the 3 following scenarios applies to the compound(s) and 
+extract(s). (Appropriate literature or structure searches should be included 
+
+[provide search strategy]. This information should be provided in Appendix 
+
+VII.) 
+
+ 
+
+1.  In vitro or in vivo data exist and indicate no known toxicity. 
+
+2.  In vitro or in vivo data exist and indicate probable toxicity. This 
+
+
+
+The University of Mississippi 
+ 
+ 
+
+ 
+
+information can come from testing the compound and extract in 
+
+question or compounds and extracts with similar structure. It may 
+
+include information such as chemical class (stimulant, depressant, 
+
+etc.), mechanism/site of action, or cytotoxicity. The PI should 
+
+submit this information with the protocol application. 
+
+3.  There are no in vitro or in vivo data available to the PI.  
+
+ 
+
+ 
+
+b.  Describe and indicate how the following are determined: the initial dose and 
+
+ route of administration to be used; the intervals for increasing the dose (e.g.  
+
+half log); any reasons for deviating from this plan; the rationale for target  
+
+dose (e.g. adverse effects and/or dose needed to treat the disorder). If  
+
+compounds or extracts are unavailable at the time of initial protocol 
+
+application, indicate the decision tree that will be used to determine initial 
+
+dose, intervals, route of administration, increments of increasing doses, 
+
+reasons for deviating from this plan, and rationale for target dose. 
+
+ 
+
+c.  Provide a plan for monitoring for adverse effects in test animals. This plan 
+
+should include a checklist of signs of pain and distress relevant to the 
+
+species, any anticipated signs based on known information, and frequency 
+
+of monitoring. (If the PI has collected a reasonable amount of data from 
+
+observing animals at the maximum dose of a novel compound and extract 
+
+and no adverse effects have been found, routine monitoring can be initiated. 
+
+If adverse effects have been found, monitoring should continue at a level 
+
+necessary to prevent unnecessary pain or distress.) 
+
+ 
+
+ 
+
+2.  Notification of Attending Veterinarian 
+
+The PI will notify the Attending Veterinarian in a timely manner when 
+
+Unanticipated Significant Adverse Effects are observed. The PI will then complete 
+
+the relevant monitoring sheet and submit a copy of it to the Animal Care Office in 
+
+NCNPR. 
+
+ 
+
+3.  Humane Endpoints 
+
+Ideally, humane endpoints (predictive signs, indicators of an irreversible 
+
+deteriorating condition) should be established prior to beginning animal work. 
+
+Realizing the difficulty in predicting these for studies that involve compounds and 
+
+extracts with unknown adverse effects, the PI should revise humane endpoints if 
+
+severe pain, severe distress, or death is observed. Guidelines should be in place to 
+
+euthanize animals 1) when humane endpoints are reached, 2) when the study 
+
+objectives have been realized, 3) if it becomes clear that they cannot be realized, or 
+
+4) whenever the degree of suffering is not required or justified by the protocol. 
+
+ 
+
+4.  Cooperative Projects 
+
+In cooperative projects, PIs should make every attempt to obtain or provide 
+
+information on adverse effects that may be associated with any substance. Often 
+
+this may be unpublished data collected recently by another PI. 
+
+ 
+
+
+
+The University of Mississippi 
+ 
+ 
+
+ 
+
+5.  Laboratory Monitoring 
+
+To better educate the IACUC and to monitor attention to pain and distress, the 
+
+Attending Veterinarian and one or two IACUC members may observe laboratory 
+
+procedures under this policy at random intervals. PIs will be consulted in advance. 
+
+ 
+
+6.  Pain and Distress Category 
+
+The pain and distress category of novel compounds and extracts will begin at B, 
+
+unless procedures or anticipated toxicity dictates other categories. As information is 
+
+acquired about the compound and extract, the category will be changed accordingly 
+
+and reported in an amendment. 
+
+ 
+
+D.  Record Keeping 
+
+ 
+
+PIs must include the following information in the Protocol Annual Update Form: number 
+
+of compounds and/or extracts used; number of animals used; number of animals 
+
+categorized as something other than the original pain category; and the number of animals 
+
+euthanized to achieve the humane endpoint. 
+
+ 
+
+All animal monitoring forms should be kept in a location accessible to the Attending 
+
+Veterinarian and animal care staff. PIs will notify the Veterinarian of Unanticipated 
+
+Significant Adverse Events and submit a copy of the relevant monitoring sheet to the 
+
+Animal Care Office in NCNPR. 
+
+ 
+
+ 
+
+VI.  Additional Points 
+
+ 
+
+A.  Occupational Health and Safety 
+
+The Department of Health and Safety has included unknown compounds and extracts in 
+
+chemical safety training. This training satisfies the occupational health and safety need 
+
+regarding potentially hazardous unknown agents. 
+
+ 
+
+B.  Standard Operating Procedures (SOPs) 
+
+PIs are encouraged to provide SOPs for procedures involving animals, such as, animal 
+
+models that will be used for testing the unknowns (e.g. Malaria model, Anxiety model). 
+
+Once developed and approved, these SOPs can be referred to in new protocol applications. 
+
+[Note: An SOP is not a protocol substitute.] SOPs should be updated as procedures 
+
+change. Annual reports of SOPs should be submitted yearly for review. 
+
+ 
+
+ 
+
+ 
+
+

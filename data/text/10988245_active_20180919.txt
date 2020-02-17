@@ -1,0 +1,62 @@
+
+Post Approval Monitoring  
+  
+Summary/Purpose: This policy describes procedures for Post Approval Monitoring Site Visits (PAM). The purpose 
+of PAM is to ensure that protocol activity remains compliant with appropriate regulations and to improve the quality 
+of research by detecting errors and/or omissions to be corrected.  
+ 
+Procedures:  
+A. Standard Procedures 
+1. The IRB Executive Committee (EC) will select protocols for PAM based on the following criteria:  
+
+a. Random selection utilizing the IRB protocol database;  
+b. Protocols with history of noncompliance with federal regulations or IRB requests;  
+c. Protocols that have had numerous adverse incidents;  
+d. Protocols involving greater than minimal risk;  
+e. Protocols involving vulnerable subject populations; and  
+f. Protocols from new Principal Investigators (PIs).  
+
+ 
+2. When a study has been chosen for PAM, a letter of notification will be sent to the PI with a request for a mutually 
+agreeable date and time to meet with the PI and any available research personnel. The letter will also include areas 
+and records to be examined.  
+3. The EC will assign EC and/or IRB members to conduct the PAM visit.  
+4. The PAM team will review the protocol file, including informed consent and assent forms, CITI human subjects 
+protection training, etc. prior to the visit.  
+5. Areas examined during a PAM visit include but are not limited to:  
+
+a. Adherence to protocol;  
+b. IRB documentation (e.g., approval letter, protocol, subject recruitment materials);  
+c. Signed and dated consent and assent forms;  
+d. Subject study records and data (e.g. confidentiality, number of subjects matches consent forms);  
+e. Correspondence with the IRB;  
+f. Unanticipated problems or adverse events documentation (if applicable);  
+g. Annual Progress Reports;  
+h. Data management/storage system (e.g. locked cabinet, data encryption);  
+i. Changes to the original protocol and applicable amendments;  
+j. The consent process and/or data collection.  
+
+ 
+6. At the conclusion of the PAM visit, the team will discuss findings directly with the PI.  
+7. Actions after a PAM visit include, but are not limited to: a. Acknowledgement/acceptance without further 
+recommendation;  
+
+b. A request for modification of the research protocol or procedures;  
+c. A request for modification of the consent/assent process or consent/assent form;  
+d. Providing additional information to current and past research participants;  
+e. Scheduling an additional PAM visit after a predetermined period of time;  
+f. Education for the investigator or research staff;  
+g. Limitations on the research activities;  
+h. Suspension or termination of the research.  
+
+8. A report detailing the findings and the outcome of a PAM visit will be sent to the PI, the PI’s chair or director, the 
+full IRB, and institutional officials as appropriate. 
+ 
+B. Alternative Procedure 
+Another form of PAM occurs when an IRB member volunteers to participate as a subject in a study. In that case, the 
+member will provide verbal feedback immediately after participation in the study. This will be followed by written 
+feedback on observations made during participation in the study, and this will be sent to the PI, the PI’s chair or 
+director, the full IRB, and institutional officials as appropriate. 
+ 
+
+

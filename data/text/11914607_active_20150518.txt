@@ -1,0 +1,141 @@
+
+The University of Mississippi 
+
+Page 1 of 2 
+
+Amendments to Existing Protocols 
+ 
+
+Summary/Purpose: Provides procedures for the different types of amendment review to animal study 
+protocols.  
+ 
+BACKGROUND  
+Protocols must meet all federal regulations. The Institutional Animal Care and Use Committee (IACUC) has 
+the responsibility to ensure that all animal use activity meets federal law, Public Health Service policy, and 
+accreditation standards. All animals maintained by The University of Mississippi (UM) must be covered by 
+an active, IACUC-approved protocol. This policy addresses amendments to those protocols. Principal 
+Investigators wanting to make any changes to an IACUC approved protocol must obtain IACUC approval in 
+compliance with PHS Policy (IV, B, 7) and the AWAR (§2.31, c, 7). 
+ 
+RESEARCHER RESPONSIBILITIES  
+The Principal Investigator (PI) should work with the IACUC to ensure that protocols are active and current 
+for any anticipated or ongoing animal use. Any changes must be reviewed and approved by the IACUC 
+office before being implemented.  Proposed modifications should fit with the objectives, purpose, or aims 
+stated in the original protocol. Otherwise, the IACUC may require a new protocol. 
+ 
+DETERMINATION OF REVIEW TYPE 
+ 
+The IACUC has established the following guidelines (in compliance with PHS Guidance NOT-OD-14-126) 
+to determine whether a requested modification is a minor or significant change to an active IACUC approved 
+protocol.  Please note that the example lists are not exhaustive, but are intended as guides to changes the 
+IACUC might regard as minor or significant. 
+ 
+
+1. Administrative Review  
+a. Some changes to active, approved protocols may be reviewed by a single IACUC 
+
+member, usually the IACUC Research Compliance Specialist (RCS).  These changes 
+include the following: 
+
+i. Additions and deletions of personnel, other than the principal investigator. 
+ii. Addition of non-USDA animals in compliance with PHS Policy (IV, D, 1, a), 
+
+provided the number of animals to be added is <20% of the originally 
+approved number (or <3 animals for projects with fewer than 20 total animals 
+approved).  Justification for the additions must be provided and approved. 
+
+iii. Change in funding source. 
+iv. Change in contact information. 
+v. Minor typographical or grammatical error corrections. 
+
+vi. Addition of supporting protocol information (e.g., updated permits). 
+b. Any time the RCS is unsure whether a change may be administratively reviewed, the 
+
+RCS will contact the Chair and Attending Veterinarian for guidance. 
+c. Investigators may use fewer animals than approved.  This does not require IACUC 
+
+approval, notification, consultation, or administrative handling. 
+ 
+
+2. Chair and/or Attending Veterinarian (AV) Review 
+a. Other minor changes to active, approved protocols that do not have a substantial 
+
+impact on the health and well-being of research animals or that may decrease the 
+potential for pain or distress may be reviewed by the Chair and/or AV.  These 
+changes include the following: 
+
+
+
+The University of Mississippi 
+
+Page 2 of 2 
+
+i. Transfer of animals to another protocol where animals (same stock/strain) are 
+already approved on that study.  This change may also be approved by the 
+Animal Care Supervisor. 
+
+ii. Change in stock or strain of the already-approved species. 
+iii. Adding or changing location where animal procedures are conducted. 
+iv. Euthanasia procedure changes to any method approved in the AVMA 
+
+Guidelines. 
+v. Changes in anesthesia, analgesia, sedation, or experimental substances. 
+
+vi. Dose volume, route, and frequency increases. 
+vii. Duration, frequency, type, or number of procedures performed on an animal. 
+
+b. The Chair and/or AV may at any time decide that a change considered minor be 
+reviewed by DR or Full Committee review. 
+ 
+
+3. DR or Full Committee Review   
+a. Significant changes to active, approved protocols must go through the same process 
+
+of review as new protocols.  The changes will be submitted to the full IACUC for 
+review.  During the review period, members may accept the amendment as 
+appropriate for Designated Member Review or request a Full Committee Review.  
+These changes include, but are not limited to, the following: 
+
+i. Principal Investigator change. 
+ii. Use of hazardous agents in animal procedures (e.g., chemical or biological or 
+
+test compounds). 
+iii. Change in study objectives (may require new protocol). 
+iv. Procedures that will result in greater pain, distress, or degree of invasiveness. 
+v. Changes in method of anesthesia, sedation, analgesia, or experimental 
+
+substances not considered minor. 
+vi. Changes in feeding that are significantly different that those described in the 
+
+original protocol. 
+vii. Changes in housing and/or use of animals in a location that is not part of the 
+
+animal program overseen by the IACUC. 
+viii. Physical restraint of conscious animals. 
+
+ix. Changes in protocol where death becomes the experimental end point. 
+x. Changes in protocol that would eliminate or restrict an animal’s access to 
+
+veterinary care. 
+xi. Protocol change from non-surgery to surgery, from minor to major surgery, 
+
+from non-survival to survival surgery, or from single to multiple survival 
+surgery. 
+
+xii. Changes in euthanasia to a method not specifically approved in the AVMA 
+Guidelines. 
+
+xiii. Change in species. 
+xiv. Changes that impact personnel safety. 
+xv. Addition of USDA animals. 
+
+xvi. Addition of non-USDA animals when the number to be added is >20% of the 
+original number (or >3 animals for projects with fewer than 20 total animals 
+approved). 
+
+ 
+ 
+ 
+ 
+
+

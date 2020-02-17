@@ -1,0 +1,1660 @@
+
+The University of Mississippi 
+
+Page 1 of 32 
+
+Chemical Safety Manual 
+ 
+
+Summary/Purpose:  The Chemical Safety Manual details the minimum requirements and 
+procedures for operations involving Chemicals and Hazardous materials.  
+ 
+ 
+
+University of Mississippi - Chemical Safety Manual 
+ 
+
+TABLE OF CONTENTS 
+
+EMERGENCY PHONE NUMBERS  
+
+HEALTH AND SAFETY POLICY  
+
+DEFINITION OF ABBREVIATIONS 
+
+1. INTRODUCTION  
+
+2. LAWS AND REGULATIONS 
+
+3. UNIVERSITY DEPARTMENT OF HEALTH AND SAFETY  
+3.1 RESPONSIBILITIES AND AUTHORITY  
+3.2 ORGANIZATION  
+
+4. RIGHT TO KNOW  
+4.1 RIGHTS  
+4.2 SERVICES TO PROTECT RIGHTS  
+
+5. CHEMICAL SAFETY  
+5.1 SCOPE OF REGULATIONS  
+5.2 HAZARDOUS CHEMICALS  
+5.3 PROCUREMENT OF HAZARDOUS CHEMICALS  
+5.4 RESTRICTED MATERIALS 
+5.5 CHEMICAL SAFETY IN THE WORKPLACE  
+5.6 STORAGE OF HAZARDOUS CHEMICALS  
+5.7 SPECIAL STORAGE REQUIREMENTS  
+5.8 DISPOSAL OF HAZARDOUS CHEMICALS  
+5.9 LABORATORY CLOSE-OUT PROCEDURE  
+
+6. CHEMICAL SPILLS  
+6.1 GENERAL PROCEDURES  
+6.2 CHEMICALS SPILLED ON THE BODY OVER A LARGE AREA  
+6.3 CHEMICALS ON THE SKIN 
+6.4 CORROSIVE CHEMICALS  
+
+
+
+The University of Mississippi 
+
+Page 2 of 32 
+
+6.5 BROMINE ON THE SKIN  
+6.6 HYDROGEN FLUORIDE ON THE BODY OR IN THE AIR  
+
+7. EMERGENCY PROCEDURES  
+7.1 WHEN AN EMERGENCY OCCURS  
+7.2 DO WHAT IS NECESSARY TO PROTECT LIFE WHILE WAITING FOR 
+ASSISTANCE. KEEP CALM  
+
+APPENDIX  
+
+ 
+
+EMERGENCY TELEPHONE NUMBERS 
+ 
+FIRE 
+
+ 
+ 
+ 
+9-911 
+
+UNIVERSITY POLICE 7234 
+STUDENT HEALTH SERVICES 7275 
+BAPTIST HOSPITAL NORTH MISSISSIPPI 9-232-8100
+DEPARTMENT OF HEALTH AND SAFETY 5433 
+
+ 
+IN THE EVENT OF AN ACCIDENT, SPILL, FIRE, EXPLOSION 
+
+OR OTHER EMERGENCY INVOLVING CHEMICALS 
+
+CALL 
+
+THE HAZARDOUS MATERIALS RESPONSE TEAM 
+
+DURING NORMAL WORKING HOURS (915)-5433 
+
+NIGHTS AND WEEKENDS (915)-7234 
+
+ 
+ 
+HEALTH AND SAFETY POLICY; 
+
+As a responsible institution of higher education, this University's laboratories, offices and other 
+facilities shall be maintained as clean and healthful places of employment. Every effort shall be 
+made to design and operate all University facilities in compliance with the spirit and letter of 
+federal, state and local occupational health and safety regulations. 
+
+The University acknowledges and shall endeavor to satisfy its responsibility to promptly provide 
+current, comprehensive information on potential adverse health effects and appropriate handling 
+procedures for all hazardous materials handled by both our employees and our students. 
+
+
+
+The University of Mississippi 
+
+Page 3 of 32 
+
+It is a basic responsibility of all University employees and students to make the health and safety 
+of fellow human beings a part of their daily concern. This responsibility must be accepted by 
+each one who conducts the affairs of the University, no matter in what capacity he/she may 
+function. 
+
+In order to implement this policy, the rules and regulations given in this manual shall be 
+complied with by all University personnel. Assistance with specific health and safety problems 
+may be obtained from the University Department of Health and Safety. 
+
+ 
+
+ 
+ 
+
+DEFINITION OF ABBREVIATIONS; 
+DEFINITION OF ABBREVIATIONS 
+
+ACGIH    American Conference of Governmental Industrial Hygienists.
+ANSI    American National Standards Institute 
+ATF     Alcohol, Tobacco and Firearms Regulations 
+CFR    Code of Federal Regulations. 
+DHS    University Department of Health and Safety. 
+DOT    U.S. Department of Transportation. 
+EPA    U.S. Environmental Protection Agency. 
+LD 50    Lethal Dose for 50% of those exposed. 
+MHWM    Mississippi Hazardous Waste Management Regulations. 
+MSDS    Material Safety Data Sheet. 
+
+. 
+
+ 
+ 
+
+1. INTRODUCTION; 
+
+This manual contains regulations and procedures specific to the use of hazardous materials at the 
+Oxford Campus and Lafayette county properties of The University of Mississippi, hereafter 
+referred to as the Oxford campus. It is not intended to be exhaustive, and individual laboratories 
+may have specific safety concerns or problems which are not covered. This manual should be 
+considered a minimum requirement for a laboratory safety program. In general, specific federal 
+and state regulations are not restated. However, all such regulations are assumed to be applicable 
+and binding on personnel working with or using hazardous chemical materials at this University. 
+Every laboratory worker is required to read this manual and to complete the chemical safety 
+training program prior to beginning any work with chemicals. 
+
+
+
+The University of Mississippi 
+
+Page 4 of 32 
+
+These regulations and procedures apply to and are binding on all persons who receive, possess, 
+use or dispose of hazardous chemical materials on the Oxford Campus of The University of 
+Mississippi. 
+
+Safe work practices are expected of all personnel and students at The University of Mississippi. 
+The procedures and policies in this manual have proven effective over the past several years 
+when followed. All employees and students are responsible for following safety policies in their 
+work areas, and insuring that these regulations are followed by others. It is not the intent of these 
+regulations to affect either the quality, the quantity or the freedoms normally associated with 
+research or with teaching. Nor is it the intent of these regulations to be rigid or inflexible. Certain 
+endeavors may require that exemptions to the regulations be made in order to foster scientific 
+undertakings. The University is willing to hear specific concerns as they arise and to assist 
+personnel involved with these chemical operations in tailoring procedures that will meet the 
+spirit of these regulations while adequately protecting personnel, the University and the 
+environment from unnecessary hazards. 
+
+Personnel are expected to bring safety concerns to the attention of their supervisors or their 
+departmental safety committee. If additional assistance is needed with a problem, contact the 
+Department of Health and Safety (DHS). The situation will be investigated and appropriate 
+action recommended where required. 
+
+Information is available from the DHS on the development of specific safety programs for 
+hazardous operations not covered in this manual. Additional information on topics in this manual 
+is also available from the DHS. Slide and video cassette programs covering a variety of specific 
+safety topics are also available from the Department of Health and Safety. 
+The University is committed to working towards providing a safe work environment free from 
+recognized hazards. If everyone cooperates, significant progress can be made in this area, and 
+The University of Mississippi can become a safer place in which to work.  
+
+2. LAWS AND REGULATIONS; 
+
+STATE AND FEDERAL REGULATIONS; 
+Some of the state and federal regulations (it should be noted that federal and state regulations are 
+continually being modified and updated) and guidelines applicable to The University of 
+Mississippi in the area of Chemical Safety are the following: 
+
+A. "The Resource Conservation and Recovery Act", Public Law 94-580, October 21, 1976. As 
+amended by the "Quiet Communities Act" of 1978; "Solid Waste Disposal Act" of 1980; 
+"Comprehensive Environmental Response, Compensation and Liability Act" of 1980, and "The 
+Superfund Amendments and Reauthorization Act of 1986". 
+
+B. "Environmental Protection Agency", Code of Federal Regulations, 40, Parts 100 to 149, and 
+49, Parts 190 to 399, current revision. 
+
+C. "Department of Transportation", Code of Federal Regulations, 49, Parts 100 to 177, current 
+revision. 
+
+
+
+The University of Mississippi 
+
+Page 5 of 32 
+
+D. Mississippi Hazardous Waste Management Regulations, Mississippi State Board of Health, 
+current revisions and amendments. 
+
+3 UNIVERSITY DEPARTMENT OF HEALTH AND SAFETY; 
+
+3.1 RESPONSIBILITIES AND AUTHORITY; 
+
+The Department of Health and Safety will be responsible to the Chancellor of the University for 
+compliance with and enforcement of the U. S. Environmental Protection Agency (EPA) 
+regulations; the U. S. Department of Transportation (DOT) regulations; and the Mississippi 
+Hazardous Waste Management (MHWM) regulations on the Oxford campus of The University 
+of Mississippi. Specific responsibilities and authority are delineated under the items listed below. 
+
+A. Chemical Responsibilities: 
+
+1. Responsible for control and disposal of all hazardous chemical substances. 
+2. Authority to inspect all areas of the campus for violations of federal and state laws governing 
+the safe use and disposal of all hazardous chemical materials. 
+3. Authority to implement controls for the use and disposal of all hazardous chemical materials. 
+4. Responsible for providing safety information concerning hazardous chemical materials to all 
+University personnel. 
+5. Responsible for providing the required chemical safety training. 
+
+B. Enforcement Authority: 
+1. The University Department of Health and Safety will have the authority to enforce compliance 
+with the regulations referenced in section 2.1, and other applicable safety regulations for all 
+segments of the Oxford campus. 
+2. In the event of major noncompliance, action will be taken only after consultation with the 
+Chancellor's office, unless there is an immediate danger to the health of personnel or an 
+immediate danger to University property. 
+3. Remedial actions required by this office may be appealed to the Chancellor for a final 
+decision. 
+4. The Chancellor of the University will have final authority and responsibility in these areas. 
+
+C. Emergency Authority: 
+
+In the event of an emergency, the Health and Safety Officer of the Department of Health and 
+Safety and in his absence the Chemical Safety Coordinator have the authority to commit any and 
+all University Resources necessary to carry out the University Contingency Plan. 
+
+D. Exceptions to Regulations: 
+
+The Health and Safety Officer of the Department of Health and Safety is the only person 
+delegated by the Chancellor to make exceptions to the regulations and procedures given in this 
+manual. 
+
+
+
+The University of Mississippi 
+
+Page 6 of 32 
+
+3.2 ORGANIZATION;  
+
+The University Department of Health and Safety is located in the Health and Safety Building. 
+The following is a list of Personnel and their areas of responsibility in this office. 
+
+Mr. Edward M. Movitz, 
+Health and Safety Officer  
+915-5433 
+movitz@olemiss.edu 
+
+Mr. W. Scott Rone,  
+Radiation Safety Coordinator  
+915-5433 
+srone@olemiss.edu 
+
+Mrs. Suzanne Irby 
+Senior Staff Assistant 
+915-5433 
+sue@olemiss.edu 
+
+Mr. Shane Kesler 
+Environmental Health and Safety Specialist 
+915-5433 
+skesler@olemiss.edu 
+
+4. RIGHT TO KNOW; 
+
+4.1 RIGHTS; 
+
+Employees are guaranteed the following rights with regard to toxic substances: 
+
+A. Right to know the identity of toxic substances encountered during the course of their 
+employment. 
+
+B. Right to refuse to work with a toxic substance, if information about it is not provided within 5 
+working days after filing a written request with the University Department of Health and Safety. 
+
+C. Right to refuse to work with a toxic or hazardous substance if proper safety equipment or safe 
+guards are not provided by the University. 
+
+D. Right to training within 30 days of employment (annually thereafter) in the safe use of any 
+hazardous material encountered in the course of their employment. 
+
+E. Right to training when a new hazard is introduced into the workplace. 
+
+
+
+The University of Mississippi 
+
+Page 7 of 32 
+
+F. Right to protection against discharge, discipline, or discrimination as a result of exercising any 
+of the above rights. 
+
+4.2 SERVICES TO PROTECT RIGHTS; 
+
+In order to insure that employees' right to know is protected, the Department of Health and 
+Safety will provide the following services: 
+
+A. Material Safety Data Sheets 
+
+The Department of Health and Safety will maintain a Material Safety Data Sheet (MSDS) on all 
+hazardous or toxic materials in use on the Oxford campus. The MSDS will contain the following 
+information: 
+1. The chemical and/or common name of the substance; 
+2. The physical and chemical characteristics of the material; 
+3. The known acute and chronic health risks; 
+4. The primary routes of entry and symptoms of exposure; 
+5. The proper precautions, handling practices, protective equipment, and other safety procedures 
+used to limit potential exposure to toxic or hazardous materials; 
+6. Emergency treatment for overexposure; 
+7. Emergency procedures for spills, fire, and disposal; 
+8. A description in common language of the known specific potential health risks posed by the 
+toxic substance. 
+
+Copies of the MSDS are available from the Department of Health and Safety. It is the 
+responsibility of individual supervisors to request this information.  
+
+B. Safety Training 
+
+The following safety training requirements apply to faculty, staff and graduate students working 
+with chemical materials on the Oxford Campus. These training requirements will also apply to 
+undergraduate students when they are working in these areas in other than a regularly scheduled 
+University course. Use of any of the materials listed below requires the signing of the appropriate 
+"Safety Agreement" form. 
+
+GENERAL CHEMICAL SAFETY TRAINING: All faculty, staff and graduate students working 
+with chemicals on the Oxford campus are required to take the chemical safety training program 
+and to pass a written examination on chemical safety. Annual retraining is not required. A 
+special safety training program is required for Physical Plant Personnel 
+
+CARCINOGENIC SAFETY TRAINING: All University personnel and all students are required 
+to have special safety training in the handling and use of carcinogenic materials and written 
+authorization prior to starting any work with carcinogenic compounds. A laboratory with a Class 
+II or better Fume Hood is required for the handling of carcinogenic materials. A pre-requisite to 
+this training is completion of the General Chemical Safety Training. Application to use 
+
+
+
+The University of Mississippi 
+
+Page 8 of 32 
+
+carcinogens is made through the Department of Health & Safety. Annual retraining is not 
+required for continued authorization. 
+
+5. CHEMICAL SAFETY;  
+
+This portion of the manual is concerned with the procurement, use and disposal of hazardous 
+chemicals on The University of Mississippi, Oxford Campus. All applicable regulations are not 
+reprinted here, only those regulations which are relevant to the University community with 
+regard to hazardous chemical substances. 
+
+5.1 SCOPE OF REGULATIONS;  
+
+The regulations and procedures set forth below apply to all persons who procure, receive, 
+possess, use, generate, or dispose of hazardous chemicals on The University of Mississippi, 
+Oxford Campus. 
+
+5.2 HAZARDOUS CHEMICALS; 
+
+A laboratory worker may be faced with many different types of hazardous materials. The 
+substances with which they work may be ignitable, corrosive, reactive, toxic, carcinogenic, 
+biologically active or radioactive. Effects of exposure to these materials may lead to an array of 
+effects, some immediate, such as loss of sight, or effect which do not become obvious for a 
+period of time, such as reduced fertility or cancer. Chemicals constitute a major concern for 
+laboratory personnel. 
+
+THE TRANSPORTATION OF HAZARDOUS MATERIALS IN PERSONAL VEHICLES IS 
+PROHIBITED. THE UNIVERSITY WILL NOT TAKE RESPONSIBILITY FOR PERSONS 
+WHO CARRY HAZARDOUS MATERIALS IN VEHICLES NOT OWNED OR OPERATED 
+BY THE UNIVERSITY. 
+
+A hazardous chemical is one that poses a danger to human health or to the environment, if 
+improperly handled. The EPA has divided hazardous chemicals into several categories, including 
+: 
+
+A. Ignitable Materials  
+These materials give off heat, smoke, soot and may disperse toxic pollutants and by-products 
+into the air. They generally have a Flash Point below 60 deg. C (140 deg F). Examples are 
+Gasoline and Isopropyl Alcohol. 
+
+B. Corrosive Chemicals  
+These materials can cause injury to the skin or body, or destroy their own containers or other 
+materials and be released into the environment. They generally have a pH below 2 or above 12.5. 
+Examples are Nitric Acid and Sodium Hydroxide. 
+
+C. Reactive Chemicals 
+These materials can detonate, explode or give off poisonous gases when exposed to light, air, 
+
+
+
+The University of Mississippi 
+
+Page 9 of 32 
+
+water or other materials. This category also includes oxidizers, cyanides and sulfides. An 
+example is Sodium metal. 
+
+D. Toxic Chemicals  
+These materials can cause serious illness or death from exposure by inhalation, ingestion or 
+absorption through the skin. The quantity of a substance necessary to kill 50 % of an exposed 
+animal population in laboratory tests within a specified period of time is called an LD50. The 
+EPA definition of a toxic chemical is a materials that possesses an LD50 Rat(orally) < 50 
+MG/KG, an LD50 Rat (inhalation) < 200 ppm, or an LD50 Rabbit (dermally) < 200 MG/KG. An 
+example of this type of material is Lead Acetate. 
+
+E. Listed Waste 
+Materials regulated by the US EPA as a hazardous waste. 
+
+F. Listed Constituent 
+Materials regulated as hazardous based upon component or constituent levels. 
+Any material which possesses one or more of the above characteristics is considered hazardous 
+by the EPA, the State of Mississippi, and for the regulatory purposes of this manual.  
+
+G. Investigational Compounds and Research Materials. These materials, commonly handled in 
+research laboratories may include Novel / Synthetic Compounds, Extracts, Diagnostic 
+Specimens, or compounds of undetermined toxicity. Always follow established laboratory 
+procedures and techniques, and use appropriate protective equipment while using these 
+materials. Treat all unknown compounds and investigational materials as toxic. 
+
+5.3 PROCUREMENT OF HAZARDOUS CHEMICALS;  
+
+Federal and State laws require that a record of the procurement of all chemicals coming on the 
+Oxford Campus of The University of Mississippi be maintained as part of the "cradle to grave" 
+reporting requirements of the regulations set forth in section 2.1 A. Chemicals may be acquired 
+either by purchasing them or, in some instances, by having materials given to the user for free.  
+
+A. Purchases 
+
+A copy of the receiving reports of all chemicals procured through the University Purchasing 
+Department will automatically be sent to the Department of Health and Safety by the Purchasing 
+Dept. No special action is required on the part of the user. 
+
+B. Gifts  
+
+All significant quantities of chemicals which are received by departments, laboratories, or 
+individuals, i.e., free samples, gifts of chemicals, etc. which are not handled through the 
+Purchasing Department, require prior approval from the Department of Health and Safety before 
+they are accepted by the person or department receiving the material(s). Notification of 
+Procurement is to be accomplished by completing form DHS-5 (available from the DHS) and 
+sending the completed form to the Department of Health and Safety. 
+
+
+
+The University of Mississippi 
+
+Page 10 of 32 
+
+The DHS will record information concerning chemicals (chemical name, quantity, date of 
+receipt, etc.) and enter it into a computer database used to monitor the procurement of chemicals 
+at the University. No action is necessary for materials produced (synthesized) at the University. 
+
+5.4 RESTRICTED MATERIALS; 
+
+Certain materials pose unusual hazards and as a result will have additional restrictions placed 
+upon their purchase and use. In some situations it may be necessary to cancel the purchase or 
+otherwise delay the use of these materials until adequate facilities and/or personnel resources can 
+become available for the particular material. The following are the materials that are 
+RESTRICTED MATERIALS on the Oxford campus together with the specific regulations 
+dealing with their purchase and use. 
+
+A. Carcinogens  
+
+Materials on the "LIST OF CARCINOGENS", are strictly regulated by the Department of Health 
+and Safety. The current list is available from DHS at 5433. The purchase and use of these 
+materials are governed by the following regulations: 
+1. All faculty, staff or graduate students who order or use these materials must complete Form 
+DHS-81, "Application to Use Carcinogens", in the Appendix. Approval of the Chancellor of this 
+application is required before these materials can be used. 
+2. The work areas in which these materials are used or stored must be approved by the 
+Department of Health and Safety. 
+3. The work areas and storage areas for these materials must be posted as to the presence of 
+carcinogens. 
+
+B. Perchloric Acid  
+
+Perchloric acid can become an extremely dangerous material if used incorrectly, and under a 
+variety of conditions, e.g. heating, dehydration, combination with organic materials, and shock. 
+As a result, The following regulations must be adhered to : 
+
+The purchase of this material in 72 % or greater concentration will require the prior approval of 
+the Department of Health and Safety. Approval to use this material will require the submission of 
+Form DHS-26, Appendix B, together with the Purchase Requisition to the Department of Health 
+and Safety. Following approval by this office, the Purchase Requisition will be forwarded to the 
+Purchasing Department. The Purchasing Department will not accept Purchase Requisitions for 
+this material without the approval of the Department of Health and Safety 
+
+C. Radioisotopes  
+
+See the current University Radiation Safety Manual. 
+
+D. Cyanide Compounds  
+
+
+
+The University of Mississippi 
+
+Page 11 of 32 
+
+Many cyanide compounds are extremely poisonous, and most have the ability to undergo 
+chemical reactions which may result in a release of toxic vapors. In many instances, these vapors 
+are undetectable by taste or by odor. Therefore, approval is required for processes or experiments 
+involving cyanide containing compounds. Written protocols must be submitted to Health and 
+Safety prior to starting any work with cyanides. DHS may require additional safety measures, 
+monitoring equipment, supplies, and/or training.  
+
+E. Explosives 
+
+All purchases and gifts of explosive materials, including all multi-nitrated materials, must be 
+coordinated through DHS prior to purchases or receipt. Explosive materials located at the 
+University are subject to immediate removal by DHS unless written authorization from the 
+Health and Safety Officer is immediately available at the materials location. 
+
+5.5 CHEMICAL SAFETY IN THE WORKPLACE; 
+
+The way that a research project is conducted in a laboratory is an important factor in laboratory 
+safety. It is the factor which can be affected most by the attitude of personnel in a laboratory. For 
+a workplace to be safe, everyone must be supportive of, and take responsibility for, laboratory 
+safety - for themselves and their co-workers. Failure to observe regulations, could lead to 
+disciplinary action under employee standards as well as state and federal regulations. 
+
+A. Departmental Safety Committee 
+
+Every department with chemical laboratories, or operations involving the use of chemicals, shall 
+establish a chemical safety committee, or appoint an individual, to be responsible for safety 
+programs within the department. The committee shall be responsible for: 
+1. Developing a safety program for the department which includes the procedures outlined in this 
+manual plus additional procedures as needed to meet the particular needs of the department; 
+2. Resolving safety problems within the department, when possible, and  
+3. Acting as a liaison between the department and the DHS. 
+
+B. Laboratory chain of command 
+ 
+Post phone numbers for the laboratory chain of command within the laboratory and in the 
+departmental office for emergency use.  
+
+C. Planning 
+ 
+Appropriate planning can substantially reduce the risks associated with using chemicals. When 
+planning out a research program or classroom related projects, many factors should be 
+considered in addition to whether or not a specific material will serve a desired purpose. These 
+factors may include, but are not limited to : 
+1. Does the specific material pose any special hazards ? 
+2. Are there alternative materials or procedures which can be utilized ? 
+3. Have all personnel involved in the project been informed of the potential risks ? Have they 
+
+
+
+The University of Mississippi 
+
+Page 12 of 32 
+
+agreed to participate and accept the risks ? 
+4. Will specialized training be necessary, and if so, who will do it and what areas will be 
+addressed ? 
+5. Will the use of specific materials require additional protective equipment ? Are funds 
+available to provide this equipment ?  
+6. Will the planned research require upgrading of existing facilities ? Are funds available for 
+renovations ? 
+7. How much material is necessary ? Are storage facilities adequate ?  
+8. Does the substance degrade rapidly ? Can amounts be kept on hand which will be utilized 
+quickly ?  
+9. What quantities of hazardous wastes will be generated by the project ?  
+10. Will the disposal of waste products or reagents pose particular problems ? 
+11. Will the cost for the disposal of waste products exceed the amount funded for the research ?  
+
+If the answer to any of the above questions is yes, it would be prudent to consult the DHS prior 
+to the start of a research project. Discussion with the DHS prior to the start of a project may 
+reduce or eliminate potential problems before they occur. 
+
+For academic programs, the responsible person should consult the DHS for assistance. 
+
+D. Procedures and Accident Prevention  
+
+Although accidents can occur during the acquisition process and while chemicals are in storage, 
+the most likely time for them to happen is while chemicals are being handled and used. No 
+manual intended to cover all the laboratory operations at a major research institution can cover 
+every procedure and every precaution which might be involved.  
+
+1. It is the responsibility of immediate supervisors as well as department heads to insure that 
+personnel working for them are fully informed with regard to the procedures for safe handling 
+and use of hazardous chemicals. 
+2. Material Safety Data Sheets (MSDS) which provide all necessary information in this regard 
+are available from the Department of Health and Safety, Room 200, Old Power Plant, 915-5433. 
+Additional information should be sought from the laboratory supervisor, the departmental safety 
+committee, instruction manuals, the labels on chemical containers, or from the DHS at 5433. 
+3. There are basically two different types of risks which will be involved in laboratories, physical 
+injuries such as would result from fire or explosion and health related problems. Good work 
+practices will minimize the likelihood of both types of problems. Among recommended practices 
+are: 
+a. Plan the work carefully. Analyze for possible failures and consider the consequences. 
+b. Make sure the right equipment is available and is in good condition. 
+c. If a system is involved, make sure it is assembled solidly. 
+d. If a release of toxic fumes may occur, the work must be done in a hood. 
+e. An explosion shield is required if an explosion or a runaway reaction is possible. 
+f. Do not hurry unnecessarily or compromise on safety. Preferably, no one should work alone or, 
+at a minimum, without someone else being aware of their activity and checking occasionally. 
+g. Wear appropriate clothing and personal protective equipment. 
+
+
+
+The University of Mississippi 
+
+Page 13 of 32 
+
+h. Good housekeeping is always conducive to safety. 
+I. Finally, know all of your safety procedures. 
+
+E. Laboratory Organization 
+
+The space within a laboratory should be organized as much as possible to separate areas of high 
+and low risk activities. It should not be necessary to pass through high risk areas routinely or, in 
+the event of an emergency, escape routes should always be placed through the safest areas within 
+the laboratory. Traffic flow should be minimized in the vicinity of equipment which involves 
+generation of fumes, ( fume hoods, distillation units, etc.), where air disturbances may cause 
+fumes to be dispersed. Flammable materials should be separated as much as possible from 
+sources of ignition, such as Bunsen burners. Safety showers and eyewashes should be readily 
+accessible from every point within the laboratory. 
+
+F. Safety Equipment 
+
+It is the responsibility of individual work units or departments to provide any safety equipment 
+necessary to use a given hazardous chemical. It is the duty of unit supervisors to insure that 
+safety equipment is used properly. These items may include, but are not limited to, fumehoods, 
+gloves, safety glasses, respirators, etc. The University Department of Health and Safety should 
+be contacted for advice in this regard. 
+
+G. Accidents 
+
+Accidental spills, injury of personnel, or releases to the environment involving a hazardous 
+chemical must be reported immediately to the University Department of Health and Safety. 
+Within three (3) working days, form DHS-3 must be completed and filed with the University 
+Department of Health and Safety. Guidelines for chemical spills and other emergencies are given 
+in Sections 6 and 7 below. 
+
+H. Eating, Studying and Other Social Activities 
+
+It must be recognized that in the absence of a convenient, nearby area specifically set aside for 
+eating, studying, and other social activities, that the laboratory area will be used for these 
+purposes. An area within the laboratory may be set aside and clearly defined where these 
+activities are permissible and these activities must be strictly prohibited outside this area. An 
+educational program, based on the actual risks within the laboratory, should be established by the 
+laboratory supervisor and reviewed with each new employee and graduate student. The actual 
+use of the laboratory for these purposes should be discouraged as much as possible. In certain 
+high risk facilities, such uses must, in fact, be prohibited and alternative convenience areas 
+established. Examples of such high risk areas would be carcinogenic research laboratories, 
+biological research laboratories and radiological laboratories. Under no circumstances are eating 
+or drinking to be allowed in undergraduate academic laboratories or work areas which use 
+chemicals or hazardous materials. 
+
+ 
+
+
+
+The University of Mississippi 
+
+Page 14 of 32 
+
+I. Contact Lenses  
+
+The use of contact lens has certain advantages in many situations outside of the laboratory. 
+However, in wet chemistry laboratories, or wherever the likelihood exists of chemical injury to 
+the eyes, contact lenses may pose additional problems should chemicals get into the eyes. This is 
+due to the fact that chemicals are drawn under the lenses by capillary action. This action 
+increases the risk that water from an eyewash fountain could be prevented from reaching the 
+injured area. Therefore, the University has arranged for a series of no-vent goggles (which meet 
+ANSI Z87.1-1979 standard)to be available for purchase at the bookstore which will satisfy the 
+safety equipment requirements of section 5.5 F (Safety equipment) while allowing for the use of 
+contact lenses by persons in laboratories using or storing chemicals. In the event that these 
+specific goggles or their no-vent equivalent are not utilized, the use of contact lenses by persons 
+in laboratories using or storing chemicals will be forbidden. 
+
+J. Children and Hazardous Chemicals  
+
+Children, i.e., those under the age of 16, are prohibited from being in, touring, or visiting, any 
+area where hazardous materials are used or stored. 
+
+5.6 STORAGE OF HAZARDOUS CHEMICALS; 
+
+Chemicals must be identified and stored properly to avoid unwanted reactions, and to reduce 
+risks to response personnel during emergency situations. 
+
+A. Definition of Chemical Storage  
+
+The storage of chemicals implies the accumulation or retention of chemical substances for use in 
+other than current activities.  
+
+B. Labeling  
+
+Prior to storing a chemical, it must be properly labeled. Often the label provided by the 
+manufacturer or distributor will include most of the required information. However, in some 
+cases, laboratory or stockroom personnel must provide additional information to a label, e.g., the 
+dating of an ether container. If the manufacturer's label is found to be inadequate, laboratory 
+personnel should take time to add the extra information to a label, as necessary. Additional 
+information on container labeling can be obtained from the DHS. 
+The chemical label should include a minimum of the following information : 
+1. The chemical name of the material. 
+2. The date received or produced (to be added by the user). 
+3. Hazardous properties such as flammability, reactivity, corrosiveness, toxicity, etc.. 
+4. Additional safety information or precautions such as use in hoods, protective equipment 
+recommended, etc.. 
+
+Additional optional information may include fire fighting equipment or first aid measures. 
+Additional information can be acquired as necessary from the DHS. 
+
+
+
+The University of Mississippi 
+
+Page 15 of 32 
+
+C. Stockroom Storage 
+ 
+Stockroom personnel will be required to: 
+1. Date all chemicals, 
+2. Separate incompatible materials, i.e., store chemicals in accord with the compatibility chart, 
+Tale 1 in the Appendix, 
+3. Keep a separate record of time-limited chemicals,(Ethers, etc.), 
+4. Reduce unnecessary storage of chemicals that may deteriorate, and 
+5. Maintain reagent labeling and container integrity. 
+
+D. Laboratory Storage and Individual Requirements  
+
+Individual users and laboratories which store chemicals will be required to label all chemical 
+containers as to: 
+1. Chemical composition, or an appropriate lab notebook reference number if the exact 
+composition has not been determined. 
+2. Date the substance was made or the container filled, 
+3. Laboratory or responsible person, and, 
+4. Store chemicals in accordance with the compatibility chart in Appendix A. 
+
+E. Storage Cabinets  
+
+Maximum storage limits for flammable liquids in approved safety cabinets are sixty (60) gallons 
+of liquids with a flash point less than 140 deg. F and 120 gallons of liquids with a flash point 
+greater than 140 deg. F. Storage cabinets should, but are not required, to be vented. 
+
+F. Refrigerated Storage  
+
+Standard refrigerators and freezers must not be used for the storage of flammable liquids. The 
+vapors collected in these confined spaces represent a major explosion hazard if ignition occurs. 
+Ether, for example, will ignite at temperatures below minus 40 deg. C. A normal refrigerator has 
+several components which will generate sparks including the light switch and the thermostat. 
+Self defrosting models frequently have a drain hole in the bottom which may allow the vapors to 
+be ignited by the compressor motor. 
+
+The following refrigerators are acceptable for the storage of flammable substances : 
+1. "Flammable Storage" refrigerators and freezers which have been modified inside the 
+refrigerator (this can be done by Physical Plant), and 
+2. "Explosion Proof" refrigerators and freezers which, in addition to protecting against 
+flammable vapors inside the unit, are designed to operate in atmospheres where excessive 
+concentrations of flammable vapors are expected to be present. These units must be permanently 
+wired into the laboratory. The extra protection afforded by explosion proof refrigerators and 
+freezers is not required for solvent storage under normal laboratory conditions. These units 
+would be of little additional value unless all sources of ignition were eliminated from the room. 
+
+ 
+
+
+
+The University of Mississippi 
+
+Page 16 of 32 
+
+G. Food Storage 
+
+STORAGE OF FOOD IN REFRIGERATORS INTENDED FOR LABORATORY USE, 
+INCLUDING STORAGE OF CHEMICALS, FLAMMABLE MATERIALS, ETC., MUST 
+NEVER BE USED FOR THE STORAGE OF FOOD PRODUCTS BY LABORATORY 
+PERSONNEL ! 
+
+H. Gas Cylinders  
+
+1. High pressure cylinders (>240 psig)  
+High pressure cylinders are extremely dangerous, even if the gas is not reactive. A ruptured 
+cylinder or one with a broken valve will emit the released gases at high velocities with great 
+force, converting the cylinder into  
+the equivalent of an uncontrollable rocket. 
+
+The following requirements must be adhered to in order to safely store and transport high 
+pressure gas cylinders: 
+a. Safe cylinder storage areas must be provided which cannot be in stairwells or within a required 
+exit corridor. 
+
+b. All cylinders must be secured by chains or straps in an upright position at all times so that they 
+cannot fall. 
+c. Manual transportation of cylinders must always be done with a cylinder cart or similar hand 
+truck on which the cylinders are securely fastened with a strap or chain. They are never to be 
+lifted by the valve protection cap or dragged, rolled, slid, dropped or permitted to strike hard 
+objects or another cylinder. 
+d. Cylinders must not be used without a regulator valve. 
+e. Cylinders not in use must have the valve protection cap in place. The cap must be securely 
+attached and screwed on. 
+f. Empty cylinders should be segregated and marked "EMPTY" or "MT" 
+g. Never lay a cylinder down as the top valve may be damaged. 
+
+2. Low pressure gas cylinders (< 240 psig)  
+Low pressure cylinders should be handled, stored and used with the same care as high pressure 
+cylinders. A regulator is suggested for all cylinder applications, however, some procedures 
+involving low pressure cylinders will not require the use of a regulator. These applications 
+should be reviewed by Health and Safety prior to a project start. Acceptability of a procedure 
+involving the use of a low pressure cylinder without a regulator will depend upon several factors 
+including, but not limited to: 
+a. Is the apparatus capable of withstanding the full pressure of the cylinder should the entire 
+contents uncontrollably pour in, and, 
+b. Is the ventilation system available capable of removing hazardous vapors from the work area 
+efficiently enough to prevent personnel injury should the cylinder release too much gas either too 
+quickly or at too high a pressure. 
+
+ 
+
+
+
+The University of Mississippi 
+
+Page 17 of 32 
+
+5.7 SPECIAL STORAGE REQUIREMENTS; 
+
+A. Ethers 
+
+In addition to being flammable, explosive peroxides may be formed in ethers that have been 
+stored for a long period of time. A minor shock, such as the twisting off of the top, may be 
+sufficient to detonate the material. Peroxide formation is also increased by exposure to light and 
+contact with air. 
+
+Ethers should, therefore, be ordered in small quantities so that the material is used quickly, the 
+container must be dated when received, and discarded through the DHS after six (6) months from 
+the date the material is opened. Unopened containers should be discarded twelve (12) months 
+after the material is received. 
+
+Table 2 in the Appendix lists some of the more common materials which have been known to 
+form peroxides. For additional information on materials which may form peroxides, contact the 
+DHS at 5433. 
+
+Although ethers should definitely be discarded once they have aged past the acceptable time 
+limits outlined above, it is both prudent and appropriate to test these materials periodically for 
+the presence of peroxides. 
+
+To test for peroxides, shake 10 ml. ether with 1 ml. 10 %Potassium Iodide in a small glass 
+stoppered cylinder of colorless glass that is protected from light. View the mixture against a 
+white background. The absence of any color in either layer indicates that no peroxides are 
+present. IF YOU HAVE ANY DOUBTS CONCERNING THE SAFETY OF A MATERIAL, 
+DO NOT ATTEMPT TO TEST THE MATERIAL. IMMEDIATELY CONSULT WITH THE 
+DHS FOR ASSISTANCE OR INFORMATION. 
+
+B. Flammable Liquids  
+Flammable and combustible liquids must be stored in appropriate containers according to their 
+characteristics. 
+
+Table 3 in the Appendix lists the maximum size containers to be used for the storage of 
+flammable liquids. Larger sizes may be stored if the material is housed in approved safety cans 
+or DOT approved shipping containers. 
+
+Within a laboratory, the maximum amounts of flammable liquids that may be stored outside of 
+approved safety containers or storage cabinets are as follows : 
+
+RESEARCH LABORATORIES 
+
+10 GALLONS OF FLAMMABLE LIQUIDS or, 
+ 
+
+20 GALLONS OF COMBINED FLAMMABLE AND COMBUSTIBLE LIQUIDS 
+
+
+
+The University of Mississippi 
+
+Page 18 of 32 
+
+TEACHING LABORATORIES 
+
+ 
+5 GALLONS OF FLAMMABLE LIQUIDS or 
+
+ 
+10 GALLONS OF COMBINED FLAMMABLE AND COMBUSTIBLE LIQUIDS 
+
+ 
+Exceptions may be made, on a case by case basis, in areas that house several research 
+laboratories in one large area. 
+
+Any amount of flammable and combustible liquids in excess of the above stated amounts must 
+be stored in either approved storage cabinets, storage rooms, or approved safety cans. Bulk 
+quantities of flammable liquids in thirty (30) or fifty five (55) gallon drums are only permitted in 
+storage areas equipped with explosion-proof electrical wiring. 
+
+Flammable liquids in a laboratory should not be stored between the normal work area and an exit 
+from the laboratory.  
+
+C. Perchloric Acid  
+
+Perchloric acid is an extremely corrosive agent that requires special precautions. It becomes 
+explosive under a variety of conditions, such as heating, dehydration, combination with organic 
+material, and shock. Due to these hazards, approval from the DHS is required before Perchloric 
+acid in concentrations greater than 72 % can be purchased.  
+
+Prior to working with Perchloric acid, an individual should thoroughly review the procedures to 
+be followed and the risks posed by its use. An excellent reference on the risks is the CRC 
+Handbook of Laboratory Safety, 3rd Edition. 
+
+Any procedures which involve heating of Perchloric acid must be carried out in a specially 
+designed and dedicated Perchloric acid fume hood. These hoods include a wash down system, a 
+vertical duct system without organic materials used at the joints, and an exhaust duct which 
+exhausts fumes well above the roof top. 
+
+If concentrations above 85% are to be used, protection in addition to that normally used for acids 
+must be used. This protection must include thick gauntlets, a face shield and an explosion shield 
+within the hood. A second informed person should be available nearby to provide routine and 
+emergency assistance. 
+
+Unused Perchloric acid should be disposed of through the DHS as the material becomes more 
+unstable with time. Discoloration of anhydrous Perchloric acid indicates that immediate disposal 
+is needed. 
+
+ 
+
+ 
+
+
+
+The University of Mississippi 
+
+Page 19 of 32 
+
+D. Reactive Materials  
+
+Sodium, potassium, and phosphorous react vigorously with water or with humidity in the air and 
+must be kept in oil filled containers which protect them from such exposure. If the materials are 
+inadvertently exposed to moisture, excessive heat can be generated which could cause a fire, or 
+within a confined space, an explosion due to high pressures. Laboratories in which reactive 
+metals are used should be provided with class D fire extinguishers. Work using these materials 
+should be within a fume hood behind an explosion shield. Personnel should wear safety goggles 
+or a face shield and heavy gloves when working with reactive materials. 
+
+E Explosives  
+
+Explosives shall not be stored in laboratories under normal circumstances. However, where 
+storage of explosives is necessary, they shall be stored in magazines according ATF Regulations, 
+27 CFR 55. Call the DHS at 5433 for details.  
+
+F. Gasoline  
+
+In accordance with applicable federal regulations, the storage of gasoline in any building on the 
+Oxford campus is strictly forbidden.  
+
+5.8 DISPOSAL OF HAZARDOUS CHEMICALS; 
+
+The disposal of hazardous chemicals is strictly regulated under the Resource Conservation and 
+Recovery Act, the Mississippi Hazardous Waste Management Regulations, and the EPA 
+regulations CFR 40, parts 100 - 399. Chemicals must be disposed of only through the 
+Department of Health and Safety. This will normally be done at no cost to the generator if the 
+following procedures are strictly adhered to. Individuals who do not follow procedures in 
+complying with state and federal regulations are individually responsible for possible fines 
+and/or imprisonment. Call the DHS at 5433 when you have waste materials for disposal. Waste 
+Chemicals are normally picked up on Monday and Wednesday, weather permitting. Only the 
+Chemical Safety Coordinator is authorized to pick up waste chemicals. THE TRANSPORT OF 
+WASTE CHEMICALS TO THE DHS FACILITIES BY PERSONS OTHER THAN THE 
+CHEMICAL SAFETY COORDINATOR IS PROHIBITED. 
+
+A. Sewage Disposal  
+
+NO HAZARDOUS CHEMICAL SUBSTANCE SHALL BE DISPOSED OF INTO THE 
+SANITARY SEWAGE SYSTEM, INTO THE ATMOSPHERE, OR INTO THE NORMAL 
+UNIVERSITY TRASH SYSTEM. All chemical waste must be collected in suitable containers 
+as described in Section 5.8.D.1 for processing and disposal by or under the supervision of the 
+Chemical Safety Coordinator. In the event of uncertainty, call the DHS for advice. 
+
+ 
+
+
+
+The University of Mississippi 
+
+Page 20 of 32 
+
+B. Recoverable Materials 
+ 
+Any person or unit wishing to dispose of a chemical must first investigate the possibility of 
+recovery, exchange, or returning the material to stock. 
+
+C. Chemical Exchanges  
+
+Excess, unwanted, or unneeded chemicals in good condition need not be disposed of, if they can 
+be reused. The University Department of Health and Safety has set up a retained-chemical 
+storage area where unwanted or partially used containers of chemicals can be stored, provided 
+they are properly labeled with the chemical name and the identity of the material can be 
+reasonably assured. A list of available chemicals is published periodically by the Department of 
+Health and Safety. This exchange will work provided that: 
+1. The donor of the chemical can give a reasonable assurance of the chemical's identity, 
+2. The recipient accepts full responsibility for the identity and quality of the chemical, and, 
+3. Chemicals that form peroxides or are explosive cannot be exchanged. 
+
+Requests for materials will be taken by phone at 5433. 
+
+D. Request for Hazardous Material Disposal (DHS-4)  
+
+When a chemical cannot be reused or exchanged, then a request for disposal must be filed with 
+the Department of Health and Safety using Form DHS-4. A chemical and physical analysis of the 
+material must be submitted with Form DHS-4. In the event of uncertainty, call the DHS. Pickups 
+of hazardous chemical waste will be accomplished by the Chemical Safety Coordinator. 
+Hazardous chemical waste must be shipped off site within a period of time specified in the most 
+current revisions of the regulations listed in section 2.1 of this manual. 
+
+NO CONTAINERS OF CHEMICAL WASTE WILL BE REMOVED BY THE 
+CHEMICAL SAFETY COORDINATOR UNLESS THEY ARE PROPERLY LABELED 
+ACCORDING TO 5.6.D.1 AND A COMPLETED FORM DHS-4 HAS BEEN FILED AND 
+REVIEWED BY THE DEPARTMENT OF HEALTH AND SAFETY. CHEMICAL 
+WASTE MUST BE NONPATHOGENIC, NONINFECTIOUS, NONEXPLOSIVE, NON-
+COMPRESSED, AND NONRADIOACTIVE. 
+
+1. Containers  
+Chemicals for disposal must be placed in a nonreactive, sealed container with a screw type cap. 
+The exterior of the container must be CLEAN. Containers with cracked or corroded caps will not 
+be accepted. These containers must be conspicuously labeled as follows: 
+a. "WASTE", 
+b. Chemical Name or names, 
+c. Laboratory or Responsible Person, 
+d. Date container was filled or purchased, 
+e. Appropriate hazard warnings (Request MSDS, if needed). 
+
+
+
+The University of Mississippi 
+
+Page 21 of 32 
+
+2. Mixtures  
+Incompatible wastes shall not be placed or mixed in the same container, see the compatibility 
+table in the Appendix for more information. This restriction is intended to prevent any 
+potentially dangerous reaction, explosion, or release of toxic gases, vapors, or fumes during the 
+waste handling process. 
+
+3. Unusual Waste Disposal  
+Explosives, PCB contaminated materials, equipment containing PCBs or any waste possessing 
+unusual disposal problems outside of the normal operations of the University waste management 
+plan will be handled provided that the department submitting the waste will assume financial 
+responsibility for the costs involved. For additional information in this regard, contact the Health 
+and Safety Officer of the Department of Health and Safety, 915-5433.  
+
+4. Unknown Chemical Disposal  
+Disposal of unknown chemicals will be handled by the Department of Health and Safety, on a 
+case by case basis, provided the department submitting the chemicals for disposal are willing to 
+assume financial responsibility for the costs of the analyses required to determine the identity or 
+composition of the material.  
+
+E. Used Motor Oil 
+
+All persons on the Oxford Campus, including the residents of the University operated 
+dormitories and apartments, the Faculty and Staff houses and apartments, and the residents of the 
+Fraternity and Sorority Houses, are now responsible for collecting Motor Oil, and for ensuring 
+proper disposal and handling of this material. The Physical Plant Service Station (915-7304) will 
+collect used motor oil from all campus residents, at no charge. The service station will not pick 
+up used oil. Please call the station or the Physical Plant (915-7051) if you need additional 
+instruction or directions.  
+
+F. Battery Disposal 
+
+Certain types of rechargeable batteries are now regulated as hazardous waste for disposal 
+purposes. The amount of Cadmium in common rechargeable NiCad batteries is causes these 
+items to be regulated as a hazardous waste. The same is true for lithium, lead acid, led-Gel and 
+for mercury batteries. In order to fully comply with applicable regulations, DHS will accept these 
+batteries from all campus sources for proper disposal. Common batteries, and alkaline batteries 
+are to be discarded with normal trash. Vehicle batteries should be delivered to the Physical Plant 
+Service Station. 
+
+G. Chemical Waste Storage Facility  
+
+The chemical waste storage facilities for temporary storage and processing of chemical waste is 
+located behind the University Waste Water Treatment Plant. 
+
+ 
+
+
+
+The University of Mississippi 
+
+Page 22 of 32 
+
+5.9 LABORATORY CLOSE-OUT PROCEDURE;  
+
+Please give a minimum of 30 days notice to the DHS at 5433 before moving or 
+closing out a laboratory. The following items must be evaluated by the DHS during closeout: 
+
+A. Unwanted Chemicals  
+
+Chemicals that are no longer wanted maybe offered for return to campus stockrooms or offered 
+for reuse to other campus laboratories through the chemical exchange. As storage space on the 
+Exchange is limited, your cooperation in promptly notifying the DHS will help with an orderly 
+transfer, and avoid lengthy delays in closing out a laboratory. 
+
+B. Unusable Materials  
+
+Chemicals that cannot be reused by other laboratories must be disposed of in compliance with 
+the regulations set forth under section 5.8 "Disposal of Hazardous Chemicals". Complete 
+identification of waste chemicals is required; analysis of unknowns will be required by the DHS. 
+
+C. Unstable Materials  
+
+Materials which may have become unstable, such as old ethers, must be brought to the attention 
+of the DHS as soon as they are discovered. Arrangements will be made with disposal teams to 
+remove the explosives safely. As these arrangements take time, prompt notification is again 
+emphasized to avoid delays. 
+
+D. Equipment  
+
+Equipment that may build up corrosive deposits, such as Kjeldahl acid digestion units, must be 
+decontaminated before the laboratory is closed out. This applies even if the equipment will not 
+be moved. 
+
+E. Moving  
+
+Prudent practices should be used in transferring hazardous chemicals and materials from one lab 
+to another. Contact the DHS for assistance. 
+
+6. CHEMICAL SPILLS;  
+
+6.1 GENERAL PROCEDURES;  
+
+Minor spills should be cleaned up immediately by laboratory personnel, using a procedure such 
+as those outlined below, providing the material is not immediately dangerous to life and health 
+(IDLH) and equipment is available. Otherwise, evacuate the immediate area. For spills of 
+moderate size, call the DHS at 5433 (days) or 7234 (evenings and weekends). Again assuming 
+the material is not IDLH level, DHS personnel will provide technical assistance and guidance to 
+laboratory personnel in cleaning up spilled materials. For moderate to large spills of ordinarily 
+
+
+
+The University of Mississippi 
+
+Page 23 of 32 
+
+dangerous materials, e.g. acid, etc., evacuate the building, either personally or through the 
+building alarm system, call 5433 to report the incident or call the University Police Department 
+at 7234 and report the incident asking the dispatcher to notify the DEPARTMENT OF HEALTH 
+AND SAFETY. Those involved in the incident are to remain available outside the building to 
+assist the Emergency Response Team. After the initial notification, the laboratory supervisor, 
+and the department head are to be notified. 
+
+In the event of a fire of any but the smallest size, where you are confident that it can be put out 
+without risk of spreading or danger to yourself, call 9-911 and report the fire. The building is to 
+be evacuated. If the fire is in a building that normally houses hazardous materials, the fire 
+department will notify the DHS. 
+
+In the event of an emergency involving personal injury, call 7234 and ask for an 
+ambulance. If an eye injury or skin exposure is involved, assist the injured person to use either an 
+eyewash station or safety shower, or both. For more specific information on chemical exposure, 
+see the applicable sections which follow. Personnel should become familiar with emergency 
+procedures before they are needed. It is suggested that all laboratory personnel familiarize 
+themselves with the proper emergency procedures for those materials with which they work. For 
+additional information, see section 4.2 for requesting a Material Safety Data Sheet (MSDS). 
+
+The following information should serve as a general guide in the event some of the more 
+common emergency situations found in operations involving chemicals and laboratory work. 
+This information is not meant to cover all situations. However, the following steps should 
+provide an acceptable guide to personnel if an emergency should arise: 
+
+A. Stop, Think, Stay Calm! 
+
+Immediately alert your neighbors and your supervisor. 
+
+B. Clothing 
+
+All contaminated clothing must be removed immediately and the skin washed with soap and cool 
+water. Flush skin with cool water for no less than fifteen minutes. Health and Safety should be 
+consulted before contaminated clothing is reused,  
+laundered or discarded. 
+
+C. Can You Clean It Yourself? 
+
+If there is not a fire hazard and the material is not particularly volatile or toxic, clean it up as 
+directed by your supervisor. To facilitate cleaning up liquids, use an absorbent material, 
+preferably one that will neutralize the liquids if possible. Always use appropriate protective 
+equipment as directed by your supervisor, or consult with Health and Safety for additional 
+information or assistance. 
+
+D. Volatile, Flammable, or Toxic Material 
+
+
+
+The University of Mississippi 
+
+Page 24 of 32 
+
+If a volatile, flammable, or toxic material is spilled, immediately warn everyone to extinguish 
+flames and turn off spark producing equipment such as brush-type motors. Shut down all 
+equipment and vacate the room until it is decontaminated. Notify the Hazardous Material 
+Response Team at 5433 (days) or 7234 (evenings and weekends) to supervise the 
+decontamination. The supervisor will be responsible for designating the extent of the proper 
+cleanup procedure. The following substances are very hazardous and cleanup should be handled 
+by the Hazardous Material Response Team: 
+
+Aromatic Amines Bromine  Carbon Disulfide Cyanides   
+
+Ethers   Organic Halides Perchloric Acid Picric Acid 
+
+Avoid skin contact and, to prevent inhalation, wear appropriate breathing apparatus. It has been 
+demonstrated that chemical spills or splashes on clothing allows the materials a greater surface 
+contact area with the skin and facilitates skin absorption. Therefore, spills on the clothing, and 
+even the clothing if necessary, should be immediately removed to prevent skin penetration. 
+
+E. Small Spills 
+
+Many small liquid spills (<100 ML) can be absorbed with paper towels, sand, or an absorbent. 
+However, paper towels can increase the surface area and evaporation, increasing the fire hazard. 
+Most small solid spills can be brushed up and disposed in appropriate solid-waste containers, but 
+care must be exercised to avoid reactive combinations. Don't leave paper towels or other 
+materials used to clean up a spill in open trash cans in the work area, or in any manner which 
+may cause an unnecessary exposure to a fellow employee. Contact the DHS for the proper 
+disposal of all waste chemical materials 
+
+F. Acid Chlorides  
+
+For acid chloride spills use calcined absorbent products, such as Oil-Dri(tm) or Zorb-All(tm), or 
+dry sand. Avoid contact with skin. 
+
+G. Mercury  
+
+Mercury is used in many laboratory instruments, such as thermometers, manometers, and 
+diffusion pumps. One of the most common laboratory accidents is to have a mercury spill. 
+Because of the high toxicity of mercury vapor, spilled mercury should be immediately and 
+thoroughly cleaned up using an aspirator bulb or vacuum device. In these accidents, it is quite 
+easy to exceed the permissible exposure limits of 0.05 mg/cubic meter since mercury has a 
+substantial vapor pressure at room temperature. If not cleaned up promptly, the levels will 
+increase as the mercury becomes divided into smaller and smaller droplets. The DHS should be 
+called at 5433 in the event of an accidental spill if you require either specific instructions or 
+supervision and assistance with a cleanup of spilled mercury. If a mercury cleanup unit is 
+available, become familiar with its location and proper use. Domestic vacuum cleaners must not 
+be used because they will only redisperse mercury aerosols and spread the contamination. 
+
+
+
+The University of Mississippi 
+
+Page 25 of 32 
+
+Mercury vapor monitors are available for determining the effectiveness of the cleanup from the 
+DHS. Notify the DHS if you have waste materials for disposal. 
+
+ 
+
+H. Alkali Metal  
+
+A spill of an alkali metal should be smothered with powdered graphite or Met-L-X(tm) 
+extinguisher. Sodium-potassium alloys (NaK)present even greater hazards than either sodium or 
+potassium alone; strict observation of suppliers' recommendations must be followed. Particles of 
+alkali metal splattered on the skin should be rapidly removed and the skin flushed quickly with 
+cool water. If any metal on the skin becomes ignited, deluge it with large amounts of cold water 
+immediately. 
+
+I. White  (yellow) Phosphorous  
+
+A spill of white (yellow) phosphorous should be blanketed with wet sand or wet absorbent and 
+disposed of by the University Department of Health and Safety. If any white phosphorous is 
+splattered on the skin, flush the skin with cold water and remove adhering phosphorous. Copper 
+sulfate solution provides a visual aid in removing particles because it produces a dark color in 
+contact with elemental phosphorous. 
+
+J. Natural Gas  
+
+Gases are found in virtually every laboratory, even if only in the form of the gas supply for the 
+ubiquitous Bunsen burner. Gas services usually have an odor so that gas leaks are easily 
+detectable. If the odor of gas is clearly detectable, do not make or break any electrical 
+connections, such as using a light switch, but immediately call the Physical Plant at 7051 and 
+report the problem. Care should be taken with lighted gas outlets to insure that the flame does not 
+go out with the gas on.  
+
+6.2 CHEMICALS SPILLED ON THE BODY OVER A LARGE AREA; 
+
+A. Remove Contamination  
+
+Quickly remove all contaminated clothing while using the safety shower. Seconds count, and no 
+time should be wasted because of modesty. However, be careful not to spread the chemical on 
+the skin, especially the eyes. Immediately flood the affected body area in cold water for at least 
+15 minutes. Resume if pain returns. Wash off chemicals with a mild detergent and water, but do 
+not use neutralizing chemicals, unguents, creams, lotions, or salves. Get medical attention as 
+soon as possible. 
+
+B. Know the Spilled Materials 
+
+Your supervisor should make certain that the medical personnel understand exactly what 
+chemicals are involved and that physicians, nurses, and paramedics recognize and use proper 
+
+
+
+The University of Mississippi 
+
+Page 26 of 32 
+
+treatment for that exposure. Preferably this should be ensured in advance of any potential 
+emergency. The exact chemical name should be supplied. For example, exposure to hydrochloric 
+acid is very different medically than exposure to hydrofluoric acid, yet both are sometimes called 
+simply "acids". 
+
+6.3 CHEMICALS ON THE SKIN;  
+
+Immediately flush with cold water for no less than fifteen minutes and wash with a mild 
+detergent, preferably soap and water. If there is no visible burn, wash with warm water and soap, 
+removing any jewelry to facilitate removal of any residual materials. If a delayed reaction is 
+noted (often the next day), seek medical attention immediately and explain carefully what 
+chemicals were involved. 
+
+6.4 CORROSIVE CHEMICALS; 
+
+All chemicals should be treated with care, but acids and bases, especially in high concentrations, 
+need to be handled with special care. If they are allowed to get on the skin, they can cause severe 
+injuries. In reactions, they can generate excessive heat and pressure, causing equipment to be 
+damaged, possibly leading to injuries as well. 
+
+Corrosive chemicals should always be transported in unbreakable safety carriers. Carts used for 
+moving chemicals must have a lip to prevent accidents. Chemical splash goggles, aprons, and 
+rubber gloves must be worn when handling corrosive chemicals. The goggles should be 
+supplemented with a face mask where the probability of splashing exists. 
+
+If corrosive chemicals do get on the skin or in the eyes, the area should be immediately washed 
+thoroughly with copious amounts of cool water, up to 15 minutes for the eyes. Promptly seek 
+medical attention. Burns from acids are typically more painful than those from alkalis since acids 
+precipitate a protein barrier on contact with tissue, which causes pain but also helps prevent 
+further penetration of the tissue. Alkaline substances do not cause this barrier to be created which 
+is less painful but also allows an alkaline burn to be more penetrating and possibly even more 
+damaging. 
+
+The generation of heat is the basis of the familiar rule of always adding acid to water, never the 
+reverse. The generation of localized heat could cause the boiling of solutions or the spattering of 
+the hot liquid. 
+
+6.5 BROMINE ON THE SKIN;  
+
+Flush with cold water as soon as possible and apply a compress saturated with a dilute thiosulfate 
+solution. No other chemicals should be used either as a first aid or as a cleanup agent on the skin. 
+Seek medical attention immediately. 
+
+ 
+
+ 
+
+
+
+The University of Mississippi 
+
+Page 27 of 32 
+
+6.6 HYDROGEN FLUORIDE ON THE BODY OR IN THE AIR; 
+
+Hydrogen fluoride is a very serious hazard. Both its gas and solutions are toxic, and it is rapidly 
+absorbed through the skin and deep into the body tissues, causing long-term excruciating pain 
+and burns that are slow to heal. Prompt removal of contaminated clothing while the injured 
+person is being flushed with water under a safety shower is essential. Continuous flushing with 
+cool water is vital until any whitening of the tissue has disappeared. Swath the injured person 
+with soaking wet, iced cloths. Wrap to protect from shock and exposure. Get immediate medical 
+help. Under no circumstances should ointments be applied. Although immediate pain is felt from 
+the concentrated acid, action of the acid may be insidious, and contact with less concentrated 
+solution may go unnoticed for hours. In all cases of body contact with hydrogen fluoride obtain 
+medical aid. Simple flushing with water does not remove hydrogen fluoride deep in the tissues, 
+and additional treatment is required. (Whenever hydrogen fluoride is being used, medical 
+personnel likely to be involved in treating victims of exposure should be alerted to the need for 
+preparation of the special treatment that is promptly required.) 
+
+ALL HAZARDOUS MATERIALS SPILLS AND ACCIDENTS MUST BE REPORTED 
+TO THE DEPARTMENT OF HEALTH AND SAFETY. 
+
+ 
+
+7. EMERGENCY PROCEDURES; 
+
+7.1 WHEN AN EMERGENCY OCCURS; 
+
+A. Report 
+
+Report the nature and location of the emergency to the appropriate fire (9-911), police (7234), 
+Health and Safety (5433 - days, 7234 - nights and weekends) , or medical facility; give your 
+name, telephone number, building and floor number, and an estimate of the type and amount(s) 
+of hazardous materials involved (if known). Tell where you will meet the emergency vehicle. If 
+individuals are involved, report how many, whether they are unconscious, burned, or trapped; 
+whether an explosion has occurred; and whether there has been a chemical or electrical fire. 
+
+B. Notify  
+
+Notify others in the area and your supervisor about the nature of the emergency. Do not forget to 
+notify staff members such as janitors and secretaries. 
+
+C. Wait for Response Personnel 
+
+Meet the emergency crews at the place you indicated in 7.1.A above. Send someone else if you 
+cannot go. 
+
+D. Leave Communication Lines Open 
+
+
+
+The University of Mississippi 
+
+Page 28 of 32 
+
+Do not make any other telephone calls unless they directly relate to the control of the emergency. 
+
+7.2 DO WHAT IS NECESSARY TO PROTECT LIFE WHILE WAITING FOR 
+ASSISTANCE. KEEP CALM ; 
+
+A. Safeguard Injured Personnel 
+
+Do not move any injured persons unless they are in further danger. Keep them warm. 
+Unnecessary movement can severely complicate neck injuries and fractures. 
+
+B. Remove Contamination if Possible 
+
+If chemicals have been spilled on someone, get the individual under a shower or spigot to wash 
+the affected area thoroughly. If chemicals are in the eyes, irrigate with plenty of cool water for at 
+least 15 minutes. It is always a good idea to check for and remove any contact lenses before 
+irrigation. However, contact lenses may be difficult to remove, and the irrigation must not be 
+delayed. Seek immediate medical attention. 
+
+C. Cover Injuries 
+
+A blanket should be readily accessible for shock cases and for the protection of an injured person 
+from exposure en route to medical aid. 
+
+D. Assist Personnel 
+
+If a person's clothing is on fire, douse the individual with water or wrap the person in a coat, 
+blanket, or whatever is available to extinguish the fire, or roll the person on the floor, if 
+necessary. Quickly remove any clothing contaminated with chemicals. Use caution when 
+removing pullover shirts or sweaters to prevent contamination of the eyes. Douse with cool water 
+to remove heat and place clean, wet, ice-packed cloths on burned areas. Wrap the injured person 
+to avoid shock and exposure. Get medical attention promptly. 
+
+E. Put Out Fires If Possible 
+
+If there is a fire and there is little personal risk, use the proper extinguishers. If the fire is very 
+small, it may be extinguished by smothering it with a nonflammable material such as an inverted 
+beaker or watch glass. Fight the fire from a position of escape. Close fire doors. Do not use 
+elevators to leave the building; use the stairs; and keep the lights on in your laboratory or work 
+area. 
+
+F. Get Everyone to Fresh Air 
+
+Anyone overcome with smoke or fumes should be removed to uncontaminated air and treated for 
+shock (provide oxygen inhalation, if possible). 
+
+ 
+
+
+
+The University of Mississippi 
+
+Page 29 of 32 
+
+G. Find Out the Materials Involved 
+
+If hazardous chemicals are ingested, encourage the victim to drink large amounts of water while 
+en route to medical assistance. However, never give anything by mouth to an unconscious 
+person. Attempt to learn exactly what substances were ingested and inform the medical staff 
+(while the victim is en route, if possible). 
+
+H. CPR and Resuscitation 
+
+If the injured person is not breathing, provide mouth-to-mouth resuscitation. The following 
+procedure is recommended: Place the person face up, clear the mouth of any obstruction, and 
+loosen tight clothing. Lift the neck and tilt the head back, so the  
+chin is pointing upward. Insert your thumb in the mouth, grasp the lower jaw, and lift it forcibly 
+upward and forward. Pinch the nose and blow vigorously through the mouth to make the chest 
+expand. Repeat every four to five seconds. If the victim's chest does not expand, recheck the 
+mouth for any obstruction, tilt the head back farther, and resume blowing into the mouth. 
+
+I. Control Bleeding 
+
+If an individual is bleeding severely, control the bleeding by compressing the wound with a cloth 
+or whatever is available. (WHENEVER ONE IS EXPOSED TO HUMAN BODILY FLUIDS, 
+PRECAUTIONS MUST BE TAKEN TO PROTEST AGAINST POSSIBLE HIV OR HBV 
+INFECTION, SEE UNIVERSITY BIOLOGICAL SAFETY MANUAL) Elevate the injury 
+above the level of the heart. If blood is spurting, place a pad directly on the cut, apply firm 
+pressure, wrap the injured person to avoid shock, and get immediate medical attention. In the 
+case of a less severe cut, wash the cut and remove any pieces of glass, wrap the injured person to 
+avoid shock (except in the case of a trivial cut), and get medical attention. A pressure pad may be 
+applied firmly on the wound. Pressure points are tried before tourniquets. Tourniquets may be 
+used by persons trained in first aid if the injury appears to be severe. Do not treat the cut 
+yourself, not even to bandage it. Seek medical attention. 
+
+J. Watch Out for Live Circuits 
+
+Do not touch a person in contact with a live electrical circuit. DISCONNECT THE POWER 
+FIRST OR YOU MAY BE SERIOUSLY INJURED. 
+
+K. Leave the Area if Directed 
+
+If you are directed to leave the room, promptly cease any additions of reagents or reactants, stop 
+the experiment, turn off all burners or other energy-producing and energy-consuming devices (if 
+practical), and immediately evacuate the area as directed. 
+
+L. Report the Incident 
+
+ALL ACCIDENTS INVOLVING CHEMICALS MUST BE REPORTED TO THE 
+DEPARTMENT OF HEALTH AND SAFETY. 
+
+
+
+The University of Mississippi 
+
+Page 30 of 32 
+
+APPENDIX; 
+ 
+TABLE 1  
+
+COMPATIBLE CHEMICALS 
+
+A common practice is to store all chemical materials alphabetically. However, in order to prevent 
+unwanted reactions from occurring in a storage area, chemicals should be stored in compatible 
+groups. The table below indicates which materials may be safely stored together. Within a group, 
+materials may be stored alphabetically. This list is not intended to cover all materials. Please call 
+DHS at 5433 for detailed information on specific compounds. 
+
+   
+Chemical Group Reactivity Do Not Store With  
+Name Group # Group #  
+
+INORGANIC ACIDS 1 2-8,10,11,12,13,15-18,20,21 
+ORGANIC ACIDS 2 1,3,4,7,13,15-18 
+CAUSTICS 3 1,2,6-8,12-17,19,21 
+AMINES AND ALKANOLAMINES 4 1,2,5,7,8,12-17,21 
+HALOGENATED COMPOUNDS  5 1,3,4,11,13,16 
+ALCOHOLS, GLYCOLS, GLYCOL Ethers  6 1,7,13,15,19,21 
+ALDEHYDES  7 1-4,6,8,14-16,18,19,21 
+KETONES 8 1,3,4,7,18,19 
+PETROLEUM OILS,SATURATED 
+HYDROCARBONS 9 19 
+
+AROMATIC HYDROCARBONS 10 1,19 
+OLEFINS 11 1,5,19 
+ESTERS 12 1,3,4,18,19 
+MONOMERS, POLYMERIZABLE Esters 13 1-6,14,15,18,19,20,21 
+PHENOLS 14 3,4,7,13,15,18,19 
+ALKYLENE OXIDES 15 1-4,6,7,13,14,16-18,21 
+CYANOHYDRINS 16 1-5,7,15,18,21 
+NITRILES 17 1-4,15,21 
+AMMONIA 18 1,2,7,8,12-16,19,21 
+HALOGENS 19 3,6-14,18,20 
+ETHERS 20 1,13,19 
+ACID ANHYDRIDES 21 1,3,4,6,7,13,15-18 
+
+ 
+
+
+
+The University of Mississippi 
+
+Page 31 of 32 
+
+TABLE 2 
+
+COMMON PEROXIDE FORMING MATERIALS  
+
+ Explosive peroxides may form in the following materials : 
+Acetal Cellosolve (2-Ethoxy Ethanol) 
+Cumene Cyclohexadiene 
+Cyclohexene Decahydronaphthalene 
+Diacetylene Dicyclopentadiene 
+Diethyl Ether Diethylene Glycol 
+Dimethoxyethane Dimethyl Ether (Diglyme) 
+Dioxane Divinyl Acetylene 
+Ether (Glyme) Ethoxyethyl Acetate 
+Ethylene Glycol Monoethyl Ether Isopropyl Ether 
+Isopropyl Benzene Isopropyl Alcohol 
+Methyl Acetylene Tetrahydrofuran 
+Tetrahydronaphthalene Vinyl Benzene (Styrene) 
+Vinyl Ethers Vinylidine Chloride 
+
+Peroxides also form in the following chemical groups : 
+
+DIENE ETHOXY METHOXY GLYME ISOPROPYL
+
+This list does not cover all materials known to form peroxides, but should serve as a conservative 
+guide to alert personnel to the types of materials which possess this capability. For additional 
+information on peroxide formers contact the DHS.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+The University of Mississippi 
+
+Page 32 of 32 
+
+TABLE 3 
+
+FLAMMABLE LIQUIDS CONTAINER REQUIREMENTS 
+
+These are the maximum flammable liquids container sizes and required container materials for 
+laboratories and for classrooms on the Oxford campus. Boiling Points (Bp) and Flash Points(Fp) 
+are in Degrees Farenheit.  
+
+     
+
+Classification Fp Bp Container Requirements 
+   Glass Metal Safety Can 
+Flammable Liquids 
+      
+
+Class 1A Below 73 Below 100 1 Pint 1 Gallon 2 Gallons 
+Class 1B Below 73 Above 100 1 Quart 5 Gallons 5 Gallons 
+Class 1C 73 - 100 N.A. 1 Gallon 5 Gallons 5 Gallons 
+Combustible Liquids 
+      
+
+Class 2 100 - 140 N.A. 1 Gallon 5 Gallons 5 Gallons 
+Class 3 140 - 200 N.A. 1 Gallon 5 Gallons 5 Gallons 
+
+N.A. = Not Applicable 
+
+ 
+
+

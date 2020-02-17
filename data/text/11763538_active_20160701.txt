@@ -1,0 +1,183 @@
+
+The	University	of	Mississippi 
+
+Page	1	of	4	
+
+	
+
+Mobile	Application	Development	
+
+Summary/Purpose	
+This	policy	provides	guidelines	on	how	an	entity	at	the	University	can	work	with	
+Information	Technology	and	University	Communications	to	publish	a	mobile	app	to	
+the	various	mobile	device	platforms.	
+
+Additionally,	this	policy	provides	guidance	for	apps	which	are	intended	to	be	
+published	separately	(e.g.	student	projects,	third-party	distribution,	etc.)	but	may	
+contain	references	to	The	University	of	Mississippi	or	any	of	its	trademarks.	
+
+Key	elements	of	the	policy	
+• Regular	check-ins	during	development	
+• IT	review	before	branding	
+• University	Communications	branding	review	
+• Party	sign-off	before	submission	
+• Clear	indication	to	UMIT	regarding	desired	timeline	for	deployment	
+
+	
+• Guidelines	for	non-official	apps	
+
+Summary	of	timelines	
+• UM	unit	must	notify	IT	of	its	intent	to	publish	an	app,	at	least	four	weeks	
+
+before	desired	launch	date	
+• UM	unit	must	ensure	developer	provides	a	submission	ready	(beta)	test	build	
+
+to	IT	at	least	two	weeks	before	desired	launch	date	
+• IT	reserves	two	business	days	for	review	process	
+
+Introduction	
+The	Office	of	Information	Technology	(IT)	serves	as	steward	for	official	University	of	
+Mississippi	applications	in	the	Amazon	Appstore	for	Android,	Apple	iOS	and	Mac	
+App	Stores,	Google	Play	store,	and	Windows	Phone	Store.	University	
+Communications	(UC)	serves	as	steward	of	the	University	of	Mississippi	brand	and	
+oversees	the	use	of	university	symbols.	Together	both	offices	reserve	the	right	to	
+review	application	submissions	for	quality	of	workmanship,	branding,	and	
+representative	character.	
+
+All	applications	developed	for	publication	as	official	University	of	Mississippi	
+applications	shall	be	subject	to	this	review	whether	developed	internally	by	IT,	
+other	university	faculty	or	staff,	externally	by	contracted	agents,	or	by	students	
+either	for	work-study	or	academic	projects.	The	UM	school,	department,	or	unit	
+(hereafter	referred	to	as	“UM	unit”)	seeking	to	publish	the	application	is	responsible	
+for	communication	between	the	developer	and	the	Office	of	Information	Technology	
+and	University	Communications.	IT	and	UC	must	be	notified	at	least	four	weeks	and	
+at	least	one	test	version	of	the	application	must	be	delivered	at	least	two	weeks	
+prior	to	the	intended	application	publication	(“launch”)	date.	IT,	UC,	the	UM	unit,	
+
+
+
+The	University	of	Mississippi 
+
+Page	2	of	4	
+
+	
+
+and	the	developer	must	agree	to	the	application’s	quality	before	submission	to	the	
+corresponding	publisher(s)	review	process.	Applications	developed	with	regular	
+review	submissions	to	IT	and	UC	in	advance	of	the	final	release	will	be	successful	in	
+meeting	the	requested	deadline.	
+
+Ownership	of	the	application	
+The	UM	unit	is	tasked	with	determining	the	ownership	of	the	application	source	
+code	and	responsibility	for	maintenance.	Generally	this	should	rest	with	the	original	
+developer	of	the	application.	In	some	cases	the	developer	provides	the	initial	
+creation	of	the	application	transferring	ownership	and	maintenance	to	the	UM	unit.	
+In	these	cases	IT	shall	not	inherit	these	duties	unless	previously	agreed	upon	e.g.	by	
+means	of	an	IT	Work	Order.	
+
+Applications	which	have	fallen	out	of	maintenance	may	be	removed	from	the	
+respective	app	stores	to	protect	the	university	brand.	Applications	which	have	
+programming,	graphical,	or	logical	errors	(known	colloquially	as	“bugs”)	may	also	
+be	removed	from	the	store(s)	if	the	UM	Unit	is	unable	to	procure	a	corrected	version	
+of	the	application	in	a	timely	manner.	The	specific	time-period	for	such	a	removal	is	
+directly	dependent	upon	the	nature	and	severity	of	the	bug(s)	but	the	base-line	
+period	is	10	business	days.	
+
+Management	of	source	code	
+Although	ownership	of	the	application	may	rest	with	the	developer	or	the	UM	unit,	
+in	order	to	facilitate	testing	and	publication,	IT	may	provide	a	source	code	
+repository	(“git	repo”)	for	the	purpose	of	transferring	versions	of	the	application	
+source	materials	from	the	developer	as	well	as	feedback	or	revisions	from	IT.	It	is	
+the	developer’s	responsibility	to	maintain	the	source	code	utilizing	the	IT	provided	
+repo	merely	as	a	means	of	transmission.	
+
+For	applications	that	will	be	transferred	to	the	UM	unit	after	completion,	IT	can	also	
+provide	a	repository	for	the	safeguarding	of	the	application	source	code	in	
+perpetuity.	Such	a	repo	would	be	configured	for	access	by	a	responsible	person	
+within	the	UM	unit.	At	such	time	as	the	code	would	be	needed	for	further	
+development,	IT	would	provide	the	developer	with	access	to	the	repository	to	“pull”	
+the	source	code.	The	developer	would	be	responsible	for	maintaining	a	separate	
+repository	for	day-to-day	development.	
+
+Testing	process	guidelines	
+During	development	and	testing,	prior	to	the	final	submission,	the	developer	is	
+responsible	for	delivering	test	application	versions	(“builds”)	to	the	UM	unit	for	
+testing.	The	UM	unit	should	work	with	the	developer	directly	to	address	any	quality	
+concerns	before	signing	off	on	a	version	suitable	for	publication.	Such	a	test	version	
+should	consist	of	a	live	application	running	locally	on	a	device	in	control	of	the	UM	
+unit.	Remote	control	demonstrations	or	“loaner”	devices	are	not	adequate	for	this	
+final	stage	of	testing.	
+
+
+
+The	University	of	Mississippi 
+
+Page	3	of	4	
+
+	
+
+Once	the	UM	unit	is	satisfied	with	the	quality	of	the	application,	the	unit	should	
+request	the	developer	provide	a	final	testing	build	for	IT	and	UC	to	evaluate.	This	
+build	should	be	provided	to	IT	at	least	two	weeks	before	desired	launch	date.	IT	will	
+have	two	(2)	business	days	to	perform	the	review.	The	disposition	of	this	testing	
+build	is	up	to	the	developer;	however	the	preferred	form	is	an	installable	executable.	
+For	iOS	devices,	which	require	a	cryptographically	signed	testing	build,	IT	and	UC	
+will	provide	UDIDs	for	this	purpose	or	the	developer	can	provide	a	copy	of	the	
+application	source	code	via	IT	git	repo	in	order	for	IT	to	produce	a	test	build	locally.	
+It	is	the	developer’s	responsibility	to	ensure	this	source	code	includes	any	external	
+dependencies	required	for	compilation.		
+
+Updates	to	existing	applications	will	follow	the	same	guidelines.	If	an	update	is	a	
+critical	bug-fix,	IT	will	work	to	facilitate	prompt	turn-around	but	reserves	the	
+requirement	of	two	business	days.	
+
+Submission	process	guidelines	
+When	available,	the	developer	must	submit	the	finalized	product	to	IT	for	
+submission	to	the	various	app	stores.	For	Android	applications	this	should	be	an	
+APK	compiled	without	debugging	statements	or	extraneous	logging.	For	iOS	
+applications,	which	require	a	cryptographically	signed	distribution	build,	the	
+developer	is	responsible	for	providing	either:	a)	an	Xcode	archive	signed	with	an	IT	
+provided	developer	identity	or	b)	the	application	source	code	for	IT	to	compile	
+directly.	If	providing	source	code,	the	developer	is	requested	to	make	use	of	a	git	
+repo	provided	by	IT.		
+
+The	UM	unit	is	responsible	for	procuring	all	marketing	items	required	for	the	
+particular	store	listing(s)	to	provide	to	IT	and	University	Communications	to	create	
+the	app	entry	or	entries.	Details	for	the	items	required	for	each	store	are	listed	
+below;	however	the	standard	items	include	the	following:		
+
+• Name	of	the	application	as	appears	in	the	store(s)	
+• Descriptive	summary	
+• Representative	screenshots	
+• Age-appropriateness	or	content	rating	selection	
+
+Non-official	or	third-party	distributed	applications	
+Applications	which	are	not	to	distributed	through	official	UM	app	store	accounts	
+(see	links	below)	are	still	required	to	seek	approval	for	use	of	University	
+trademarks.	Permission	to	use	such	branding	elements	must	be	requested	from	the	
+Office	of	Licensing	as	directed	in	the	“Permission	Required	to	Use	University	
+Trademarks”	policy	found	in	the	UM	Policy	Directory.	
+
+• Trademark	policy:	
+http://bit.ly/UMTrademarksPolicy	
+
+
+
+The	University	of	Mississippi 
+
+Page	4	of	4	
+
+	
+
+Links	to	official	UM	store	listings:	
+• Apple	App	Store	account:	
+
+http://appstore.com/universityofmississippi	
+• Google	Play	Store	account:	
+
+https://bit.ly/OleMissGoogleApps	
+• Amazon	Appstore	account:	
+
+https://bit.ly/OleMissAmazon	
+
+

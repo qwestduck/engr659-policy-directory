@@ -1,0 +1,79 @@
+
+The University of Mississippi 
+
+Page 1 of 2 
+
+Polychlorinated Biphenyls (PCBs) 
+ 
+Summary/Purpose:  The Polychlorinated Biphenyls Policy details the minimum requirements 
+and procedures to Identify, Mark, Collect, Store and Dispose of materials containing, or 
+potentially containing, Polychlorinated Biphenyls. 
+ 
+Polychlorinated Biphenyls (PCB's) is an oily mixture that was primarily used in older model 
+T12 magnetic Fluorescent Light Ballasts (FLBs) which were manufactured years ago. The 
+Environmental Protection Agency prohibited the manufacture, importation or reuse of the 
+materials in 1979 after studies showed that these materials may be toxic to humans, fish and 
+birds.  
+
+Under an energy management project, all of the fluorescent lamp ballasts on the Ole Miss 
+campus were changed in the summer of 2000. Many of the ballasts were suspected of containing 
+PCB's. The ballasts were collected and shipped to a recycling facility where they were 
+dismantled, valuable components and metals were collected, and the PCB suspect components 
+were sent off for Incineration. In all, Laboratory Services shipped in excess of 106,000 pounds of 
+capacitors and lamp products for recycling and incineration.  
+
+Although every effort was made to remove and replace all FLBs (primarily for energy 
+conservation), it is possible that some ballasts were overlooked during this massive renovation 
+project.  
+
+The following steps should guide maintenance workers in identifying, removing and 
+securing PCB suspected ballasts for disposal through Laboratory Services.  
+
+Maintenance personnel who remove ballasts from fixtures are required to examine the ballast for 
+PCB's to determine if they could possibly contain PCB's. If contamination is suspected, workers 
+must place the ballast into a container supplied by Laboratory Services, assure that the container 
+is properly labelled, and notify Laboratory Services when a container is full.  
+
+Examine the ballast for PCB's.  
+
+ FLBs manufactured before July 1, 1979 may contain PCBs 
+ FLBs manufactured between July 1, 1979 and July 1, 1998 that do not contain PCBs 
+
+must be labeled "No PCBs" 
+ If an FLB is not labeled "No PCBs," it is best to assume it contains PCBs unless it is 
+
+known to be manufactured after 1979 
+ FLBs manufactured after 1998 are not required to be labeled 
+
+When you must remove a PCB suspect ballasts from a fixture, you must wear appropriate 
+protective equipment. Nitrile gloves, eye protection and chemical resistant coveralls may be 
+necessary if contact with internal components is required. When working around sharp objects 
+like sheet metal, wear appropriate outer work gloves in addition to inner Nitrile gloves. Eye 
+protection is especially important when working on systems, which are in operation. Personnel 
+must never attempt to open a ballast. Any leaking PCB suspect ballast should be placed in a 
+
+
+
+The University of Mississippi 
+
+Page 2 of 2 
+
+plastic bag or some other appropriate container to prevent contamination caused by the leaking 
+fluids. 
+
+1. Place the ballast into the 5-gallon open-head drum supplied by Laboratory Services. Keep 
+the lid on the drum except when you are adding or removing material. 
+
+2. Laboratory Services will provide appropriate PCB Markings on the container. 
+Maintenance personnel must mark the drum "Removed from service on (date)" and mark 
+the day when disposal was requested. 
+
+3. Contact Laboratory Services (915) 5433 to have your container(s) removed after you 
+have marked, filled, and labeled a drum with the date the materials were removed from 
+service. 
+
+ 
+
+ 
+
+

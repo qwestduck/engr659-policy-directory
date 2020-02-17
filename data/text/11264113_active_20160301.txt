@@ -1,0 +1,50 @@
+
+The University of Mississippi 
+
+Page 1 of 1 
+
+Third Party Research 
+ 
+
+Summary/Purpose:  Definition of third party research and determination of need for informed 
+consent of third parties. 
+ 
+ 
+Definitions: 
+Third party research:  Information provided by a human subject about someone else (i.e., a third 
+party) who has no interaction with the researchers.   
+
+Human subject:  When the information is private and the third party can be readily identified by 
+the information, he/she is considered a human subject and must give informed consent to 
+participate.   
+
+Private information:  “…information about behavior that occurs in a context in which an 
+individual can reasonably expect that no observation or recording is taking place, and 
+information which has been provided for specific purposes by an individual and which the 
+individual can reasonably expect will not be made public (45 CFR 46.102).” 
+
+Identifiable information:   “…the identity of the subject is or may readily be ascertained by the 
+investigator or associated with the information (45 CFR 46.102),” e.g., social security number, 
+identifiable photographic images, etc.  Familial or social relationships alone, i.e. mother, father, 
+etc., are not considered identifiable information.   
+
+ 
+Procedure: 
+The IRB determines who is a human subject (and thus must give informed consent) by 
+considering the following four factors (among others): 
+
+• The quantity of information collected about the third party; 
+
+• The nature of the information collected, including the sensitivity of the information and 
+the possibility that it might harm the third party; 
+
+• The ability of investigators to record information on third parties in a manner that 
+protects the identity of those parties; and 
+
+• The possibility that classification of a third party as a human subject may have an impact 
+on the rights or welfare of the originally designated human subject, which obligates the 
+IRB to protect the interests of both the original human subject and the third party. 
+
+ 
+
+

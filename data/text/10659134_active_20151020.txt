@@ -1,0 +1,74 @@
+
+The University of Mississippi 
+ 
+
+Page 1 of 1 
+ 
+
+Departmental Time Record  
+
+ 
+Summary/Purpose: The qualifications for those employees whose time records must be retained, 
+
+guidelines and retention rules are given.  
+
+ 
+
+All departments are required to utilize Form UM4/HR12 unless time is being recorded using the 
+
+Employee Self-Service (ESS) time management application on the myOleMiss portal. Time 
+
+recorded electronically via the ESS application is retained within SAP. 
+
+ 
+
+To ensure consistent time and attendance reporting, time for employees paid on an hourly basis 
+
+should be recorded in quarter of an hour increments (7 minutes or less is rounded down and 8 
+
+minutes or more is rounded up).     
+
+ 
+
+For those departments who are not utilizing the ESS application, Form UM4/HR12 must be 
+
+prepared for hours worked each payroll period for non-exempt (hourly) employees. Form 
+
+UM4/HR12 must also be prepared for leave time taken within each payroll period for non-exempt 
+
+employees and eligible exempt employees. The form must be signed by the employee certifying 
+
+that the hours worked and/or leave taken are accurate. It must also be reviewed and signed by the 
+
+department head or his/her designee (i.e. employee’s direct supervisor) certifying that the hours 
+
+worked and/or leave taken were approved and are accurate.   
+
+ 
+
+Approved paper forms are entered into the SAP time management component. To maintain a 
+
+separation of duties, each department must designate one employee who is responsible for 
+
+verifying and entering the form data into SAP, and another employee who is responsible for SAP 
+
+data entry verification and approval.  
+
+ 
+
+Each department must retain all Forms UM4/HR12 for a minimum period of seven (7) fiscal years; 
+
+the period may be longer if required by an external funding agency. These forms serve as payroll 
+
+records for exempt and non-exempt employees, and activity reports for non-exempt employees 
+
+paid from federal projects/grants. It is the responsibility of each department within the University 
+
+to retain copies of Forms UM4/HR12, and all departments must adhere to the retention 
+
+requirement. The departmental copy is the official record of the University and must be readily 
+
+available for audit from state or federal agencies.  
+ 
+
+

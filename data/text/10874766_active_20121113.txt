@@ -1,0 +1,753 @@
+
+OBJECTIVITY IN RESEARCH 
+ 
+
+I. Purpose 
+ 
+The primary goal of this policy is to promote objectivity in research by establishing standards that provide a reasonable 
+expectation that the design, conduct, and reporting of research funded under grants, cooperative agreements and 
+contracts will be free from bias resulting from Investigator’s Financial Conflicts of Interest.  This policy is designed to 
+protect the credibility and integrity of the University of Mississippi’s (UM) faculty, staff, and students so that public trust 
+and confidence in sponsored research and educational activities is ensured. 
+ 
+UM faculty, staff and students are committed to the principle of free, open, and objective inquiry in the conduct of 
+research. Multifaceted relationships between Investigators and industry exist and often complement Research. 
+However, these relationships make conflicts of interest inevitable.   
+ 
+ UM has a responsibility to manage any actual or potential conflict of interest arising from a financial interest of an 
+Investigator. The University requires that Investigators disclose significant financial interests that may present an actual 
+conflict of interest or the appearance of a conflict of interest in relationship with a sponsored project and then manage 
+or eliminate those conflicts. Disclosure is instrumental for protecting the reputation of Investigators and the integrity of 
+their research against challenges of potential bias. 
+ 
+In order to minimize the administrative burden to Investigators while meeting all regulations and state laws, this policy 
+has separate procedures for PHS applications and awards (which require considerable effort) and for Non-PHS 
+applications and awards (which require less effort). However, there is some overlap: PHS Investigators must complete 
+Non-PHS self-screening questions and separate disclosures of relevant Significant Financial Interests as well as the 
+extensive PHS form. 
+
+II. Definitions1  
+ 
+
+A. Confidentiality means that disclosed financial interests marked “Confidential” shall be kept in a 
+locked cabinet accessible only to the Director of Research Integrity and Compliance and /or as 
+encrypted files on a password protected computer. To the extent permitted by law, all records 
+of financial interest submitted by an Investigator shall be made available only to the Conflict of 
+Interest Committee and to others on a “need to know” basis with clear understanding of the 
+confidentiality of the information. Records will be destroyed once the record retention period 
+expires (See Section VII.).   
+ 
+
+B. Conflict of Interest Committee (COIC) means the committee appointed by the Institutional 
+Official to 1) review Significant Financial Interests Requiring Disclosure forms when a potential 
+or actual conflict has been identified by the Investigator, the Director of Research Integrity and 
+Compliance, and/or the Director of Technology Management, 2) determine if an actual or a 
+potential conflict of interest exists, 3) suggest ways to manage, reduce or eliminate conflicts, 
+and approve a Memorandum of Understanding (Conflict of Interest Management Plan) on 
+behalf of the Institutional Official. The Committee will be comprised of the Director of Research 
+Integrity and Compliance, the Director of Technology Management, one or two members of 
+the University Research Board, the Investigator’s Dean or Dean’s designee – or the 
+
+
+
+Investigator’s division head or designee for non-academic units, and other members as deemed 
+appropriate by the Institutional Official. 
+
+ 
+C. Equity Interest means stocks, stock options, or other ownership interests, as determined 
+
+through reference to public prices or other reasonable measures of fair market value. 
+ 
+
+D. Financial Conflict of Interest means any Significant Financial Interests Requiring Disclosure that may significantly 
+affect the design, conduct or reporting of Research. 
+
+ 
+E. Institutional Official means the person appointed by University of Mississippi, or his/her designee(s), to solicit 
+
+and review statements from Investigators of Significant Financial Interests Requiring Disclosure. [See Section 42 
+CFR 50.604(b) and 45 CFR Section 94.4(b)]. University of Mississippi has appointed the Vice Chancellor for 
+Research and Sponsored Programs as its Institutional Official. 
+
+ 
+F. Institutional Responsibilities means activities related to Investigators’ research, teaching, clinical, or 
+
+administrative duties at University of Mississippi. 
+ 
+
+G. Investigator means faculty, staff or students serving as Project Directors, Principal Investigators, and members 
+of the research team identified as senior/key personnel on a grant or contract application, progress report, or 
+any other report who are responsible for and have substantial independent decision making in respect to the 
+design, conduct or reporting of the research, such as Collaborators or Consultants named on a grant. 
+ 
+
+H. Memorandum of Understanding (MOU) means the document developed by the Conflict of Interest Committee 
+(COIC), the Investigator and the Investigator’s Dean or Dean’s designee – or the Investigator’s division head or 
+designee for non-academic units that constitutes the Conflict of Interest Management Plan for the resolution of 
+an identified potential or actual conflict of interest and which includes, at a minimum, these mandatory key 
+elements: 
+
+1. The role and principal duties of the conflicted Investigator in the research project; 
+2. Conditions of the management plan; 
+3. How the management plan is designed to safeguard objectivity in the research project; 
+4. Confirmation of the Investigator’s agreement to the management plan; 
+5. How the management plan will be monitored to ensure Investigator compliance; and 
+6. Other information as needed 
+
+ 
+I.  MURA - The Mississippi University Research Act created in 1992 to facilitate economic development and 
+
+promote the public welfare and prosperity of the people of Mississippi within the state by encouraging the 
+development of cooperative ventures among the state’s educational institutions, government and business. 
+ 
+
+J. Public Health Service means the following agencies: 
+1. Agency for Healthcare Research and Quality (AHRQ) 
+2. Agency for Children and Families (ACF)  
+3. Administration on Aging (AoA)  
+4. Agency for Toxic Substances and Disease Registry (ATSDR) 
+5. Centers for Disease Control and Prevention (CDC) 
+6. Centers for Medicare & Medicaid Services (CMS)  
+7. Federal Occupational Health (FOH)  
+8. Food and Drug Administration (FDA) 
+9. Health Resources and Services Administration (HRSA) 
+10. Indian Health Service (IHS) 
+
+http://www.gpo.gov/fdsys/pkg/CFR-2011-title42-vol1/pdf/CFR-2011-title42-vol1-sec50-604.pdf�
+http://www.gpo.gov/fdsys/pkg/CFR-2011-title42-vol1/pdf/CFR-2011-title42-vol1-sec50-604.pdf�
+http://www.gpo.gov/fdsys/pkg/CFR-2010-title45-vol1/pdf/CFR-2010-title45-vol1-sec94-4.pdf�
+http://en.wikipedia.org/wiki/Agency_for_Healthcare_Research_and_Quality�
+http://en.wikipedia.org/wiki/Agency_for_Toxic_Substances_and_Disease_Registry�
+http://en.wikipedia.org/wiki/Centers_for_Disease_Control_and_Prevention�
+http://en.wikipedia.org/wiki/Food_and_Drug_Administration�
+http://en.wikipedia.org/wiki/Health_Resources_and_Services_Administration�
+http://en.wikipedia.org/wiki/Indian_Health_Service�
+
+
+11. National Institutes of Health (NIH) 
+12. Substance Abuse and Mental Health Services Administration (SAMHSA) 
+
+ 
+K. Remuneration means anything of monetary value including, but not limited to salary, consulting fees, honoraria, 
+
+or other payments for services, of any type, including speaking, teaching, and educational engagements, as well 
+as gifts to Investigators – which may include travel reimbursed by other than an educational institution or 
+governmental agency. 
+
+ 
+L. Research means any systematic investigation, study or experiment designed to develop or contribute to 
+
+generalizable knowledge, including behavioral and social-sciences research. The term encompasses basic and 
+applied Research as well as product testing and development. The term includes, but is not limited to, any 
+activity for which Research funding is available from a Public Health Service component that awards funds under 
+grants, cooperative agreements or otherwise. For PHS-funded activities, this term includes any such activity for 
+which research funding is available from a PHS Awarding Component through a grant or cooperative agreement, 
+whether authorized under the PHS Act or other statutory authority, such as a research grant, career 
+development award, center grant, individual fellowship award, infrastructure award, institutional training grant, 
+program project or research resources award. 
+
+ 
+M. Significant Financial Interests – for Both PHS and Non-PHS Grants and Contracts means anything of monetary 
+
+value including, but not limited to, salary or other payments for services (e.g., consulting fees or honoraria); 
+equity interests (e.g., stocks, stock options or other ownership interests); and intellectual property rights (e.g., 
+patents, copyrights, and royalties from such rights).  
+
+ 
+The term does not include: 
+
+1. Salary, royalties, or other remuneration from the University as an employee 
+2. Income from seminars, lectures, or teaching engagements sponsored by public or nonprofit entities 
+3. Income from service on advisory committees or review panels for public or nonprofit entities 
+4. Ownership of any interest of less than ten percent (10%)  in a business where the aggregate annual net 
+
+income to the University employee is less than One Thousand Dollars ($1,000) 
+5. Ownership of any interest of less than two percent (2%) in a business where the aggregate annual net 
+
+income to the University employee is less than Five Thousand Dollars ($5,000) 
+ 
+
+N. Significant Financial Interests – for PHS Grants and Contracts Only means Interests held individually by the 
+Investigator, his/her spouse, and dependent children, which, when added together, the value meets the limits 
+below: 
+
+1. With regard to any publicly traded entity: The value of any remuneration and the value of any equity 
+interest in the entity, when aggregated, exceed $5,000. 
+
+2. With regard to any non-publicly traded entity: The value of any remuneration received from the entity, 
+when aggregated, exceeds $5,000 OR when an Investigator (or an Investigator’s spouse or dependent 
+children) hold any equity interest (e.g., stock, stock option, or other ownership interest) 
+
+3. Any intellectual property rights and interests (e.g., patents, copyrights not assigned to UM), upon 
+receipt of income related to such rights and interests. 
+
+4. Any reimbursed or sponsored travel, when aggregated over 12 months and across spouse and 
+dependent children, exceeds $5,000 (i.e., travel paid for on the Investigator’s behalf, but not reimbursed 
+by UM and related to the Investigator’s research, administrative, clinical, or teaching duties 
+
+  Excluded is travel that is reimbursed or sponsored by the following: 
+• A US Federal, state, or local government agency 
+• A US Institution of higher education, academic teaching hospital, medical center 
+• A research institute affiliated with a US Institution of a higher education 
+
+http://en.wikipedia.org/wiki/National_Institutes_of_Health�
+http://en.wikipedia.org/wiki/Substance_Abuse_and_Mental_Health_Services_Administration�
+
+
+ 
+The term does not include: 
+
+1. Salary, royalties, or other remuneration paid by UM to you if you are currently employed or otherwise 
+appointed by UM 
+
+2. Intellectual property rights assigned to UM and agreements to share in royalties related to such rights 
+3. Income from investment vehicles, such as mutual funds and retirement accounts, as long as you do not 
+
+directly control the investment decisions made in these vehicles 
+4. Income from seminars, lectures, or teaching engagements sponsored by a U.S. federal, state, or local 
+
+government agency, an Institution of higher education as defined in 20 U.S.C. 1001(a), an academic 
+teaching hospital, a medical center, or a research institute that is affiliated with an institution of higher 
+education 
+
+5. Income from service on advisory committees or review panels for a U.S. federal, state, or local 
+government agency, or an Institution of higher education as defined at 20 U.S.C. 1001(a), an academic 
+teaching hospital, a medical center, or a research institute that is affiliated with an institution of higher 
+education 
+
+ 
+O. Significant Financial Interests Requiring Disclosure – for Both PHS and Non-PHS Grants and Contracts means 
+
+Significant Financial Interests – for both PHS and Non-PHS Grants and Contracts 1) held by the Investigator, 
+his/her spouse, parents, siblings, and children or by the spouse of the Investigator’s parents, siblings, and 
+children that would reasonably appear to be affected by the proposed research or educational activity OR 2) 
+Significant Financial Interests – for both PHS and Non-PHS Grants and Contracts held by the Investigator, his/her 
+spouse, parents, siblings, and children or by the spouse of the Investigator’s parents, siblings, and children in any 
+entity whose financial interests  would reasonably appear to be affected by the proposed research or 
+educational activity.  
+
+ 
+P. Significant Financial Interests Requiring Disclosure – for PHS Grants and Contracts Only means an 
+
+Investigator’s Significant Financial Interests – for PHS Grants and Contracts where: 
+ 
+
+1. Those Interests reasonably appear to be related to the Investigator’s Institutional Responsibilities (i.e., 
+research, teaching, administrative, or clinical duties at UM 
+-AND- 
+
+2. Are received during the past 12 months 
+ 
+1
+ Organizational titles at the University change over time and titles specified in this policy are meant to convey the types of duties 
+
+and responsibilities performed by the personnel administering this policy.  Personnel with substantially similar organization titles 
+may perform these administrative duties. 
+
+III. Regulatory Authority 
+ 
+
+A. This policy is derived directly from requirements of: 
+1. State of Mississippi Conflict of Interest laws. MISSISSIPPI CODE: SEC 25-4-101 to 25-4-105  
+
+http://www.ethics.state.ms.us/ethics/ethics.nsf/PageSection/A_ethics_laws_laws/$FILE/Ethics%20Laws.ht
+m?OpenElement#s25_4_103 
+
+2. The regulations for objectivity in research of the National Science Foundation 
+http://www.nsf.gov/pubs/manuals/gpm05_131/gpm5.jsp#510 
+
+3. The regulations for objectivity in research of the Public Health Service 
+42 CFR Part 50 and 45 CFR Part 94 
+ 
+
+http://www.ethics.state.ms.us/ethics/ethics.nsf/PageSection/A_ethics_laws_laws/$FILE/Ethics%20Laws.htm?OpenElement#s25_4_103�
+http://www.ethics.state.ms.us/ethics/ethics.nsf/PageSection/A_ethics_laws_laws/$FILE/Ethics%20Laws.htm?OpenElement#s25_4_103�
+http://www.nsf.gov/pubs/manuals/gpm05_131/gpm5.jsp#510�
+http://edocket.access.gpo.gov/2010/pdf/2010-11885.pdf�
+
+
+ 
+B. MURA Exception to State of Mississippi Conflict of Interest laws 
+
+ 
+The Mississippi Legislature created MURA in 1992 (MISSISSIPPI CODE: SEC. 37-147-1 to 37-147-15) to facilitate 
+economic development and promote the public welfare and prosperity of the people of Mississippi within the 
+state by encouraging the development of cooperative ventures among the state’s educational institutions, 
+government and business. The MURA Act provides that “notwithstanding any other provision of state law” [the 
+Ethics in Government Act], an employee of a university may apply to MURA for permission to establish and 
+maintain a material financial interest in a private entity which provides or receives equipment, material, supplies 
+or services in connection with the university in order to facilitate the transfer of technology developed by the 
+employee from the university to commercial and industrial enterprises for economic development.  
+ 
+Investigators interested in applying for MURA approval should meet with the Director of Technology 
+Management to initiate technology licensing discussions and obtain assistance in completing the necessary 
+documentation.  Prior to making application to MURA, UM Investigators must first receive approval in writing 
+from their line management and the Chancellor. Permission may be granted by the Chancellor only if all of the 
+following conditions are met: 
+ 
+The Investigator  
+
+1. Provided a detailed description of interest in private entity to the Chancellor 
+2. Fully described the nature of the undertaking to the Chancellor 
+3. Demonstrated to the satisfaction of the Chancellor that the proposed undertaking may benefit the 
+
+economy of the state 
+4. Demonstrated to the satisfaction of the Chancellor that the proposed undertaking will not adversely 
+
+affect research public service or instructional activities at the university; and 
+5. The employee’s interest in the private entity, or benefit from the interest, will not adversely affect any 
+
+substantial state interest 
+ 
+
+After approval is given by UM, the application is submitted to MURA for review by the Institutional Official.  
+MURA may authorize an employee to maintain a material financial interest in a private entity if it considers the 
+same information and factors submitted to UM, makes positive findings on all conditions, and reflects this fact in 
+its minutes.   The Chancellor is required to submit an annual report to MURA detailing the status of each MURA 
+approved project. 
+
+IV. Applicability 
+ 
+
+A. Applicability for PHS Grant and Contract Applications and Awards, PHS Excluded Awards, and Initiation of 
+Policy 
+ 
+
+1. This policy does not apply to research funded solely by PHS SBIR/STTR Program Phase I awards 
+subsequent to August 24, 2012. However, human subjects research funded by PHS SBIR/STTR Programs 
+are subject to this policy. 
+
+2. The procedures for PHS Investigators (42 CFR Part 50 Subpart F) apply to PHS funded grants or 
+cooperative agreements with an issue date of the Notice of Award that is subsequent to August 24, 
+2012 and to solicitations issued and contracts awarded subsequent to August 24, 2012. 
+
+ 
+ 
+ 
+
+http://www.gpo.gov/fdsys/pkg/FR-2011-08-25/pdf/2011-21633.pdf�
+
+
+ 
+B. PHS Subrecipient Requirements: 
+
+ 
+For Research sponsored by the Public Health Service that involves subcontractors, subgrantees or subawardees 
+(collectively “Subrecipients”) at other Institutions, UM requires a written agreement from Subrecipients that 
+establishes whether UM’s policy or the subrecipient’s policy shall apply to the subrecipient’s Investigators. In all 
+cases, UM must report to the PHS funding agency any Subrecipient Financial Conflicts of Interest prior to the 
+execution of the subcontract or within 60 days of identification of a new Financial Conflict of Interest by the 
+Subrecipient or UM that arises during the term of the subcontract. 
+ 
+
+1. If the subrecipient’s policy is used, the subrecipient must certify that its financial conflict of interest 
+policy is compliant with 42 CFR Part 50 and 45 CFR Part 94 and will be responsible for ensuring that the 
+Subrecipient Institution and its Investigators comply with the federal regulations. Subrecipients must 
+report to UM as the awardee Institution, any identified Financial Conflict of Interest within 10 business 
+days of the management plan agreement with the Subrecipient’s Investigator, but no later than 45 days 
+after identification of the Financial Conflict of Interest by the Subrecipient. The details of the Financial 
+Conflict of Interest will be reported to the funding agency as required under applicable regulations or 
+policies. 
+
+2. If UM’s policy is used, the Subrecipient must ensure that all of its Investigators submit the PHS 
+Significant Financial Interest Disclosure Form to UM prior to the time of application by UM (or at the 
+time the Subrecipient signs an institutional letter of support if during an on-going award grant or 
+contract). 
+
+V. Procedures 
+ 
+UM will manage, minimize, or eliminate Investigators’ Financial Conflicts of Interest to ensure that research will be free 
+from potential bias resulting from Investigator financial interests. All Investigators pursuing sponsored research projects 
+are required to report all financial interests that could affect or be affected by Research on which they are working or 
+proposing to work on to the Office of Research and Sponsored Program’s (ORSP) Director of Research Integrity and 
+Compliance. Investigators who are applying to or are funded by a PHS agency must follow a separate disclosure process 
+for Significant Financial Interests related to their Institutional Responsibilities that is described in section V.A.   The 
+Director of Research Integrity and Compliance will review the Investigator Significant Financial Interests Requiring 
+Disclosure form and coordinate development of an appropriate management plan when a Financial Conflict of Interest 
+exists. In developing these plans, UM aims to meet the following goals: 
+ 
+
+• Safeguard the integrity of Research 
+• Ensure that Research is objective and without bias in the design, conduct or reporting of it 
+• Address unique circumstances and conditions that may be presented by individual cases 
+
+ 
+A. Investigator Reporting Requirements 
+
+ 
+All Investigators must provide Significant Financial Interests Requiring Disclosure to the Director of Research 
+Integrity and Compliance in a sealed envelope marked ‘Confidential’ at the following time points: 
+
+ 
+1. Prior to submission of a proposal 
+2. Within thirty (30) days after a new Significant Financial Interest Requiring Disclosure is received or 
+
+acquired (e.g. through purchase, marriage, or inheritance) 
+3. Annually at the time of Progress Report submission 
+
+
+
+ 
+Significant Financial Interest Disclosure Forms are available on the ORSP Objectivity in Research web page 
+ 
+
+1. Non-PHS Investigators must complete 
+ 
+
+a. the ‘General Significant Financial Interest Disclosure Form’   
+ 
+
+2. PHS Investigators must complete BOTH 
+ 
+
+a. the ‘PHS Significant Financial Interest Disclosure Form’ 
+ 
+AND 
+ 
+
+b. the ‘General Significant Financial Interest Disclosure Form’  
+ 
+
+Note: One meets requirements for PHS regulations and the other for Mississippi State Law 
+ 
+Investigators who need assistance deciding what interests apply and their categorization should contact the 
+ORSP Office of Research Integrity and Compliance for guidance. 
+ 
+
+B. Conflict of Interest Review Procedures 
+ 
+1. Initial Review 
+
+The Director of Research Integrity and Compliance will conduct a preliminary review of all Significant 
+Financial Interest Disclosures 1) to determine if Investigators’ disclosure information is sufficiently 
+complete for review or whether the Investor must be contacted for additional information or 
+clarification and 2) to make an initial assessment in consult with the Director of Technology 
+Management whether there is definitely no conflict of interest that could directly and significantly 
+affect the design, conduct, or reporting of the Research (both Directors must concur here) or 
+whether there is a possible or clear conflict of interest that could affect the Research. 
+ 
+
+2. Conflict of Interest Committee (COIC) Functions and Review 
+ 
+
+        The COIC will: 
+ 
+
+a. Review any reports made regarding Significant Financial Interests  
+b. Request and review any additional materials needed to evaluate the relationship of the 
+
+Significant Financial Interests to the Research 
+c. Determine whether the Significant Financial Interests require a plan to manage, reduce, or 
+
+eliminate the financial interest and to develop such a plan 
+d. Determine, for PHS funded activities, whether a Significant Financial Interest is related to a 
+
+particular research project  and whether such interest is a Financial Conflict of Interest 
+pursuant to 42 CFR Part 50/45 CFR Part 94 
+
+e. Consult with the Investigator to get clarification on Significant Financial Interests 
+f. May suggest ways to manage, reduce, or eliminate the conflict   
+g. Review a Conflict of Interest Management Plan that the Investigator, in collaboration with 
+
+the  COIC member representing the Investigator’s Dean or Dean’s designee – or the 
+Investigator’s division head or designee for non-academic units, develops that details 
+
+
+
+proposed steps to manage, reduce, or eliminate any actual or potential conflict of interest 
+presented by  Significant Financial Interests 
+
+h. Approve the proposed Conflict of Interest Management Plan or add further management 
+measures before approval, as the COIC deems necessary, communicate added measures to 
+the  Investigator, and take into consideration the Investigator’s comments.  
+
+  
+        Examples of such measures include: 
+
+o Public disclosure of financial conflicts of interests (e.g., when presenting or publishing the 
+research; to staff members working on the project; to the Institutional Review Board) 
+
+o For research projects involving human subjects research, disclosure of financial conflicts of 
+interest directly to participants 
+
+o Appointment of an independent monitor capable of taking measures to protect the design, 
+conduct, and reporting of the research against bias resulting from the Financial Conflict of 
+Interest 
+
+o Modification of the research plan 
+o Change of personnel or personnel responsibilities, or disqualifications of personnel from 
+
+participation in all or a portion of the research 
+o Reduction or elimination of the financial interest (e.g., sale of an equity interest) 
+o Severance of relationships that create financial conflicts 
+
+1. If the COIC determines that there is no conflict of interest that could directly and significantly affect the 
+design, conduct, or reporting of the Research, the documentation of the review and determination will 
+be filed along with the Disclosure Forms and retained as per the recordkeeping retention requirement. 
+(Section VII.) 
+
+ 
+2. If the COIC determines that there is a Financial Conflict of Interest and a Conflict of Interest 
+
+Management Plan is developed, it shall be incorporated into a Memorandum of Understanding (MOU) 
+that details the conditions or restrictions imposed upon the Investigator in the conduct of the project or 
+in the relationship with the sponsoring entity. The MOU shall be signed by the Investigator, the 
+Investigator’s Dean or Dean’s designee – or the Investigator’s division head or designee for non-
+academic units, and the Institutional Official. 
+
+ 
+3. Notification of Conflict of Interest Committee’s Decision and Recommended Approval of Plan:  The Institutional 
+
+Official will be informed by the COIC when it 1) determines that an Investigator’s Significant Financial 
+Interest Requiring Disclosure must be managed, reduced, or eliminated and 2) when an MOU containing 
+the management plan has been approved by all signing parties.  The Institutional Official will sign the 
+proposed plan or notify the COIC within seven (7) days with an objection to the plan.  In the latter case, 
+the Institutional Official, Investigator, and COIC will work towards developing a mutually agreeable plan. 
+If agreement on a plan cannot be reached within fourteen (14) days after receipt of an objection from 
+the Institutional Official, then the recommendations of all parties shall be presented for a final decision 
+to the Provost, which decision shall be provided within 10 days of receipt of the recommendations. 
+
+ 
+4. Investigator Notification and Appeals:  The Director of Research Integrity and Compliance will notify 
+
+Investigators when a Significant Financial Interest Requiring Disclosure must be managed and when a 
+Financial Conflict of Interest exists. The final recommended plan for the management, reduction, or 
+elimination of the Significant Financial Interest Requiring Disclosure in the form of an MOU will be sent 
+to the Investigator for signature. Investigators can appeal the plan with justifications in writing to the 
+COIC within 10 business days of receipt of the notification. Should the Investigator not file a written 
+
+
+
+appeal with the COIC by such time, then the Investigator shall be considered to have waived his/her 
+right to appeal and the MOU will be final, except for noting refusal of the Investigator to sign the MOU 
+where valid. If the Investigator’s appeal is denied by the COIC, the Investigator can appeal to the Provost 
+within 10 business days of receipt of the notification from the COIC. The Provost will notify the 
+Investigator within 10 business days as to whether the appeal is granted or denied. During any appeal to 
+the COIC or Provost, Investigators must not expend any funds under any award from a sponsor for the 
+conduct of the Research at issue and either (a) agree to abide by the initial recommendations of the 
+COIC or (b) remove themselves from any participation in the Research. 
+ 
+
+5. Research with Human Subjects:  Special precautions must be taken to avoid bias with respect to Research 
+involving Human Subjects involving the evaluation of strategies or products that may affect or be 
+affected by the financial interests of UM or UM Investigators. A UM Investigator shall not ordinarily 
+participate in any Research involving human subjects that encompasses evaluation of such a strategy or 
+product if he/she has a Significant Financial Interest that could directly and significantly affect the 
+design, conduct or reporting of the Research unless the Investigator presents a compelling justification 
+for a waiver of this policy based on unique qualifications as an Investigator. The degree of risk to human 
+subjects and the justification will be reviewed by the Committee. If compelling circumstances justify a 
+waiver of this policy, the Research will be subject to stringent management measures to ensure the 
+safety of the human participants and the integrity of the Research. The IRB must review and approve 
+any management plan for human subject Research. The IRB may require additional safeguards to 
+protect  human subject participants.  In accordance with 42 CFR Section 50.606(c), in any case in which 
+the Department of Health and Human Services determines that a Public Health Service-funded project 
+of clinical Research, whose purpose is to evaluate the safety or effectiveness of a drug, medical device or 
+treatment has been designed, conducted or reported by an Investigator with a conflicting interest that 
+was not reported or managed as required by this Policy or the applicable regulations, then UM shall, at 
+minimum, require the Investigator involved to disclose the conflicting interest in each public 
+presentation of the results of the Research and to request an addendum to previously published 
+presentations.  An Investigator who has failed to report a Significant Financial Interest Requiring 
+Disclosure related to clinical Research will be subject to sanctions described in Section VI. If the project is 
+funded by a PHS agency, the Investigator will also be subject to the mandatory Retrospective Review 
+procedures described in Section VI. 
+
+ 
+C. Reporting and Expenditure of Funds 
+
+ 
+No expenditure of sponsor funding for Research shall occur with respect to any Research project for 
+which the Committee has determined that a management plan is required unless and until all reporting 
+requirements have been met. For any Significant Financial Interest Requiring Disclosure that is identified 
+after the funding for the Research is awarded, the COIC will determine whether a Financial Conflict of 
+Interest exists and whether a management plan is required (or whether an existing plan must be 
+amended). As required by the sponsor’s regulations or policies, ORSP shall report to the funding agency 
+any management plans or Financial Conflict of Interest within 60 days of the interest’s identification. 
+The outcome of Conflict of Interest Committee reviews will be communicated to the Institutional Review 
+Board (IRB) for all Research involving human subjects and to the Institutional Animal Care and Use 
+Committee (IACUC) for all Research involving animal subjects. The IRB may require additional measures 
+to protect the safety and welfare of Research subjects under their purview. 
+
+ 
+D. PHS Awards 
+
+  
+Procedures and requirements for reporting and training for PHS Awards 
+
+
+
+ 
+1. Reports to PHS Funding Agency 
+
+ 
+As required by federal regulations, ORSP shall report the following information regarding Financial 
+Conflicts of Interest to the funding agency through the eRA Commons: 
+
+ 
+a. Project Number 
+b. PD/PI or Contact PD/PI if multiple PD/PI model is used 
+c. Name of the Investigator with the Financial Conflict of Interest 
+d. Name of the entity with which the Investigator has a Financial Conflict of Interest 
+e. Nature of the Significant Financial Interest (e.g. equity, consulting fee, travel reimbursement, 
+
+honorarium) 
+f. Value of the Significant Financial Interest, or a statement that the interest is one whose valued 
+
+cannot be readily determined through reference to public prices or other reasonable measure of 
+fair market value 
+
+g. A description of how the Significant Financial Interest relates to the PHS-funded research and 
+the basis for the COIC’s determination that the Significant Financial Interest conflicts with such 
+research 
+
+h. A description of key elements of the Conflict of Interest Management Plan including: 
+• Role and principal duties of the conflicted Investigator in the research project 
+• Conditions of the management plan 
+• How the management plan is designed to safeguard objectivity in the research project 
+• Confirmation of the Investigator’s agreement to the management plan 
+• How the management plan will be monitored to ensure Investigator compliance 
+• Other information as needed or requested by the funding agency 
+
+ 
+Additionally, each award year ORSP must provide the funding agency an annual FCOI report that 
+addresses the status of the Financial Conflict of Interest and any changes to the management plan for 
+the duration of the project period (including extensions with or without funding). The annual FCOI 
+Report shall specify whether the financial conflict is still being managed or explain why the Financial 
+Conflict of Interest no longer exists. ORSP must report to the agency the annual FCOI report at the time 
+of the progress report. 
+
+ 
+2. Reports in Response to Public Requests for Information 
+
+ 
+As required by federal regulations and upon written request, UM shall provide written information to 
+any requestor. Requests must be in writing and must identify the specific PHS project number. The 
+request must include a named recipient and return address with a physical street address (P.O. Boxes 
+are not acceptable). The written response will state that the information is current as of the date of the 
+correspondence. It will also state that the information is subject to updates at least annually and within 
+60 days of the identification of a new conflict of interest, and that this updated information must be 
+requested under separate cover. The following information will be provided to requestors: 
+
+ 
+a. Project Number 
+b. Name of the Investigator with a conflicted interest 
+c. Investigator’s title and role with respect to the research project 
+d. Nature of the financial interest (e.g. equity, consulting fee, travel reimbursement, honorarium) 
+
+
+
+e. Value of the financial interest (in ranges), or a statement that the interest is one whose valued 
+cannot be readily determined through reference to public prices or other reasonable measure of 
+fair market value 
+
+ 
+3.  Mandatory PHS Investigator Training 
+
+ 
+Each PHS Investigator must complete conflict of interest ethics training prior to engaging in Research, at 
+least every four years thereafter, and immediately under these circumstances: 
+ 
+
+ a. When this policy changes in a manner that affects Investigator requirements 
+b. When an Investigator is not in compliance with this policy or a management plan 
+
+VI. Compliance with this Policy 
+ 
+The Investigator is responsible for ensuring that all disclosures required by this Policy are made with accuracy and within 
+time limits. The Investigator must also follow prescribed plans for the management, reduction, or elimination of an 
+identified Financial Conflict of Interest. Failure to comply is a violation of this University Policy. The Investigator’s Dean 
+or Dean’s designee – or the Investigator’s division head or designee for non-academic units, or the Conflict of Interest 
+Review Committee may inspect any necessary records to ensure compliance with the plan. 
+
+ 
+The COIC, in consultation with the Institutional Official, is responsible for investigating and resolving any alleged 
+violations of this Policy and may recommend appropriate actions to the Institutional Official to enforce this Policy and/or 
+to impose a sanction for noncompliance. The Institutional Official shall review and take appropriate action to implement 
+such recommendations as deemed appropriate. Sanctions for noncompliance may include reprimands or other 
+measures, up to and including termination of employment. In investigating any violation of this Policy, the COIC must 
+determine if any violation of this Policy has biased the design, conduct or reporting of the Research.  The COIC will take 
+appropriate steps to maintain the objectivity of the Research and other corrective actions as deemed appropriate. The 
+COIC shall promptly notify the Institutional Official of any conflicts not resolved to the satisfaction of the COIC, along 
+with recommended actions. The COIC will promptly notify the Research sponsor and affected UM units of any violations 
+and/or corrective actions, as described above. 
+
+ 
+If a violation is associated with a collateral proceeding under the Responding to Allegations of Research Misconduct 
+policy, then recommendations on sanctions will be deferred until the research misconduct process is completed. 
+ 
+ 
+PHS Procedures for failure to comply with this policy or a Conflict of Interest Management Plan (MOU): Procedures 
+for Mandatory Retrospective Review  
+
+ 
+In addition the above review and sanctions, UM and PHS Investigators are subject to the following procedures when a 
+Financial Conflict of Interest is not identified or managed in a timely manner including failure by the Investigator to 
+disclose a Significant Financial Interest Requiring Disclosure that is determined by the COIC to constitute a Financial 
+Conflict of Interest; failure by UM to review or manage such a Financial Conflict of Interest; or failure by the Investigator 
+to comply with a Conflict of Interest Management Plan. 
+ 
+
+A. UM must implement, on at least an interim basis, a management plan that shall specify the actions that have 
+been, and will be, taken to manage such Financial Conflict of Interest going forward; 
+ 
+
+
+
+B. Within 120 days of the COIC’s determination of noncompliance, it must complete a retrospective review of the 
+Investigator’s activities and the PHS funded research project to determine whether any PHS -funded research, or 
+portion thereof, conducted during the time period of the noncompliance, was biased in the design, conduct, or 
+reporting of such research. 
+ 
+
+C. The COIC must document the retrospective review and include, at minimum, the following information: 
+1. Project number 
+2. Project title 
+3. PD/PI or contact PD/PI if a multiple PD/PI model is used 
+4. Name of the Investigator with the FCOI 
+5. Name of the entity with which the Investigator has a Financial Conflict of Interest 
+6. Reason(s) for the retrospective review 
+7. Detailed methodology used for the retrospective review (e.g., methodology of the review process, 
+
+composition of the review panel, documents reviewed) 
+8. Findings of the review 
+9. Conclusions of the review 
+
+ 
+D. Based on the results of the retrospective review, if appropriate, ORSP shall update the previously submitted  
+ FCOI report, specifying the actions that will be taken to manage the Financial Conflict of Interest going forward. 
+
+ 
+If the retrospective review team members find bias, ORSP must notify the PHS agency promptly and submit a 
+mitigation report to agency. The mitigation report must include, at a minimum, the key elements documented in 
+the retrospective review above and a description of the impact of the bias on the research project and UM’s 
+plan of action or actions taken to eliminate or mitigate the effect of the bias (e.g., impact on the research 
+project; extent of harm done, including any qualitative and quantitative data to support any actual or future 
+harm; analysis of whether the research project is salvageable). Thereafter, UM will submit annual FCOI reports 
+to the PHS agency. Depending on the nature of the Financial Conflict of Interest, UM may determine that 
+additional interim measures are necessary with regard to the Investigator’s participation in the PHS funded 
+research project between the date that the Financial Conflict of Interest or the Investigator’s noncompliance is 
+determined and the completion of UM’s retrospective review. 
+
+ 
+ 
+
+VII. Records Maintenance 
+   
+
+The Director of Research Integrity and Compliance is responsible for maintaining records, identifiable to each 
+project, all transactional reports of Significant Financial Interests, and all actions taken by the COIC or other 
+appropriate units within UM to manage any actual or potential Financial Conflict of Interest for the longer of at 
+least three (3) years from: (a) the date of submission of the final expenditures report, for federally funded 
+grants; (b) from the date of termination or completion of the award; or (c) from the date of the resolution of any 
+action by any governmental agency involving the records; or (d) as applicable, from any other date specified in 
+45 CFR Section 74.53(b) for different situations, as appropriate. 
+
+ 
+
+
+	I. Purpose
+	II. Definitions1
+	III. Regulatory Authority
+	IV. Applicability
+	V. Procedures
+	VI. Compliance with this Policy
+

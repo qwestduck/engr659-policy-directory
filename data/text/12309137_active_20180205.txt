@@ -1,0 +1,120 @@
+
+ 
+Disclosure of De-identified PHI 
+
+HIPAA Policy: Privacy 04 
+ 
+ 
+
+1  
+
+ 
+
+ 
+
+Summary:  How to de-identify PHI so that it may be disclosed without authorization 
+ 
+Affected Individuals:  Staff at HIPAA covered entities 
+
+ 
+
+1.0 PURPOSE 
+ 
+
+To ensure that when The University of Mississippi (UM) releases protected health 
+information (PHI) without an authorization, in situations where an authorization would 
+normally be required, it is de-identified using the safe  harbor method as it is defined by 
+Health Insurance Portability and Accountability Act (HIPAA) Privacy Regulations, 45 
+CFR Part 164.514. 
+
+ 
+2.0 SCOPE 
+
+ 
+The UM Disclosures of De-identified Protected Health Information (PHI) Policy applies 
+to any UM employee who releases PHI without an authorization. 
+
+ 
+3.1 STANDARDS 
+
+ 
+Deidentifying PHI requires removing any information that would allow an individual to 
+indentify the individual(s) who are the subject of the information.  This rule applies even if 
+the person receiving the information would need additional information to identify the 
+subject of the PHI.  The following information must usually be removed from the PHI before 
+disclosure. Under some circumstances additional identifiers would need to be removed: 
+
+ Names; 
+
+ Relatives, household members, or the employer of the subject of the PHI; 
+
+ All geographic subdivisions smaller than a state, including street, address, 
+city, county, precinct, zip code, and their equivalent geocodes, except for 
+the initial three digits of a zip code if, according to the current publicly 
+available data from the Bureau of the Census: 
+
+o The geographic unit formed by combining all zip codes with the 
+same three initial digits contains more than 20,000 people; and 
+
+o The initial three digits of a zip code for all such geographic units 
+containing 20,000 or fewer people is changed to 000; 
+
+
+
+ 
+Disclosure of De-identified PHI 
+
+HIPAA Policy: Privacy 04 
+ 
+ 
+
+2  
+
+ 
+
+ 
+
+ All elements of dates (except year) for dates directly related to an 
+individual, including birth date, admission date, discharge date, date of 
+death; and all ages over 89 and all elements of dates (including year) 
+indicative of such age, except that such ages and elements may be 
+aggregated into a single category of age 90 or older; 
+
+ Telephone numbers; 
+
+ Fax numbers; 
+
+ Electronic mail addresses; 
+
+ Social security numbers; 
+
+ Medical record numbers; 
+
+ Health plan beneficiary numbers; 
+
+ Account numbers; 
+
+ Certificate/license numbers; 
+
+ Vehicle identifiers and serial numbers; including license plate numbers; 
+
+ Device identifiers and serial numbers; 
+
+ Web Universal Resource Locators (URLs); 
+
+ Internet Protocol (IP) address numbers; 
+
+ Biometric identifiers, including finger and voice prints; 
+
+ Full face photographic images and any comparable images; and 
+
+ Any other unique identifying number, characteristic, or code. 
+
+ 
+4.0 CONTACT INFORMATION 
+
+ 
+For questions about the UM Disclosure of De-identified PHI Policy or for more 
+information, call the Office of General Counsel at 662-915-7014. 
+
+

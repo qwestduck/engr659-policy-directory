@@ -1,0 +1,46 @@
+
+The University of Mississippi 
+
+Release of Telephone Call Tracking Information 
+
+Summary/Purpose:  Defines the policy for releasing telephone call tracking data. 
+
+The Telecommunications Center will not release call tracking data (date, time, telephone number, 
+length of call) about calls made to or from a University telephone number that is assigned to an 
+individual employee unless proper authorization is obtained by the person requesting the 
+information from the Director of University Police and Campus Safety. 
+
+The person requesting call tracking data will send a confidential memo to the Director of 
+University Police and Campus Safety, with a copy to the Director of Telecommunications, 
+detailing the need for this information. The memo must provide the following:  
+
+• Reason for needing the information
+• Approximate time when call was made or received
+• Date call was made or received
+• Telephone number(s) call was made from or received on
+• Signature of the person wanting the information
+
+If approved, the Director of University Police and Campus Safety will signify approval by making 
+a note of approval, dating, and signing the memo. The Director will send the approved signed 
+memo to the Director of Telecommunications in an envelope marked “Confidential” by campus 
+mail.  
+
+If information is found, the Director of Telecommunications will print the results, attach a copy of 
+the request, and forward the information in an envelope marked “Confidential” to the person that 
+requested the information.  
+
+Policy Code ADM.TC.500.003. The University of Mississippi Policy Directory 
+Page 1 of 1 Generated on 02/20/2009 at 14:20:33 CST See http://www.olemiss.edu/policies for full details.
+
+Call Tracking for phone numbers assigned to an employee:
+
+Call Tracking for phone numbers assigned to a department
+
+Requests for call tracking of calls made to a departmental number (not assigned to an individual) can 
+be requested via email to the Director of Telecommunications by the department head.  
+Telecommunications will verify that the phone number is not assigned to an individual and then email 
+the call detail report back to the department head.
+
+
+
+

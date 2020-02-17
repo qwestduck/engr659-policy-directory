@@ -1,0 +1,131 @@
+
+The University of Mississippi 
+
+Page 1 of 2 
+
+Autoclave Safety 
+ 
+
+Summary/Purpose:  The Autoclave Safety Policy details the minimum requirements and 
+procedures for the safe operation of Autoclaves. 
+
+Autoclaves use superheated steam to sterilize materials and supplies for laboratory use and to 
+prepare contaminated items for disposal. Because there are several brands and types of machines, 
+it is the responsibility of the laboratory supervisor to properly train all of the personnel in the 
+safe operation of the specific type of autoclave they are using. As a general rule the following 
+table can be used as a guide for preparation and disposal. For specific techniques, more or less 
+time, temperature, and pressure may be used as designated by the Principal Investigator (PI).  
+
+Program Temperature Time Drying Time Items To be Sterilized 
+
+Liquids 
+121° C  
+
+(250° F) 
+15 minutes None 
+
+Distilled water, media solutions, other liquid 
+prepared in closed bottles or flasks (not 
+greater than 2 liters). Not for clinical 
+applications 
+
+Unwrapped 
+135° C  
+
+(275 °F) 
+3 minutes
+
+Default:  
+15 minutes,  
+can be set from 
+1 to 99 minutes
+
+Unwrapped instruments: metal glass and 
+plastic objects. Heat resistant rubber tubing 
+which will not be used in surgical 
+applications. Any other items for which 135° 
+C for 3 minutes is appropriate 
+
+Wrapped 
+135° C  
+
+(275 °F) 
+10 minutes
+
+Default:  
+15 minutes,  
+can be set from 
+1 to 99 minutes
+
+Wrapped cloths, bandages, pads, fabrics, 
+loosely wrapped individual instruments 
+separated by fabric, wrapped trays of loose 
+instruments, instruments in bags, heat-
+resistant rubber tubing. Any other items for 
+which 135° C for 10 minutes is appropriate. 
+
+Packs 
+121° C  
+
+(250 °F) 
+30 minutes
+
+Default:  
+15 minutes,  
+can be set from 
+1 to 99 minutes
+
+Packs of towels. Groups of instruments in 
+commercially prepared packs. Instruments 
+subject to prolonged storage. Surgical gloves 
+wrapped for sterilization. Any other items for 
+which 121° C for 30 minutes is appropriate, 
+except liquids 
+
+Optional 
+User defined  
+
+From 100 °C to 136 °C 
+(212 °F to 277 °F) 
+
+User 
+defined  
+
+User defined 1 
+to 99 minutes 
+
+Items appropriate to the user defined 
+parameters. Dental handpieces should be run 
+in this cycle at 132° C for 10 minutes. 
+
+When using any type of autoclave, a few general rules must always be followed to 
+insure its safe operation.  
+
+
+
+The University of Mississippi 
+
+Page 2 of 2 
+
+ Never attempt to open the door while the machine is operating.  
+ Always check the jacket pressure gauge to make sure that it is reading 0 PSI before 
+
+opening the door.  
+ Do not overfill containers when autoclaving liquids.  
+ Use a catch basin to capture overflow when autoclaving any materials.  
+ Periodically check chamber trap and clean as necessary.  
+ When preparing materials for disposal, do not autoclave more than can easily be placed 
+
+in an appropriate disposal container.  
+ If the machine is not operating properly, notify the laboratory supervisor. Do Not 
+
+Attempt To Make Repairs. This should be done only by a trained technician.  
+
+Laboratory Services (5433) tests all operational autoclaves biannually, and as needed after major 
+repairs, to ensure proper operation.  
+
+ 
+
+ 
+
+
