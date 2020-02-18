@@ -116,6 +116,16 @@ public:
 
         return wss.str();
     }
+
+    std::vector<double> getDocumentVector(U docId) {
+        std::vector<double> ret;
+
+        for(const auto & term : documentFrequency) {
+            ret.push_back(static_cast<double>(invertedIndex[term.first][docId]));
+        }
+
+        return ret;
+    }
 };
 
 #endif
