@@ -1,8 +1,11 @@
 #ifndef CORPUS_HPP
 #define CORPUS_HPP
 
-#include <string>
+#include <iostream>
 #include <map>
+#include <sstream>
+#include <string>
+#include <vector>
 #include "Document.hpp"
 #include "DocumentMetadata.hpp"
 #include "Index.hpp"
