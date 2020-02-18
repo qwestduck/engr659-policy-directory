@@ -6,9 +6,11 @@
 
 template <class T>
 class Tokenizer {
-
+protected:
+    std::string id;
 public:
     Tokenizer() { }
+    std::string getId() const { return id; }
     virtual std::vector<T> tokenize(std::wstring) const = 0;
 };
 
