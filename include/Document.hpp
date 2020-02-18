@@ -11,7 +11,7 @@ class Document {
     DocumentMetadata<std::string> metadata;
 public:
     Document() { }
-    double similiarty(Document const & b) {
+    double similarity(Document const & b) {
         return Math::dotProduct(normalizedVector, b.getNormalizedVector());
     }
 
