@@ -47,7 +47,7 @@ int main() {
 	corpusStandard.normalizeDocumentVectors();
 
 	for(auto const & corpus : corpora) {
-		std::cout << corpus.getTokenizer().getId() << " " << corpusSimilarity(corpus, corpusStandard) << std::endl;
+		std::cout << corpus.getTokenizer()->getId() << " " << corpusSimilarity(corpus, corpusStandard) << std::endl;
 	}
 
 	return 0;

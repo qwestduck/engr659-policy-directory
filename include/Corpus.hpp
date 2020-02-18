@@ -50,8 +50,8 @@ public:
         tokenizer = tok;
     }
 
-    Tokenizer getTokenizer() const {
-        return tokenizer;
+    Tokenizer<std::wstring>* getTokenizer() const {
+        return &tokenizer;
     }
 
     void buildIndex() {
