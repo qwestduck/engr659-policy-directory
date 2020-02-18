@@ -6,5 +6,5 @@ do
 	docId=$(echo "$fileName" | sed "s/^\([0-9]*\)_.*$/\1/")
 	publishDate=$(echo "$fileName" | sed "s/^.*_\([0-9]*\)\.txt$/\1/")
 
-	echo "$fileName,$docId"
+	echo "$fileName $docId"
 done

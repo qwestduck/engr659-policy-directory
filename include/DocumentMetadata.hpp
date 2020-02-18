@@ -3,13 +3,15 @@
 
 #include <string>
 
+template <class T>
 class DocumentMetadata {
     std::string filename;
     int id;
 public:
-    DocumentMetadata(std::string filename, int id) : filename(filename), id(id) { }
+    DocumentMetadata () {}
+    DocumentMetadata(std::string filename, T id) : filename(filename), id(id) { }
     std::string getFilename() const { return filename; }
-    int getId() const { return id; }
+    T getId() const { return id; }
 };
 
 #endif
