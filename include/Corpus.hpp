@@ -66,7 +66,7 @@ public:
 
     void normalizeDocumentVectors() {
         for(auto &document : documents) {
-            document.second.setNormalizedVector(Math::euclideanNormalize(getDocumentVector(document.first)));
+            document.second.setNormalizedVector(Math::euclideanNormalize(index.getDocumentVector(document.first)));
         }
     }
 
