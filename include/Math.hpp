@@ -1,6 +1,7 @@
 #ifndef MATH_HPP
 #define MATH_HPP
 
+#include <cmath>
 #include <stdexcept>
 #include <vector>
 
@@ -24,11 +25,11 @@ public:
     static double dotProduct(std::vector<double> a, std::vector<double> b) {
         double ret = 0;
 
-        if(a.size != b.size) {
+        if(a.size() != b.size()) {
             throw std::overflow_error("Vector size mismatch");
         }
 
-        for(int i = 0; i < a.size; i++) {
+        for(int i = 0; i < a.size(); i++) {
             ret += a[i] * b[i];
         }
 
@@ -44,10 +45,10 @@ public:
             divisor += el * el;
         }
 
-        divisor = Math.sqrt(divisor);
+        divisor = std::sqrt(divisor);
 
-        for(int i = 0; i < a.size; i++) {
-            ret[i] = Math.divide(a[i], divisor);
+        for(int i = 0; i < a.size(); i++) {
+            ret[i] = divide(a[i], divisor);
         }
 
         return ret;
