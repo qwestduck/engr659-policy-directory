@@ -3,29 +3,21 @@
 
 #include <iostream>
 #include <map>
-#include <sstream>
 #include <string>
 #include <vector>
 #include "Document.hpp"
 #include "DocumentMetadata.hpp"
+#include "File.hpp"
 #include "Index.hpp"
 #include "WhitespaceTokenizer.hpp"
-
-inline std::wstring fileContentToWString(std::string filename) {
-    std::wifstream fin(filename);
-    std::wstringstream buffer;
-    buffer << fin.rdbuf();
-
-    return buffer.str();
-}
 
 template <class T>
 class Corpus {
     std::map<T, Document> documents;
-    WhitespaceTokenizer<std::wstring> tokenizer;
+    Tokenizer<std::wstring> tokenizer;
     Index<std::wstring, T> index;
 public:
-    Corpus() { }
+    Corpus() : tokenizer(WhitespaceTokenizer<std::wstring>()) { }
 
     void loadFromCSV(const std::string filename, const std::string prefix) {
         std::string f;
@@ -54,9 +46,17 @@ public:
         index = i;
     }
 
+    void setTokenizer(Tokenizer<std::wstring> & tok) {
+        tokenizer = tok;
+    }
+
+    Tokenizer getTokenizer() const {
+        return tokenizer;
+    }
+
     void buildIndex() {
         for(const auto &document : documents) {
-            auto fullText = fileContentToWString(document.second.getMetadata().getFilename());
+            auto fullText = File::fileContentToWString(document.second.getMetadata().getFilename());
 
             for(const auto &term : tokenizer.tokenize(fullText)) {
                 index.insert(term, document.second.getMetadata().getId());
