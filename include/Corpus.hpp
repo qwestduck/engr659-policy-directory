@@ -51,11 +51,11 @@ public:
     }
 
     void buildIndex() {
-        for(const auto &document : corpus.getDocuments()) {
-            auto fullText = fileContentToWString(document.getMetadata().getFilename());
+        for(const auto &document : documents) {
+            auto fullText = fileContentToWString(document.second.getMetadata().getFilename());
 
             for(const auto &term : tokenizer.tokenize(fullText)) {
-                index.insert(term, document.getMetadata().getId());
+                index.insert(term, document.second.getMetadata().getId());
             }
         }
     }
