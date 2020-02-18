@@ -11,8 +11,12 @@ include_directories(include)
 #  -warnings-as-errors=*;
 #)
 
-add_executable(tokenize
+add_executable(stats
     src/main.cpp
 )
 
-set_property(TARGET tokenize PROPERTY CXX_STANDARD 20)
+add_executable(perftest_tokenizer
+    test/perf/tokenizer.cpp
+)
+
+set_property(TARGET stats PROPERTY CXX_STANDARD 20)
