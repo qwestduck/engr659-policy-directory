@@ -8,7 +8,7 @@ template <class T>
 class WhitespaceTokenizer: public Tokenizer<T> {
 
 public:
-    WhitespaceTokenizer() id("WhitespaceTokenizer") { }
+    WhitespaceTokenizer() : id("WhitespaceTokenizer") { }
 
     std::vector<T> tokenize(std::wstring fulltext) const;
 };
