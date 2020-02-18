@@ -1,6 +1,7 @@
 #ifndef INDEX_HPP
 #define INDEX_HPP
 
+#include <codecvt>
 #include <locale>
 #include <map>
 #include <set>
