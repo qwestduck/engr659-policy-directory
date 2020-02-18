@@ -6,6 +6,7 @@
 #include "Document.hpp"
 #include "DocumentMetadata.hpp"
 #include "Index.hpp"
+#include "WhitespaceTokenizer.hpp"
 
 inline std::wstring fileContentToWString(std::string filename) {
     std::wifstream fin(filename);
