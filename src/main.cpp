@@ -5,6 +5,7 @@
 
 #include "Corpus.hpp"
 #include "Index.hpp"
+#include "Math.hpp"
 #include "WhitespaceTokenizer.hpp"
 
 inline std::wstring fileContentToWString(std::string filename) {
@@ -13,19 +14,6 @@ inline std::wstring fileContentToWString(std::string filename) {
     buffer << fin.rdbuf();
 
     return buffer.str();
-}
-
-inline double divide(double num, double den) 
-{ 
-    if (den == 0.0) { 
-        throw std::overflow_error("Division by zero"); 
-    } 
-  
-    return (num / den);
-}
-
-inline double _divide(int num, int den) {
-    return divide(static_cast<double>(num), static_cast<double>(den));
 }
 
 int main() {
@@ -48,7 +36,7 @@ int main() {
     std::cout << "Total distinct words = " << index.getTermCount() << std::endl;
     std::cout << "Average number of words per document = ";
     try {
-        std::cout << _divide(index.getTermCount(), index.getDocumentCount()) << std::endl;
+        std::cout << Math::_divide(index.getTermCount(), index.getDocumentCount()) << std::endl;
     } catch(...) {
         std::cout << "n/a" << std::endl;
     }
