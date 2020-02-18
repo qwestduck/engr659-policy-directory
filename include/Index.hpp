@@ -1,6 +1,7 @@
 #ifndef INDEX_HPP
 #define INDEX_HPP
 
+#include <locale>
 #include <map>
 #include <set>
 #include <string>
@@ -102,7 +103,9 @@ public:
         wss << std::endl;
 
         for(const auto &d : documentIds) {
-            wss << d << "\t";
+            std::wstring_convert<std::codecvt_utf8<wchar_t>> conv;
+
+            wss << conv.from_bytes(d) << "\t";
             for(int i = 0; i < n; i++) {
                 wss << invertedIndex[pairs[i].first][d] << "\t";
             }
