@@ -14,10 +14,15 @@
 template <class T>
 class Corpus {
     std::map<T, Document> documents;
-    Tokenizer<std::wstring> tokenizer;
+    std::vector<std::wstring> dictionary;
+    Tokenizer<std::wstring> * tokenizer;
     Index<std::wstring, T> index;
 public:
-    Corpus() : tokenizer(WhitespaceTokenizer<std::wstring>()) { }
+    Corpus() {
+        WhitespaceTokenizer<std::wstring> wst;
+
+        tokenizer = &wst;
+    }
 
     void loadFromCSV(const std::string filename, const std::string prefix) {
         std::string f;
@@ -46,22 +51,32 @@ public:
         index = i;
     }
 
-    void setTokenizer(Tokenizer<std::wstring> & tok) {
+    void setTokenizer(Tokenizer<std::wstring> *tok) {
         tokenizer = tok;
     }
 
-    Tokenizer<std::wstring>* getTokenizer() const {
-        return &tokenizer;
+    void setDictionary(std::vector<std::wstring> const & dic ) {
+        dictionary = dic;
+    };
+
+    std::vector<std::wstring> getDictionary() const {
+        return dictionary;
+    }
+
+    Tokenizer<std::wstring> * getTokenizer() const {
+        return tokenizer;
     }
 
     void buildIndex() {
         for(const auto &document : documents) {
             auto fullText = File::fileContentToWString(document.second.getMetadata().getFilename());
 
-            for(const auto &term : tokenizer.tokenize(fullText)) {
+            for(const auto &term : tokenizer->tokenize(fullText)) {
                 index.insert(term, document.second.getMetadata().getId());
             }
         }
+
+        dictionary = index.getDictionary();
     }
 
     void normalizeDocumentVectors() {
