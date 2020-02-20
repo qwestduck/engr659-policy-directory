@@ -96,26 +96,42 @@ public:
     }
 
     void normalizeDocumentVectors() {
+        normalizeDocumentVectorsNGram(1);
+    }
+
+    void normalizeDocumentVectorsNGram(int n) {
+        if(n > 3 || n < 1) {
+            return;
+        }
+
         for(auto &document : documents) {
-            document.second.setNormalizedVector(Math::euclideanNormalize(index[1].getDocumentVector(document.first, dictionary[1])));
+            document.second.setNormalizedVector(Math::euclideanNormalize(index[n].getDocumentVector(document.first, dictionary[n])));
         }
     }
 
     void printSummary() {
-        std::cout << "Corpus statistics:" << std::endl;
+        printSummaryNGram(1);
+    }
+
+    void printSummaryNGram(int n) {
+        if(n > 3 || n < 1) {
+            return;
+        }
+
+        std::cout << "Corpus statistics for " << n << "-gram:" << std::endl;
         std::cout << "-----" << std::endl;
-        std::cout << "Total distinct words = " << index[1].getTermCount() << std::endl;
-        std::cout << "Average number of words per document = ";
+        std::cout << "Total distinct terms = " << index[n].getTermCount() << std::endl;
+        std::cout << "Average number of terms per document = ";
         try {
-            std::cout << Math::_divide(index[1].getTermCount(), index[1].getDocumentCount()) << std::endl;
+            std::cout << Math::_divide(index[n].getTermCount(), index[n].getDocumentCount()) << std::endl;
         } catch(...) {
             std::cout << "n/a" << std::endl;
         }
 
         std::cout << "Terms sorted by frequency in the collection:" << std::endl;
-        std::wcout << index[1].termsSortedByCollectionFrequencyToWString() << std::endl;
-        std::wcout << index[1].termFrequencyByDocumentTopNToWString(10);
-        std::wcout << index[1].documentFrequencyToWString() << std::endl;
+        std::wcout << index[n].termsSortedByCollectionFrequencyToWString() << std::endl;
+        std::wcout << index[n].termFrequencyByDocumentTopNToWString(10);
+        std::wcout << index[n].documentFrequencyToWString() << std::endl;
     }
 };
 
