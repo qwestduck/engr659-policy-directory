@@ -20,3 +20,4 @@ add_executable(perftest_tokenizer
 )
 
 set_property(TARGET stats PROPERTY CXX_STANDARD 20)
+set_property(TARGET perftest_tokenizer PROPERTY CXX_STANDARD 20)
