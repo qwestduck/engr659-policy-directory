@@ -12,12 +12,12 @@
 
 template <class T, class U>
 class Index {
-    std::unordered_map<std::wstring, int> collectionFrequency;
-    std::map<std::wstring, int> documentFrequency;
-    std::unordered_map<std::wstring, std::unordered_map<U, int>> invertedIndex;
+    std::unordered_map<T, int> collectionFrequency;
+    std::map<T, int> documentFrequency;
+    std::unordered_map<T, std::unordered_map<U, int>> invertedIndex;
 
     std::set<U> documentIds;
-    std::vector<std::pair<std::wstring, int>> pairs;
+    std::vector<std::pair<T, int>> pairs;
 
     int totalTerms;
     int totalDocuments;
@@ -31,7 +31,7 @@ class Index {
             pairs.push_back(e);
 
         sort(pairs.begin(), pairs.end(),
-            [=](std::pair<std::wstring, int>& a, std::pair<std::wstring, int>& b)
+            [=](std::pair<T, int>& a, std::pair<T, int>& b)
             {
                 return a.second > b.second;
             }
