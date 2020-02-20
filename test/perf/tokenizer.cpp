@@ -4,6 +4,7 @@
 #include "Document.hpp"
 #include "Math.hpp"
 #include "NewlineTokenizer.hpp"
+#include "PolicyTokenizer001.hpp"
 #include "Tokenizer.hpp"
 #include "WhitespaceTokenizer.hpp"
 
@@ -35,7 +36,9 @@ int main() {
 
 	// Test tokenizers
 	WhitespaceTokenizer<std::wstring> wst;
+	PolicyTokenizer001<std::wstring> pt001;
 	testTokenizers.push_back(&wst);
+	testTokenizers.push_back(&pt001);
 
 	for(auto & tokenizer : testTokenizers) {
 		Corpus<std::string> corpus;
@@ -50,6 +53,11 @@ int main() {
 
 	for(auto const & corpus : corpora) {
 		std::cout << corpus.getTokenizer()->getId() << " " << corpusSimilarity(corpus, corpusStandard) << std::endl;
+
+		if(corpus.getTokenizer()->getId() == "PolicyTokenizer001") {
+			Corpus<std::string> c = corpus;
+			c.printSummary();
+		}
 	}
 
 	return 0;
