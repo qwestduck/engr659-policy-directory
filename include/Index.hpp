@@ -126,6 +126,16 @@ public:
 
         return ret;
     }
+
+    std::vector<T> getDictionary() {
+        std::vector<T> ret;
+
+        for(const auto & el : documentFrequency) {
+            ret.push_back(el.first);
+        }
+
+        return ret;
+    }
 };
 
 #endif
