@@ -21,30 +21,32 @@ inline double corpusSimilarity(Corpus<std::string> c1, Corpus<std::string> c2) {
 }
 
 int main() {
-	std::vector<Tokenizer<std::wstring>> testTokenizers;
+	std::vector<Tokenizer<std::wstring>*> testTokenizers;
 	std::vector<Corpus<std::string>> corpora;
-
-	testTokenizers.push_back(WhitespaceTokenizer<std::wstring>());
-
-	for(auto & tokenizer : testTokenizers) {
-		Corpus<std::string> corpus;
-		corpus.loadFromCSV("../test/data/corpus-metadata.csv", "../data/text/");
-		corpus.setTokenizer(tokenizer);
-		corpus.buildIndex();
-		corpus.normalizeDocumentVectors();
-
-		corpora.push_back(corpus);
-	}
 
 	// Gold standard
 	Corpus<std::string> corpusStandard;
 	NewlineTokenizer<std::wstring> nlt;
 
 	corpusStandard.loadFromCSV("../test/data/corpus-metadata.csv", "../test/data/tokenized/");
-	corpusStandard.setTokenizer(nlt);
-
+	corpusStandard.setTokenizer(&nlt);
 	corpusStandard.buildIndex();
 	corpusStandard.normalizeDocumentVectors();
+
+	// Test tokenizers
+	WhitespaceTokenizer<std::wstring> wst;
+	testTokenizers.push_back(&wst);
+
+	for(auto & tokenizer : testTokenizers) {
+		Corpus<std::string> corpus;
+		corpus.loadFromCSV("../test/data/corpus-metadata.csv", "../data/text/");
+		corpus.setTokenizer(tokenizer);
+		corpus.buildIndex();
+		corpus.setDictionary(corpusStandard.getDictionary());
+		corpus.normalizeDocumentVectors();
+
+		corpora.push_back(corpus);
+	}
 
 	for(auto const & corpus : corpora) {
 		std::cout << corpus.getTokenizer()->getId() << " " << corpusSimilarity(corpus, corpusStandard) << std::endl;
