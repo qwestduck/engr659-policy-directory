@@ -11,6 +11,20 @@ include_directories(include)
 #  -warnings-as-errors=*;
 #)
 
+CHECK_CXX_SOURCE_COMPILES(
+    "
+    #include <set>
+
+    int main() {
+        std::set<int> a;
+        a.contains(0);
+
+        return 0;
+    }"
+
+    HAVE_SETCONTAINS
+)
+
 add_executable(stats
     src/main.cpp
 )
