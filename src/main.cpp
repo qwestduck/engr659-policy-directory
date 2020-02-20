@@ -10,9 +10,11 @@ int main() {
     Corpus<std::string> corpus;
 
     corpus.loadFromCSV("../data/corpus-metadata.csv", "../data/text/");
-    corpus.buildIndex();
-    corpus.normalizeDocumentVectors();
+    corpus.buildIndexNGram(2);
+    corpus.normalizeDocumentVectorsNGram(2);
 
+    // Document similarity
+    /*
     double bestMatchValue = 0;
     double matchValue;
     std::string bestMatchDocId_0;
@@ -32,8 +34,9 @@ int main() {
     }
 
     std::cout << bestMatchValue << " " << bestMatchDocId_0 << " " << bestMatchDocId_1 << std::endl;
+    */
 
-    //corpus.printSummary();
+    corpus.printSummaryNGram(2);
 
     return 0;
 }
