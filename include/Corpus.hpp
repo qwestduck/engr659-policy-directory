@@ -9,7 +9,7 @@
 #include "DocumentMetadata.hpp"
 #include "File.hpp"
 #include "Index.hpp"
-#include "WhitespaceTokenizer.hpp"
+#include "PolicyTokenizer001.hpp"
 
 template <class T>
 class Corpus {
@@ -19,9 +19,7 @@ class Corpus {
     Index<std::wstring, T> index;
 public:
     Corpus() {
-        WhitespaceTokenizer<std::wstring> wst;
-
-        tokenizer = &wst;
+        tokenizer = new PolicyTokenizer001<std::wstring>();
     }
 
     void loadFromCSV(const std::string filename, const std::string prefix) {
