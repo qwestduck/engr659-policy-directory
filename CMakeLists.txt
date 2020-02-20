@@ -19,5 +19,7 @@ add_executable(perftest_tokenizer
     test/perf/tokenizer.cpp
 )
 
+set(CMAKE_BUILD_TYPE Debug)
+
 set_property(TARGET stats PROPERTY CXX_STANDARD 20)
 set_property(TARGET perftest_tokenizer PROPERTY CXX_STANDARD 20)
