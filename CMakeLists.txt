@@ -11,7 +11,9 @@ include_directories(include)
 #  -warnings-as-errors=*;
 #)
 
-CHECK_CXX_SOURCE_COMPILES(
+include(CheckCXXSourceCompiles)
+set(CMAKE_REQUIRED_FLAGS "-std=c++2a")
+check_cxx_source_compiles(
     "
     #include <set>
 
