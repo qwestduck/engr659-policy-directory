@@ -14,9 +14,9 @@
 template <class T>
 class Corpus {
     std::map<T, Document> documents;
-    std::vector<std::wstring> dictionary;
+    std::vector<std::wstring> dictionary[4];
     Tokenizer<std::wstring> * tokenizer;
-    Index<std::wstring, T> index;
+    Index<std::wstring, T> index[4];
 public:
     Corpus() {
         tokenizer = new PolicyTokenizer001<std::wstring>();
@@ -46,7 +46,7 @@ public:
     }
 
     void setIndex(Index<std::wstring, T> const & i) {
-        index = i;
+        index[1] = i;
     }
 
     void setTokenizer(Tokenizer<std::wstring> *tok) {
@@ -54,11 +54,11 @@ public:
     }
 
     void setDictionary(std::vector<std::wstring> const & dic ) {
-        dictionary = dic;
+        dictionary[1] = dic;
     };
 
     std::vector<std::wstring> getDictionary() const {
-        return dictionary;
+        return dictionary[1];
     }
 
     Tokenizer<std::wstring> * getTokenizer() const {
@@ -66,38 +66,56 @@ public:
     }
 
     void buildIndex() {
+        buildIndexNGram(1);
+    }
+
+    void buildIndexNGram(int n) {
+        if(n > 3 || n < 1) {
+            return;
+        }
+
         for(const auto &document : documents) {
             auto fullText = File::fileContentToWString(document.second.getMetadata().getFilename());
+            auto tokens = tokenizer->tokenize(fullText);
 
-            for(const auto &term : tokenizer->tokenize(fullText)) {
-                index.insert(term, document.second.getMetadata().getId());
+            for(int i = 0; i < tokens.size() - n + 1; i++) {
+                std::wstring token;
+
+                token = tokens[i];
+
+                for(int j = 1; j < n; j++) {
+                    token += L" ";
+                    token += tokens[i + j];
+                }
+
+                index[n].insert(token, document.second.getMetadata().getId());
             }
         }
 
-        dictionary = index.getDictionary();
+        dictionary[n] = index[n].getDictionary();
     }
 
     void normalizeDocumentVectors() {
         for(auto &document : documents) {
-            document.second.setNormalizedVector(Math::euclideanNormalize(index.getDocumentVector(document.first, dictionary)));
+            document.second.setNormalizedVector(Math::euclideanNormalize(index[1].getDocumentVector(document.first, dictionary[1])));
         }
     }
 
     void printSummary() {
         std::cout << "Corpus statistics:" << std::endl;
         std::cout << "-----" << std::endl;
-        std::cout << "Total distinct words = " << index.getTermCount() << std::endl;
+        std::cout << "Total distinct words = " << index[1].getTermCount() << std::endl;
         std::cout << "Average number of words per document = ";
         try {
-            std::cout << Math::_divide(index.getTermCount(), index.getDocumentCount()) << std::endl;
+            std::cout << Math::_divide(index[1].getTermCount(), index[1].getDocumentCount()) << std::endl;
         } catch(...) {
             std::cout << "n/a" << std::endl;
         }
 
         std::cout << "Terms sorted by frequency in the collection:" << std::endl;
-        std::wcout << index.termsSortedByCollectionFrequencyToWString() << std::endl;
-        std::wcout << index.termFrequencyByDocumentTopNToWString(10);
-        std::wcout << index.documentFrequencyToWString() << std::endl;
+        std::wcout << index[1].termsSortedByCollectionFrequencyToWString() << std::endl;
+        std::wcout << index[1].termFrequencyByDocumentTopNToWString(10);
+        std::wcout << index[1].documentFrequencyToWString() << std::endl;
     }
 };
 
