@@ -13,6 +13,7 @@ include_directories(include)
 
 include(CheckCXXSourceCompiles)
 set(CMAKE_REQUIRED_FLAGS "-std=c++2a")
+
 check_cxx_source_compiles(
     "
     #include <set>
@@ -25,6 +26,20 @@ check_cxx_source_compiles(
     }"
 
     HAVE_SETCONTAINS
+)
+
+check_cxx_source_compiles(
+    "
+    #include <unordered_map>
+
+    int main() {
+        std::unordered_map<int, int> a;
+        a.contains(0);
+
+        return 0;
+    }"
+
+    HAVE_UMAPCONTAINS
 )
 
 add_executable(stats

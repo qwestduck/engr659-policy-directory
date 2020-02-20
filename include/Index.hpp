@@ -47,11 +47,19 @@ public:
 
         collectionFrequency[term]++;
 
+        #if HAVE_UMAPCONTAINS
         if(!invertedIndex[term].contains(documentId)) {
+        #else
+        if(invertedIndex[term].count(documentId) == 0) {
+        #endif
             documentFrequency[term]++;
         }
 
+        #if HAVE_SETCONTAINS
         if(!documentIds.contains(documentId)) {
+        #else
+        if(documentIds.count(documentId) == 0) {
+        #endif
             totalDocuments++;
             documentIds.insert(documentId);
         }
