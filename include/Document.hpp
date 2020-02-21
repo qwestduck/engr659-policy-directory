@@ -1,8 +1,9 @@
 #ifndef DOCUMENT_HPP
 #define DOCUMENT_HPP
 
-#include <vector>
 #include "DocumentMetadata.hpp"
+
+#include <vector>
 
 class Document {
     std::vector<double> normalizedVector;

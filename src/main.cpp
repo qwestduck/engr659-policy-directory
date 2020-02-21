@@ -1,10 +1,10 @@
+#include "Corpus.hpp"
+
 #include <fstream>
 #include <iostream>
 #include <sstream>
 #include <string>
 #include <vector>
-
-#include "Corpus.hpp"
 
 int main() {
     Corpus<std::string> corpus;

@@ -1,6 +1,3 @@
-#include <iostream>
-#include <string>
-#include <vector>
 #include "Corpus.hpp"
 #include "Document.hpp"
 #include "Math.hpp"
@@ -8,6 +5,10 @@
 #include "PolicyTokenizer001.hpp"
 #include "Tokenizer.hpp"
 #include "WhitespaceTokenizer.hpp"
+
+#include <iostream>
+#include <string>
+#include <vector>
 
 int main() {
 	std::vector<Tokenizer<std::wstring>*> testTokenizers;

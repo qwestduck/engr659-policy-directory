@@ -2,6 +2,7 @@
 #define WHITESPACETOKENIZER_HPP
 
 #include "Tokenizer.hpp"
+
 #include <boost/algorithm/string.hpp> 
 
 template <class T>

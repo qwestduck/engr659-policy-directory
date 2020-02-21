@@ -1,14 +1,16 @@
-#include <iostream>
-#include <map>
-#include <string>
-#include <vector>
 #include "Corpus.hpp"
+
 #include "Document.hpp"
 #include "DocumentMetadata.hpp"
 #include "File.hpp"
 #include "Index.hpp"
 #include "Math.hpp"
 #include "PolicyTokenizer001.hpp"
+
+#include <iostream>
+#include <map>
+#include <string>
+#include <vector>
 
 template <class T>
 Corpus<T>::Corpus() {

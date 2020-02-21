@@ -2,6 +2,7 @@
 #define POLICYTOKENIZER001_HPP
 
 #include "Tokenizer.hpp"
+
 #include <algorithm>
 #include <boost/algorithm/string.hpp>
 

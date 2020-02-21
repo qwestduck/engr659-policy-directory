@@ -1,7 +1,9 @@
-#include <vector>
 #include "Document.hpp"
+
 #include "DocumentMetadata.hpp"
 #include "Math.hpp"
+
+#include <vector>
 
 Document::Document() { }
 

@@ -1,12 +1,13 @@
 #ifndef CORPUS_HPP
 #define CORPUS_HPP
 
-#include <map>
-#include <string>
-#include <vector>
 #include "Document.hpp"
 #include "Index.hpp"
 #include "Tokenizer.hpp"
+
+#include <map>
+#include <string>
+#include <vector>
 
 /*
 # Template types
