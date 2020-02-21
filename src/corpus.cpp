@@ -43,11 +43,6 @@ std::vector<Document> Corpus<T>::getDocuments() const {
 }
 
 template <class T>
-void Corpus<T>::setIndex(Index<std::wstring, T> const & i) {
-    index[1] = i;
-}
-
-template <class T>
 void Corpus<T>::setTokenizer(Tokenizer<std::wstring> *tok) {
     tokenizer = tok;
 }

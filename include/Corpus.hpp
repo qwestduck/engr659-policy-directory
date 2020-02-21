@@ -27,8 +27,6 @@ public:
 
     std::vector<Document> getDocuments() const;
 
-    void setIndex(Index<std::wstring, T> const & i);
-
     void setDictionary(std::vector<std::wstring> const & dic );
     std::vector<std::wstring> getDictionary() const;
 
