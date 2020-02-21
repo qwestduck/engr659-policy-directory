@@ -44,10 +44,12 @@ check_cxx_source_compiles(
 
 add_executable(stats
     src/main.cpp
+    src/corpus.cpp
 )
 
 add_executable(perftest_tokenizer
     test/perf/tokenizer.cpp
+    src/corpus.cpp
 )
 
 add_executable(unittest_cppstandard
