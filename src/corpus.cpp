@@ -113,6 +113,20 @@ void Corpus<T>::normalizeDocumentVectorsNGram(int n) {
 }
 
 template <class T>
+double Corpus<T>::similarityBetween(const Corpus<T> & other) const {
+    double similaritySum = 0;
+
+	std::vector<Document> a = getDocuments();
+	std::vector<Document> b = other.getDocuments();
+
+	for(int i = 0; i < a.size(); i++) {
+		similaritySum += Math::dotProduct(a[i].getNormalizedVector(), b[i].getNormalizedVector());
+	}
+
+	return Math::divide(similaritySum, static_cast<double>(a.size()));
+}
+
+template <class T>
 void Corpus<T>::printSummary() {
     printSummaryNGram(1);
 }

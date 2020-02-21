@@ -10,9 +10,8 @@
 
 /*
 # Template types
-
-T: Document identifier type
-This type should be both orderable and hashable.
+- T: Document identifier type
+  This type should be both orderable and hashable.
 */
 template <class T>
 class Corpus {
@@ -40,6 +39,8 @@ public:
 
     void normalizeDocumentVectors();
     void normalizeDocumentVectorsNGram(int n);
+
+    double similarityBetween(const Corpus<T> & other) const;
 
     void printSummary();
     void printSummaryNGram(int n);

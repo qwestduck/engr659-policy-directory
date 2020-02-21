@@ -9,19 +9,6 @@
 #include "Tokenizer.hpp"
 #include "WhitespaceTokenizer.hpp"
 
-inline double corpusSimilarity(Corpus<std::string> c1, Corpus<std::string> c2) {
-	double similaritySum = 0;
-
-	std::vector<Document> a = c1.getDocuments();
-	std::vector<Document> b = c2.getDocuments();
-
-	for(int i = 0; i < a.size(); i++) {
-		similaritySum += Math::dotProduct(a[i].getNormalizedVector(), b[i].getNormalizedVector());
-	}
-
-	return Math::divide(similaritySum, static_cast<double>(a.size()));
-}
-
 int main() {
 	std::vector<Tokenizer<std::wstring>*> testTokenizers;
 	std::vector<Corpus<std::string>> corpora;
@@ -53,7 +40,7 @@ int main() {
 	}
 
 	for(auto const & corpus : corpora) {
-		std::cout << corpus.getTokenizer()->getId() << " " << corpusSimilarity(corpus, corpusStandard) << std::endl;
+		std::cout << corpus.getTokenizer()->getId() << " " << corpus.similarityBetween(corpusStandard) << std::endl;
 
 		if(corpus.getTokenizer()->getId() == "PolicyTokenizer001") {
 			Corpus<std::string> c = corpus;
