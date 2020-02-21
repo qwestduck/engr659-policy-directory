@@ -2,34 +2,20 @@
 #define DOCUMENT_HPP
 
 #include <vector>
-
 #include "DocumentMetadata.hpp"
-#include "Math.hpp"
 
 class Document {
     std::vector<double> normalizedVector;
     DocumentMetadata<std::string> metadata;
 public:
-    Document() { }
-    double similarity(Document const & b) {
-        return Math::dotProduct(normalizedVector, b.getNormalizedVector());
-    }
+    Document();
+    double similarity(Document const & b);
 
-    void setNormalizedVector(std::vector<double> const & v) {
-        normalizedVector = v;
-    }
+    void setNormalizedVector(std::vector<double> const & v);
+    std::vector<double> getNormalizedVector() const;
 
-    std::vector<double> getNormalizedVector() const {
-        return normalizedVector;
-    }
-
-    void setMetadata(DocumentMetadata<std::string> const & m) {
-        metadata = m;
-    }
-
-    DocumentMetadata<std::string> getMetadata() const {
-        return metadata;
-    }
+    void setMetadata(DocumentMetadata<std::string> const & m);
+    DocumentMetadata<std::string> getMetadata() const;
 };
 
 #endif

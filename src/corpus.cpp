@@ -7,6 +7,7 @@
 #include "DocumentMetadata.hpp"
 #include "File.hpp"
 #include "Index.hpp"
+#include "Math.hpp"
 #include "PolicyTokenizer001.hpp"
 
 template <class T>
