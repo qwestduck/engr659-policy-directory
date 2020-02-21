@@ -43,6 +43,7 @@ public:
 
     void printSummary();
     void printSummaryNGram(int n);
+    void printSimilarDocuments();
 };
 
 #endif
