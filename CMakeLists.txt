@@ -12,6 +12,8 @@ include_directories(include)
 #)
 
 include(CheckCXXSourceCompiles)
+include(UseLATEX.cmake)
+
 set(CMAKE_REQUIRED_FLAGS "-std=c++2a")
 
 check_cxx_source_compiles(
@@ -57,6 +59,8 @@ add_executable(perftest_tokenizer
 add_executable(unittest_cppstandard
     test/unit/cppstandard.cpp
 )
+
+add_latex_document(doc/assignment-template.tex)
 
 set(CMAKE_BUILD_TYPE Debug)
 
