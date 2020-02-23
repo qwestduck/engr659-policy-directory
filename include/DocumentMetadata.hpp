@@ -8,7 +8,7 @@ class DocumentMetadata {
     std::string filename;
     T id;
 public:
-    DocumentMetadata () {}
+    DocumentMetadata () = default;
     DocumentMetadata(std::string filename, T id) : filename(filename), id(id) { }
 
     [[nodiscard]]

@@ -7,7 +7,7 @@
 
 class Math {
 public:
-    Math() { }
+    Math() = default;
 
     [[nodiscard]]
     static auto _divide(int num, int den) -> double {

@@ -7,7 +7,7 @@
 
 class File {
 public:
-    File() { }
+    File() = default;
 
     [[nodiscard]]
     static auto fileContentToWString(std::string filename) -> std::wstring {

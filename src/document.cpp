@@ -5,8 +5,6 @@
 
 #include <vector>
 
-Document::Document() { }
-
 auto Document::similarity(Document const & b) -> double {
     return Math::dotProduct(normalizedVector, b.getNormalizedVector());
 }

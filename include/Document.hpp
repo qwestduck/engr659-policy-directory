@@ -9,7 +9,7 @@ class Document {
     std::vector<double> normalizedVector;
     DocumentMetadata<std::string> metadata;
 public:
-    Document();
+    Document() = default;
     [[nodiscard]]
     auto similarity(Document const & b) -> double;
 

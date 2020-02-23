@@ -41,7 +41,7 @@ class Index {
         dirty = false;
     }
 public:
-    Index() { }
+    Index() = default;
 
     auto insert(T term, U documentId) -> void {
         totalTerms++;
