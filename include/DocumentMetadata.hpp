@@ -10,7 +10,11 @@ class DocumentMetadata {
 public:
     DocumentMetadata () {}
     DocumentMetadata(std::string filename, T id) : filename(filename), id(id) { }
+
+    [[nodiscard]]
     auto getFilename() const -> std::string { return filename; }
+
+    [[nodiscard]]
     auto getId() const -> T { return id; }
 };
 

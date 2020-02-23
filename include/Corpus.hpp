@@ -25,12 +25,17 @@ public:
 
     auto loadFromCSV(const std::string filename, const std::string prefix) -> void;
 
+    [[nodiscard]]
     auto getDocuments() const -> std::vector<Document>;
 
     auto setDictionary(std::vector<std::wstring> const & dic ) -> void;
+
+    [[nodiscard]]
     auto getDictionary() const -> std::vector<std::wstring>;
 
     auto setTokenizer(Tokenizer<std::wstring> *tok) -> void;
+
+    [[nodiscard]]
     auto getTokenizer() const -> Tokenizer<std::wstring> *;
 
     auto buildIndex() -> void;
@@ -39,6 +44,7 @@ public:
     auto normalizeDocumentVectors() -> void;
     auto normalizeDocumentVectorsNGram(int n) -> void;
 
+    [[nodiscard]]
     auto similarityBetween(const Corpus<T> & other) const -> double;
 
     auto printSummary() -> void;

@@ -12,6 +12,7 @@ class PolicyTokenizer001: public Tokenizer<T> {
 public:
     PolicyTokenizer001() : Tokenizer<T>("PolicyTokenizer001") { }
 
+    [[nodiscard]]
     auto tokenize(std::wstring fulltext) const -> std::vector<T>;
 };
 
@@ -20,6 +21,7 @@ class PolicyTokenizer001<std::wstring>: public Tokenizer<std::wstring> {
 public:
     PolicyTokenizer001() : Tokenizer<std::wstring>("PolicyTokenizer001") { }
 
+    [[nodiscard]]
     auto tokenize(std::wstring fulltext) const -> std::vector<std::wstring> {
         std::vector<std::wstring> result;
 

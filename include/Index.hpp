@@ -69,9 +69,13 @@ public:
         dirty = true;
     }
 
+    [[nodiscard]]
     auto getTermCount() const -> int { return totalTerms; };
+
+    [[nodiscard]]
     auto getDocumentCount() const -> int { return totalDocuments; };
 
+    [[nodiscard]]
     auto documentFrequencyToWString() const -> std::wstring {
         std::wstringstream wss;
 
@@ -125,17 +129,19 @@ public:
         return wss.str();
     }
 
-    auto getDocumentVector(const U & docId, const std::vector<T> & dictionary) -> std::vector<double> {
+    [[nodiscard]]
+    auto getDocumentVector(const U & docId, const std::vector<T> & dictionary) const -> std::vector<double> {
         std::vector<double> ret;
 
         for(const auto & term : dictionary) {
-            ret.push_back(static_cast<double>(invertedIndex[term][docId]));
+            ret.push_back(static_cast<double>(invertedIndex.at(term).at(docId)));
         }
 
         return ret;
     }
 
-    auto getDictionary() -> std::vector<T> {
+    [[nodiscard]]
+    auto getDictionary() const -> std::vector<T> {
         std::vector<T> ret;
 
         for(const auto & el : documentFrequency) {
