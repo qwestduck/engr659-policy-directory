@@ -9,7 +9,7 @@ template <class T>
 class Tokenizer {
     std::string id;
 protected:
-    Tokenizer(std::string id) : id(std::move(id)) { }
+    explicit Tokenizer(std::string id) : id(std::move(id)) { }
 public:
     [[nodiscard]]
     auto getId() const -> std::string { return id; }
