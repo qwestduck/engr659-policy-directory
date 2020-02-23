@@ -19,10 +19,10 @@ class Index {
     std::set<U> documentIds;
     std::vector<std::pair<T, int>> pairs;
 
-    int totalTerms;
-    int totalDocuments;
+    int totalTerms = 0;
+    int totalDocuments = 0;
 
-    bool dirty;
+    bool dirty = false;
 
     auto _clean() -> void {
         pairs.clear();
@@ -40,7 +40,7 @@ class Index {
         dirty = false;
     }
 public:
-    Index() : totalTerms(0), totalDocuments(0), dirty(false) { }
+    Index() { }
 
     auto insert(T term, U documentId) -> void {
         totalTerms++;
