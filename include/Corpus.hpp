@@ -5,6 +5,7 @@
 #include "Index.hpp"
 #include "Tokenizer.hpp"
 
+#include <array>
 #include <map>
 #include <string>
 #include <vector>
@@ -17,9 +18,9 @@
 template <class T>
 class Corpus {
     std::map<T, Document> documents;
-    std::vector<std::wstring> dictionary[4];
+    std::array<std::vector<std::wstring>, 4> dictionary;
     Tokenizer<std::wstring> * tokenizer;
-    Index<std::wstring, T> index[4];
+    std::array<Index<std::wstring, T>, 4> index;
 public:
     Corpus();
 

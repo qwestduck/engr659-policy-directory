@@ -69,7 +69,7 @@ auto Corpus<T>::buildIndex() -> void {
 
 template <class T>
 auto Corpus<T>::buildIndexNGram(int n) -> void {
-    if(n > 3 || n < 1) {
+    if(n >= index.size() || n < 1) {
         return;
     }
 
@@ -101,7 +101,7 @@ auto Corpus<T>::normalizeDocumentVectors() -> void {
 
 template <class T>
 auto Corpus<T>::normalizeDocumentVectorsNGram(int n) -> void {
-    if(n > 3 || n < 1) {
+    if(n >= index.size() || n < 1) {
         return;
     }
 
@@ -131,7 +131,7 @@ auto Corpus<T>::printSummary() -> void {
 
 template <class T>
 auto Corpus<T>::printSummaryNGram(int n) -> void {
-    if(n > 3 || n < 1) {
+    if(n >= index.size() || n < 1) {
         return;
     }
 
