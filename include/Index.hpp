@@ -27,8 +27,9 @@ class Index {
     auto _clean() -> void {
         pairs.clear();
 
-        for (auto e : collectionFrequency)
+        for (auto e : collectionFrequency) {
             pairs.push_back(e);
+        }
 
         sort(pairs.begin(), pairs.end(),
             [=](std::pair<T, int>& a, std::pair<T, int>& b)
