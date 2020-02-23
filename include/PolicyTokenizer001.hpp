@@ -12,7 +12,7 @@ class PolicyTokenizer001: public Tokenizer<T> {
 public:
     PolicyTokenizer001() : Tokenizer<T>("PolicyTokenizer001") { }
 
-    std::vector<T> tokenize(std::wstring fulltext) const;
+    auto tokenize(std::wstring fulltext) const -> std::vector<T>;
 };
 
 template <>
@@ -20,7 +20,7 @@ class PolicyTokenizer001<std::wstring>: public Tokenizer<std::wstring> {
 public:
     PolicyTokenizer001() : Tokenizer<std::wstring>("PolicyTokenizer001") { }
 
-    std::vector<std::wstring> tokenize(std::wstring fulltext) const {
+    auto tokenize(std::wstring fulltext) const -> std::vector<std::wstring> {
         std::vector<std::wstring> result;
 
         std::transform(fulltext.begin(), fulltext.end(), fulltext.begin(), ::tolower);

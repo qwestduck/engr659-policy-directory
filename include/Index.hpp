@@ -24,7 +24,7 @@ class Index {
 
     bool dirty;
 
-    void _clean() {
+    auto _clean() -> void {
         pairs.clear();
 
         for (auto e : collectionFrequency)
@@ -42,7 +42,7 @@ class Index {
 public:
     Index() : totalTerms(0), totalDocuments(0), dirty(false) { }
 
-    void insert(T term, U documentId) {
+    auto insert(T term, U documentId) -> void {
         totalTerms++;
 
         collectionFrequency[term]++;
@@ -69,10 +69,10 @@ public:
         dirty = true;
     }
 
-    int getTermCount() const { return totalTerms; };
-    int getDocumentCount() const { return totalDocuments; };
+    auto getTermCount() const -> int { return totalTerms; };
+    auto getDocumentCount() const -> int { return totalDocuments; };
 
-    std::wstring documentFrequencyToWString() const {
+    auto documentFrequencyToWString() const -> std::wstring {
         std::wstringstream wss;
 
         for(const auto &i : documentFrequency) {
@@ -82,7 +82,7 @@ public:
         return wss.str();
     }
 
-    std::wstring termsSortedByCollectionFrequencyToWString() {
+    auto termsSortedByCollectionFrequencyToWString() -> std::wstring {
         std::wstringstream wss;
 
         if(dirty) {
@@ -96,7 +96,7 @@ public:
         return wss.str();
     }
 
-    std::wstring termFrequencyByDocumentTopNToWString(int n) {
+    auto termFrequencyByDocumentTopNToWString(int n) -> std::wstring {
         std::wstringstream wss;
 
         if(dirty) {
@@ -125,7 +125,7 @@ public:
         return wss.str();
     }
 
-    std::vector<double> getDocumentVector(const U & docId, const std::vector<T> & dictionary) {
+    auto getDocumentVector(const U & docId, const std::vector<T> & dictionary) -> std::vector<double> {
         std::vector<double> ret;
 
         for(const auto & term : dictionary) {
@@ -135,7 +135,7 @@ public:
         return ret;
     }
 
-    std::vector<T> getDictionary() {
+    auto getDictionary() -> std::vector<T> {
         std::vector<T> ret;
 
         for(const auto & el : documentFrequency) {

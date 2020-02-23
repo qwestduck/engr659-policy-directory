@@ -10,7 +10,7 @@
 #include <string>
 #include <vector>
 
-int main() {
+auto main() -> int {
 	std::vector<Tokenizer<std::wstring>*> testTokenizers;
 	std::vector<Corpus<std::string>> corpora;
 

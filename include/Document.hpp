@@ -10,13 +10,13 @@ class Document {
     DocumentMetadata<std::string> metadata;
 public:
     Document();
-    double similarity(Document const & b);
+    auto similarity(Document const & b) -> double;
 
-    void setNormalizedVector(std::vector<double> const & v);
-    std::vector<double> getNormalizedVector() const;
+    auto setNormalizedVector(std::vector<double> const & v) -> void;
+    auto getNormalizedVector() const -> std::vector<double>;
 
-    void setMetadata(DocumentMetadata<std::string> const & m);
-    DocumentMetadata<std::string> getMetadata() const;
+    auto setMetadata(DocumentMetadata<std::string> const & m) -> void;
+    auto getMetadata() const -> DocumentMetadata<std::string>;
 };
 
 #endif

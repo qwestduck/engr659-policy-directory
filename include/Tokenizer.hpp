@@ -10,8 +10,8 @@ class Tokenizer {
 protected:
     Tokenizer(const std::string & id) : id(id) { }
 public:
-    std::string getId() const { return id; }
-    virtual std::vector<T> tokenize(std::wstring) const = 0;
+    auto getId() const -> std::string { return id; }
+    virtual auto tokenize(std::wstring) const -> std::vector<T> = 0;
 };
 
 #endif

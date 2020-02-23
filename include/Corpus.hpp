@@ -23,27 +23,27 @@ class Corpus {
 public:
     Corpus();
 
-    void loadFromCSV(const std::string filename, const std::string prefix);
+    auto loadFromCSV(const std::string filename, const std::string prefix) -> void;
 
-    std::vector<Document> getDocuments() const;
+    auto getDocuments() const -> std::vector<Document>;
 
-    void setDictionary(std::vector<std::wstring> const & dic );
-    std::vector<std::wstring> getDictionary() const;
+    auto setDictionary(std::vector<std::wstring> const & dic ) -> void;
+    auto getDictionary() const -> std::vector<std::wstring>;
 
-    void setTokenizer(Tokenizer<std::wstring> *tok);
-    Tokenizer<std::wstring> * getTokenizer() const;
+    auto setTokenizer(Tokenizer<std::wstring> *tok) -> void;
+    auto getTokenizer() const -> Tokenizer<std::wstring> *;
 
-    void buildIndex();
-    void buildIndexNGram(int n);
+    auto buildIndex() -> void;
+    auto buildIndexNGram(int n) -> void;
 
-    void normalizeDocumentVectors();
-    void normalizeDocumentVectorsNGram(int n);
+    auto normalizeDocumentVectors() -> void;
+    auto normalizeDocumentVectorsNGram(int n) -> void;
 
-    double similarityBetween(const Corpus<T> & other) const;
+    auto similarityBetween(const Corpus<T> & other) const -> double;
 
-    void printSummary();
-    void printSummaryNGram(int n);
-    void printSimilarDocuments();
+    auto printSummary() -> void;
+    auto printSummaryNGram(int n) -> void;
+    auto printSimilarDocuments() -> void;
 };
 
 #endif

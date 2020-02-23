@@ -9,12 +9,11 @@ class Math {
 public:
     Math() { }
 
-    static double _divide(int num, int den) {
+    static auto _divide(int num, int den) -> double {
         return divide(static_cast<double>(num), static_cast<double>(den));
     }
 
-    static double divide(double num, double den)
-    {
+    static auto divide(double num, double den) -> double {
         if (den == 0.0) {
             throw std::overflow_error("Division by zero");
         }
@@ -22,7 +21,7 @@ public:
         return (num / den);
     }
 
-    static double dotProduct(std::vector<double> a, std::vector<double> b) {
+    static auto dotProduct(std::vector<double> a, std::vector<double> b) -> double {
         double ret = 0;
 
         if(a.size() != b.size()) {
@@ -37,7 +36,7 @@ public:
     }
 
     template<class T>
-    static std::vector<T> euclideanNormalize(std::vector<T> a) {
+    static auto euclideanNormalize(std::vector<T> a) -> std::vector<T> {
         double divisor = 0;
         std::vector<T> ret = a;
 

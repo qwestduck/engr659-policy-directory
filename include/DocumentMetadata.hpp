@@ -10,8 +10,8 @@ class DocumentMetadata {
 public:
     DocumentMetadata () {}
     DocumentMetadata(std::string filename, T id) : filename(filename), id(id) { }
-    std::string getFilename() const { return filename; }
-    T getId() const { return id; }
+    auto getFilename() const -> std::string { return filename; }
+    auto getId() const -> T { return id; }
 };
 
 #endif

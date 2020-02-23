@@ -18,7 +18,7 @@ Corpus<T>::Corpus() {
 }
 
 template <class T>
-void Corpus<T>::loadFromCSV(const std::string filename, const std::string prefix) {
+auto Corpus<T>::loadFromCSV(const std::string filename, const std::string prefix) -> void {
     std::string f;
     T id;
 
@@ -33,7 +33,7 @@ void Corpus<T>::loadFromCSV(const std::string filename, const std::string prefix
 }
 
 template <class T>
-std::vector<Document> Corpus<T>::getDocuments() const {
+auto Corpus<T>::getDocuments() const -> std::vector<Document> {
     std::vector<Document> docs;
     for (const auto &d : documents) {
         docs.push_back(d.second);
@@ -43,32 +43,32 @@ std::vector<Document> Corpus<T>::getDocuments() const {
 }
 
 template <class T>
-void Corpus<T>::setTokenizer(Tokenizer<std::wstring> *tok) {
+auto Corpus<T>::setTokenizer(Tokenizer<std::wstring> *tok) -> void {
     tokenizer = tok;
 }
 
 template <class T>
-void Corpus<T>::setDictionary(std::vector<std::wstring> const & dic ) {
+auto Corpus<T>::setDictionary(std::vector<std::wstring> const & dic ) -> void {
     dictionary[1] = dic;
 };
 
 template <class T>
-std::vector<std::wstring> Corpus<T>::getDictionary() const {
+auto Corpus<T>::getDictionary() const -> std::vector<std::wstring> {
     return dictionary[1];
 }
 
 template <class T>
-Tokenizer<std::wstring> * Corpus<T>::getTokenizer() const {
+auto Corpus<T>::getTokenizer() const -> Tokenizer<std::wstring> * {
     return tokenizer;
 }
 
 template <class T>
-void Corpus<T>::buildIndex() {
+auto Corpus<T>::buildIndex() -> void {
     buildIndexNGram(1);
 }
 
 template <class T>
-void Corpus<T>::buildIndexNGram(int n) {
+auto Corpus<T>::buildIndexNGram(int n) -> void {
     if(n > 3 || n < 1) {
         return;
     }
@@ -95,12 +95,12 @@ void Corpus<T>::buildIndexNGram(int n) {
 }
 
 template <class T>
-void Corpus<T>::normalizeDocumentVectors() {
+auto Corpus<T>::normalizeDocumentVectors() -> void {
     normalizeDocumentVectorsNGram(1);
 }
 
 template <class T>
-void Corpus<T>::normalizeDocumentVectorsNGram(int n) {
+auto Corpus<T>::normalizeDocumentVectorsNGram(int n) -> void {
     if(n > 3 || n < 1) {
         return;
     }
@@ -111,7 +111,7 @@ void Corpus<T>::normalizeDocumentVectorsNGram(int n) {
 }
 
 template <class T>
-double Corpus<T>::similarityBetween(const Corpus<T> & other) const {
+auto Corpus<T>::similarityBetween(const Corpus<T> & other) const -> double {
     double similaritySum = 0;
 
 	std::vector<Document> a = getDocuments();
@@ -125,12 +125,12 @@ double Corpus<T>::similarityBetween(const Corpus<T> & other) const {
 }
 
 template <class T>
-void Corpus<T>::printSummary() {
+auto Corpus<T>::printSummary() -> void {
     printSummaryNGram(1);
 }
 
 template <class T>
-void Corpus<T>::printSummaryNGram(int n) {
+auto Corpus<T>::printSummaryNGram(int n) -> void {
     if(n > 3 || n < 1) {
         return;
     }
@@ -152,7 +152,7 @@ void Corpus<T>::printSummaryNGram(int n) {
 }
 
 template <class T>
-void Corpus<T>::printSimilarDocuments() {
+auto Corpus<T>::printSimilarDocuments() -> void {
     double bestMatchValue = 0;
     double matchValue;
     std::string bestMatchDocId_0;

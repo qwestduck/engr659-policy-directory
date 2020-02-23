@@ -6,7 +6,7 @@
 #include <string>
 #include <vector>
 
-int main() {
+auto main() -> int {
     Corpus<std::string> corpus;
 
     corpus.loadFromCSV("../data/corpus-metadata.csv", "../data/text/");

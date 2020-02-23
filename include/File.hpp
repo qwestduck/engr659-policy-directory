@@ -9,7 +9,7 @@ class File {
 public:
     File() { }
 
-    static std::wstring fileContentToWString(std::string filename) {
+    static auto fileContentToWString(std::string filename) -> std::wstring {
         std::wifstream fin(filename);
         std::wstringstream buffer;
         buffer << fin.rdbuf();

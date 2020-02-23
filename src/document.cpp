@@ -7,22 +7,22 @@
 
 Document::Document() { }
 
-double Document::similarity(Document const & b) {
+auto Document::similarity(Document const & b) -> double {
     return Math::dotProduct(normalizedVector, b.getNormalizedVector());
 }
 
-void Document::setNormalizedVector(std::vector<double> const & v) {
+auto Document::setNormalizedVector(std::vector<double> const & v) -> void {
     normalizedVector = v;
 }
 
-std::vector<double> Document::getNormalizedVector() const {
+auto Document::getNormalizedVector() const -> std::vector<double> {
     return normalizedVector;
 }
 
-void Document::setMetadata(DocumentMetadata<std::string> const & m) {
+auto Document::setMetadata(DocumentMetadata<std::string> const & m) -> void {
     metadata = m;
 }
 
-DocumentMetadata<std::string> Document::getMetadata() const {
+auto Document::getMetadata() const -> DocumentMetadata<std::string> {
     return metadata;
 }
