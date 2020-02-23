@@ -18,7 +18,7 @@ Corpus<T>::Corpus() {
 }
 
 template <class T>
-auto Corpus<T>::loadFromCSV(const std::string filename, const std::string prefix) -> void {
+auto Corpus<T>::loadFromCSV(const std::string & filename, const std::string & prefix) -> void {
     std::string f;
     T id;
 

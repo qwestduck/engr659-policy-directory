@@ -23,7 +23,7 @@ class Corpus {
 public:
     Corpus();
 
-    auto loadFromCSV(const std::string filename, const std::string prefix) -> void;
+    auto loadFromCSV(const std::string & filename, const std::string & prefix) -> void;
 
     [[nodiscard]]
     auto getDocuments() const -> std::vector<Document>;
