@@ -11,40 +11,28 @@ include_directories(include)
 #  -warnings-as-errors=*;
 #)
 
-include(CheckCXXSourceCompiles)
 include(UseLATEX.cmake)
 
 set(CMAKE_BUILD_TYPE Debug)
-set(CMAKE_CXX_STANDARD 20)
-set(CMAKE_REQUIRED_FLAGS "-std=c++2a")
+set(CMAKE_CXX_STANDARD 17)
 
-check_cxx_source_compiles(
-    "
-    #include <set>
+## Feature testing
+#include(CheckCXXSourceCompiles)
+#set(CMAKE_REQUIRED_FLAGS "-std=c++17")
 
-    int main() {
-        std::set<int> a;
-        a.contains(0);
-
-        return 0;
-    }"
-
-    HAVE_SETCONTAINS
-)
-
-check_cxx_source_compiles(
-    "
-    #include <unordered_map>
-
-    int main() {
-        std::unordered_map<int, int> a;
-        a.contains(0);
-
-        return 0;
-    }"
-
-    HAVE_UMAPCONTAINS
-)
+#check_cxx_source_compiles(
+#    "
+#    #include <set>
+#
+#    int main() {
+#        std::set<int> a;
+#        a.contains(0);
+#
+#        return 0;
+#    }"
+#
+#    HAVE_SETCONTAINS
+#)
 
 add_executable(stats
     src/main.cpp

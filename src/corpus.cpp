@@ -90,7 +90,7 @@ auto Corpus<T>::buildIndexNGram(int n) -> void {
             }
 
             /* Do not allow noisewords on either the first or last term of a 1,2, or 3-gram */
-            if(!noiseWords.contains(tokens[i]) && !noiseWords.contains(tokens[i+j-1])) {
+            if((noiseWords.find(tokens[i]) == noiseWords.end()) && (noiseWords.find(tokens[i+j-1]) == noiseWords.end())) {
                 index[n].insert(token, document.second.getMetadata().getId());
             }
         }
