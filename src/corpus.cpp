@@ -9,6 +9,7 @@
 
 #include <iostream>
 #include <map>
+#include <set>
 #include <string>
 #include <vector>
 
@@ -82,12 +83,16 @@ auto Corpus<T>::buildIndexNGram(int n) -> void {
 
             token = tokens[i];
 
-            for(int j = 1; j < n; j++) {
+            int j;
+            for(j = 1; j < n; j++) {
                 token += L" ";
                 token += tokens[i + j];
             }
 
-            index[n].insert(token, document.second.getMetadata().getId());
+            /* Do not allow noisewords on either the first or last term of a 1,2, or 3-gram */
+            if(!noiseWords.contains(tokens[i]) && !noiseWords.contains(tokens[i+j-1])) {
+                index[n].insert(token, document.second.getMetadata().getId());
+            }
         }
     }
 

@@ -7,6 +7,7 @@
 
 #include <array>
 #include <map>
+#include <set>
 #include <string>
 #include <vector>
 
@@ -19,7 +20,7 @@ template <class T>
 class Corpus {
     std::map<T, Document> documents;
     std::array<std::vector<std::wstring>, 4> dictionary;
-    std::vector<std::wstring> noiseWords {
+    std::set<std::wstring> noiseWords {
       L"the", L"of", L"to", L"and", L"or", L"for", L"in", L"be",
       L"is", L"are", L"that", L"will", L"by", L"with", L"as", L"may", L"on", L"an",
       L"must", L"this", L"from", L"any", L"all", L"at", L"if", L"have", L"it", L"has",
