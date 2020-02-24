@@ -35,12 +35,13 @@ auto Corpus<T>::loadFromCSV(const std::string & filename, const std::string & pr
 
 template <class T>
 auto Corpus<T>::getDocuments() const -> std::vector<Document> {
-    std::vector<Document> docs;
-    for (const auto &d : documents) {
-        docs.push_back(d.second);
+    std::vector<Document> ret;
+
+    for (const auto &[id, document] : documents) {
+        ret.push_back(document);
     }
 
-    return docs;
+    return ret;
 }
 
 template <class T>
@@ -74,8 +75,8 @@ auto Corpus<T>::buildIndexNGram(int n) -> void {
         return;
     }
 
-    for(const auto &document : documents) {
-        auto fullText = File::fileContentToWString(document.second.getMetadata().getFilename());
+    for(const auto &[id, document] : documents) {
+        auto fullText = File::fileContentToWString(document.getMetadata().getFilename());
         auto tokens = tokenizer->tokenize(fullText);
 
         for(int i = 0; i < tokens.size() - n + 1; i++) {
@@ -91,7 +92,7 @@ auto Corpus<T>::buildIndexNGram(int n) -> void {
 
             /* Do not allow noisewords on either the first or last term of a 1,2, or 3-gram */
             if((noiseWords.find(tokens[i]) == noiseWords.end()) && (noiseWords.find(tokens[i+j-1]) == noiseWords.end())) {
-                index[n].insert(token, document.second.getMetadata().getId());
+                index[n].insert(token, document.getMetadata().getId());
             }
         }
     }
@@ -110,8 +111,8 @@ auto Corpus<T>::normalizeDocumentVectorsNGram(int n) -> void {
         return;
     }
 
-    for(auto &document : documents) {
-        document.second.setNormalizedVector(Math::euclideanNormalize(index[n].getDocumentVector(document.first, dictionary[n])));
+    for(auto &[id, document] : documents) {
+        document.setNormalizedVector(Math::euclideanNormalize(index[n].getDocumentVector(id, dictionary[n])));
     }
 }
 

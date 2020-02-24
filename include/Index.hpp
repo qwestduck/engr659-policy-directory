@@ -72,8 +72,8 @@ public:
     auto documentFrequencyToWString() const -> std::wstring {
         std::wstringstream wss;
 
-        for(const auto &i : documentFrequency) {
-            wss << "docFreq(" << i.first << ") = " << i.second << std::endl;
+        for(const auto &[term, frequency] : documentFrequency) {
+            wss << "docFreq(" << term << ") = " << frequency << std::endl;
         }
 
         return wss.str();
@@ -86,8 +86,8 @@ public:
             _clean();
         }
 
-        for (const auto & e : pairs) {
-            wss << "cFreq("<< e.first << ") = " << e.second << std::endl;
+        for (const auto &[term, frequency] : pairs) {
+            wss << "cFreq("<< term << ") = " << frequency << std::endl;
         }
 
         return wss.str();
@@ -137,8 +137,8 @@ public:
     auto getDictionary() const -> std::vector<T> {
         std::vector<T> ret;
 
-        for(const auto & el : documentFrequency) {
-            ret.push_back(el.first);
+        for(const auto &[term, frequency] : documentFrequency) {
+            ret.push_back(term);
         }
 
         return ret;
