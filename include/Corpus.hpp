@@ -58,6 +58,7 @@ public:
 
     auto printSummary() -> void;
     auto printSummaryNGram(int n) -> void;
+    auto printSummaryNGramBrief(int n) -> void;
     auto printSimilarDocuments() -> void;
 };
 

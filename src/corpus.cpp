@@ -79,7 +79,7 @@ auto Corpus<T>::buildIndexNGram(int n) -> void {
         auto fullText = File::fileContentToWString(document.getMetadata().getFilename());
         auto tokens = tokenizer->tokenize(fullText);
 
-        for(int i = 0; i < tokens.size() - n + 1; i++) {
+        for(int i = 0; i < static_cast<int>(tokens.size()) - n + 1; i++) {
             std::wstring token;
 
             token = tokens[i];
@@ -90,7 +90,7 @@ auto Corpus<T>::buildIndexNGram(int n) -> void {
                 token += tokens[i + j];
             }
 
-            /* Do not allow noisewords on either the first or last term of a 1,2, or 3-gram */
+            // Do not allow noisewords on either the first or last term of a 1,2, or 3-gram
             if((noiseWords.find(tokens[i]) == noiseWords.end()) && (noiseWords.find(tokens[i+j-1]) == noiseWords.end())) {
                 index[n].insert(token, document.getMetadata().getId());
             }
@@ -155,6 +155,13 @@ auto Corpus<T>::printSummaryNGram(int n) -> void {
     std::wcout << index[n].termsSortedByCollectionFrequencyToWString() << std::endl;
     std::wcout << index[n].termFrequencyByDocumentTopNToWString(10);
     std::wcout << index[n].documentFrequencyToWString() << std::endl;
+}
+
+template <class T>
+auto Corpus<T>::printSummaryNGramBrief(int n) -> void {
+    for(const auto &[term, frequency] : index[n].termsSortedByCollectionFrequencyTopN(15)) {
+        std::wcout << term << std::endl;
+    }
 }
 
 template <class T>
