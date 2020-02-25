@@ -141,7 +141,19 @@ public:
         std::vector<double> ret;
 
         for(const auto & term : dictionary) {
-            ret.push_back(static_cast<double>(invertedIndex.at(term).at(docId)));
+            // not an indexed term?
+            if(invertedIndex.find(term) == invertedIndex.end()) {
+                ret.push_back(0.0);
+
+                continue;
+            }
+
+            // term not found in document?
+            if(auto it = invertedIndex.at(term).find(docId); it == invertedIndex.at(term).end()) {
+                ret.push_back(0.0);
+            } else {
+                ret.push_back(static_cast<double>((*it).second));
+            }
         }
 
         return ret;
