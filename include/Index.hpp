@@ -79,6 +79,20 @@ public:
         return wss.str();
     }
 
+    auto termsSortedByCollectionFrequencyTopN(int n) -> std::vector<std::pair<T, int>> {
+        std::vector<std::pair<T, int>> ret;
+
+        if(dirty) {
+            _clean();
+        }
+
+        for(int i = 0; (i < n) && (i < pairs.size()); i++) {
+            ret.push_back(pairs.at(i));
+        }
+
+        return ret;
+    }
+
     auto termsSortedByCollectionFrequencyToWString() -> std::wstring {
         std::wstringstream wss;
 
