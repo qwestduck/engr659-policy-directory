@@ -195,13 +195,13 @@ Split fulltext on all characters in {
 \section*{Collection frequency analysis after omitting n-grams depending on noise word position within the n-gram}
 
 \begin{lstlisting}[label={list:second},caption=Omission of n-grams dependent on noise word position.]
-noise_words = [
+noise_words = {
 	"the", "of", "to", "and", "or", "for", "in", "be",
 	"is", "are", "that", "will", "by", "with", "as", "may", "on", "an",
 	"must", "this", "from", "any", "all", "at", "if", "have", "it", "has",
 	"such", "can", "than", "through", "they", "but", "also", "and/or",
 	"been", "those", "do", "their", "into", "so", "then", "he", "he/she"
-]
+}
 
 if gram.first in noise_words
 	omit gram
