@@ -9,7 +9,7 @@
 
 \renewcommand\familydefault{\sfdefault}
 \usepackage{tgheros}
-\usepackage[defaultmono]{droidsansmono}
+\IfFileExists{droidsansmono.sty}{\usepackage[defaultmono]{droidsansmono}}{\usepackage[defaultmono]{droidmono}}
 
 \usepackage{amsmath,amssymb,amsthm,textcomp}
 \usepackage{enumerate}
