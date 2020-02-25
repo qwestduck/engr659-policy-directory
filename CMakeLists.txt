@@ -40,14 +40,32 @@ add_executable(stats
     src/document.cpp
 )
 
+add_custom_target(test)
+
 add_executable(perftest_tokenizer
+    EXCLUDE_FROM_ALL
     test/perf/tokenizer.cpp
     src/corpus.cpp
     src/document.cpp
 )
 
 add_executable(unittest_cppstandard
+    EXCLUDE_FROM_ALL
     test/unit/cppstandard.cpp
 )
 
-add_latex_document(doc/assignment-template.tex)
+add_dependencies(test perftest_tokenizer unittest_cppstandard)
+
+add_custom_target(doc)
+
+add_latex_document(doc/assignment-template.tex
+    TARGET_NAME assignment-template
+    EXCLUDE_FROM_ALL
+)
+
+add_latex_document(doc/assignment-1a_b.tex
+    TARGET_NAME assignment-1a_b
+    EXCLUDE_FROM_ALL
+)
+
+add_dependencies(doc assignment-template assignment-1a_b)
