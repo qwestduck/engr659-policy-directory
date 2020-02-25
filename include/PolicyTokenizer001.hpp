@@ -27,6 +27,7 @@ public:
 
         std::transform(fulltext.begin(), fulltext.end(), fulltext.begin(), ::tolower);
         fulltext.erase(std::remove(fulltext.begin(), fulltext.end(), '.'), fulltext.end());
+        boost::trim(fulltext);
         boost::split(result, fulltext, boost::is_any_of(L"\t\r\n \"“,()…_:"), boost::token_compress_on);
 
         return result;
