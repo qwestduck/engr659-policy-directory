@@ -19,11 +19,8 @@ int main() {
 
     c.addDocument("","");
 
-    try {
-        c.buildIndexNGram(3);
-    } catch(...) {
-        return 1;
-    }
+    // if regress, expect SIGSEVC to return 139
+    c.buildIndexNGram(3);
 
     return 0;
 }
