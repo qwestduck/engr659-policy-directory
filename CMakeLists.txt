@@ -38,6 +38,7 @@ add_executable(stats
     src/main.cpp
     src/corpus.cpp
     src/document.cpp
+    src/file.cpp
 )
 
 add_custom_target(test)
@@ -47,6 +48,7 @@ add_executable(perftest_tokenizer
     test/perf/tokenizer.cpp
     src/corpus.cpp
     src/document.cpp
+    src/file.cpp
 )
 
 add_executable(unittest_cppstandard

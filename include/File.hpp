@@ -10,13 +10,7 @@ public:
     File() = default;
 
     [[nodiscard]]
-    static auto fileContentToWString(std::string filename) -> std::wstring {
-        std::wifstream fin(filename);
-        std::wstringstream buffer;
-        buffer << fin.rdbuf();
-
-        return buffer.str();
-    }
+    static auto fileContentToWString(std::string filename) -> std::wstring;
 };
 
 #endif
