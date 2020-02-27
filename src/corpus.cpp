@@ -26,11 +26,16 @@ auto Corpus<T>::loadFromCSV(const std::string & filename, const std::string & pr
     std::ifstream fin(filename);
 
     while(fin >> f >> id) {
-        DocumentMetadata<T> m(prefix + f, id);
-        Document doc;
-        doc.setMetadata(m);
-        documents[id] = doc;
+        addDocument(prefix + f, id);
     }
+}
+
+template <class T>
+auto Corpus<T>::addDocument(std::string filename, T id) -> void {
+    DocumentMetadata<T> m(filename, id);
+    Document doc;
+    doc.setMetadata(m);
+    documents[id] = doc;
 }
 
 template <class T>
@@ -90,7 +95,7 @@ auto Corpus<T>::buildIndexNGram(int n) -> void {
                 token += tokens[i + j];
             }
 
-            // Do not allow noisewords on either the first or last term of a 1,2, or 3-gram
+            // Do not allow noisewords on either the first or last term of a 1, 2, or 3-gram
             if((noiseWords.find(tokens[i]) == noiseWords.end()) && (noiseWords.find(tokens[i+j-1]) == noiseWords.end())) {
                 index[n].insert(token, document.getMetadata().getId());
             }

@@ -33,6 +33,7 @@ public:
     Corpus();
 
     auto loadFromCSV(const std::string & filename, const std::string & prefix) -> void;
+    auto addDocument(std::string filename, T id) -> void;
 
     [[nodiscard]]
     auto getDocuments() const -> std::vector<Document>;
