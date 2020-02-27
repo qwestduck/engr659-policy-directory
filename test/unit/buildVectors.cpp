@@ -4,16 +4,16 @@
 #include "Corpus.hpp"
 #include "File.hpp"
 
-namespace MOCK_FILE {
-    static std::wstring mockContent;
+namespace MOCK::FILE {
+    static std::wstring mockFileContent;
 }
 
 auto File::fileContentToWString(std::string filename) -> std::wstring {
-    return MOCK_FILE::mockContent;
+    return MOCK::FILE::mockFileContent;
 }
 
 int main() {
-    MOCK_FILE::mockContent = L"";
+    MOCK::FILE::mockFileContent = L"";
 
     Corpus<std::string> c;
 
