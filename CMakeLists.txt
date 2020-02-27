@@ -56,7 +56,14 @@ add_executable(unittest_cppstandard
     test/unit/cppstandard.cpp
 )
 
-add_dependencies(test perftest_tokenizer unittest_cppstandard)
+add_executable(unittest_buildVectors
+    EXCLUDE_FROM_ALL
+    test/unit/buildVectors.cpp
+    src/corpus.cpp
+    src/document.cpp
+)
+
+add_dependencies(test perftest_tokenizer unittest_cppstandard unittest_buildVectors)
 
 add_custom_target(doc)
 
