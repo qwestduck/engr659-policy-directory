@@ -1,0 +1,89 @@
+% LaTeX Notetaking Template for the 2019 Pan-Canadian Self-Organizing Conference on Machine Learning (PC-SOCMLx)
+% Template by David Madras, inspired by Meltem Atay's template for the 2018 SOCML
+
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{enumitem}
+\usepackage{dsfont}
+
+\title{ENGR 659: Information Retrieval}
+\author{William Panlener}
+\date{February 27, 2020}
+
+\begin{document}
+
+\maketitle
+
+\begin{itemize}[leftmargin=*,noitemsep]
+  \item[] \textbf{Session Moderator: } Dawn Wilkins
+  \item[] \textbf{Session Notetaker: } William Panlener
+  \item[] \textbf{Number of Attendees: } 7
+\end{itemize}
+
+
+
+
+\section{Brief Description of the Topic}
+
+In previous sessions, we developed the theory underlying term weighting in documents for the purposes of scoring, leading up to vector space models and the basic cosine scoring algorithm. In this session, we begin with heuristics for speeding up this computation; many of these heuristics achieve their speed at the risk of not finding quite the top-K documents matching the query. Some of these heuristics generalize beyond cosine scoring. After discussing essentially all the components needed for a complete search engine, we take a step back from cosine scoring, to the more general problem of computing scores in a search engine. We outline a complete search engine, including indexes and structures to support not only cosine scoring but also more general ranking factors such as query term proximity. We describe how all of the various pieces fit together. We conclude by discussing how the vector space model for free text queries interacts with common query operators.
+
+\section{Summary of Discussion}
+
+This session covered a number of heuristics and precomputations that can be used to increase efficiency when matching a set of results with a query and improving the quality of that set of results. The session also touched on additional information that may be desirable to store in the database for the class project and encouraged everyone to begin thinking what their own semester project might entail.
+
+\subsection{Index Elimination}
+\begin{itemize}
+	\item Only consider documents containing terms with idf exceeding a threshhold
+	\item Only consider documents containing many of the query terms
+\end{itemize}{}
+\subsection{Champion Lists}
+\begin{itemize}
+	\item Precompute the top 'r' documents for each term
+	\item Potentially problematic if some documents are small and some are large
+\end{itemize}{}
+\subsection{Static Quality Scores}
+\begin{itemize}
+	\item A potential use for thumbs up feature
+\end{itemize}{}
+\subsection{Cluster Pruning}
+\begin{itemize}
+	\item Pick $\sqrt{N}$ documents at random (leaders) and cluster the remaining documents (followers) to the closest chosen document
+	\item Followers can be associated with multiple leaders
+	\item Keep cluster sizes approximately even
+\end{itemize}{}
+%\section{Controversial or Confusing Points}
+%\begin{itemize}
+%    \item 1 + 1 = 3
+%    \item etc.
+%\end{itemize}{}
+
+\section{Open Questions}
+\begin{itemize}
+	\item How often should the index be rebuilt?
+    \item When implementing index elimination should you start by looking for one query term and adding more if found or start by looking for all query terms and removing some if no matches?
+\end{itemize}{}
+
+\section{Miscellaneous Notes}
+\begin{itemize}
+    \item Cosine similarity does not always provide the "correct answer" but rather is a proxy for a user's subjective expectations.
+    \item Storing idf values and term frequencies in the database may later enable faster algorithms for vector space scoring
+\end{itemize}{}
+
+%\section{Takeaways}
+%\begin{itemize}
+%    \item Summary points/major takeaways
+%\end{itemize}{}
+
+%\section{Further Reading or References}
+%\begin{itemize}
+%    \item Pointers to cool papers/resources everyone brought up
+%\end{itemize}
+
+\section{Homework Assignment}
+\begin{itemize}
+	\item Write up summary of semester project
+	\item Due Tuesday, March 3
+	\item Post submission to Blackboard thread
+\end{itemize}{}
+
+\end{document}

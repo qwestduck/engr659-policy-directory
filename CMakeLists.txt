@@ -77,4 +77,9 @@ add_latex_document(doc/assignment-1a_b.tex
     EXCLUDE_FROM_ALL
 )
 
-add_dependencies(doc assignment-template assignment-1a_b)
+add_latex_document(doc/scribe-2020-02-27.tex
+    TARGET_NAME scribe-2020-02-27
+    EXCLUDE_FROM_ALL
+)
+
+add_dependencies(doc assignment-template assignment-1a_b scribe-2020-02-27)
