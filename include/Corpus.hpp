@@ -5,7 +5,6 @@
 #include "Index.hpp"
 #include "Tokenizer.hpp"
 
-#include <array>
 #include <map>
 #include <set>
 #include <string>
@@ -19,8 +18,8 @@
 template <class T>
 class Corpus {
     std::map<T, Document> documents;
-    std::array<std::vector<std::wstring>, 4> dictionary;
-    std::set<std::wstring> noiseWords {
+    std::vector<std::vector<std::wstring>> dictionary;
+    const std::set<std::wstring> noiseWords {
       L"the", L"of", L"to", L"and", L"or", L"for", L"in", L"be",
       L"is", L"are", L"that", L"will", L"by", L"with", L"as", L"may", L"on", L"an",
       L"must", L"this", L"from", L"any", L"all", L"at", L"if", L"have", L"it", L"has",
@@ -28,12 +27,12 @@ class Corpus {
       L"been", L"those", L"do", L"their", L"into", L"so", L"then", L"he", L"he/she"
     };
     Tokenizer<std::wstring> * tokenizer;
-    std::array<Index<std::wstring, T>, 4> index;
+    std::vector<Index<std::wstring, T>> index;
 public:
     Corpus();
 
     auto loadFromCSV(const std::string & filename, const std::string & prefix) -> void;
-    auto addDocument(std::string filename, T id) -> void;
+    auto addDocument(const std::string& filename, T id) -> void;
 
     [[nodiscard]]
     auto getDocuments() const -> std::vector<Document>;

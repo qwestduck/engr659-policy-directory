@@ -16,6 +16,8 @@
 template <class T>
 Corpus<T>::Corpus() {
     tokenizer = new PolicyTokenizer001<std::wstring>();
+    index.resize(4);
+    dictionary.resize(4);
 }
 
 template <class T>
@@ -31,7 +33,7 @@ auto Corpus<T>::loadFromCSV(const std::string & filename, const std::string & pr
 }
 
 template <class T>
-auto Corpus<T>::addDocument(std::string filename, T id) -> void {
+auto Corpus<T>::addDocument(const std::string& filename, T id) -> void {
     DocumentMetadata<T> m(filename, id);
     Document doc;
     doc.setMetadata(m);
@@ -142,6 +144,8 @@ auto Corpus<T>::printSummary() -> void {
 
 template <class T>
 auto Corpus<T>::printSummaryNGram(int n) -> void {
+    const int topN = 10;
+
     if(n >= index.size() || n < 1) {
         return;
     }
@@ -158,7 +162,7 @@ auto Corpus<T>::printSummaryNGram(int n) -> void {
 
     std::cout << "Terms sorted by frequency in the collection:" << std::endl;
     std::wcout << index[n].termsSortedByCollectionFrequencyToWString() << std::endl;
-    std::wcout << index[n].termFrequencyByDocumentTopNToWString(10);
+    std::wcout << index[n].termFrequencyByDocumentTopNToWString(topN);
     std::wcout << index[n].documentFrequencyToWString() << std::endl;
 }
 
