@@ -5,13 +5,13 @@
 
 namespace MOCK::FILE {
     static std::wstring mockFileContent;
-}
+} // namespace MOCK::FILE
 
-auto File::fileContentToWString(std::string filename) -> std::wstring {
+auto File::fileContentToWString(const std::string&  /*filename*/) -> std::wstring {
     return MOCK::FILE::mockFileContent;
 }
 
-int main() {
+auto main() -> int {
     MOCK::FILE::mockFileContent = L"";
 
     Corpus<std::string> c;
