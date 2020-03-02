@@ -10,7 +10,7 @@ public:
     File() = default;
 
     [[nodiscard]]
-    static auto fileContentToWString(std::string filename) -> std::wstring;
+    static auto fileContentToWString(const std::string& filename) -> std::wstring;
 };
 
 #endif

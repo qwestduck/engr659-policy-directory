@@ -3,7 +3,7 @@
 
 #include "File.hpp"
 
-auto File::fileContentToWString(std::string filename) -> std::wstring {
+auto File::fileContentToWString(const std::string &filename) -> std::wstring {
     std::wifstream fin(filename);
     std::wstringstream buffer;
     buffer << fin.rdbuf();
