@@ -27,7 +27,7 @@ class Index {
     auto _clean() -> void {
         pairs.clear();
 
-        for (auto e : collectionFrequency) {
+        for (const auto& e : collectionFrequency) {
             pairs.push_back(e);
         }
 
