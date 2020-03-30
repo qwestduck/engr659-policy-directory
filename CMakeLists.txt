@@ -6,6 +6,7 @@ include_directories(include)
 
 #set(CMAKE_CXX_CLANG_TIDY
 #  clang-tidy;
+#  -fix;
 #  -header-filter=include;
 #  -checks=*,-fuchsia-default-arguments,-fuchsia-default-arguments-calls,-fuchsia-trailing-return,-clang-analyzer-cplusplus.NewDeleteLeaks;
 #  -warnings-as-errors=*;
