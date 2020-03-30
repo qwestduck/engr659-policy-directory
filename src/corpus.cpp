@@ -6,6 +6,8 @@
 #include "Index.hpp"
 #include "Math.hpp"
 #include "PolicyTokenizer001.hpp"
+#include "baer/Algorithm.hpp"
+#include "baer/String.hpp"
 
 #include <iostream>
 #include <map>
@@ -77,6 +79,11 @@ auto Corpus<T>::buildIndex() -> void {
 }
 
 template <class T>
+auto Corpus<T>::isNoiseWord(const std::wstring &word) -> bool {
+    return noiseWords.find(word) != noiseWords.end();
+}
+
+template <class T>
 auto Corpus<T>::buildIndexNGram(int n) -> void {
     if(n >= index.size() || n < 1) {
         return;
@@ -86,21 +93,20 @@ auto Corpus<T>::buildIndexNGram(int n) -> void {
         auto fullText = File::fileContentToWString(document.getMetadata().getFilename());
         auto tokens = tokenizer->tokenize(fullText);
 
-        for(int i = 0; i < static_cast<int>(tokens.size()) - n + 1; i++) {
-            std::wstring token;
+        using Iterator = decltype(tokens.begin());
 
-            token = tokens[i];
+        auto ngrams = baer::algorithm::slidingWindow(tokens, n, [this](Iterator begin, Iterator end, bool &valid) -> auto {
+            valid = false;
 
-            int j;
-            for(j = 1; j < n; j++) {
-                token += L" ";
-                token += tokens[i + j];
+            if(!isNoiseWord(*begin) && !isNoiseWord(*(end - 1))) {
+                valid = true;
             }
 
-            // Do not allow noisewords on either the first or last term of a 1, 2, or 3-gram
-            if((noiseWords.find(tokens[i]) == noiseWords.end()) && (noiseWords.find(tokens[i+j-1]) == noiseWords.end())) {
-                index[n].insert(token, document.getMetadata().getId());
-            }
+            return baer::string::join(begin, end, L" ");
+        });
+
+        for(const auto &ngram : ngrams) {
+            index[n].insert(ngram, document.getMetadata().getId());
         }
     }
 

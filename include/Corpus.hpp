@@ -28,6 +28,8 @@ class Corpus {
     };
     Tokenizer<std::wstring> * tokenizer;
     std::vector<Index<std::wstring, T>> index;
+
+    auto isNoiseWord(const std::wstring &word) -> bool;
 public:
     Corpus();
 
