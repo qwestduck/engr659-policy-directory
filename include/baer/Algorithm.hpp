@@ -37,6 +37,7 @@ namespace baer {
 
             assert(N <= container.size());
 
+            ret.reserve(container.size());
             for(int i = 0; i < container.size(); i++) {
                 ret.push_back(std::make_pair(i,container.at(i)));
             }
