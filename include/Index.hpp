@@ -1,10 +1,10 @@
 #ifndef INDEX_HPP
 #define INDEX_HPP
 
+#include <cmath>
 #include <codecvt>
 #include <locale>
 #include <map>
-#include <cmath>
 #include <set>
 #include <sstream>
 #include <string>
@@ -169,9 +169,11 @@ public:
         return ret;
     }
 
+    [[nodiscard]]
     auto getIdfVector(std::vector<std::wstring> const & dictionary) const -> std::vector<double> {
         std::vector<double> ret;
 
+        ret.reserve(dictionary.size());
         for(const auto & term : dictionary) {
             ret.push_back(
                 log(static_cast<double>(
