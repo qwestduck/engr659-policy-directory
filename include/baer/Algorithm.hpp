@@ -2,7 +2,6 @@
 #define BAER_ALGORITHM_HPP
 
 #include <algorithm>
-#include <cassert>
 #include <iterator>
 #include <vector>
 
@@ -35,7 +34,9 @@ namespace baer {
         auto topN_iv(U container, int N) -> std::vector<std::pair<Index, Value>> {
             std::vector<std::pair<Index, Value>> ret;
 
-            assert(N <= container.size());
+            if(N > container.size()) {
+                throw std::overflow_error("container size smaller than N");
+            }
 
             ret.reserve(container.size());
             for(int i = 0; i < container.size(); i++) {
