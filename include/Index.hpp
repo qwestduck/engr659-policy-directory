@@ -4,6 +4,7 @@
 #include <codecvt>
 #include <locale>
 #include <map>
+#include <cmath>
 #include <set>
 #include <sstream>
 #include <string>
@@ -18,6 +19,9 @@ class Index {
 
     std::set<U> documentIds;
     std::vector<std::pair<T, int>> pairs;
+
+    std::unordered_map<U, std::unordered_map<T, int>> docFirstOf;
+    std::unordered_map<U, int> termsProcessedByDocument;
 
     int totalTerms = 0;
     int totalDocuments = 0;
@@ -47,6 +51,12 @@ public:
         totalTerms++;
 
         collectionFrequency[term]++;
+
+        if(docFirstOf[documentId].count(term) == 0) {
+            docFirstOf[documentId][term] = termsProcessedByDocument[documentId];
+        }
+
+        termsProcessedByDocument[documentId]++;
 
         if(invertedIndex[term].count(documentId) == 0) {
             documentFrequency[term]++;
@@ -153,6 +163,34 @@ public:
                 ret.push_back(0.0);
             } else {
                 ret.push_back(static_cast<double>((*it).second));
+            }
+        }
+
+        return ret;
+    }
+
+    auto getIdfVector(std::vector<std::wstring> const & dictionary) const -> std::vector<double> {
+        std::vector<double> ret;
+
+        for(const auto & term : dictionary) {
+            ret.push_back(
+                log(static_cast<double>(
+                    totalDocuments / documentFrequency.at(term)
+                ))
+            );
+        }
+
+        return ret;
+    }
+
+    auto positionVector(U docId, std::vector<std::wstring> const & dictionary) const -> std::vector<double> {
+        std::vector<double> ret;
+
+        for(const auto & term : dictionary) {
+            try {
+                ret.push_back(static_cast<double>(docFirstOf.at(docId).at(term)));
+            } catch(std::out_of_range) {
+                ret.push_back(-1);
             }
         }
 
