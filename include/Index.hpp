@@ -1,6 +1,8 @@
 #ifndef INDEX_HPP
 #define INDEX_HPP
 
+#include "Math.hpp"
+
 #include <cmath>
 #include <codecvt>
 #include <locale>
@@ -170,28 +172,28 @@ public:
     }
 
     [[nodiscard]]
-    auto getIdfVector(std::vector<std::wstring> const & dictionary) const -> std::vector<double> {
+    auto getIdfVector(const std::vector<std::wstring> & dictionary) const -> std::vector<double> {
         std::vector<double> ret;
 
         ret.reserve(dictionary.size());
         for(const auto & term : dictionary) {
             ret.push_back(
-                log(static_cast<double>(
-                    totalDocuments / documentFrequency.at(term)
-                ))
+                log(
+                    Math::_divide(totalDocuments, documentFrequency.at(term))
+                )
             );
         }
 
         return ret;
     }
 
-    auto positionVector(U docId, std::vector<std::wstring> const & dictionary) const -> std::vector<double> {
+    auto positionVector(U docId, const std::vector<std::wstring> & dictionary) const -> std::vector<double> {
         std::vector<double> ret;
 
         for(const auto & term : dictionary) {
             try {
                 ret.push_back(static_cast<double>(docFirstOf.at(docId).at(term)));
-            } catch(std::out_of_range) {
+            } catch(const std::out_of_range & e) {
                 ret.push_back(-1);
             }
         }
