@@ -54,7 +54,7 @@ public:
     }
 
     [[nodiscard]]
-    static auto vectorAdd(std::vector<double> a, std::vector<double> b) -> std::vector<double> {
+    static auto vectorAdd(const std::vector<double> & a, const std::vector<double> & b) -> std::vector<double> {
         std::vector<double> ret = a;
 
         if(a.size() != b.size()) {
@@ -69,7 +69,7 @@ public:
     }
 
     [[nodiscard]]
-    static auto scalarProduct(std::vector<double> a, double b) -> std::vector<double> {
+    static auto scalarProduct(const std::vector<double> & a, double b) -> std::vector<double> {
         std::vector<double> ret = a;
 
         for(auto & el: ret) {
