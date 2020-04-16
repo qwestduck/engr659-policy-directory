@@ -9,6 +9,7 @@
 #include "baer/Algorithm.hpp"
 #include "baer/String.hpp"
 
+#include <cassert>
 #include <iostream>
 #include <map>
 #include <set>
@@ -74,8 +75,8 @@ auto Corpus<T>::getTokenizer() const -> Tokenizer<std::wstring> * {
 }
 
 template <class T>
-auto Corpus<T>::buildIndex() -> void {
-    buildIndexNGram(1);
+auto Corpus<T>::buildIndex() -> Index<std::wstring, T> {
+    return buildIndexNGram(1);
 }
 
 template <class T>
@@ -84,10 +85,8 @@ auto Corpus<T>::isNoiseWord(const std::wstring &word) -> bool {
 }
 
 template <class T>
-auto Corpus<T>::buildIndexNGram(int n) -> void {
-    if(n >= index.size() || n < 1) {
-        return;
-    }
+auto Corpus<T>::buildIndexNGram(int n) -> Index<std::wstring, T> {
+    assert(n < index.size() && n >= 1);
 
     for(const auto &[id, document] : documents) {
         auto fullText = File::fileContentToWString(document.getMetadata().getFilename());
@@ -111,6 +110,8 @@ auto Corpus<T>::buildIndexNGram(int n) -> void {
     }
 
     dictionary[n] = index[n].getDictionary();
+
+    return index[n];
 }
 
 template <class T>

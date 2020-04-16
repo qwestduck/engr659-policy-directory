@@ -49,8 +49,8 @@ public:
     [[nodiscard]]
     auto getTokenizer() const -> Tokenizer<std::wstring> *;
 
-    auto buildIndex() -> void;
-    auto buildIndexNGram(int n) -> void;
+    auto buildIndex() -> Index<std::wstring, T>;
+    auto buildIndexNGram(int n) -> Index<std::wstring, T>;
 
     auto normalizeDocumentVectors() -> void;
     auto normalizeDocumentVectorsNGram(int n) -> void;
