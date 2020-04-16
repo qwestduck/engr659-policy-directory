@@ -10,7 +10,7 @@ class DocumentMetadata {
     T id;
 public:
     DocumentMetadata () = default;
-    DocumentMetadata(std::string filename, T id) : filename(std::move(filename)), id(id) { }
+    DocumentMetadata(std::string filename, T id) : filename(std::move(filename)), id(std::move(id)) { }
 
     [[nodiscard]]
     auto getFilename() const -> std::string { return filename; }

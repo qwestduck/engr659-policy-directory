@@ -22,7 +22,7 @@ public:
     PolicyTokenizer001() : Tokenizer<std::wstring>("PolicyTokenizer001") { }
 
     [[nodiscard]]
-    auto tokenize(std::wstring fulltext) const -> std::vector<std::wstring> {
+    auto tokenize(std::wstring fulltext) const -> std::vector<std::wstring> override {
         std::vector<std::wstring> result;
 
         std::transform(fulltext.begin(), fulltext.end(), fulltext.begin(), ::tolower);
