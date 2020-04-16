@@ -38,6 +38,47 @@ public:
         return ret;
     }
 
+    [[nodiscard]]
+    static auto hadamardProduct(std::vector<double> a, std::vector<double> b) -> std::vector<double> {
+        std::vector<double> ret = a;
+
+        if(a.size() != b.size()) {
+            throw std::overflow_error("Vector size mismatch");
+        }
+
+        for(int i = 0; i < a.size(); i++) {
+            ret[i] = a[i] * b[i];
+        }
+
+        return ret;
+    }
+
+    [[nodiscard]]
+    static auto vectorAdd(std::vector<double> a, std::vector<double> b) -> std::vector<double> {
+        std::vector<double> ret = a;
+
+        if(a.size() != b.size()) {
+            throw std::overflow_error("Vector size mismatch");
+        }
+
+        for(int i = 0; i < a.size(); i++) {
+            ret[i] += b[i];
+        }
+
+        return ret;
+    }
+
+    [[nodiscard]]
+    static auto scalarProduct(std::vector<double> a, double b) -> std::vector<double> {
+        std::vector<double> ret = a;
+
+        for(auto & el: ret) {
+            el *= b;
+        }
+
+        return ret;
+    }
+
     template<class T>
     [[nodiscard]]
     static auto euclideanNormalize(std::vector<T> a) -> std::vector<T> {
