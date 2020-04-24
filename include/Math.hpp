@@ -97,6 +97,26 @@ public:
 
         return ret;
     }
+
+    template<class T>
+    [[nodiscard]]
+    static auto linearNormalize(std::vector<T> a, T min, T max, bool invert) -> std::vector<T> {
+        T factor = max - min;
+
+        for(auto & el : a) {
+            if(factor == 0) {
+                el = 0;
+            } else {
+                el = el / (max - min);
+            }
+
+            if(invert) {
+                el = 1.0 - el;
+            }
+        }
+
+        return a;
+    }
 };
 
 #endif
