@@ -35,8 +35,8 @@ auto main() -> int {
         auto docId = doc.getMetadata().getId();
 
         for(int i = 0; i < MAX_NGRAM_SIZE; i++) {
-            auto tfVector =  indices[i].getDocumentVector(docId, dictionaries[i]);
-            auto posVector = indices[i].positionVector(docId, dictionaries[i]);
+            auto tfVector =  indices[i].getNormalizedDocumentVector(docId, dictionaries[i]);
+            auto posVector = indices[i].getNormalizedPositionVector(docId, dictionaries[i]);
 
             auto candidates = baer::algorithm::topN_iv(
                 Math::vectorAdd(
