@@ -3,6 +3,7 @@
 
 #include "Math.hpp"
 
+#include <algorithm>
 #include <cmath>
 #include <codecvt>
 #include <locale>
@@ -172,6 +173,17 @@ public:
     }
 
     [[nodiscard]]
+    auto getNormalizedDocumentVector(const U & docId, const std::vector<T> & dictionary) const -> std::vector<double> {
+        auto v = getDocumentVector(docId, dictionary);
+
+        return Math::linearNormalize(
+            v,
+            0.0,
+            static_cast<double>(*std::max_element(std::begin(v), std::end(v))),
+            false);
+    }
+
+    [[nodiscard]]
     auto getIdfVector(const std::vector<std::wstring> & dictionary) const -> std::vector<double> {
         std::vector<double> ret;
 
@@ -184,7 +196,7 @@ public:
             );
         }
 
-        return ret;
+        return Math::linearNormalize(ret, 0.0, log(totalDocuments), false);
     }
 
     auto positionVector(U docId, const std::vector<std::wstring> & dictionary) const -> std::vector<double> {
@@ -194,11 +206,19 @@ public:
             try {
                 ret.push_back(static_cast<double>(docFirstOf.at(docId).at(term)));
             } catch(const std::out_of_range & e) {
-                ret.push_back(-1);
+                ret.push_back(termsProcessedByDocument.at(docId));
             }
         }
 
         return ret;
+    }
+
+    auto getNormalizedPositionVector(U docId, const std::vector<std::wstring> & dictionary) const -> std::vector<double> {
+        return Math::linearNormalize(
+            positionVector(docId, dictionary),
+            0.0,
+            static_cast<double>(termsProcessedByDocument.at(docId)),
+            true);
     }
 
     [[nodiscard]]
