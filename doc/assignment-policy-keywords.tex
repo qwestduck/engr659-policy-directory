@@ -1,0 +1,155 @@
+%%% Template originaly created by Karol Kozioł (mail@karol-koziol.net) and modified for ShareLaTeX use
+
+\documentclass[a4paper,11pt]{article}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{xcolor}
+
+\renewcommand\familydefault{\sfdefault}
+\usepackage{tgheros}
+\IfFileExists{droidsansmono.sty}{\usepackage[defaultmono]{droidsansmono}}{\usepackage[defaultmono]{droidmono}}
+
+\usepackage{amsmath,amssymb,amsthm,textcomp}
+\usepackage{enumerate}
+\usepackage{multicol}
+\usepackage{tikz}
+\usepackage{hyperref}
+\usepackage{algorithm}
+\usepackage{algorithmic}
+
+\usepackage{geometry}
+\geometry{left=25mm,right=25mm,%
+bindingoffset=0mm, top=20mm,bottom=20mm}
+
+
+\linespread{1.3}
+
+\newcommand{\linia}{\rule{\linewidth}{0.5pt}}
+
+% custom theorems if needed
+\newtheoremstyle{mytheor}
+    {1ex}{1ex}{\normalfont}{0pt}{\scshape}{.}{1ex}
+    {{\thmname{#1 }}{\thmnumber{#2}}{\thmnote{ (#3)}}}
+
+\theoremstyle{mytheor}
+\newtheorem{defi}{Definition}
+
+% my own titles
+\makeatletter
+\renewcommand{\maketitle}{
+\begin{center}
+\vspace{2ex}
+{\huge \textsc{\@title}}
+\vspace{1ex}
+\\
+\linia\\
+\@author \hfill \@date
+\vspace{4ex}
+\end{center}
+}
+\makeatother
+%%%
+
+% custom footers and headers
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\lhead{}
+\chead{}
+\rhead{}
+\lfoot{Assignment: Policy Keywords}
+\cfoot{}
+\rfoot{Page \thepage}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+%
+
+% multicol tables
+\usepackage{colortbl}
+\usepackage{enumitem}
+\newlist{tabitemize}{itemize}{1}
+\setlist[tabitemize]{label=\textbullet,nosep,after=\strut,align=parleft,leftmargin=*,}
+
+\usepackage{calc}
+\newcolumntype{P}[1]{>{\raggedright\arraybackslash}p{#1\textwidth-2\tabcolsep-0.6pt}}
+
+% code listing settings
+\usepackage{listings}
+\lstset{
+    language=Python,
+    basicstyle=\ttfamily\small,
+    aboveskip={1.0\baselineskip},
+    belowskip={1.0\baselineskip},
+    columns=fixed,
+    extendedchars=true,
+    breaklines=true,
+    tabsize=4,
+    prebreak=\raisebox{0ex}[0ex][0ex]{\ensuremath{\hookleftarrow}},
+    frame=lines,
+    showtabs=false,
+    showspaces=false,
+    showstringspaces=false,
+    keywordstyle=\color[rgb]{0.627,0.126,0.941},
+    commentstyle=\color[rgb]{0.133,0.545,0.133},
+    stringstyle=\color[rgb]{01,0,0},
+    numbers=left,
+    numberstyle=\small,
+    stepnumber=1,
+    numbersep=10pt,
+    captionpos=t,
+    escapeinside={\%*}{*)}
+}
+
+%%%----------%%%----------%%%----------%%%----------%%%
+
+\begin{document}
+
+\title{Assignment: Policy Keywords}
+
+\author{William Panlener, University of Mississippi}
+
+\date{04/26/2020}
+
+\maketitle
+
+\section*{Heuristic}
+
+The proposed heuristic considers two ideas:
+\begin{itemize}
+  \item Tf-Idf
+  \item First occurence of a term within a document
+\end{itemize}
+
+Tf-Idf values words that appear frequently in a document but appear infrequently throughout a corpus, but does not consider the position of terms within a document. It seems intuitive that words that appear near the beginning of a document may frequently be more important than words that appear later in the document. This assumes a document style where things like titles, abstracts, and introductions occur near the beginning of the document and provide succinct summaries of the entire document.
+
+I describe two algorithms to build this heuristic: PositionScore and TermScore. Both of these algorithms are represented in Listing 1.
+
+PositionScore returns a value from 0 to 1 inclusive depending on the first occurence of a term within a document. A value of 1 indicates that the term is the first word in the document. A value of 0 indicates that the term does not occur within the document.
+
+TermScore computes the score for our keyword candidate. A weight, $\alpha_0$, represents the weight of PositionScore vs Tf-Idf. For this heuristic, $\alpha_0$ was chosen as 0.4, favoring document-corpus frequency analysis slightly more than document-only term position. This was not extensively tested against other possible weights but I would guess that the optimal weight is less than 0.4 but still non-zero (considering term position provides some benefit).
+
+\begin{lstlisting}[label={list:first},caption=Term ranking,mathescape=true]
+function PositionScore:
+	if |d| == 0:
+		return 0
+
+	return 1 - pos(t,d) / |d|
+
+function TermScore:
+	score := $\alpha_0 * PositionScore(t,d)$
+	score += $(1 - \alpha_0) * tfidf(t,d,D)$
+
+	return score
+\end{lstlisting}
+
+\section*{Observations}
+
+The keyword candidates exposed bugs in my codebase left over from previous assignments. There are some unicode garbage characters in keyword candidates that are almost certainly causing deeper problems in determining n-grams and various scoring metrics. There are some terms that should have not passed the tokenizer containing characters such as '"' and there was some room for improvement on the noiseword list such as adding "a".
+
+I also observed that if an n-gram scored highly, it was likely that an (n+1)-gram containing the original n-gram would also score highly. This provided keyword candidates such as "ole miss" and "ole miss express". Having multiple keywords that are so similar may not be useful. A post-processing step on keyword candidates to remove duplications could be an improvement to the heuristic.
+
+\section*{Source code and materials}
+All source code and materials used for this assignment are published at: \url{https://github.com/qwestduck/engr659-policy-directory}.
+
+\end{document}
