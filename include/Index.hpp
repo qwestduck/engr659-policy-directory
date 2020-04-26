@@ -55,6 +55,10 @@ public:
 
         collectionFrequency[term]++;
 
+        if(termsProcessedByDocument.count(documentId) == 0) {
+            termsProcessedByDocument[documentId] = 0;
+        }
+
         if(docFirstOf[documentId].count(term) == 0) {
             docFirstOf[documentId][term] = termsProcessedByDocument[documentId];
         }
