@@ -11,7 +11,7 @@ set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_CXX_EXTENSIONS OFF)
 
-#enable_testing()
+include(CTest)
 
 #set(CMAKE_CXX_CLANG_TIDY
 #  clang-tidy;
@@ -23,4 +23,8 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 
 add_subdirectory(doc)
 add_subdirectory(src)
-add_subdirectory(test)
+add_subdirectory(third_party)
+
+if(BUILD_TESTING)
+    add_subdirectory(test)
+endif()

@@ -1,9 +1,10 @@
 add_executable(perftest_tokenizer
-    EXCLUDE_FROM_ALL
     tokenizer.cpp
     ../../src/corpus.cpp
     ../../src/document.cpp
     ../../src/file.cpp
 )
 
-add_dependencies(test perftest_tokenizer)
+target_link_libraries(perftest_tokenizer Catch2)
+
+add_test(tokenizer perftest_tokenizer)
