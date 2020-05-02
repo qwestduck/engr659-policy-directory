@@ -1,0 +1,1 @@
+configure_file(corpus-metadata.csv ${CMAKE_CURRENT_BINARY_DIR}/corpus-metadata.csv COPYONLY)
