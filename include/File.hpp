@@ -11,6 +11,9 @@ public:
 
     [[nodiscard]]
     static auto fileContentToWString(const std::string& filename) -> std::wstring;
+
+    [[nodiscard]]
+    static std::wstring streamContentToWString(std::wistream *stream);
 };
 
 #endif
